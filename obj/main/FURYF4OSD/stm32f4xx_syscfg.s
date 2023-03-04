@@ -9,16 +9,16 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"stm32f4xx_syscfg.c"
-	.section	.gnu.lto_.profile.7d4496a2b47da564,"e",%progbits
+	.section	.gnu.lto_.profile.e63963c4b7849a7b,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.7d4496a2b47da564,"e",%progbits
+	.section	.gnu.lto_.icf.e63963c4b7849a7b,"e",%progbits
 	.ascii	"x\234\343``d\320f@\000v\206\266\031_\267\2611n\375\261"
 	.ascii	"\257\237\207i\326\362\347\347\231\230\373'nRb\271\270"
 	.ascii	"\340\355m^\326wg\367\237\347a\373\360\363\310s~\006"
 	.ascii	"\000\307\015\025Q"
 	.text
-	.section	.gnu.lto_.jmpfuncs.7d4496a2b47da564,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.e63963c4b7849a7b,"e",%progbits
 	.ascii	"x\234mN9\012\200@\014\234\331\254\327\033|\254\202\205"
 	.ascii	"haki\255`k\241\026\276\304\037\210_p\343.\330\030\230"
 	.ascii	"d\230\003\222\202\230\360M\342`M/l\247\271N:\031\004"
@@ -26,7 +26,7 @@
 	.ascii	"\002xmk~\033Ks\215\231o\220{\010x[\225b\020c\374\245"
 	.ascii	"8\"*(\254\027%\012f\354\276|\000\260\332!\366"
 	.text
-	.section	.gnu.lto_.inline.7d4496a2b47da564,"e",%progbits
+	.section	.gnu.lto_.inline.e63963c4b7849a7b,"e",%progbits
 	.ascii	"x\234\215\216\001\016\3020\010E\037P\267\272,\3614\236"
 	.ascii	"\310Uoa\352Mv\224\035M\250:\343\022\223\265I)\360\370"
 	.ascii	"\237\214p\026\326\323\303\261\326:\333MPx\370\377\016"
@@ -35,12 +35,12 @@
 	.ascii	"\300CpZH|\244b\245\024\367\355\364\327\344\260s\231"
 	.ascii	"\216\376e\354R\271u\312\026\341\011\350\2459h"
 	.text
-	.section	.gnu.lto_.pureconst.7d4496a2b47da564,"e",%progbits
+	.section	.gnu.lto_.pureconst.e63963c4b7849a7b,"e",%progbits
 	.ascii	"x\234\005\301\201\021\000\020\020\004\261}\226W\201"
 	.ascii	"\332\315U+9\024\027h\236\025G\234\321\270\342\216\037"
 	.ascii	"3\352\004\214"
 	.text
-	.section	.gnu.lto_SYSCFG_DeInit.7d4496a2b47da564,"e",%progbits
+	.section	.gnu.lto_SYSCFG_DeInit.e63963c4b7849a7b,"e",%progbits
 	.ascii	"x\234}\216=O\302P\024\206\317\333[i\031d6A7\027\026"
 	.ascii	"\232\200?\300\301\270\021Mp'\212\240M\304\230\226\030"
 	.ascii	"\234\270 H\024R'%\014\2468\371\221\030\343\242AE\032"
@@ -60,7 +60,7 @@
 	.ascii	"1c\350[\353)\237i\246\221\326\314|.\036\313\272\330"
 	.ascii	"\3341\323\331\265h\232~\000gOvF"
 	.text
-	.section	.gnu.lto_SYSCFG_MemoryRemapConfig.7d4496a2b47da564,"e",%progbits
+	.section	.gnu.lto_SYSCFG_MemoryRemapConfig.e63963c4b7849a7b,"e",%progbits
 	.ascii	"x\234EPMK\033Q\024\275g\356$f\021[\350J\010Jw\342\306"
 	.ascii	"\011\306\037P\250\330U \0307\245\213\240i\324@ceF\212"
 	.ascii	"\256\274\211\251\001\025\343\306\246]\204X\332\320]"
@@ -86,7 +86,7 @@
 	.ascii	"{\263t+}?}w\360^&\231+<\266g\207r\205\221\251k%I\223"
 	.ascii	"\244"
 	.text
-	.section	.gnu.lto_SYSCFG_MemorySwappingBank.7d4496a2b47da564,"e",%progbits
+	.section	.gnu.lto_SYSCFG_MemorySwappingBank.e63963c4b7849a7b,"e",%progbits
 	.ascii	"x\234EN\313+Dq\030\375\316\375\206\271\204\035\251\311"
 	.ascii	"Z\263qe\254e!;R\243\330Mc\014\246\2144w\362X\371\315"
 	.ascii	"x\214<F\026\223\024\335\021\223\245l\224\367m\342\037"
@@ -108,7 +108,7 @@
 	.ascii	"3\036\3655\0158\2629i\206\006\006\033B\244w\206\307"
 	.ascii	"\375\361`<\374\003\375\241\205\375"
 	.text
-	.section	.gnu.lto_SYSCFG_EXTILineConfig.7d4496a2b47da564,"e",%progbits
+	.section	.gnu.lto_SYSCFG_EXTILineConfig.e63963c4b7849a7b,"e",%progbits
 	.ascii	"x\234\235SMHTQ\024\276\347\335\367f\306\371\023)B\030"
 	.ascii	"\0027\"B82\266k\323\242\037\\H\003\343\242\235\3244"
 	.ascii	"\326@\37603\306\270\362\316\214\316D\206\212\377\005"
@@ -154,7 +154,7 @@
 	.ascii	"a{\376\021\177\252\010\272KE\314O}%\345\277\001\355"
 	.ascii	"\222\212\365"
 	.text
-	.section	.gnu.lto_SYSCFG_ETH_MediaInterfaceConfig.7d4496a2b47da564,"e",%progbits
+	.section	.gnu.lto_SYSCFG_ETH_MediaInterfaceConfig.e63963c4b7849a7b,"e",%progbits
 	.ascii	"x\234E\220\317+DQ\024\307\317\367\335\207\311\317%\232"
 	.ascii	"\224\205\222\215W\370\003\024\006\213)56V\323\030ox"
 	.ascii	"\205\364\336$V\356\033?f\341WD\023\321\220^\312FJ\312"
@@ -179,7 +179,7 @@
 	.ascii	"\015\276\346`S{K\320\257vi\241\326\376\250\252GBa\365"
 	.ascii	"\007\350\226\220z"
 	.text
-	.section	.gnu.lto_SYSCFG_CompensationCellCmd.7d4496a2b47da564,"e",%progbits
+	.section	.gnu.lto_SYSCFG_CompensationCellCmd.e63963c4b7849a7b,"e",%progbits
 	.ascii	"x\234E\216M(Da\024\206\317{\317\340*?;\251a=\315\306"
 	.ascii	"\225\261\261\221\205\354H\215\205\262\020c0\2054w\362"
 	.ascii	"\263\362\315\014FL#\013ijtI\223%\226\376o\326\262\260"
@@ -202,7 +202,7 @@
 	.ascii	"\247\315\300\340P]\200\364\216\340\244?\322\027\011"
 	.ascii	"\376\000bn\206b"
 	.text
-	.section	.gnu.lto_SYSCFG_GetCompensationCellStatus.7d4496a2b47da564,"e",%progbits
+	.section	.gnu.lto_SYSCFG_GetCompensationCellStatus.e63963c4b7849a7b,"e",%progbits
 	.ascii	"x\234UQ\317KTQ\024>\337=w\306g\244\177@/\242\215\013"
 	.ascii	"7\276\301\261MmZD;A\260M+\321I\355AF\314\233\304V\336"
 	.ascii	"\347\014\210)c\233\321\011\252)D\006[\364c\023\344X"
@@ -232,7 +232,7 @@
 	.ascii	"x\231\221d\347\220){7\274\324\320pG\212\232\007\334"
 	.ascii	"\214\227\351\317\\\367\376\001\347\322\305S"
 	.text
-	.section	.gnu.lto_.symbol_nodes.7d4496a2b47da564,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.e63963c4b7849a7b,"e",%progbits
 	.ascii	"x\234u\317\271\015\200@\020CQ\233\345\352\202\204B@"
 	.ascii	"\242/#n2\352\241\010:\241\006X\016\0211?\032\351\311"
 	.ascii	"\301\244 v\370\202\206B\355\013\271l\200\200\265.=^"
@@ -240,10 +240,10 @@
 	.ascii	"?q\246\222\343-\273\031\376\231\002pH\236I\376]\025"
 	.ascii	"N\036z>\034"
 	.text
-	.section	.gnu.lto_.refs.7d4496a2b47da564,"e",%progbits
+	.section	.gnu.lto_.refs.e63963c4b7849a7b,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.decls.7d4496a2b47da564,"e",%progbits
+	.section	.gnu.lto_.decls.e63963c4b7849a7b,"e",%progbits
 	.ascii	"x\234\255\226{PSW\032\300\317wO\200\020\0028h[w\351"
 	.ascii	"\3142\035g\334\231\265\246\2423\333?\366\217m\003Zg"
 	.ascii	"\232\035\206\330\235\356\376\303d\343E2K\002\023\242"
@@ -353,7 +353,7 @@
 	.ascii	"o\303\340\020)j\256\2536\024\313Yr\376\177\001\233\311"
 	.ascii	"\035A"
 	.text
-	.section	.gnu.lto_.symtab.7d4496a2b47da564,"e",%progbits
+	.section	.gnu.lto_.symtab.e63963c4b7849a7b,"e",%progbits
 	.ascii	"SYSCFG_DeInit\000"
 	.ascii	"\000"
 	.ascii	"\000"

@@ -9,16 +9,16 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"pwm_output_dshot.c"
-	.section	.gnu.lto_.profile.f0bc03695020f7c0,"e",%progbits
+	.section	.gnu.lto_.profile.111e1bd236066de8,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.f0bc03695020f7c0,"e",%progbits
+	.section	.gnu.lto_.icf.111e1bd236066de8,"e",%progbits
 	.ascii	"x\234\343``d\320f@\000v\206\007\037\246\377ga\372|\357"
 	.ascii	"\362!\036\366\256\253\277.rs\234\273ur;?\347\256\311"
 	.ascii	"'\217qq]\336vg7\007\337\231\205\347*\030\000\373\257"
 	.ascii	"\026w"
 	.text
-	.section	.gnu.lto_.jmpfuncs.f0bc03695020f7c0,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.111e1bd236066de8,"e",%progbits
 	.ascii	"x\234\245VMO\024A\020\255\327=\364\316\216\254p\342"
 	.ascii	"\262\007\375\033\334<y\366\037\370Op\005M4\032\302\301"
 	.ascii	"(&\032\304\304\203\220x2\232\010\262\253\"\240\250\301"
@@ -55,7 +55,7 @@
 	.ascii	"\007\267\277;\377-3p\223\370d\341&\275\302\255d\311"
 	.ascii	"\337\010\311\007>\027\350/t\011\241\263"
 	.text
-	.section	.gnu.lto_.inline.f0bc03695020f7c0,"e",%progbits
+	.section	.gnu.lto_.inline.111e1bd236066de8,"e",%progbits
 	.ascii	"x\234\215SMk\024A\020}U\325\273v6\233e\024\024I\016"
 	.ascii	"\356\301_\340U\017\371\005\363\037\362e>T\364'\254\301"
 	.ascii	"\275\004M\006\202F\002\321E\220\304\213\027\017\302"
@@ -88,12 +88,12 @@
 	.ascii	"\240p\315sH\216\3108\240\377c\337\272\233U\006\376\367"
 	.ascii	"\252\324\212\277\230.\344\265"
 	.text
-	.section	.gnu.lto_.pureconst.f0bc03695020f7c0,"e",%progbits
+	.section	.gnu.lto_.pureconst.111e1bd236066de8,"e",%progbits
 	.ascii	"x\234\005\3011\016\000 \014\304\260\200\"\26500\362"
 	.ascii	"w\356\265\330\315\340\002E\234\261b?W\334\361\304\017"
 	.ascii	"5\003\004\252"
 	.text
-	.section	.gnu.lto_pwmDshotSetDirectionInput.f0bc03695020f7c0,"e",%progbits
+	.section	.gnu.lto_pwmDshotSetDirectionInput.111e1bd236066de8,"e",%progbits
 	.ascii	"x\234\215U\321STU\034>\337=\367.\273W\320D$\023*^\310"
 	.ascii	"\350\001xh\232f\352\241\207\036\254G\377\001gGh\242"
 	.ascii	"\231\025fY\363\321\273\3542&\0220\315\222\3548;w\307"
@@ -156,7 +156,7 @@
 	.ascii	"\275\025\373\335\336Jg\315\233\036\367[{\253|\377\000"
 	.ascii	"\376\351w\366"
 	.text
-	.section	.gnu.lto_motor_DMA_IRQHandler.part.0.f0bc03695020f7c0,"e",%progbits
+	.section	.gnu.lto_motor_DMA_IRQHandler.part.0.111e1bd236066de8,"e",%progbits
 	.ascii	"x\234\225W\353SUU\024?k\357s\357=\367\001\310S\340B"
 	.ascii	"b\251D\037\304\230f\232\246q\246\217\375\007}*+u&f4"
 	.ascii	"\014\320>zx\010\210(f\212\334\344x)DDG\264\2461\301"
@@ -248,7 +248,7 @@
 	.ascii	"\316\236\2578\026,,\231_\\\270\244\264\250\330\262\270"
 	.ascii	"\010\307\377\000w\"\375\235"
 	.text
-	.section	.gnu.lto_motor_DMA_IRQHandler.f0bc03695020f7c0,"e",%progbits
+	.section	.gnu.lto_motor_DMA_IRQHandler.111e1bd236066de8,"e",%progbits
 	.ascii	"x\234\225T\313KTa\024\377~\367\273\257\031gF\324Z\011"
 	.ascii	"\345\"\022[8B\213j\021\364O\264ja1\012\031\2302j-\275"
 	.ascii	"3\212\203\345cS\251\3254E\210\256\264\"\"Km|\224\215"
@@ -293,7 +293,7 @@
 	.ascii	"K\252.VT\027\206\204\267\244\264*\024.\253\254\256\010"
 	.ascii	"\377\005T{\210\272"
 	.text
-	.section	.gnu.lto_dshotEnableChannels.f0bc03695020f7c0,"e",%progbits
+	.section	.gnu.lto_dshotEnableChannels.111e1bd236066de8,"e",%progbits
 	.ascii	"x\234\215T[kTW\024\336\337Y\3476\227L\205)\005\031\244"
 	.ascii	"\363b%VLP\013>\012\376\020\021\025\232\20782\231\330"
 	.ascii	"Gw\3061)\230\032\241Z\243t\030!D\203JjKiQ\323\364\230"
@@ -348,7 +348,7 @@
 	.ascii	"\266\263\351\313Tf\375\016\021nLeR\351\255\251\346\335"
 	.ascii	"\0314\274\001]\217\001g"
 	.text
-	.section	.gnu.lto_pwmDshotSetDirectionOutput.f0bc03695020f7c0,"e",%progbits
+	.section	.gnu.lto_pwmDshotSetDirectionOutput.111e1bd236066de8,"e",%progbits
 	.ascii	"x\234\235U]L\024W\024\276g\356\314\3560\273 UKQhK\037"
 	.ascii	"\250\345Exj\372\320\207>4\215\355K\223\366\255/\206"
 	.ascii	"\000Mi\262B\226\265\2764qv\301R\025\2054\200\254\204"
@@ -416,7 +416,7 @@
 	.ascii	"\271\273\262\335yj\341\333\256\354ww\344{\354\205\357"
 	.ascii	"\347\320\363_\254b\337="
 	.text
-	.section	.gnu.lto_pwmCompleteDshotMotorUpdate.f0bc03695020f7c0,"e",%progbits
+	.section	.gnu.lto_pwmCompleteDshotMotorUpdate.111e1bd236066de8,"e",%progbits
 	.ascii	"x\234\215V\351S\024G\024\357\327=\2733\273,7\033\324"
 	.ascii	"\225\210I \005\261\204\362\223\237\222\374\037\371`"
 	.ascii	"\2454\225\360\301h)\222\217\0167\012J*E\324\255d\263"
@@ -496,7 +496,7 @@
 	.ascii	"\244\354\203\015\033\213\326\177\262v\325\272M\245\353"
 	.ascii	"7\225\256Z\263\361\243u\245\313W3(\371\037w5\011\366"
 	.text
-	.section	.gnu.lto_pwmDshotMotorHardwareConfig.f0bc03695020f7c0,"e",%progbits
+	.section	.gnu.lto_pwmDshotMotorHardwareConfig.111e1bd236066de8,"e",%progbits
 	.ascii	"x\234\225\234\007XT\307\267\300\367\334\331\245\027"
 	.ascii	"\005Q\001E\260w\211\351\211\351\325\364\366O5\305(I"
 	.ascii	"|/\321\0045\345\345\377}Y)\242\200%\211\"\253\342\242"
@@ -878,7 +878,7 @@
 	.ascii	"\227F>\375\366K\250\355\301\321\023\343^\234\024?y\314"
 	.ascii	"$T\362\377\011\302=\354"
 	.text
-	.section	.gnu.lto_.symbol_nodes.f0bc03695020f7c0,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.111e1bd236066de8,"e",%progbits
 	.ascii	"x\234m\225\311s\025U\024\207\357\257O\336\324\340\215"
 	.ascii	"\344%y\031\200<\340A\030Cd\206\242J\375K(\206bc\271"
 	.ascii	"1\026\033\026'@\027+\026)Dp&\300cFE\020\014a\314\243"
@@ -927,7 +927,7 @@
 	.ascii	"\301\371n\235\004\375\336\023S\363\343g0\377\002\345"
 	.ascii	"\213PM"
 	.text
-	.section	.gnu.lto_.refs.f0bc03695020f7c0,"e",%progbits
+	.section	.gnu.lto_.refs.111e1bd236066de8,"e",%progbits
 	.ascii	"x\234\025\316\313+EQ\024\307\361\337\332\353\354s\356"
 	.ascii	"9\3269\347z\346q#e\240<&\206\376=\211\222gR\336\217"
 	.ascii	"<\313\333D)%R\306\322\0350\300\000\241\220b\350g\360"
@@ -945,7 +945,7 @@
 	.ascii	"\341\246S\366L\\t\316^\260\227\202\360\232\377e\301"
 	.ascii	"\037$O6S"
 	.text
-	.section	.gnu.lto_.decls.f0bc03695020f7c0,"e",%progbits
+	.section	.gnu.lto_.decls.111e1bd236066de8,"e",%progbits
 	.ascii	"x\234\315}\011XU\331\225.\373\356;\300e\262\324T\231"
 	.ascii	"\262\222T'&\225\356\244\312\232:I\277\227~\335UX\225"
 	.ascii	"\330\257k\210V\272\373\245\373\013\241\364Z\222\250"
@@ -1764,7 +1764,7 @@
 	.ascii	"\237\363\3646XK\263\361\352\006Gw\375\377\005\013=8"
 	.ascii	"\252"
 	.text
-	.section	.gnu.lto_.symtab.f0bc03695020f7c0,"e",%progbits
+	.section	.gnu.lto_.symtab.111e1bd236066de8,"e",%progbits
 	.ascii	"dshotEnableChannels\000"
 	.ascii	"\000"
 	.ascii	"\000"

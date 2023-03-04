@@ -9,14 +9,14 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"serial_uart_stdperiph.c"
-	.section	.gnu.lto_.profile.fd6c4be4edb4b860,"e",%progbits
+	.section	.gnu.lto_.profile.5d46f550b42a4609,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.fd6c4be4edb4b860,"e",%progbits
+	.section	.gnu.lto_.icf.5d46f550b42a4609,"e",%progbits
 	.ascii	"x\234\343``d\340c@\000&\206\353\017\317O\343e\334\363"
 	.ascii	"\363\370-.\006\0003?\006\245"
 	.text
-	.section	.gnu.lto_.jmpfuncs.fd6c4be4edb4b860,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.5d46f550b42a4609,"e",%progbits
 	.ascii	"x\234\235S=O\0021\030~\237\366\204\223\030\370\001\374"
 	.ascii	"XH\234\034`1b\242\303-G\370HX\035T\360P\210\013\211"
 	.ascii	"\213\211Nn\306\341r\271\305\221\344\350]\013R[\222r"
@@ -35,7 +35,7 @@
 	.ascii	"\276\376\333\350\005\333\215_\323\344\035r\360\010K"
 	.ascii	"-\246\361|\264\001{\266@\202"
 	.text
-	.section	.gnu.lto_.inline.fd6c4be4edb4b860,"e",%progbits
+	.section	.gnu.lto_.inline.5d46f550b42a4609,"e",%progbits
 	.ascii	"x\234\343``dHcd\200\003&\2063\014[\031\037\316\353\372"
 	.ascii	"\305\224\305\310\310\240\300\310\300\334\300\306\262"
 	.ascii	"\236q\346\272\376m\314\031\014\014\332\275\255\327?"
@@ -47,11 +47,11 @@
 	.ascii	"\200\202\201\001\213\315\023\374\020,\230\003\221\334"
 	.ascii	"\314\000\000)>8&"
 	.text
-	.section	.gnu.lto_.pureconst.fd6c4be4edb4b860,"e",%progbits
+	.section	.gnu.lto_.pureconst.5d46f550b42a4609,"e",%progbits
 	.ascii	"x\234\343``d`g```b\230\305\302\270\213\025\000\005}"
 	.ascii	"\001q"
 	.text
-	.section	.gnu.lto_uartReconfigure.fd6c4be4edb4b860,"e",%progbits
+	.section	.gnu.lto_uartReconfigure.5d46f550b42a4609,"e",%progbits
 	.ascii	"x\234\235YkP\024W\026\356\323=\357\007\003\014\003\012"
 	.ascii	">\360\201\357\000[\373#\225\332\375\261\251\354\237"
 	.ascii	"\374\330\252\255\315\356\317\255\224\233\270\273V\355"
@@ -224,7 +224,7 @@
 	.ascii	"j\321\034\377_^x\366O\177\216~\346\230;\017\315\025"
 	.ascii	"\317y\371\377_$V\237"
 	.text
-	.section	.gnu.lto_uartTryStartTxDMA.fd6c4be4edb4b860,"e",%progbits
+	.section	.gnu.lto_uartTryStartTxDMA.5d46f550b42a4609,"e",%progbits
 	.ascii	"x\234\235WmP\224U\024\276\347\336w\277w\001\345C\312"
 	.ascii	"\3110s\0243\330?\375h\246f\232\351W?\374#?kb\020\267"
 	.ascii	"\242@\235]m\254i\306\227\345cSV\355\003\0212\\\014\031"
@@ -326,7 +326,7 @@
 	.ascii	"<\005\013\275\357\340\246A\273\264\375\007y\310\264"
 	.ascii	"\324"
 	.text
-	.section	.gnu.lto_.symbol_nodes.fd6c4be4edb4b860,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.5d46f550b42a4609,"e",%progbits
 	.ascii	"x\234m\222=K\003A\020\206\347\275\311\345\333$\030\210"
 	.ascii	"`\343\257\260W\360\267((h\257\340\034\230V\360[\223"
 	.ascii	"h4p\205\205]\232 \026\026W\006\013\013k\213\020\013"
@@ -346,10 +346,10 @@
 	.ascii	"e$\225\031\3153\312\357\007\203g=Y\247\037\221\2265"
 	.ascii	"\375"
 	.text
-	.section	.gnu.lto_.refs.fd6c4be4edb4b860,"e",%progbits
+	.section	.gnu.lto_.refs.5d46f550b42a4609,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.decls.fd6c4be4edb4b860,"e",%progbits
+	.section	.gnu.lto_.decls.5d46f550b42a4609,"e",%progbits
 	.ascii	"x\234\255ZyTT\331\231\257[\267\212*\212\002l5\255\035"
 	.ascii	"\315\326\343I:\311I\343\322\223I&\311\231(\266i31q\320"
 	.ascii	"d\346\314\037Ch([\246Y\234\242\350\3303s\316\024\213"
@@ -703,7 +703,7 @@
 	.ascii	"\372\271~\342\356NV\001WW?\263\033\327][\377\315^T\362"
 	.ascii	"\377\002\240n\211"
 	.text
-	.section	.gnu.lto_.symtab.fd6c4be4edb4b860,"e",%progbits
+	.section	.gnu.lto_.symtab.5d46f550b42a4609,"e",%progbits
 	.ascii	"uartReconfigure\000"
 	.ascii	"\000"
 	.ascii	"\000"

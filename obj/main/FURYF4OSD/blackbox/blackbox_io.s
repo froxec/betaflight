@@ -9,10 +9,10 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"blackbox_io.c"
-	.section	.gnu.lto_.profile.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_.profile.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_.icf.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234\343``d8\300\200\000\012\014K\226\254\233\314\313"
 	.ascii	"\270\367\341\273vV&0\311z\346\353\245\315\034lO\256"
 	.ascii	"\255\376\301\313\376\373\314\352s,\034\237~\234\277"
@@ -27,7 +27,7 @@
 	.ascii	"U\276\335|\377\033\213\312\345\351G\277\3630\000\000"
 	.ascii	".Hd*"
 	.text
-	.section	.gnu.lto_.jmpfuncs.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234mR\273N\0031\020\234\261\217{\200  \361>\236\012"
 	.ascii	"5\022_\304\237p\221\250\020RZ\312\223\020\024T\210&"
 	.ascii	"\005\201\360\224(i\250i\250\243\2644\010\326\347\343"
@@ -48,7 +48,7 @@
 	.ascii	"%v\200]4X\324.\375u\237\233\001{\262\375\003\232]\276"
 	.ascii	"\021"
 	.text
-	.section	.gnu.lto_.inline.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_.inline.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234\215R\313.CQ\024]\367\234\322V\321\022\217\242"
 	.ascii	"^a \006>\245c\363j\361\023B\020\"\310M\212\201\201`"
 	.ascii	"\342\221\010\"\022$\232J\014T\242\036\241\204z%F\006"
@@ -75,14 +75,14 @@
 	.ascii	"\267\303c<\247\306\376\375\331\031i\314i)\361\372s\001"
 	.ascii	"\276\026\022\215\331M\340\023q\210\345\366"
 	.text
-	.section	.gnu.lto_.pureconst.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_.pureconst.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234\005\301\331\011\203P\024@\301+\0344\301\017\025"
 	.ascii	"\242q_\210\315\244\253W\306\261\024\273s\346\025Y\374"
 	.ascii	"#\242\017\311\245\220\267\224\027\225\324\322\310\347"
 	.ascii	"\246\225N\276\322\313 \243L2'\226\304*\233\354\211C"
 	.ascii	"~\027g\342\001p\304\020\331"
 	.text
-	.section	.gnu.lto_blackboxWrite.part.0.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_blackboxWrite.part.0.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234\205U\335OTG\024\237s\347\336\335\273w?@\224\304"
 	.ascii	"\20665M\210Q\032\260\222>\265\017M\037\372\007\364\261"
 	.ascii	"/\015\020\222\232ZI\224\266\366\311\313.\013\211Pi)"
@@ -154,7 +154,7 @@
 	.ascii	"Eq\341\201\367\366\027\026\272\362\363\337\317+.|\365"
 	.ascii	"\377\326g\177\304\376\003Q\247\336\340"
 	.text
-	.section	.gnu.lto_blackboxWriteString.part.0.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_blackboxWriteString.part.0.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234}S\337K\223Q\030>\317y\277\375R\353\302\253B\242"
 	.ascii	"\310\306\260\300\321\177\320\245\227\365\027\204J\244"
 	.ascii	"d\032\331Ew\236\315\245\324\3040\262\265d~\363\027\326"
@@ -193,7 +193,7 @@
 	.ascii	"6\224W\0134\322\265\206Fw\335\245\372\3137j\216\037"
 	.ascii	"\204/\257\021\377\001\231\023O\232"
 	.text
-	.section	.gnu.lto_blackboxDeviceFlushForce.part.0.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_blackboxDeviceFlushForce.part.0.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234}RKk\023Q\024>\337=7\351\264\244\010\256\204 \026"
 	.ascii	"C\027\335$\212\177\240\013\377\207\264\331X|\024t\343"
 	.ascii	"\2567\311\204\")\025\305Z\262\230L%\224v'\025\273\320"
@@ -222,7 +222,7 @@
 	.ascii	"Y\362,\350x6w\371R>wad\354bn\364\374H\376\334\350\370"
 	.ascii	"\225\216sfl<\233\247c\377\203d\317\322o\221/\351\017"
 	.text
-	.section	.gnu.lto_blackboxDeviceClose.part.0.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_blackboxDeviceClose.part.0.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234\205SMOSQ\020\275\347\336\333\322\226v\343\312"
 	.ascii	"H\210D\302\202M\273\360\017\270\360\177(t#\361\203D"
 	.ascii	"7\356\270m\0376\246\210\321\210\244\211\365\025\033"
@@ -260,7 +260,7 @@
 	.ascii	"9\323\326\356\017\262\343\377\202\370\317\261\277\215"
 	.ascii	"\241D\365"
 	.text
-	.section	.gnu.lto_blackboxDeviceOpen.part.0.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_blackboxDeviceOpen.part.0.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234\215W\377STU\024\177\347\335\267o\337~\005A\315"
 	.ascii	"\334T\224hFk\300\261\037\372\265\231~\362\247\232\376"
 	.ascii	"\200\0121\223Bp\224f\234~\361\262\013\242`j~\205t]b"
@@ -357,7 +357,7 @@
 	.ascii	"\277^\372qr\346\347\213\323\227~\276\306\312v>\310H"
 	.ascii	"_\226\372\305\277\272^\327o"
 	.text
-	.section	.gnu.lto_blackboxDeviceReserveBufferSpace.part.0.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_blackboxDeviceReserveBufferSpace.part.0.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234}\222\317KTQ\024\307\317\367\336\373\306\231qt"
 	.ascii	"\021\004\305,\212\006\021[\214B\377\200\213\026\321"
 	.ascii	"\266? T\202\244\037B\266\250\225\327\361\2458\023\231"
@@ -394,7 +394,7 @@
 	.ascii	"\270\256\341P}\323\211\202\261\277\261)\332@N\375\311"
 	.ascii	"\343\007\232\267\375\017\214\036\244\337)4\0172"
 	.text
-	.section	.gnu.lto_blackboxOpen.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_blackboxOpen.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234]O\317K\224Q\024\275\347\33573\337\014\332R\214"
 	.ascii	")\010a\026n\234\366\021\230\373\240\277\240\030\307"
 	.ascii	" 1\235\230i\321\316;\343\230\204\303WA1L\314\360\215"
@@ -421,7 +421,7 @@
 	.ascii	"z\013\3272\371\253#C\341\360\302\304\310\305\302\215"
 	.ascii	"K\271\374\315C\363\357\251\276"
 	.text
-	.section	.gnu.lto_blackboxWrite.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_blackboxWrite.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234\215U\357oSU\030>\357=\367w\333\015p \206\250\213"
 	.ascii	"\304\020\010a\013|3~\360O\360?0c\361\003\021%\301h\374"
 	.ascii	"\306\351\332\255\221\221\215\0170lB\271#\227Fk\314\204"
@@ -483,7 +483,7 @@
 	.ascii	"#\237\225\036\336;td_+3>m9\374\311\373\377\001\202\343"
 	.ascii	"\222D"
 	.text
-	.section	.gnu.lto_blackboxWriteString.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_blackboxWriteString.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234mS[KTQ\024\336\337Y\34763j\320C\004\366 \225HT"
 	.ascii	"j\364\322c\217\375\013)\211\212.F\366\320\233{f\034"
 	.ascii	"\255F\272@e\232\323\261T\264\007\265B\020\314\364\230"
@@ -528,7 +528,7 @@
 	.ascii	"\266\354\332\\\272sK\331\201\371E\311\216\262\302R\201"
 	.ascii	"r\332[Vn\357\332\272g\333\376\355\277\001\317\217WQ"
 	.text
-	.section	.gnu.lto_blackboxDeviceFlush.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_blackboxDeviceFlush.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234mPAK\233A\020\235\367\315&\371\224\350\331\"\202"
 	.ascii	"T/B1Bo\365\342?)\232ShU\320Konbl\220H\332\213\250`\372"
 	.ascii	"EB\321\223\305c\333\030\277F\221\202\"\301\203\024Z"
@@ -553,7 +553,7 @@
 	.ascii	"D#\203\375\261\241\310\300\363\376\350\263\201\341\027"
 	.ascii	"\177\037Oc\303\335Q\272\005\306\344\257\324"
 	.text
-	.section	.gnu.lto_blackboxDeviceFlushForce.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_blackboxDeviceFlushForce.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234m\222\313k\023Q\024\306\3177g&\231,jW\212\020\220"
 	.ascii	"b]X\204&\340\272\342?\340\337 mW\305GA7\356z\363\250"
 	.ascii	"\032Z\242\020B\014\022'\032\305ZEq\343\2535\035\253"
@@ -588,7 +588,7 @@
 	.ascii	"\177\250o\360\304\357\311\301\201\301\356~\372\011\014"
 	.ascii	"\013\3776"
 	.text
-	.section	.gnu.lto_blackboxDeviceFlushForceComplete.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_blackboxDeviceFlushForceComplete.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234\343``d8\306\300\300\240\002\304\262@\314\310\314"
 	.ascii	"\300\310\324\320\320\340\300\336\310\301\304\310\010"
 	.ascii	"f5p02\32431\3263\3663Ogf\234\332\271\373:\257\346\362"
@@ -604,7 +604,7 @@
 	.ascii	"\270Jz\372\305E\311\372\271\211\231y\372I9\211\311\331"
 	.ascii	"I\371\025pF|f\276^2\003\000|cK\275"
 	.text
-	.section	.gnu.lto_blackboxDeviceOpen.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_blackboxDeviceOpen.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234\215\224]H\024Q\024\307\317\231;3;\263\353*\030"
 	.ascii	"I D\364\361PD\012>\027\275\007=\366\032\345\223\364"
 	.ascii	"\005\365\322\233w\327\265Zv1\303d\023\263\265$2\255"
@@ -656,7 +656,7 @@
 	.ascii	"\367\024\356\333{\350\350\302`w\321\241-\205\360\013"
 	.ascii	"\360\246\307\201"
 	.text
-	.section	.gnu.lto_blackboxEraseAll.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_blackboxEraseAll.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234uP=K\\Q\020\235s\347\356\363)\206\224*6\242i\204"
 	.ascii	"\340\023bg\343/Qt+\211\037\240M:\357~\230-V\214\215"
 	.ascii	"\250\340\362v\021Q\020\024I\232$\272>\025,\324b\261"
@@ -682,7 +682,7 @@
 	.ascii	"\276\355\350}\367\377\321\326\331\333\020\245;\355\270"
 	.ascii	"\246\032"
 	.text
-	.section	.gnu.lto_isBlackboxErased.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_isBlackboxErased.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234]\220\317KTQ\024\307\317\367\236;o\336\210\263"
 	.ascii	"\017g\023\331\"!\234\001\333\005\341\177\022:\253!K"
 	.ascii	"\250M;\317\374B\006\007k#&4<E\372\005Q\030\321\"mz*"
@@ -709,7 +709,7 @@
 	.ascii	"\331;\267\363\331\233}\205[\331\376\201\276\374\215"
 	.ascii	"\376\301\273\377.\327\013\203\335y\372\0138\"\244\331"
 	.text
-	.section	.gnu.lto_blackboxDeviceClose.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_blackboxDeviceClose.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234m\222\337KTA\024\307\317\367\236{\257\327`\353"
 	.ascii	"\251(}\221\354\305\027\327?\241\177\240\277!t\237\304"
 	.ascii	"L\250\227\336\234{wS\226\335,Xd[b\271+\022\312\366C"
@@ -741,7 +741,7 @@
 	.ascii	"\254\257g\340\334_\343d\357@g\214\266\001\264\301\362"
 	.ascii	"w"
 	.text
-	.section	.gnu.lto_blackboxDeviceBeginLog.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_blackboxDeviceBeginLog.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234\343``dX\315\300\300\240\002\304\262@\314\310\314"
 	.ascii	"\300\310\324\320\320\340\300\336\310\301\304\310\010"
 	.ascii	"f5p02\32431\3263\3663Ogf\234\332\271\373:\257\346\362"
@@ -756,7 +756,7 @@
 	.ascii	"\231\247\237\224\223\230\234\235\224_\001g\304g\346"
 	.ascii	"\353%3\000\000\252\010HT"
 	.text
-	.section	.gnu.lto_blackboxDeviceEndLog.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_blackboxDeviceEndLog.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234\343``dx\316\300\300\240\007\304\262@\314\310\314"
 	.ascii	"\300\310\324\320\320\340\300\336\310\301\304\310\010"
 	.ascii	"f5p02\32431\3263\3663Ogf\234\332\271\373:\257\346\362"
@@ -774,7 +774,7 @@
 	.ascii	"\362+\340\214\370\314|\275d\006\316\242\324\022\240"
 	.ascii	"\264O~:\000\275y^\277"
 	.text
-	.section	.gnu.lto_isBlackboxDeviceFull.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_isBlackboxDeviceFull.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234]\222\317k\023Q\020\307\347\373\346e\263\226\366"
 	.ascii	"/\310E\254\010\005i\0029\212\340\177\"mN\245jA/\336"
 	.ascii	":\233DJ1D=\204Z\330\260\306\"\366T\365j\333t\265\222"
@@ -802,7 +802,7 @@
 	.ascii	"\261\353qb4\177\345r)\177ql\342R~\374\302Xir|\352\352"
 	.ascii	"\277\303\371\211\251\321\022\375\0057/\265\236"
 	.text
-	.section	.gnu.lto_isBlackboxDeviceWorking.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_isBlackboxDeviceWorking.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234e\222\337K\024Q\024\307\317w\356\314\354l`\275"
 	.ascii	"d/\373\"\031\210\004*\364\034\004\275\367/\204\372$"
 	.ascii	"\375\020\352\2457\357\354n\231\270X\261l\233\324\266"
@@ -837,7 +837,7 @@
 	.ascii	"\252\357mh<}\252\265\361Ds\333\311\306\226\343\315\255"
 	.ascii	"\307Z\332\317lN\216\266\2657\264\322\037\253\004 \246"
 	.text
-	.section	.gnu.lto_blackboxGetLogNumber.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_blackboxGetLogNumber.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234\343``d8\315\300\300\240\002\304\262@\314\310\314"
 	.ascii	"\300\310\324\320\320\340\300\336\310\301\304\310\010"
 	.ascii	"f5p02\32431\3263\3663Ogf\274\3274\367\007O\037\363|"
@@ -853,7 +853,7 @@
 	.ascii	"\254\237\233\230\231\247\237\224\223\230\234\235\224"
 	.ascii	"_\001g\304g\346\353%3\000\000\226\221R\235"
 	.text
-	.section	.gnu.lto_blackboxReplenishHeaderBudget.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_blackboxReplenishHeaderBudget.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234\215T\337o\024U\024\276\337\234\231\335\331\262"
 	.ascii	"\375\005\321\007\373\322H\372\200$\024\237L|\342/01"
 	.ascii	"\376\001\244mjB\374\201\301\027\337\270\335n\332 \245"
@@ -906,7 +906,7 @@
 	.ascii	"W\233\212=\177\240\275\375\271WZ\332\332\235\275\255"
 	.ascii	"\377\002\036Z\335\372"
 	.text
-	.section	.gnu.lto_blackboxDeviceReserveBufferSpace.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_blackboxDeviceReserveBufferSpace.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234eT[oTU\024\336\337\331\347:\314LAEb\346\301Fb("
 	.ascii	"\204\264\215\276\370\350_0\376\000C\033M\210\027\022"
 	.ascii	"\341A\237\3303\035iJ;(\221ZZ(S\235\224\026oEc(\366\002"
@@ -963,7 +963,7 @@
 	.ascii	"K\266\275\263xxe\353\266\302Ra\225\274\273\343\325\355"
 	.ascii	"\377\003\221/\342A"
 	.text
-	.section	.gnu.lto_blackboxGetLogFileNo.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_blackboxGetLogFileNo.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234\343``dX\315\300\300\240\002\304\262@\314\310\314"
 	.ascii	"\300\310\324\320\320\340\300\336\310\301\304\310\010"
 	.ascii	"f5p02\32431\3263\3663Ogf\334\275f\375\007>\315\345@"
@@ -978,7 +978,7 @@
 	.ascii	"\236~RNbrvR~\005\234\021\237\231\257\227\314\000\000"
 	.ascii	"\235\274H\214"
 	.text
-	.section	.gnu.lto_.symbol_nodes.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234u\323KOSA\024\007\360\371\337\241\367\266\024["
 	.ascii	"\252PZ\252\264\224\367\263*\242\242\033M\374(~\217S"
 	.ascii	"M\355\302\270\300\230\230(\210\200 \210\202oy((Z\001"
@@ -1015,7 +1015,7 @@
 	.ascii	"\3122a\362\252\223]\323+\333\242\327\342U\336\241\356"
 	.ascii	"\344\002C\332b\377\000\247\330P\251"
 	.text
-	.section	.gnu.lto_.refs.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_.refs.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234%\313a\016\302 \024\003\340\366\001\363\261\001"
 	.ascii	":\220\271i\324l\336\377\002\236N\210\177\276&m\252 "
 	.ascii	"\276\000<@\2018\230@{\206\273\320e\332J.\224\033OP1"
@@ -1025,7 +1025,7 @@
 	.ascii	"\274\032\362\356\263Z\267\377\0231\340H<\262\371\340"
 	.ascii	"h?\003\035\360\003t\335\006\233"
 	.text
-	.section	.gnu.lto_.decls.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_.decls.edd0b487fc05f701,"e",%progbits
 	.ascii	"x\234\255[{XTG\226\357\352\352\206\246y\0315jbf\222"
 	.ascii	"\315\230I\276\3351\230\307\267\223\335\315\356f\222"
 	.ascii	"\311kw2\311\306\354\354&\177,\213\320j\357\360\332\356"
@@ -1473,7 +1473,7 @@
 	.ascii	"A.\27608&\003\270\203O\364\276A\001\001A\220\200|L\233"
 	.ascii	"I\232\374_\011\2075\240"
 	.text
-	.section	.gnu.lto_.symtab.7ef75bcfa7cdc9c8,"e",%progbits
+	.section	.gnu.lto_.symtab.edd0b487fc05f701,"e",%progbits
 	.ascii	"blackboxOpen\000"
 	.ascii	"\000"
 	.ascii	"\000"

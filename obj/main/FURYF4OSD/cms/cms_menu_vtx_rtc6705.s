@@ -9,32 +9,32 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"cms_menu_vtx_rtc6705.c"
-	.section	.gnu.lto_.profile.80c7104b175ccb69,"e",%progbits
+	.section	.gnu.lto_.profile.cf570b175bdd63d,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.80c7104b175ccb69,"e",%progbits
+	.section	.gnu.lto_.icf.cf570b175bdd63d,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.jmpfuncs.80c7104b175ccb69,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.cf570b175bdd63d,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.inline.80c7104b175ccb69,"e",%progbits
+	.section	.gnu.lto_.inline.cf570b175bdd63d,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.pureconst.80c7104b175ccb69,"e",%progbits
+	.section	.gnu.lto_.pureconst.cf570b175bdd63d,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.symbol_nodes.80c7104b175ccb69,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.cf570b175bdd63d,"e",%progbits
 	.ascii	"x\234\343``d`b\000\001\000\000n\000\014"
 	.text
-	.section	.gnu.lto_.refs.80c7104b175ccb69,"e",%progbits
+	.section	.gnu.lto_.refs.cf570b175bdd63d,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.decls.80c7104b175ccb69,"e",%progbits
+	.section	.gnu.lto_.decls.cf570b175bdd63d,"e",%progbits
 	.ascii	"x\234\343``d\000\001\020\251\002\304\377\201\000\304"
 	.ascii	"\276\310@\000\000\000\3015\004\375"
 	.text
-	.section	.gnu.lto_.symtab.80c7104b175ccb69,"e",%progbits
+	.section	.gnu.lto_.symtab.cf570b175bdd63d,"e",%progbits
 	.text
 	.section	.gnu.lto_.opts,"e",%progbits
 	.ascii	"'-fno-openmp' '-fno-openacc' '-fno-pie' '-mthumb' '"

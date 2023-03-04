@@ -9,26 +9,26 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"cms_menu_saveexit.c"
-	.section	.gnu.lto_.profile.673f7334c79e1a9b,"e",%progbits
+	.section	.gnu.lto_.profile.eaddf8ef3cd39042,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.673f7334c79e1a9b,"e",%progbits
+	.section	.gnu.lto_.icf.eaddf8ef3cd39042,"e",%progbits
 	.ascii	"x\234\343``dP`@\000V\206\347\257.\254\344g\334\322\260"
 	.ascii	"\360\021;\323\243\225\363&\2600\317\230\261\251\217"
 	.ascii	"\221\365\360\314c\253\370\030\000\371\210\016Y"
 	.text
-	.section	.gnu.lto_.jmpfuncs.673f7334c79e1a9b,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.eaddf8ef3cd39042,"e",%progbits
 	.ascii	"x\234\343``d`c@\000F0\011\000\001L\000\021"
 	.text
-	.section	.gnu.lto_.inline.673f7334c79e1a9b,"e",%progbits
+	.section	.gnu.lto_.inline.eaddf8ef3cd39042,"e",%progbits
 	.ascii	"x\234\343``d\320f@\000F\006\006\366\206\206\206\007"
 	.ascii	"\314i\214\014L,@V\003S\012\003\003\033\204\301\304\300"
 	.ascii	"\004R\303\304\015V\012\000\340\250\007\360"
 	.text
-	.section	.gnu.lto_.pureconst.673f7334c79e1a9b,"e",%progbits
+	.section	.gnu.lto_.pureconst.eaddf8ef3cd39042,"e",%progbits
 	.ascii	"x\234\343``d`a`\000\2223X\000\001\316\000\253"
 	.text
-	.section	.gnu.lto_getSaveExitMenu.673f7334c79e1a9b,"e",%progbits
+	.section	.gnu.lto_getSaveExitMenu.eaddf8ef3cd39042,"e",%progbits
 	.ascii	"x\234e\217=K\302Q\024\306\317s\317\325\376\212\356\205"
 	.ascii	"K\020A.\372\001j\350\233\210\210C\220\016Y\321\346\365"
 	.ascii	"\005\012|i)\"\3024\034l\211\010j\250\254\376\321T4D"
@@ -50,7 +50,7 @@
 	.ascii	"f)\021M\305\027\322\321D*cw,\225L\257\3042\361\325d"
 	.ascii	"rma9\222\240_\223\344\206\000"
 	.text
-	.section	.gnu.lto_cmsx_menuSaveExitReboot.673f7334c79e1a9b,"e",%progbits
+	.section	.gnu.lto_cmsx_menuSaveExitReboot.eaddf8ef3cd39042,"e",%progbits
 	.ascii	"x\234\343``d\310c``Pe\200\200\351\314\214\273\277\354"
 	.ascii	"}\305\331\302\330\3248\243\241\341A\367lf\215\371\314"
 	.ascii	"\014\213\231!r}\315\357\357q\3641\317gfdD\3412\201\271"
@@ -60,7 +60,7 @@
 	.ascii	"<\375\344\334b\020\216\317M\315+\215/N,KM\255\310,\321"
 	.ascii	"Kf\000\000\317\2700q"
 	.text
-	.section	.gnu.lto_cmsx_menuSaveExit.673f7334c79e1a9b,"e",%progbits
+	.section	.gnu.lto_cmsx_menuSaveExit.eaddf8ef3cd39042,"e",%progbits
 	.ascii	"x\234\343``d\310c``Pe\200\200\351\314\214\273\277\354"
 	.ascii	"}\305\331\302\330\3248\243\241\341A\367{\001\246\371"
 	.ascii	"\314\014\213\231!r}\315\357\357q\3641\317gfdD\3412\201"
@@ -70,7 +70,7 @@
 	.ascii	"\314<\375\344\334b\020\216\317M\315+\215/N,KM\255\310"
 	.ascii	",\321Kf\000\000\355\3550\254"
 	.text
-	.section	.gnu.lto_cmsx_menuSaveExitRebootEntries.673f7334c79e1a9b,"e",%progbits
+	.section	.gnu.lto_cmsx_menuSaveExitRebootEntries.eaddf8ef3cd39042,"e",%progbits
 	.ascii	"x\234\343``d\330\305\304\300\220\310\000\001\323\231"
 	.ascii	"\031\373\232\337\337\343\350c\236\317\014\224\002r\027"
 	.ascii	"^\275\320\304\010\34222\012 \3132\201e\357\\|{\200\313"
@@ -102,7 +102,7 @@
 	.ascii	"I\352\203\004\0254 \242\012A\256\201.\232\014\000\226"
 	.ascii	"\231\375\314"
 	.text
-	.section	.gnu.lto_cmsx_menuSaveExitEntries.673f7334c79e1a9b,"e",%progbits
+	.section	.gnu.lto_cmsx_menuSaveExitEntries.eaddf8ef3cd39042,"e",%progbits
 	.ascii	"x\234m\222OL\023A\024\306\347uv\373w[8y\331K7&\236l"
 	.ascii	"\033\275\365&h\017\350\201D\2111^\2204=p(\007\253\306"
 	.ascii	"\343\332\022h\242i\214\027\213\011\331E\242\325\300"
@@ -135,7 +135,7 @@
 	.ascii	"\335\335=\310\255\233\310\205\256\036\304\353c{ \340"
 	.ascii	"\247s!\352\374\201\000\372\013\034\247)\261"
 	.text
-	.section	.gnu.lto_.symbol_nodes.673f7334c79e1a9b,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.eaddf8ef3cd39042,"e",%progbits
 	.ascii	"x\234e\215\313\015\2000\014C\355\224\"\266@B\014\002"
 	.ascii	"\223%# \376G\346`\010V\202\320r\343\235\254\370Y\251"
 	.ascii	"@(\034Y\2510\247\340p\341\275\235\326{\351\304\205\260"
@@ -143,12 +143,12 @@
 	.ascii	"\363\321\310\220\225\215*?\305\\\011(\363\303\026\017"
 	.ascii	"\333y%\361"
 	.text
-	.section	.gnu.lto_.refs.673f7334c79e1a9b,"e",%progbits
+	.section	.gnu.lto_.refs.eaddf8ef3cd39042,"e",%progbits
 	.ascii	"x\234\025\304\301\015\000 \020\303\2604=$\266`\377-"
 	.ascii	"\201\207\275\011\007\020Sm\362\350\262\216\323\365w"
 	.ascii	"\270\011\361\000t"
 	.text
-	.section	.gnu.lto_.decls.673f7334c79e1a9b,"e",%progbits
+	.section	.gnu.lto_.decls.eaddf8ef3cd39042,"e",%progbits
 	.ascii	"x\234\235WkTT\327\025\276\373\336\031\230\031\006\306"
 	.ascii	"\200Q\"m\352\262$\265I\024]q\265iWW\223Uc\232\376Hu"
 	.ascii	"\325\225\376,%8\032V\005,\214Y\372\253\227\247\006\025"
@@ -296,7 +296,7 @@
 	.ascii	"\302\377[\277\020\0052\367\363\264\263(\331\372/\264"
 	.ascii	"\220\332\264"
 	.text
-	.section	.gnu.lto_.symtab.673f7334c79e1a9b,"e",%progbits
+	.section	.gnu.lto_.symtab.eaddf8ef3cd39042,"e",%progbits
 	.ascii	"getSaveExitMenu\000"
 	.ascii	"\000"
 	.ascii	"\000"

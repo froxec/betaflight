@@ -9,16 +9,16 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"cms_menu_vtx_common.c"
-	.section	.gnu.lto_.profile.e17b6ea42040fff6,"e",%progbits
+	.section	.gnu.lto_.profile.c32f621da7b340be,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.e17b6ea42040fff6,"e",%progbits
+	.section	.gnu.lto_.icf.c32f621da7b340be,"e",%progbits
 	.ascii	"x\234\343``d\320f@\000v\206\336wK\2328\030\037^\370"
 	.ascii	"\272\214\211\011L2\377oxh\312\262\361\300\343\375\\"
 	.ascii	"\354\027\227L\336\317\3051\261\363\370Zv\006\000\326"
 	.ascii	"\033\024\262"
 	.text
-	.section	.gnu.lto_.jmpfuncs.e17b6ea42040fff6,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.c32f621da7b340be,"e",%progbits
 	.ascii	"x\234\343``d\230\307\304\300\340\317\000\001\314@\314"
 	.ascii	"\302<\235\231q\373\206\266\027LF\006\363\231\031\026"
 	.ascii	"330jI\203$\031w1\03210\036`ad\000\342\377@\300\317\010"
@@ -36,7 +36,7 @@
 	.ascii	"\377p?\005\220\362\220\310\000W\006\321P\277\340\320"
 	.ascii	"\200\000\377\240\020W\027\204(\000\262w\321P"
 	.text
-	.section	.gnu.lto_.inline.e17b6ea42040fff6,"e",%progbits
+	.section	.gnu.lto_.inline.c32f621da7b340be,"e",%progbits
 	.ascii	"x\234\343``d\270\310\200\000\314\014\014\234\015\015"
 	.ascii	"\015\013\230\323\031\031\230\030\030\032\201\354:\006"
 	.ascii	"\0066 \325\300\224\302\004\022\002\252\341\001\022L"
@@ -45,11 +45,11 @@
 	.ascii	"Af\352\314M\313\300\306\010<?3s3s\012\320\230\027[~"
 	.ascii	"\377gNF1f\202\037A\006\320h\210\241\014\000\327-\"\262"
 	.text
-	.section	.gnu.lto_.pureconst.e17b6ea42040fff6,"e",%progbits
+	.section	.gnu.lto_.pureconst.c32f621da7b340be,"e",%progbits
 	.ascii	"x\234\343``d\340b```f\230\301\302<\203\205e\006\013"
 	.ascii	"\000\012\222\001\362"
 	.text
-	.section	.gnu.lto_setStatusMessage.part.0.e17b6ea42040fff6,"e",%progbits
+	.section	.gnu.lto_setStatusMessage.part.0.c32f621da7b340be,"e",%progbits
 	.ascii	"x\234\205RMHTQ\030\275\347\3357?\376LBm\202\331\214"
 	.ascii	"\0131[8f\264\014\2024q3\226Y\270\223\230&p1*YR+\357"
 	.ascii	"\214SFS\366C\352h\310\263&\255\215d\021Xj:\375\250\371"
@@ -90,7 +90,7 @@
 	.ascii	"\364p\221+\257\320U\300\266\027\025\353G\007\213\\\207"
 	.ascii	"\012\013\216\025\347\347\261\277\210.^\230"
 	.text
-	.section	.gnu.lto_setStatusMessage.e17b6ea42040fff6,"e",%progbits
+	.section	.gnu.lto_setStatusMessage.c32f621da7b340be,"e",%progbits
 	.ascii	"x\234\215T[HTQ\024=\373\356\373rr\262\007B\340\317\010"
 	.ascii	"I\017B\313\3503\350#!\010TJ{|IL~\3701&YR_\235\031G\255"
 	.ascii	"4\373Ir\014\271\346`\365\023=\354E\317)3\363\375\310"
@@ -140,7 +140,7 @@
 	.ascii	"-+m\263cG\326.G\326\356\3144\2668;}kz\306\316\364\271"
 	.ascii	"\223_{\275\343\352"
 	.text
-	.section	.gnu.lto_cmsSelectVtx.e17b6ea42040fff6,"e",%progbits
+	.section	.gnu.lto_cmsSelectVtx.c32f621da7b340be,"e",%progbits
 	.ascii	"x\234\225\224\337O\023Y\024\307\357\23133\235b\313>"
 	.ascii	"\350>\030Vc\242\004M\214h\214o\373\260\311\372\340\037"
 	.ascii	"\260\357\304ty \261H\304\237O\336\226\372\003KJ\334"
@@ -194,7 +194,7 @@
 	.ascii	"q\203\376{\351\3462W\251MD\374\266\255\242\3643\015"
 	.ascii	"\200\026*"
 	.text
-	.section	.gnu.lto_cmsx_menuVtxError.e17b6ea42040fff6,"e",%progbits
+	.section	.gnu.lto_cmsx_menuVtxError.c32f621da7b340be,"e",%progbits
 	.ascii	"x\234\343``d\250f``Pg\200\200\351\314\214\273\277\354"
 	.ascii	"}\305\331\302\330\3248\243\241\341A\367:f\215\371\314"
 	.ascii	"\014\213\231!r}\315\357\357q\3641\317gfd\004q\347\256"
@@ -205,7 +205,7 @@
 	.ascii	"\372\311\271\305 \034\237\233\232W\032_VR\021\237\234"
 	.ascii	"\237\233\233\237\247\227\314\000\000\210S6\346"
 	.text
-	.section	.gnu.lto_vtxErrorMenuEntries.e17b6ea42040fff6,"e",%progbits
+	.section	.gnu.lto_vtxErrorMenuEntries.c32f621da7b340be,"e",%progbits
 	.ascii	"x\234\343``dX\310\304\300\240\317\000\001\323\231\031"
 	.ascii	"\373\232\337\337\343\350c\236\317\014\224\002r\027^"
 	.ascii	"\275\320\304\010\34222\012 \3132\201e\357\\|{\200\313"
@@ -232,7 +232,7 @@
 	.ascii	"\306\227\225T\304'\347\347\346\346\347\351%\003\023"
 	.ascii	"0\000\004\356\347q"
 	.text
-	.section	.gnu.lto_.symbol_nodes.e17b6ea42040fff6,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.c32f621da7b340be,"e",%progbits
 	.ascii	"x\234m\217;\216\0021\020D\253\334\036\213\337\035@+"
 	.ascii	"\016\002\022G\341\032\310\016\010Y>\313\237\010!\016"
 	.ascii	"\2004\011\220!\021\356r\212\025W \004\217g\030\021L"
@@ -246,12 +246,12 @@
 	.ascii	"\214vE\327&\233\363\003\311\322\033\375R\336M0\016\017"
 	.ascii	"\374\033\274\000\377\224y\360"
 	.text
-	.section	.gnu.lto_.refs.e17b6ea42040fff6,"e",%progbits
+	.section	.gnu.lto_.refs.c32f621da7b340be,"e",%progbits
 	.ascii	"x\234\015\212\301\015\000 \014\204\356\260\332\252\323"
 	.ascii	"\270\377r6<H\010%\353IB\330@\214\226\031\270\360\216"
 	.ascii	"`.V\221\207\274d\367jz\324\007\032\271\000\344"
 	.text
-	.section	.gnu.lto_.decls.e17b6ea42040fff6,"e",%progbits
+	.section	.gnu.lto_.decls.c32f621da7b340be,"e",%progbits
 	.ascii	"x\234\245YyTT\331\231\177\367\335*(\212\002\214\270"
 	.ascii	"0\301$\246C{zf\272E\323f\272O\346\314\234L\354Nf\346"
 	.ascii	"\244\223\236\330\335\223LrB\323X*'l\247\2520\366\344"
@@ -480,7 +480,7 @@
 	.ascii	"\311TK%\361\177\350l"
 	.ascii	"\221-"
 	.text
-	.section	.gnu.lto_.symtab.e17b6ea42040fff6,"e",%progbits
+	.section	.gnu.lto_.symtab.c32f621da7b340be,"e",%progbits
 	.ascii	"cmsSelectVtx\000"
 	.ascii	"\000"
 	.ascii	"\000"

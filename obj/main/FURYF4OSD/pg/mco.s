@@ -9,24 +9,24 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"mco.c"
-	.section	.gnu.lto_.profile.32172d3aa8ce7fd3,"e",%progbits
+	.section	.gnu.lto_.profile.6fec2b8a907983c5,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.32172d3aa8ce7fd3,"e",%progbits
+	.section	.gnu.lto_.icf.6fec2b8a907983c5,"e",%progbits
 	.ascii	"x\234\343``d\220b@\000\026\206\251\307\246\337\346f"
 	.ascii	"l\1775\3475\037\023\230d\336\373\360];+\003\000\244"
 	.ascii	"_\014*"
 	.text
-	.section	.gnu.lto_.jmpfuncs.32172d3aa8ce7fd3,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.6fec2b8a907983c5,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.inline.32172d3aa8ce7fd3,"e",%progbits
+	.section	.gnu.lto_.inline.6fec2b8a907983c5,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.pureconst.32172d3aa8ce7fd3,"e",%progbits
+	.section	.gnu.lto_.pureconst.6fec2b8a907983c5,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_mcoConfig_Registry.32172d3aa8ce7fd3,"e",%progbits
+	.section	.gnu.lto_mcoConfig_Registry.6fec2b8a907983c5,"e",%progbits
 	.ascii	"x\234\343``d\370\311\300\300 \306\000\001\323\231\031"
 	.ascii	"\347\2568\363\237\263\205\261\251\261\243\241\341A\367"
 	.ascii	"I\211\254\371\314\014\213\231!r/\366\037~\302j\271\275"
@@ -42,15 +42,15 @@
 	.ascii	"\211\231y\372\005\351\372\271\311\371z\311\014\000d"
 	.ascii	"\370X:"
 	.text
-	.section	.gnu.lto_.symbol_nodes.32172d3aa8ce7fd3,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.6fec2b8a907983c5,"e",%progbits
 	.ascii	"x\234\343``d0b\000\002\326~F\206V%\006\275\202\364\370"
 	.ascii	"\242\324\364\314\342\222\242J\240`7#c\243\022H\266\207"
 	.ascii	"\221\011\302\350ed\0063\030\0000\351\011\372"
 	.text
-	.section	.gnu.lto_.refs.32172d3aa8ce7fd3,"e",%progbits
+	.section	.gnu.lto_.refs.6fec2b8a907983c5,"e",%progbits
 	.ascii	"x\234\343``d\340d```f`bdbbbf\000\000\001j\000\""
 	.text
-	.section	.gnu.lto_.decls.32172d3aa8ce7fd3,"e",%progbits
+	.section	.gnu.lto_.decls.6fec2b8a907983c5,"e",%progbits
 	.ascii	"x\234\225V[PSG\030>\377\331\220`H\214\003x\251\261\035"
 	.ascii	"\235\211\227'\202u\332\361\241\235i\307\231\326\247"
 	.ascii	">\330\351\213\017\245\030b\310\214\006&\011v\354t\246"
@@ -152,7 +152,7 @@
 	.ascii	"A.M\214}\223=\306\352\014\300\026+(\200\3560\377|\025"
 	.ascii	"\036\210\361*\342<\341\353\177\023&\264\030"
 	.text
-	.section	.gnu.lto_.symtab.32172d3aa8ce7fd3,"e",%progbits
+	.section	.gnu.lto_.symtab.6fec2b8a907983c5,"e",%progbits
 	.ascii	"mcoConfig_Registry\000"
 	.ascii	"\000"
 	.ascii	"\000"

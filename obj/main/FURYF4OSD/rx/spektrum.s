@@ -9,10 +9,10 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"spektrum.c"
-	.section	.gnu.lto_.profile.53cfc007e46b464d,"e",%progbits
+	.section	.gnu.lto_.profile.db6ff688f056285e,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.53cfc007e46b464d,"e",%progbits
+	.section	.gnu.lto_.icf.db6ff688f056285e,"e",%progbits
 	.ascii	"x\234\343``dX\314\200\000\322\014M\177\037\356\340a"
 	.ascii	"\374\364\343\374un\246\256\346#'YY\300$\353\347i{\276"
 	.ascii	"s\260\201\331\354{\037\276kg\345\350\373\274q\002+\347"
@@ -23,7 +23,7 @@
 	.ascii	"on\351\251\257\272-e6\\<\277\203Q\026l\260\302\257O"
 	.ascii	"3\24622\000\000\026\011Q\001"
 	.text
-	.section	.gnu.lto_.jmpfuncs.53cfc007e46b464d,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.db6ff688f056285e,"e",%progbits
 	.ascii	"x\234\225TMk\024A\020\255\327=;;\273\231\315\230\030"
 	.ascii	"\024\035\017{Vr\311\325\374\266d\305\215 \222\020\360"
 	.ascii	"\020C\220U\002\202\211\030\005\315\301h\334h\342G\326"
@@ -58,7 +58,7 @@
 	.ascii	"]\026k\255\033\2411%\370\204\224\233\362x[.Wy\225\001"
 	.ascii	"\377\001\346\243zo"
 	.text
-	.section	.gnu.lto_.inline.53cfc007e46b464d,"e",%progbits
+	.section	.gnu.lto_.inline.db6ff688f056285e,"e",%progbits
 	.ascii	"x\234\205SKk\024A\020\376\252\272gvv\263\3065\304\347"
 	.ascii	"\012\306\243\377\"\277`\3169j\314lV\210\217\237\260"
 	.ascii	"\276!B\234\254\253!\210\346 \"\350\315\007+\306\215"
@@ -91,12 +91,12 @@
 	.ascii	"\003\262d\314%\355\223K\310Ei:\346\006Cv\000+\226l\373"
 	.ascii	"\326]d\361\0338\036\301j"
 	.text
-	.section	.gnu.lto_.pureconst.53cfc007e46b464d,"e",%progbits
+	.section	.gnu.lto_.pureconst.db6ff688f056285e,"e",%progbits
 	.ascii	"x\234\343``dPe``\340a\230\305\302:\203\205s\026\213"
 	.ascii	"`\013\213P+\213\310,\026\361\031,\2223Y\244ZX\244g\260"
 	.ascii	"\310\314bQha\001\000\231\232\010+"
 	.text
-	.section	.gnu.lto_spektrumDataReceive.53cfc007e46b464d,"e",%progbits
+	.section	.gnu.lto_spektrumDataReceive.db6ff688f056285e,"e",%progbits
 	.ascii	"x\234\215T\353O\024W\024\277\27793\263\003\273<\024"
 	.ascii	"I\332\3324$\326\020\373\201%&M\372\321\277\240\377\003"
 	.ascii	"\241&5\015\320 \215\375\346\335]\004\021\2524\301\252"
@@ -154,7 +154,7 @@
 	.ascii	"j\250\276aO\376\246\332\206\272\272\206\372p\323\256"
 	.ascii	"\272\235U\357\212\377\000\311M%C"
 	.text
-	.section	.gnu.lto_spektrumProcessFrame.53cfc007e46b464d,"e",%progbits
+	.section	.gnu.lto_spektrumProcessFrame.db6ff688f056285e,"e",%progbits
 	.ascii	"x\234\215\222Mk\023Q\024\206\317;g\222N>7\342B\342\242"
 	.ascii	"\013\241\264\213Fp\351\306\177 \350/(%\213\")\222\246"
 	.ascii	"\320]ob\260\246\215\351\3066\024\014\021Ci\245\240U"
@@ -187,7 +187,7 @@
 	.ascii	"\331M\301\330\300\251\376\336xO4r:\336\025\217\374\006"
 	.ascii	")\004\000\256"
 	.text
-	.section	.gnu.lto_spektrumFrameStatus.53cfc007e46b464d,"e",%progbits
+	.section	.gnu.lto_spektrumFrameStatus.db6ff688f056285e,"e",%progbits
 	.ascii	"x\234\215XiPUG\026\276\247\373\355\033\370X\345\241"
 	.ascii	"1Qb\334\300qj\312L\246RZ\222\337\251\2518\371;5\216"
 	.ascii	"\305T\254\021\234B\234\262\362'\027\036B\004\\paQ\037"
@@ -330,7 +330,7 @@
 	.ascii	"\222\254\254\214\345\341\236\226\256\310\314\\\221\225"
 	.ascii	"F\340\251\237i\377\007N\371?\300"
 	.text
-	.section	.gnu.lto_spektrumReadRawRC.part.0.53cfc007e46b464d,"e",%progbits
+	.section	.gnu.lto_spektrumReadRawRC.part.0.db6ff688f056285e,"e",%progbits
 	.ascii	"x\234\205R\317KTQ\030\275\347~\3579ol\022i\021\225\011"
 	.ascii	"\2660q\343\224\265\257e\353\372\013\006\023\222Pb\034"
 	.ascii	"\301\235\327\321\306 \263Meb\343\024&\006aj\004\201"
@@ -368,7 +368,7 @@
 	.ascii	"pMeI\231\262\312\316\204\252\254\323\241H('\\{\262\246"
 	.ascii	"*RQY~*\022\212\224\377\001jC'\031"
 	.text
-	.section	.gnu.lto_spektrumReadRawRC.53cfc007e46b464d,"e",%progbits
+	.section	.gnu.lto_spektrumReadRawRC.db6ff688f056285e,"e",%progbits
 	.ascii	"x\234eS[KTQ\024\336\337Y\373\2349sq\354\245\242,\350"
 	.ascii	"\241\020\013\234\301\372\001\375\206z\351u0\241\010"
 	.ascii	"%\306\011|k\317$\372\320`=\224]\307!\206A\241R\213 "
@@ -413,7 +413,7 @@
 	.ascii	"!\266\277\276nw,\022\253\223\265\373\"\015ro$\026\371"
 	.ascii	"\003\374\360P\374"
 	.text
-	.section	.gnu.lto_spektrumBind.part.0.53cfc007e46b464d,"e",%progbits
+	.section	.gnu.lto_spektrumBind.part.0.db6ff688f056285e,"e",%progbits
 	.ascii	"x\234\225XkPTG\026\276\247{\346\316\233\201\341\015"
 	.ascii	"\356\312F\321\365\021\301GR\246jk+U\373g\363+[\273\277"
 	.ascii	"\366\327V6q7\324&\232Bw\313\375\225\313K$\030$\306\327"
@@ -557,7 +557,7 @@
 	.ascii	"1}-\003\031\327\360'\263X\261\326\372\311\252\3645\302"
 	.ascii	"\325\377\001\277~+~"
 	.text
-	.section	.gnu.lto_spekShouldBind.53cfc007e46b464d,"e",%progbits
+	.section	.gnu.lto_spekShouldBind.db6ff688f056285e,"e",%progbits
 	.ascii	"x\234mT\331KTQ\030?\277\363\335m\246\2614[\231\002_"
 	.ascii	"$\332T\010\302\307\350/\350\245^\303\026\"Z\0105\350"
 	.ascii	"\255\323\214V\242\255\030v\253\351Z\242\365\020\355"
@@ -606,7 +606,7 @@
 	.ascii	"yEY\345\362\025k7\256r\026\363\262d\375\3465\177\001"
 	.ascii	"\327A\206\216"
 	.text
-	.section	.gnu.lto_spektrumBind.53cfc007e46b464d,"e",%progbits
+	.section	.gnu.lto_spektrumBind.db6ff688f056285e,"e",%progbits
 	.ascii	"x\234]Q\315KTQ\024?\277{\356<\337\214\226\253\300\260"
 	.ascii	"\205\013Al\341\270\267E\320_\022R\241\241\306X\340n"
 	.ascii	"\356\274\231\0221\254\205\241\263\230\2560\214\265\362"
@@ -634,7 +634,7 @@
 	.ascii	"8\3337\230\316\214\244\207/\235\273x9se\240\253\227"
 	.ascii	"\302\314\310\231\241\301\363}\027\376\002\035P\262F"
 	.text
-	.section	.gnu.lto_srxlTelemetryBufferEmpty.53cfc007e46b464d,"e",%progbits
+	.section	.gnu.lto_srxlTelemetryBufferEmpty.db6ff688f056285e,"e",%progbits
 	.ascii	"x\234mO\273/Ca\024?\277\357|\255\353\321UH\027k\027"
 	.ascii	"W\302\304\342\337\350$\322\030D*R$\266~\267\217H\243"
 	.ascii	"a\252\306\320\334\241\021LX\014\236\027\211I\0321\020"
@@ -656,7 +656,7 @@
 	.ascii	"\211\230\035\037\036\035\267\0233\366\344\304\310\330"
 	.ascii	"Tb:\336\035\243o\317\344\1776"
 	.text
-	.section	.gnu.lto_srxlRxWriteTelemetryData.53cfc007e46b464d,"e",%progbits
+	.section	.gnu.lto_srxlRxWriteTelemetryData.db6ff688f056285e,"e",%progbits
 	.ascii	"x\234e\221\321K\024Q\024\306\317w\317\335uV\355-\243"
 	.ascii	"\260\300@X|\310\375\027\372;z[\314\207(%V\203\336\274"
 	.ascii	";\332nT\030\201\261\010\015c-[AD\004.\261\2515m\245"
@@ -686,7 +686,7 @@
 	.ascii	"\377\350p\356\304@o\037\331\303\331\341,\037\353\037"
 	.ascii	"\374\003\342'\324\242"
 	.text
-	.section	.gnu.lto_spektrumInit.53cfc007e46b464d,"e",%progbits
+	.section	.gnu.lto_spektrumInit.db6ff688f056285e,"e",%progbits
 	.ascii	"x\234\235XYpT\307\025}\267{\366M\243\321\002\316\310"
 	.ascii	"H\001\023\202q\220\252\022W\245\312\251\304U\376\312"
 	.ascii	"O>\342\317,U\224C\022*\005v\311r\025\177~\332\220\265"
@@ -814,7 +814,7 @@
 	.ascii	"\363v~\301\233\177^\226\277\374\017\242+\027\375\017"
 	.ascii	"pmm:"
 	.text
-	.section	.gnu.lto_srxlRxIsActive.53cfc007e46b464d,"e",%progbits
+	.section	.gnu.lto_srxlRxIsActive.db6ff688f056285e,"e",%progbits
 	.ascii	"x\234]\216=K\003A\024E\357\335Y\343Zl+\312\"\330\246"
 	.ascii	"\311\012\376\001\377\212\004\013\321\210l\024\3542\273"
 	.ascii	"\233\020\202\022\253\030\024\302\026A\264\023Ig\374"
@@ -833,7 +833,7 @@
 	.ascii	"\362~ayu\303\017v\374\342\346\312\332V\260]\310\345"
 	.ascii	"\361\003\377\023a5"
 	.text
-	.section	.gnu.lto_.symbol_nodes.53cfc007e46b464d,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.db6ff688f056285e,"e",%progbits
 	.ascii	"x\234u\224\313O\023Q\024\207\357o\016SZ\312\263\035"
 	.ascii	"\251@\205\212\225\247\010>\026.\325\360\247\360\177"
 	.ascii	"\234QG7&\204\350\312\215\022S\024Q^V\345!*\325*\212"
@@ -871,7 +871,7 @@
 	.ascii	"^U\223\242\215\223\327G\277\310W\301G\321\323?t\265"
 	.ascii	"Z\374\005\275V\013\011"
 	.text
-	.section	.gnu.lto_.refs.53cfc007e46b464d,"e",%progbits
+	.section	.gnu.lto_.refs.db6ff688f056285e,"e",%progbits
 	.ascii	"x\234\015\315[J\303P\024\206\321\357\337\373\344\344"
 	.ascii	"\322$'\2276\255\2551\255(\010\365A\274\200Rp\354\342"
 	.ascii	"\2133q\034\272&\260\012\304/P\200L\012\262\210\345\262"
@@ -883,7 +883,7 @@
 	.ascii	"\334k>\330\260Xy\264\233\223e\267\244{\322\331xV\376"
 	.ascii	"\242\345M\365\273\352\213\216\344\342\017sU\014\344"
 	.text
-	.section	.gnu.lto_.decls.53cfc007e46b464d,"e",%progbits
+	.section	.gnu.lto_.decls.db6ff688f056285e,"e",%progbits
 	.ascii	"x\234\325|{TUW\232\347\335w\337\313\343\362\362\225"
 	.ascii	"hb\272R\311\262\246\272W\257\304<juz\326\364Z\223\252"
 	.ascii	"TW\342\254J%K\223\356I\367\254\241\010\\\224)^}\357"
@@ -1477,7 +1477,7 @@
 	.ascii	"\305\252\242\306\335_\230\325?\007\267\257\265`Q2yY"
 	.ascii	"\331\371\177\000+V\241\304"
 	.text
-	.section	.gnu.lto_.symtab.53cfc007e46b464d,"e",%progbits
+	.section	.gnu.lto_.symtab.db6ff688f056285e,"e",%progbits
 	.ascii	"rssi_channel\000"
 	.ascii	"\000"
 	.ascii	"\000"

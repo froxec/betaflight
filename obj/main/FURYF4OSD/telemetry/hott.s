@@ -9,10 +9,10 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"hott.c"
-	.section	.gnu.lto_.profile.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_.profile.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_.icf.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\343``d0dd\200\003c\206M{\376\367p1N|\275\350\031"
 	.ascii	"/\023\230d>4\271\273\201\227\345\\\363\251d\326O?\316"
 	.ascii	"_\347f\333|\256\361\004#;\230\315q\355\306\212\207\354"
@@ -31,7 +31,7 @@
 	.ascii	"\226\216[<f\277\246\317\230\313m\016v%\003\000\216\374"
 	.ascii	"\236\332"
 	.text
-	.section	.gnu.lto_.jmpfuncs.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\215UMk\024A\020\2557\335\316\316&\233\0351\010"
 	.ascii	"\352\242\254\210\036\022\015~\377!\377\307nD<\204\300"
 	.ascii	"\342\311\350i\321\220\203\361`\004\311!k\374\214_x\026"
@@ -64,7 +64,7 @@
 	.ascii	"\027\323I]\266#\015I\034\314\205\3768\205-\367\372i"
 	.ascii	"\320_\347?\222\217"
 	.text
-	.section	.gnu.lto_.inline.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_.inline.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\215T{K\024Q\024?\367\336i\035\327\321V{i\245l"
 	.ascii	"\230\025a\321\303\244O\261_b]\327\"\351\033\304X\230"
 	.ascii	"aek&\253\201\031I\205fBT\230\317$!5\212D\"\314\302\""
@@ -109,7 +109,7 @@
 	.ascii	";\254\376\275\235\223\023\365\335\311W\235\222\3263"
 	.ascii	"\300_+\211Y\370"
 	.text
-	.section	.gnu.lto_.pureconst.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_.pureconst.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\005\301Q\012\202`\020\205\321\021>B|)\204\300"
 	.ascii	"\204_\224\260\207PIK\327\342\202\\\304\235Y\211\313"
 	.ascii	"\353\234\3342\333\315,\231\340\344\"\012q\0257Q\212"
@@ -117,7 +117,7 @@
 	.ascii	"C0\212I|\234\371`\021_\361\023\253\330\304\037\272C"
 	.ascii	"\025\355"
 	.text
-	.section	.gnu.lto_initialiseMessages.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_initialiseMessages.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\225\325[O\023A\024\007\3609;\355v\333\252\370"
 	.ascii	"\206\011j|E\023\312G\360\253(!\321D4\301\276\370\304"
 	.ascii	"P(\0201\230\030\261\360\200\255V\"\030o\274\011\210"
@@ -163,7 +163,7 @@
 	.ascii	"\036o\376\251\374\202|o\3419\317\2113^oN\036\372\013"
 	.ascii	"\340\353\223b"
 	.text
-	.section	.gnu.lto_flushHottRxBuffer.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_flushHottRxBuffer.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\215P\277/CQ\024>\337=\367\265\2170\033\210X-\336"
 	.ascii	"\332\321\277\340\0170\2104!Q\022\272\230\334V\233\016"
 	.ascii	"\025\235\220\016M\211\010\211\320\030\375~HX\014b A"
@@ -186,7 +186,7 @@
 	.ascii	"{-d\242\266.ol\264\337\213\365\015\016{\361\350P4\026"
 	.ascii	"\215\217\216{\003#\361xW?}\001\263L\253\364"
 	.text
-	.section	.gnu.lto_hottTextmodeStop.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_hottTextmodeStop.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\215\221\317KTQ\034\305\277\347~\357\314{\211\345"
 	.ascii	"\242\205\230a\253\026n\234? \210\376\025\221\201\022"
 	.ascii	"5\260\331\010\202w\246\221Y(\272*\231\3050#C\024\263"
@@ -213,7 +213,7 @@
 	.ascii	"\330`\357\275\241X\">\020\037\214'\206Gbw\357'\022="
 	.ascii	"}\364\027)$\333{"
 	.text
-	.section	.gnu.lto_processBinaryModeRequest.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_processBinaryModeRequest.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\215T\335O\034U\024\277\277\271\2633\263\263[\354"
 	.ascii	"\203}0\230HlbS\023K\223\276\370\340\203\257\376\031"
 	.ascii	"MK\242\211\325\004\366\305\247^v\027\261\013\331\226"
@@ -271,7 +271,7 @@
 	.ascii	"P\373\366\373\221\310\201#\302<|\364h}]C\303\377H\250"
 	.ascii	"i\014"
 	.text
-	.section	.gnu.lto_hottTextmodeStart.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_hottTextmodeStart.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234mR\315KTq\024\275\347\375\346\343\215:3Q\313\351"
 	.ascii	"k#\342\306q\321\306E\320\266?Cd\242(\025t6\265\3617"
 	.ascii	"\223\341\224\241\021\210\0164\274\221!2\210\206 (\035"
@@ -304,7 +304,7 @@
 	.ascii	"\375\\W4\036\273\020\353\214\305{.F\317v\307\343-\035"
 	.ascii	"d\306\333{\317\237\356:\323\375\033\363u\005\340"
 	.text
-	.section	.gnu.lto_processHottTextModeRequest.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_processHottTextModeRequest.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\225U\337oSU\034?\337sn\357\217\366n\213\011K4"
 	.ascii	"\230\260\360B\360\2015\361\325\007\374\007L|\364\321"
 	.ascii	"\214%j\234&\270\027\2378k\253\235[\005fp]\011\265\204"
@@ -363,7 +363,7 @@
 	.ascii	"\3576\2674\267\356\376\260\361\255\367[[w41\321\324"
 	.ascii	"\262\353\037m%x}"
 	.text
-	.section	.gnu.lto_hottCheckSerialData.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_hottCheckSerialData.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\215U[L\034U\030>\377\234\331\235\331\335\331\005"
 	.ascii	"Q\243\015&\345\241\224\324\304\322\244\321\304\247\372"
 	.ascii	"\252\306g\337L\0206Jbi\334\335>\364\251\003\273\355"
@@ -433,7 +433,7 @@
 	.ascii	"\346\031\237\333\373zA\261\257\270\344\255\177\001\342"
 	.ascii	"\330\317j"
 	.text
-	.section	.gnu.lto_updateAlarmBatteryStatus.isra.0.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_updateAlarmBatteryStatus.isra.0.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\215U]L\\E\024\236s\347\356\275w\331]@\242\215"
 	.ascii	"v\261\366\205\254\364\001HLl41\241\017&\325\004\037"
 	.ascii	"\354\233>\021B\264I\001SV\023\237:,+\204\037\013\306"
@@ -502,7 +502,7 @@
 	.ascii	"\355\237\024\354sg\177\220+\036\3429\353\315]YY\271"
 	.ascii	"\205\205\030\373\017\217\350\241\253"
 	.text
-	.section	.gnu.lto_hottEAMUpdateBattery.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_hottEAMUpdateBattery.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\235\223\335K\024Q\030\306\3173g\334\035?v\225"
 	.ascii	"\256\002\213\366\"\021o\\\351\266\233\272\350&\360\217"
 	.ascii	"\020Y*\320\004]\202\350\302\263\273~D\226YX\233\027"
@@ -544,7 +544,7 @@
 	.ascii	"\373\313\313Cuu\025\207B\372\261\232\252\360\037+?X"
 	.ascii	"\326"
 	.text
-	.section	.gnu.lto_workAroundForHottTelemetryOnUsart.isra.0.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_workAroundForHottTelemetryOnUsart.isra.0.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\215T]h\024W\024\276\337\234\231\335\331\237D\343"
 	.ascii	"_\203+\230\027Y\002\232\004|\320\307\370 \350\223\320"
 	.ascii	"B\337%.4\320$\222\354K\237r\263\011n\333\004-V\335$"
@@ -598,7 +598,7 @@
 	.ascii	"4\267\271\215\315m\361\355\315\015\261\267\361\360\321"
 	.ascii	";"
 	.text
-	.section	.gnu.lto_hottConfigurePortForTX.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_hottConfigurePortForTX.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\215R]KTQ\024=\353\236{\307\371\272S\372\226F\370"
 	.ascii	"\322\203/\216\217=\326K/\375\212\020!!\013l^z\3628N"
 	.ascii	"\015\346GA\226I\215#\335\304\0244\205>(\255&\2474\313"
@@ -639,7 +639,7 @@
 	.ascii	"\330_QU\021\251>\034\336w0\022)-\027\277\000\214\347"
 	.ascii	"i\307"
 	.text
-	.section	.gnu.lto_hottConfigurePortForRX.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_hottConfigurePortForRX.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\215TMO\023Q\024}g\336Lii\013\002\272\020\214a"
 	.ascii	"\343\202\215e\351R7\376\017CH\324\210&\330\215nx\264"
 	.ascii	"\325\006\253h\"Zk,5\251\0061i\201\205\032\344\303\012"
@@ -681,7 +681,7 @@
 	.ascii	"\366x\253\017U\327T{k\217y\366\037\361zwV\211_W\024"
 	.ascii	"y\345"
 	.text
-	.section	.gnu.lto_hottSendTelemetryData.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_hottSendTelemetryData.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\225U[O\023Q\020>\263g\257\265\372\002\025\022"
 	.ascii	"\225\360\246h\002$\376\001\377\202?\301(\211&\242\011"
 	.ascii	"\362\342\223K\313%R/!Q\024\243V\323\0305DQ\011&\336"
@@ -734,7 +734,7 @@
 	.ascii	"\221\222\275\005\305{\016\034*(-:XT\\TZr\264`\377\341"
 	.ascii	"\322\322\374\275\354\027\350S\224\331"
 	.text
-	.section	.gnu.lto_hottTextmodeWriteChar.part.0.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_hottTextmodeWriteChar.part.0.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\215\222\337K\024Q\024\307\357\367\236\231\331"
 	.ascii	"u1\242\207@20zh\321\300\025\373\007\372/\202\336b\021"
 	.ascii	"\012\374\001\266\021=y\33567\3300\014E\023\266\225\026"
@@ -771,7 +771,7 @@
 	.ascii	"\341P\323\2513\315\241HCcCSC\244\365B\350tK$R\033\026"
 	.ascii	"N\270\245\361\\S3\265\266\234G\3707nEM^"
 	.text
-	.section	.gnu.lto_checkHoTTTelemetryState.part.0.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_checkHoTTTelemetryState.part.0.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\215R\317kSA\020\236o\347\345\345y\020OB\241\202"
 	.ascii	"\247\036Z\241Q<\364\352\305\377@\274\307\372\300B\032"
 	.ascii	"\241F\304S\267ih\225H\265\202\326\026J\016A\024zPo\326"
@@ -801,7 +801,7 @@
 	.ascii	"\234O\234:\235\311\364\017RW:<w\254\351<\232N\236H\205"
 	.ascii	"'\217'Sg\303\277\212\214\364\216"
 	.text
-	.section	.gnu.lto_handleHoTTTelemetry.part.0.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_handleHoTTTelemetry.part.0.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\225TMHTQ\024\276\337\275\357\275yN\272\024\202"
 	.ascii	"\011j\221\211\026\216\320\256\225\313\266A-Z\226\015"
 	.ascii	"(\244\3018-Zy\235\361\207\234A)\264\311d4\030\245V\226"
@@ -842,7 +842,7 @@
 	.ascii	"\225\262\234\322\233~\277\2572p\261\274\302w\251\352"
 	.ascii	"/A\353}\034"
 	.text
-	.section	.gnu.lto_addGPSCoordinates.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_addGPSCoordinates.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\245V\333O\224W\020?\263\347\333+\313\002*\212"
 	.ascii	"\\\004\271HxaQ\036\232>4i\237\352CM\233\364/ \270\241"
 	.ascii	"$\200\211l\037\2326\361c\267.m-\266M\244\210\351\272"
@@ -915,7 +915,7 @@
 	.ascii	"k\315\256\272*q2\355tU\355\250\256\343\265\370\324\273"
 	.ascii	"*\377\005\321JT\003"
 	.text
-	.section	.gnu.lto_hottPrepareGPSResponse.part.0.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_hottPrepareGPSResponse.part.0.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\235V\335O\034U\024\277g\356\354'\354.\237\013"
 	.ascii	"\245&\362PB\360\001\350\243\017\232\372$/ML\374\013"
 	.ascii	"\010\335H\223R\232\356\372\340S\207\205.\366#\225\020"
@@ -988,7 +988,7 @@
 	.ascii	"\362\330\362\215\340\240\311{\314\3439\224\026V\253"
 	.ascii	"\240\270\250\250\370(\306\276Bov!\373\027\262hK\034"
 	.text
-	.section	.gnu.lto_hottPrepareGPSResponse.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_hottPrepareGPSResponse.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\235S\315K\024a\034~\237yggfu\335K\004\201A\036"
 	.ascii	"\0023\320]\352\330\245[\247 \350/\020Y*H\003\335K'g"
 	.ascii	"W\323R\261\017L\223X\267\332\266<\204)D\244\2566\371"
@@ -1029,7 +1029,7 @@
 	.ascii	"\354\005\277\277\250\204\271\305\373\304\251\323'}\025"
 	.ascii	"\025\305g|\177\000\274\362x\214"
 	.text
-	.section	.gnu.lto_hottPrepareEAMResponse.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_hottPrepareEAMResponse.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\245U[L\224W\020>\363\237\275_\021\021QDiRbL\032"
 	.ascii	"\240I_\232\276\324\244M\232\264\246\257}%vSM\2446J\233"
 	.ascii	"\364\311\237\005A\321*1^\272\305\315B-\305\324Ki\325"
@@ -1114,7 +1114,7 @@
 	.ascii	"E_~\032\220\205\213\227\311\202\302/\376\005\234\234"
 	.ascii	"u&"
 	.text
-	.section	.gnu.lto_freeHoTTTelemetryPort.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_freeHoTTTelemetryPort.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\215\220\315KBA\024\305\357y\243\317\027\3216\202"
 	.ascii	">hk\201\357_\350\357h\027\"\024d\201\275M+\307\227%"
 	.ascii	"a\330\252\304\205\274\205D\355\244\245\331\307\313\312"
@@ -1136,7 +1136,7 @@
 	.ascii	"Z\221\371H4b\305\226\315\331E\313\012\205\351\013\031"
 	.ascii	"|\237\312"
 	.text
-	.section	.gnu.lto_initHoTTTelemetry.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_initHoTTTelemetry.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234m\221\317KTQ\024\307\317\367\236;\343\033\177\264"
 	.ascii	"\011\"P\334\0331\257}\033\241?\243U\014\003\005Z0\316"
 	.ascii	"\246\325\334\3211\251\011[\205\275\205\274\211a\260"
@@ -1164,7 +1164,7 @@
 	.ascii	"\245\313~>;\224\035\316\346sW\375\213W\362\371t\206"
 	.ascii	"\376\001\253g\310\343"
 	.text
-	.section	.gnu.lto_configureHoTTTelemetryPort.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_configureHoTTTelemetryPort.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234m\223\313O\023Q\024\306\3577g^\225\026\025\201"
 	.ascii	"\230\324D7.4\006H\364\017p\341\336\235{CH4A1\330\215"
 	.ascii	"+o\013>\260\015\272\221\202\206L\260\032D\003\342#5"
@@ -1207,7 +1207,7 @@
 	.ascii	"\362PUu\325\216\252P\355\236\362m5\241PY\245(\330US"
 	.ascii	"\033\332\274+\264\275f\347\356\337\002\037}\254"
 	.text
-	.section	.gnu.lto_hottTextmodeIsAlive.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_hottTextmodeIsAlive.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234E\216\277KBQ\024\307\277\337{M_\203{`\277V\027"
 	.ascii	"_\320\036\375+!BA\026\330[\032\302\363\236JD\241\223"
 	.ascii	"I\203HH\324&-\015Y\361\246\246\206h\250!jh\010*\250"
@@ -1224,7 +1224,7 @@
 	.ascii	".\255\254\371Aa\265P,\004\245M\177y=\010ry\374\000\236"
 	.ascii	"\317V\267"
 	.text
-	.section	.gnu.lto_hottTextmodeGrab.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_hottTextmodeGrab.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234EN=K\003Q\020\334y/\306\023\021\301J\360\253N\223"
 	.ascii	"\313?\320\277\"\341@\301(\304kl\314\2733\032!\022A\220"
 	.ascii	"h!\027\011A\033=-\215\0379\024\254T\202\210\215 \222"
@@ -1243,7 +1243,7 @@
 	.ascii	"\231\231\236\2357mk\316\312Xvv\311\234Y\260\355d\232"
 	.ascii	"~\001\256\350fe"
 	.text
-	.section	.gnu.lto_hottTextmodeExit.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_hottTextmodeExit.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234EN=K\003Q\020\334y/\236\227B\304N\360\253N\223"
 	.ascii	"\313?\320\277\"\341@\301(\304kl\314\2733\032%\022A\220"
 	.ascii	"h!\027\011Am\2146\202\361#\207\205\225\205XX(\010F\020"
@@ -1260,7 +1260,7 @@
 	.ascii	"\327U\224\370\217J4\234\264\346\263i+39=k9\366\214\235"
 	.ascii	"\261\235\354\20255\3478\3114\375\002c\315e\241"
 	.text
-	.section	.gnu.lto_hottTextmodeWriteChar.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_hottTextmodeWriteChar.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234m\221\275K\243A\020\207\347\267\263\357k.h!\\!"
 	.ascii	"\344@\253\013*\030\301\356*\377\025\011\001\005c \227"
 	.ascii	"C\254\262\0119\003F\024\301C,B\014\"\261R\357\272;O"
@@ -1286,7 +1286,7 @@
 	.ascii	"\351\211\330p*\223\351\213\223\037O\215~K\216q:5\216"
 	.ascii	"\3703W\363\235i"
 	.text
-	.section	.gnu.lto_checkHoTTTelemetryState.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_checkHoTTTelemetryState.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234m\222\313kSA\024\306\3177\347\336\233\233\232\240"
 	.ascii	"K!\202\335tQ\205Ft\341\326\215\377\201\210\333X/(\244"
 	.ascii	"\021jD\\H\247I\260\226\206>D-Y\224+\0041\213\202\017"
@@ -1318,7 +1318,7 @@
 	.ascii	"\323\343d{\317'O\236\316f\273\272ig\3069w\344w\360p"
 	.ascii	"&u<\355\2348\232J\237u~\001\300Q\352\324"
 	.text
-	.section	.gnu.lto_handleHoTTTelemetry.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_handleHoTTTelemetry.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\215\224\331KTQ\034\307\317\367\236\273\2163\331"
 	.ascii	"\242A\030\344C\020-\344K\275D\017=\366\007\324\037\020"
 	.ascii	"6P\220\0066=\364\324u\034\332\314B\262\206\211F\243"
@@ -1368,7 +1368,7 @@
 	.ascii	"\331\036\012\255,\027\201\362\235UU\301\312\320\206"
 	.ascii	"\255\025\301\215;\376\001p\262\361\364"
 	.text
-	.section	.gnu.lto_.symbol_nodes.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234u\225\353sSE\030\306\367\33179iSHB\240\220D\023"
 	.ascii	"Z\012Uk\210Ui\207\213\367\341/a\370?\336X\002*E\251"
 	.ascii	"\203\343\3508\203S\354\007\206\017\035>`\265U.\011\241"
@@ -1420,7 +1420,7 @@
 	.ascii	"^(\336\366\256\243\267KKw7>}p\313E\270O\242\267\243"
 	.ascii	"\272\353\332\007*6$\376\003\266m\003]"
 	.text
-	.section	.gnu.lto_.refs.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_.refs.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234EQ\331N\303@\020\263gvr\355\321\244\351Ai P*\312"
 	.ascii	"!(\207\240\237\314o\262\021\010\346\301\017\226\307"
 	.ascii	"cy*\020_\004\022\204y2(\351H\023)(%\245\242\324\224"
@@ -1438,7 +1438,7 @@
 	.ascii	"\014\362\201#\261\323\362\023;\342\244\302B\362\027"
 	.ascii	"NUn\0251\340\033\222-\0201"
 	.text
-	.section	.gnu.lto_.decls.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_.decls.519d719d06c1df75,"e",%progbits
 	.ascii	"x\234\325|iXTY\226 /n\004A\004[\272\244\346^\2255VW"
 	.ascii	"\365\314d\231fVUv\367\364|UYYUm\366\230\313\227fVWe"
 	.ascii	"\367\014Eb\250t\262\330D\230\245\263T\007\253,\"\242"
@@ -2287,7 +2287,7 @@
 	.ascii	"\355\237\217\350\364\275\204K\343%\011\3777\252\241"
 	.ascii	"\267G"
 	.text
-	.section	.gnu.lto_.symtab.7dd68efc1a95bcd0,"e",%progbits
+	.section	.gnu.lto_.symtab.519d719d06c1df75,"e",%progbits
 	.ascii	"addGPSCoordinates\000"
 	.ascii	"\000"
 	.ascii	"\000"

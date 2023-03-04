@@ -9,30 +9,30 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"scheduler.c"
-	.section	.gnu.lto_.profile.659f46f3e243bbb5,"e",%progbits
+	.section	.gnu.lto_.profile.334e45c68fda7ab,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.659f46f3e243bbb5,"e",%progbits
+	.section	.gnu.lto_.icf.334e45c68fda7ab,"e",%progbits
 	.ascii	"x\234\343``dP`@\000V\206\355]]\335,\214\2357\346\036"
 	.ascii	"\344g\332\373\360];+3\230d\001\223\014\000\354\252\016"
 	.ascii	"\251"
 	.text
-	.section	.gnu.lto_.jmpfuncs.659f46f3e243bbb5,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.334e45c68fda7ab,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.inline.659f46f3e243bbb5,"e",%progbits
+	.section	.gnu.lto_.inline.334e45c68fda7ab,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.pureconst.659f46f3e243bbb5,"e",%progbits
+	.section	.gnu.lto_.pureconst.334e45c68fda7ab,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_pgResetTemplate_schedulerConfig.659f46f3e243bbb5,"e",%progbits
+	.section	.gnu.lto_pgResetTemplate_schedulerConfig.334e45c68fda7ab,"e",%progbits
 	.ascii	"x\234\343``d0a`\000\222\0200\235\231q\301\373\365\037"
 	.ascii	"X\372\230\347330J\002\2717\217\355\370\304o\271\275"
 	.ascii	"\241cA\203\302|f\306\031@\341]\214\3223\230\031A\024"
 	.ascii	"\003\343nFK\006\000\034c\021\002"
 	.text
-	.section	.gnu.lto_schedulerConfig_Registry.659f46f3e243bbb5,"e",%progbits
+	.section	.gnu.lto_schedulerConfig_Registry.334e45c68fda7ab,"e",%progbits
 	.ascii	"x\234\343``d\020gd`\220a\200\200\351\314\214sW\234\371"
 	.ascii	"\317\331\302\330\324\330\321\320\360\240{\227\\\355"
 	.ascii	"|f\206\305\314\020\271\335_\366\276\002\313\315hhX\260"
@@ -49,16 +49,16 @@
 	.ascii	"\271\211\231y\372\005\351\372\305\311\031\251)\2459"
 	.ascii	"\251Ez\311\014\000\260\243e7"
 	.text
-	.section	.gnu.lto_.symbol_nodes.659f46f3e243bbb5,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.334e45c68fda7ab,"e",%progbits
 	.ascii	"x\234\343``d\360`\000\002\326\011\214\014\255J\014z"
 	.ascii	"\005\351\361E\251\305\251%)\211%\211@\321>FF\270hzf"
 	.ascii	"qIQ%P\260\213\221\251Q\011\244\247\233\221\031\302\350"
 	.ascii	"ad\0013\030\000\271t\020n"
 	.text
-	.section	.gnu.lto_.refs.659f46f3e243bbb5,"e",%progbits
+	.section	.gnu.lto_.refs.334e45c68fda7ab,"e",%progbits
 	.ascii	"x\234\343``d\340f```adbbbfb`ba\000\000\001\361\000+"
 	.text
-	.section	.gnu.lto_.decls.659f46f3e243bbb5,"e",%progbits
+	.section	.gnu.lto_.decls.334e45c68fda7ab,"e",%progbits
 	.ascii	"x\234\225VoLTW\026\177\347\335\001\206\307\014\330\301"
 	.ascii	"U[H\224\335\2616\331\215h\233\230\335d\3234q\263\273"
 	.ascii	"\311&\233\215\333~\351\207%\2630\016\223\300H\230a\267"
@@ -170,7 +170,7 @@
 	.ascii	"\035+\026\206\372\327\355v\2079}\371\302\341\315\350"
 	.ascii	"u\321\262\202\324\377\003\353\264&Y"
 	.text
-	.section	.gnu.lto_.symtab.659f46f3e243bbb5,"e",%progbits
+	.section	.gnu.lto_.symtab.334e45c68fda7ab,"e",%progbits
 	.ascii	"pgResetTemplate_schedulerConfig\000"
 	.ascii	"\000"
 	.ascii	"\000"

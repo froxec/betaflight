@@ -9,29 +9,29 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"mixer_tricopter.c"
-	.section	.gnu.lto_.profile.515f9dd5abe5be47,"e",%progbits
+	.section	.gnu.lto_.profile.ba6e56557764afb7,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.515f9dd5abe5be47,"e",%progbits
+	.section	.gnu.lto_.icf.ba6e56557764afb7,"e",%progbits
 	.ascii	"x\234\343``d0b@\000\016\206y\337\366\276\341d<\324\370"
 	.ascii	"j2?\323\325\355_\357\3612\317=we\017\037\313\305\037"
 	.ascii	"O\3572\261N\332\276\370.3\033\230d\337\373\360];+\003"
 	.ascii	"\000\220z\031'"
 	.text
-	.section	.gnu.lto_.jmpfuncs.515f9dd5abe5be47,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.ba6e56557764afb7,"e",%progbits
 	.ascii	"x\234\343``d\020e@\000f\006FF\306\372\371`\212\201a"
 	.ascii	">3#\023P\020\000\032\236\001\356"
 	.text
-	.section	.gnu.lto_.inline.515f9dd5abe5be47,"e",%progbits
+	.section	.gnu.lto_.inline.ba6e56557764afb7,"e",%progbits
 	.ascii	"x\234\343``d\250b@\000f\006\006\226\006 `NaedP`\004"
 	.ascii	"\0134\002\371u\014\014l q\246\024&\006 \0043\223\031"
 	.ascii	"X@Z\030\031\230!2\214@\031,\212\201\200\211\260\022"
 	.ascii	"\006\000DL\031/"
 	.text
-	.section	.gnu.lto_.pureconst.515f9dd5abe5be47,"e",%progbits
+	.section	.gnu.lto_.pureconst.ba6e56557764afb7,"e",%progbits
 	.ascii	"x\234\343``d\340b```fh`al`aj`\001\000\011\030\001\246"
 	.text
-	.section	.gnu.lto_mixerTricopterIsServoSaturated.515f9dd5abe5be47,"e",%progbits
+	.section	.gnu.lto_mixerTricopterIsServoSaturated.ba6e56557764afb7,"e",%progbits
 	.ascii	"x\234E\217OK\002Q\024\305\357\2317\351\364\307j\343"
 	.ascii	"&\021\\\010\342\306\021\372\002}\206\276@\210L5\220"
 	.ascii	"\031\323,\332y\235 \263\242\0104\213\020WQ\273\010Z"
@@ -52,7 +52,7 @@
 	.ascii	"\363\346\364\234=3\353\2329{\311r\246\\\307\316\346"
 	.ascii	"\027\\\313Ie\251\337r\234\2743\231q\255\037\266|q\270"
 	.text
-	.section	.gnu.lto_mixerTricopterMotorCorrection.515f9dd5abe5be47,"e",%progbits
+	.section	.gnu.lto_mixerTricopterMotorCorrection.ba6e56557764afb7,"e",%progbits
 	.ascii	"x\234U\220\277K\303@\030\206\277\367.\215Atu\011\001"
 	.ascii	"\207B(H\363/8\372_\210\204\252\001c$fp\353\265\010\016"
 	.ascii	"\026]\224\"\"\021\244\330A(BA\360g@\004-N\342\320\251"
@@ -70,7 +70,7 @@
 	.ascii	"\245`\335[^\013VV\023/\014\266*\361b\022\007~\264\221"
 	.ascii	"T\342\262O\2050J\242\370\007\307\255d\204"
 	.text
-	.section	.gnu.lto_mixerTricopterInit.515f9dd5abe5be47,"e",%progbits
+	.section	.gnu.lto_mixerTricopterInit.ba6e56557764afb7,"e",%progbits
 	.ascii	"x\234\343``d\350a``P\003bY fdf`djhhp`o\344`bd\004\263"
 	.ascii	"\0328\030\031\352\231\030\353\031\373\231\24733\036"
 	.ascii	"j\177\266\223Is9P\246\341\300\364\017\222\015+\0160"
@@ -82,13 +82,13 @@
 	.ascii	"AEO\277\270(Y?713O?-'3=\243D?7\263\"\265(\276\244(3"
 	.ascii	"9\277\240$\265H/\231\001\000\006\003<\306"
 	.text
-	.section	.gnu.lto_pgResetTemplate_tricopterMixerConfig.515f9dd5abe5be47,"e",%progbits
+	.section	.gnu.lto_pgResetTemplate_tricopterMixerConfig.ba6e56557764afb7,"e",%progbits
 	.ascii	"x\234\343``d\320e`\000\222\0200\235\231\361\370\373"
 	.ascii	"\267W\030\373\230\3473\003\005\201\334\336#\337np[n"
 	.ascii	"o\350X\320 0\237\231q\006Px\027\2434\003\343nFK\006"
 	.ascii	"\000\247\241\017w"
 	.text
-	.section	.gnu.lto_tricopterMixerConfig_Registry.515f9dd5abe5be47,"e",%progbits
+	.section	.gnu.lto_tricopterMixerConfig_Registry.ba6e56557764afb7,"e",%progbits
 	.ascii	"x\234\343``d\220`d`Pc\200\200\351\314\214sW\234\371"
 	.ascii	"\317\331\302\330\324\330\321\320\360\240\373\254L\017"
 	.ascii	"\363|f\206\305\314\020\311\335_\366\276\002K\316hhX"
@@ -105,7 +105,7 @@
 	.ascii	"\364\214\022\375\334\314\212\324\242\370\222\242\314"
 	.ascii	"\344\374\202\222\324\"\275d\006\000\345\311ip"
 	.text
-	.section	.gnu.lto_.symbol_nodes.515f9dd5abe5be47,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.ba6e56557764afb7,"e",%progbits
 	.ascii	"x\234\343``d\230\311\000\004L\013\030\353\031\032\200"
 	.ascii	"\200\205q\3029\006\206z\006\206]\015\216@I\220\324B"
 	.ascii	"\306zF\034R\213\030\353\231\260K\261\316gdhUb\320+H"
@@ -113,10 +113,10 @@
 	.ascii	"U\002\005g225*\201\364\314bd\2060f3\262\200\031\014"
 	.ascii	"\000\320\245$\220"
 	.text
-	.section	.gnu.lto_.refs.515f9dd5abe5be47,"e",%progbits
+	.section	.gnu.lto_.refs.ba6e56557764afb7,"e",%progbits
 	.ascii	"x\234\343``d\340f```aabebcbfbg\000\000\002K\000:"
 	.text
-	.section	.gnu.lto_.decls.515f9dd5abe5be47,"e",%progbits
+	.section	.gnu.lto_.decls.ba6e56557764afb7,"e",%progbits
 	.ascii	"x\234\225ViPT\331\025~\347\335\006z\005\003\3268)4Q"
 	.ascii	"\323\352\324L):Z\223\374\360G*Ve\371a*5\232J\225?\206"
 	.ascii	"b\240\205\256\222\206\352n\214\246R\225\307b\3038 \255"
@@ -252,7 +252,7 @@
 	.ascii	"\212\365\016\247%\361\347\001\307\226\241\220\300\323"
 	.ascii	"\364F\372\037\312;\004P"
 	.text
-	.section	.gnu.lto_.symtab.515f9dd5abe5be47,"e",%progbits
+	.section	.gnu.lto_.symtab.ba6e56557764afb7,"e",%progbits
 	.ascii	"mixerTricopterIsServoSaturated\000"
 	.ascii	"\000"
 	.ascii	"\000"

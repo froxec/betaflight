@@ -9,17 +9,17 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"dshot.c"
-	.section	.gnu.lto_.profile.c1f176fd47521fe0,"e",%progbits
+	.section	.gnu.lto_.profile.40a112f0aa478687,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.c1f176fd47521fe0,"e",%progbits
+	.section	.gnu.lto_.icf.40a112f0aa478687,"e",%progbits
 	.ascii	"x\234\343``d\260`@\000N\206\257\263\317\356aa|s\257"
 	.ascii	"\353\034\007\323\375\376KGy\230/__x\202\207\365\362"
 	.ascii	"\207\216S\274l{\017\336Z\304\303~m\303\375\017L\034"
 	.ascii	"o\377\355\374\312\302\271\342\374\332\035\274\014\000"
 	.ascii	"=7\034\360"
 	.text
-	.section	.gnu.lto_.jmpfuncs.c1f176fd47521fe0,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.40a112f0aa478687,"e",%progbits
 	.ascii	"x\234\215\224=O\002A\020\206wv\027\356<H\264'$\324\376"
 	.ascii	"\022\177\225\254\330h\243&j,\2109ch\264\"j\243\250 "
 	.ascii	"\342\307\241\"\342W\205\005\205\211\235\035\304\230"
@@ -43,7 +43,7 @@
 	.ascii	"\014h\352\023_)\311\2544\367<\007\231\034<\204*P\004"
 	.ascii	"!_\337x\206\215"
 	.text
-	.section	.gnu.lto_.inline.c1f176fd47521fe0,"e",%progbits
+	.section	.gnu.lto_.inline.40a112f0aa478687,"e",%progbits
 	.ascii	"x\234\205\223QKTQ\020\307\3773s\257{$\205+A\005!\334"
 	.ascii	"\"\310\307\236{\332O\340g\320ZY\261R?\302q})\002\023"
 	.ascii	"Z(\222\360I\220\210^z\313\214%\237\242\207\350\003\030"
@@ -71,11 +71,11 @@
 	.ascii	"n\361\314)\006\025\227\230\024\226\236\012\331\250\034"
 	.ascii	"\241\333:\001\367s\275\272"
 	.text
-	.section	.gnu.lto_.pureconst.c1f176fd47521fe0,"e",%progbits
+	.section	.gnu.lto_.pureconst.40a112f0aa478687,"e",%progbits
 	.ascii	"x\234\343``d\020c```g\230\305\3028\203\205i\006\013"
 	.ascii	"\363.V\326\026\026\366Y,\034\263X\0014\252\004\233"
 	.text
-	.section	.gnu.lto_dshotInitEndpoints.c1f176fd47521fe0,"e",%progbits
+	.section	.gnu.lto_dshotInitEndpoints.40a112f0aa478687,"e",%progbits
 	.ascii	"x\234\225\224\337O\\E\024\307\347\334\271w\367\356]"
 	.ascii	"`\005\233V\272\2424-!\030S\036\232\370\340S\215\211"
 	.ascii	"1\321\306\304\377\000\273\320\356\003\254\201\255\306"
@@ -140,7 +140,7 @@
 	.ascii	"s\000\331}\036|\224\261\341\036\007\323\327m\367BQQ"
 	.ascii	"Y\241\377?\373\277\342]"
 	.text
-	.section	.gnu.lto_dshotConvertFromExternal.c1f176fd47521fe0,"e",%progbits
+	.section	.gnu.lto_dshotConvertFromExternal.40a112f0aa478687,"e",%progbits
 	.ascii	"x\234\215T\337oTE\024\236s\347\376\334vS\032\320\324"
 	.ascii	"\324\325\276\020\20214\306\304\370b\342\243\177\001"
 	.ascii	"\357\0154\221\004h\262\255\3067\246\267k+\262\226&t"
@@ -196,7 +196,7 @@
 	.ascii	"ps\375\336\3467\233Zv\355a\301\306wZ\032\303\007\033"
 	.ascii	"\366\357n\330\377Vc\340@SKSXN\377\005\373\250!\207"
 	.text
-	.section	.gnu.lto_dshotConvertToExternal.c1f176fd47521fe0,"e",%progbits
+	.section	.gnu.lto_dshotConvertToExternal.40a112f0aa478687,"e",%progbits
 	.ascii	"x\234\215T[OSA\020\3369{z.=\024y\321hj\015\017\022\202"
 	.ascii	"\017\362F|\364W\360N\200D\023\225\244\240\361\315m%"
 	.ascii	"\340\005\201D\211B%\365\202Q\214\361\376\240T\244\332"
@@ -248,7 +248,7 @@
 	.ascii	"\363`EU\205\267\270\344\300\341rW\371\321\252r\357\241"
 	.ascii	"\222\003\302\372\013\005&5\005"
 	.text
-	.section	.gnu.lto_prepareDshotPacket.c1f176fd47521fe0,"e",%progbits
+	.section	.gnu.lto_prepareDshotPacket.40a112f0aa478687,"e",%progbits
 	.ascii	"x\234\225V[LTW\024=\373\236\373\230\031\206\207\212"
 	.ascii	"\257\240\006\232\022\243%\014\3765MML\374\362\303\037"
 	.ascii	"\371\353\217\201\201TRP3\203\215\215m\274\014\024bE"
@@ -334,7 +334,7 @@
 	.ascii	"\334\202\025\276\317\320h\374^\334\375\013J\342\357"
 	.ascii	"\304"
 	.text
-	.section	.gnu.lto_getDshotTelemetry.c1f176fd47521fe0,"e",%progbits
+	.section	.gnu.lto_getDshotTelemetry.40a112f0aa478687,"e",%progbits
 	.ascii	"x\234EO\273J\003Q\024<\263g7\256\022\301\302.(\202\205"
 	.ascii	"\2441A\177\300_\021\0230\205\012\211\210\2357k\210\242"
 	.ascii	"\342\013\304\007\204U|6>\013\301\367\372\210XX\004E"
@@ -359,7 +359,7 @@
 	.ascii	"5FR\311\266HGk\2423\022K&z\342\311T$\226j\357\352nl"
 	.ascii	"#+\321\031\213\367\376\002a\017\227\310"
 	.text
-	.section	.gnu.lto_updateDshotTelemetryQuality.c1f176fd47521fe0,"e",%progbits
+	.section	.gnu.lto_updateDshotTelemetryQuality.40a112f0aa478687,"e",%progbits
 	.ascii	"x\234\245V]L\\E\024\236s\347\356\335\345\356]~J\004"
 	.ascii	"+\246i\023(iM`\305\007_\215\211\017\232\370\344O\342"
 	.ascii	"#\001\022\211\026-\273\030}\352\335\305.\321651\245"
@@ -427,7 +427,7 @@
 	.ascii	"\376W\361\244\330STQ^^R\346\177\271tG\311\213\276T\037"
 	.ascii	"\351\237\255 \365\363e\305%\357\376\007\2165p\212"
 	.text
-	.section	.gnu.lto_validateAndfixMotorOutputReordering.c1f176fd47521fe0,"e",%progbits
+	.section	.gnu.lto_validateAndfixMotorOutputReordering.40a112f0aa478687,"e",%progbits
 	.ascii	"x\234\225V[L\024g\024\376\317\3743\273\2633\263\273"
 	.ascii	"\200\325X7*&\030\243i\305\320\2466i\037\354[\233&\355"
 	.ascii	"C\373\322\276\221BR\222\326&\320\332\313\213\263 x\301"
@@ -523,7 +523,7 @@
 	.ascii	"sr\277\313-\230\377\272\177\202\304\235\267\030%y9\220"
 	.ascii	"\367\037\020\373\304\027"
 	.text
-	.section	.gnu.lto_.symbol_nodes.c1f176fd47521fe0,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.40a112f0aa478687,"e",%progbits
 	.ascii	"x\234u\220;N\303@\020\206\347\337\211\0378\016 .@\204"
 	.ascii	"RSR\303\015\270\001\012\005]\032L?\211\224\003\344\020"
 	.ascii	"n\"B\004\342\025\002\351\\S\321\321E\026\267@a\326\266"
@@ -540,11 +540,11 @@
 	.ascii	"[+\312-\2253\251\317\246S\006s\237\303\375\342\273\265"
 	.ascii	"\031\356\025d{\273\005e\007\364\007u=\302%"
 	.text
-	.section	.gnu.lto_.refs.c1f176fd47521fe0,"e",%progbits
+	.section	.gnu.lto_.refs.40a112f0aa478687,"e",%progbits
 	.ascii	"x\234\343``d\340f```df`\021gde`cb\000\000\002\200\000"
 	.ascii	"B"
 	.text
-	.section	.gnu.lto_.decls.c1f176fd47521fe0,"e",%progbits
+	.section	.gnu.lto_.decls.40a112f0aa478687,"e",%progbits
 	.ascii	"x\234\245ZkTTW\226\276\347\236\252\202\002\012\024\037"
 	.ascii	"\311\304\254\214\335c:\231\356Q4\311\364df\365\217\304"
 	.ascii	"$=q\255v:\223\244g%\375\207\224P`MC\225\251*L\\\363"
@@ -860,7 +860,7 @@
 	.ascii	"\036nu\211\011_\372\376\027:\267\236\377\003\363\201"
 	.ascii	"\016\275"
 	.text
-	.section	.gnu.lto_.symtab.c1f176fd47521fe0,"e",%progbits
+	.section	.gnu.lto_.symtab.40a112f0aa478687,"e",%progbits
 	.ascii	"dshotInitEndpoints\000"
 	.ascii	"\000"
 	.ascii	"\000"

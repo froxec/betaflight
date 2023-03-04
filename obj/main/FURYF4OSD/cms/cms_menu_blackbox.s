@@ -9,10 +9,10 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"cms_menu_blackbox.c"
-	.section	.gnu.lto_.profile.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto_.profile.8c34103316881a72,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto_.icf.8c34103316881a72,"e",%progbits
 	.ascii	"x\234\343``dh`@\000Q\206\343\035[\317q1\365\377}\377"
 	.ascii	"\234\227\031L\262\200I\326\223\307/_\340e\233\264}\361"
 	.ascii	"]fv0\311\001&\271\332\016\2559\312\312\015V\303\263"
@@ -22,7 +22,7 @@
 	.ascii	"\246wO\331$\316\035X\364\227Qr\322\206\323\357\370\031"
 	.ascii	"\000\305KAY"
 	.text
-	.section	.gnu.lto_.jmpfuncs.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.8c34103316881a72,"e",%progbits
 	.ascii	"x\234\215\222\271K\003Q\020\306g\336\333\254k\314\201"
 	.ascii	"Gg\343\012)\023\257\177\300\200'\212\205QD\353\224v"
 	.ascii	"\366\342Q\305\200\225x\"AEA\033\013\243\205g\342mm'"
@@ -49,7 +49,7 @@
 	.ascii	"\372\306h\027]\312[{\303\221\316\236\366\232\266\356"
 	.ascii	"p\244#\024\012\3017\366\367:\272"
 	.text
-	.section	.gnu.lto_.inline.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto_.inline.8c34103316881a72,"e",%progbits
 	.ascii	"x\234\343``dhad\200\003V\006\006\335S\207^\037e\316"
 	.ascii	"`d`\222\371\273b\307Y\246T\006\006\266\006 `Jab`\002"
 	.ascii	"\253\341\003\022,\014\014\023\374&\370!\263\231y\200"
@@ -64,11 +64,11 @@
 	.ascii	"\033?\310\377\023\374\340a\3034\001j6\003\003\000Mw"
 	.ascii	":i"
 	.text
-	.section	.gnu.lto_.pureconst.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto_.pureconst.8c34103316881a72,"e",%progbits
 	.ascii	"x\234\343``d\340g```e\230\311\302:\203\205k\006\013"
 	.ascii	"\317\016\026>\011\000\030x\002\360"
 	.text
-	.section	.gnu.lto_cmsx_Blackbox_GetDeviceStatus.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto_cmsx_Blackbox_GetDeviceStatus.8c34103316881a72,"e",%progbits
 	.ascii	"x\234\225VmPTU\030>\357=w\357.\013\273\244\246\204\213"
 	.ascii	"\305FXf~L\375\250\231\232R\307l\372\370\32149MM3\016"
 	.ascii	"\342\246\214|\314\000\366\361'/\260@\200_\021+l\001"
@@ -159,7 +159,7 @@
 	.ascii	"\321\253\302\023\010}s\011\021\226\220\377\000\310X"
 	.ascii	"\310\345"
 	.text
-	.section	.gnu.lto_cmsx_Blackbox_onExit.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto_cmsx_Blackbox_onExit.8c34103316881a72,"e",%progbits
 	.ascii	"x\234\205R]KTQ\024=\373\3543\037\216\243\231RP\276\004"
 	.ascii	"Eb\204\372\\/=\364?D\007\003IM\032\202\336<\216\202"
 	.ascii	"\371\035a\331\010\303\210\203\214\017a\005\006e\232"
@@ -198,7 +198,7 @@
 	.ascii	"\213\245\227\256\026\370\204\243\372|\271\277Z\371\313"
 	.ascii	"*.\374\006\261\272d\236"
 	.text
-	.section	.gnu.lto_cmsx_Blackbox_onEnter.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto_cmsx_Blackbox_onEnter.8c34103316881a72,"e",%progbits
 	.ascii	"x\234\215T\337O\024W\024\276g\356\314\316\354\362C\334"
 	.ascii	"\252\250h\002\261[b\322\000\332>\364\245I\2334\332\244"
 	.ascii	"\377@\343\213Q\326\007R\261T\322\244o\\v\311\242\242"
@@ -257,7 +257,7 @@
 	.ascii	"\213l\337\032\177\211\257l\255\377\223\21770\227\357"
 	.ascii	"\035?^\376\001\024\3232\317"
 	.text
-	.section	.gnu.lto_cmsx_EraseFlash.part.0.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto_cmsx_EraseFlash.part.0.8c34103316881a72,"e",%progbits
 	.ascii	"x\234mS\315K\224A\030\237\337<\363\356\276\253\253}"
 	.ascii	"\030\204\210\020\224\211\027\027:y\354\320\301\277\241"
 	.ascii	"\213\350\322AR[\264\240N\216\272\242\231\254\227b{\203"
@@ -295,7 +295,7 @@
 	.ascii	"\272\352\340\371\232\013\227\313\203\314\016\235\251"
 	.ascii	"m\012\325U_\241\320\305\306\337\200\3731\274"
 	.text
-	.section	.gnu.lto_cmsx_EraseFlash.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto_cmsx_EraseFlash.8c34103316881a72,"e",%progbits
 	.ascii	"x\234mR\315KTQ\024?\347\235\373\234\031u,3\210\230\215"
 	.ascii	"R$\202\314,\332\010A$\330\027D\213\374\003D\207\026"
 	.ascii	"\222\232hA\255\274\243\023a#\023\321\207\363\244\341"
@@ -333,7 +333,7 @@
 	.ascii	"\372s\015\271\207O\225\226\037?y4\377\310\211\322\362"
 	.ascii	"cn\267\033\376\002_\206\036+"
 	.text
-	.section	.gnu.lto_cmsx_menuBlackbox.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto_cmsx_menuBlackbox.8c34103316881a72,"e",%progbits
 	.ascii	"x\234\343``d\230\301\300\300\240\312\000\001\323\231"
 	.ascii	"\031w\177\331\373\212\263\205\261\251qFC\303\203\356"
 	.ascii	"\325\234\032\363\231\031\0263C\344\372\232\337\337\343"
@@ -346,7 +346,7 @@
 	.ascii	"\244\234\304\344\354\244\374\012\275d\006\000\2016@"
 	.ascii	"o"
 	.text
-	.section	.gnu.lto_cmsx_menuBlackboxEntries.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto_cmsx_menuBlackboxEntries.8c34103316881a72,"e",%progbits
 	.ascii	"x\234m\324[L\024W\030\007\360\371\346\354}\007\324j"
 	.ascii	"|\331\007w\322\027H\004\242>\355\233\213;^\"D\352B\343"
 	.ascii	"\033Qb\232^\260\211\304\264\361\245\313\235D\\\015\212"
@@ -399,7 +399,7 @@
 	.ascii	";>K\025\026\244\245\2713\263\020\220\271i\213;-Mx\017"
 	.ascii	"E\0351\303"
 	.text
-	.section	.gnu.lto_cmsx_BlackboxRateTable.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto_cmsx_BlackboxRateTable.8c34103316881a72,"e",%progbits
 	.ascii	"x\234\343``d(a``Pe\200\200\351\314\214\273\277\354}"
 	.ascii	"\305\331\302\330\3248\243\241\341A\367J\346\036\346"
 	.ascii	"\371\314\014\213\231!\222\367\232\346\376\340\351\003"
@@ -410,7 +410,7 @@
 	.ascii	"\027\027%\353\347&f\346\351'\347\026\203p|nj^i|RNbr"
 	.ascii	"vR~\205^2\003\000\252f4\006"
 	.text
-	.section	.gnu.lto_cmsx_BlackboxDeviceTable.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto_cmsx_BlackboxDeviceTable.8c34103316881a72,"e",%progbits
 	.ascii	"x\234\343``d(a``Pe\200\200\351\314\214\273\277\354}"
 	.ascii	"\305\331\302\330\3248\243\241\341A\367|\346\031\314"
 	.ascii	"\363\231\031\0263C$\233\256\256\331\316\327\007\024"
@@ -421,7 +421,7 @@
 	.ascii	"AYO\277\270(Y?713O?9\267\030\204\343sS\363J\343\223"
 	.ascii	"r\022\223\263\223\362+\364\222\031\000\227\3123\344"
 	.text
-	.section	.gnu.lto___compound_literal.0.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto___compound_literal.0.8c34103316881a72,"e",%progbits
 	.ascii	"x\234\343``d(e``Pe\200\200\351\314\214\273\277\354}"
 	.ascii	"\305\331\302\330\3248\243\241\341Aw'\347\033\346\371"
 	.ascii	"\314\014\213\231!\222\313'v\355\343\357\003\21202\036"
@@ -433,7 +433,7 @@
 	.ascii	"\234[\014\302\361\271\251y\245\361I9\211\311\331I\371"
 	.ascii	"\025z\311\014\000\032v4\371"
 	.text
-	.section	.gnu.lto_cmsx_menuEraseFlashCheck.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto_cmsx_menuEraseFlashCheck.8c34103316881a72,"e",%progbits
 	.ascii	"x\234\343``d\310c``Pe\200\200\351\314\214\273\277\354"
 	.ascii	"}\305\331\302\330\3248\243\241\341A\367\033v\215\371"
 	.ascii	"\314\014\213\231!r}\315\357\357q\3641\317gfdD\3412\201"
@@ -443,7 +443,7 @@
 	.ascii	"\314<\375\344\334b\020\216\317M\315+\215O\312IL\316"
 	.ascii	"N\312\257\320Kf\000\000\371\2300\243"
 	.text
-	.section	.gnu.lto_menuEraseFlashCheckEntries.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto_menuEraseFlashCheckEntries.8c34103316881a72,"e",%progbits
 	.ascii	"x\234\343``d\340cb`\260e\200\200\351\314\214}\315\357"
 	.ascii	"\357q\3641\317g\006J\001\271\013\257^hb\004q\031\031"
 	.ascii	"\005\220e\231\300\262w.\276=\300e\271\275\241cA\203"
@@ -467,7 +467,7 @@
 	.ascii	"'19;)\277B/\231\201%\3225\230\201\317\331\337\317\315"
 	.ascii	"3\310W\3015\3101\330\225\001\000\007\372\270\357"
 	.text
-	.section	.gnu.lto_cmsx_BlackboxRateNames.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto_cmsx_BlackboxRateNames.8c34103316881a72,"e",%progbits
 	.ascii	"x\234\343``d\010fd`\260g\200\200\351\314\214\015?\356"
 	.ascii	"o\343Td\232\3370Ca>3Xd\372\343S\347Y[\030\233\032g4"
 	.ascii	"4<x|@Xp>3#\343.FE\260\344\275\246\271?x\372\230\347"
@@ -486,7 +486,7 @@
 	.ascii	"\305P\337\002D\230\200\010#\020a\310\000\000\035`\203"
 	.ascii	"2"
 	.text
-	.section	.gnu.lto_cmsx_BlackboxDeviceNames.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto_cmsx_BlackboxDeviceNames.8c34103316881a72,"e",%progbits
 	.ascii	"x\234\343``d\340cd`pb\200\200\351\314\214'g\277\272"
 	.ascii	"\306\247\3104\277a\206\302|f\260\310\244\231g\273\371"
 	.ascii	"Z\030\233\032g44<x}@Pp>3#\343.FE\260d\323\3255\333\371"
@@ -503,7 +503,7 @@
 	.ascii	"p|nj^i|RNbrvR~\205^2P\255\213\263c\220\013\003\233\233"
 	.ascii	"\217c\260\007\003\253\237\277\237+\003\000\2276n\255"
 	.text
-	.section	.gnu.lto_.symbol_nodes.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.8c34103316881a72,"e",%progbits
 	.ascii	"x\234u\223\315N\024A\020\307\353?\2653,\263\315,\037"
 	.ascii	"\236P`]\001y\004\217\036|\024\337\243\206d\275x\321"
 	.ascii	"\007P\\pQ\024]@@A\360\003%z3\352\305\213\027\215\017"
@@ -531,7 +531,7 @@
 	.ascii	"\274\322\214\277 \2279\233+\252\206l\266\250B\262\363"
 	.ascii	"E\025\234\271\3026\243?.T[\256"
 	.text
-	.section	.gnu.lto_.refs.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto_.refs.8c34103316881a72,"e",%progbits
 	.ascii	"x\234\015\215I\022\3020\020\304\272eg<\016[\010$\201"
 	.ascii	"*\370*o\307G\351 \245\254\237\244\220l\010\330\341E"
 	.ascii	"\371P\2771)\212]\325\302n\312t\3579\3138\212\\\335&"
@@ -539,7 +539,7 @@
 	.ascii	"\340\3116\270\215\364:&\357a\222\335\033\207\017\256"
 	.ascii	"\372\003\377W\003\347"
 	.text
-	.section	.gnu.lto_.decls.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto_.decls.8c34103316881a72,"e",%progbits
 	.ascii	"x\234\245{\011TUW\272\346\335w_\246\313d\324\030\023"
 	.ascii	"S\325\351\264Ue\257W\025\315\313{\257\322\375\206\256"
 	.ascii	"\304$\225\254n+\276X\323\313\353\367\010\201\253\262"
@@ -1003,7 +1003,7 @@
 	.ascii	":\363\356\2165`\262\347%\226\335\216\20637\215#dZ\200"
 	.ascii	"\0161*6\027:h|=\261\370\377\000_;\276G"
 	.text
-	.section	.gnu.lto_.symtab.e5360700d78a49a0,"e",%progbits
+	.section	.gnu.lto_.symtab.8c34103316881a72,"e",%progbits
 	.ascii	"cmsx_menuBlackbox\000"
 	.ascii	"\000"
 	.ascii	"\000"

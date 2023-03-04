@@ -9,10 +9,10 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"displayport_oled.c"
-	.section	.gnu.lto_.profile.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_.profile.37ed087a1ce12667,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_.icf.37ed087a1ce12667,"e",%progbits
 	.ascii	"x\234\343``d\210f@\000~\206%\253V\037\341b\004\223L"
 	.ascii	";&O\271\300\310\274g\321\206I|,`6\353\222Y\323g\263"
 	.ascii	"\261\201e\331/\254\277\261\211\215c\356\304\255\337"
@@ -20,7 +20,7 @@
 	.ascii	"\373:\205\211w\345\212\355\266|\017.>Z\301\311\000\000"
 	.ascii	"\215\264*t"
 	.text
-	.section	.gnu.lto_.jmpfuncs.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.37ed087a1ce12667,"e",%progbits
 	.ascii	"x\234\225P9\016\302@\014\234YoB\302!J\212\3745)\250"
 	.ascii	"h\322R\246\240\342\003)\240\341%\374 \342\003H`g\227"
 	.ascii	"#A\010a\311\032yfl\357:\003\321\022\317X\200Z5\242\020"
@@ -32,7 +32,7 @@
 	.ascii	"\264\247\335t\373\334z\364\342<\262\350\275\275\037"
 	.ascii	"\270\003zN_!"
 	.text
-	.section	.gnu.lto_.inline.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_.inline.37ed087a1ce12667,"e",%progbits
 	.ascii	"x\234\265R\313\015\3020\014}qB\023\372\331\241\243p"
 	.ascii	"\344\224!\240\320-\020l\220\00180\012#0\022\266+Z\011"
 	.ascii	"!\314\005\037\242\347\247\027;~N\202\303\2250G\007\370"
@@ -44,13 +44,13 @@
 	.ascii	"\347\242\277\357M\3525\362\217JnQ3{\243\221=\321{~x"
 	.ascii	"\367d\352*\350\0113\266\210g"
 	.text
-	.section	.gnu.lto_.pureconst.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_.pureconst.37ed087a1ce12667,"e",%progbits
 	.ascii	"x\234\005\301\301\001\200 \014\004\301\213.\022\020"
 	.ascii	"\373\260\314\373\330\003\351\326\231T\350\225\364\310"
 	.ascii	"\2049\314\371\201i\3462\335\244\031\305,\356bm~\227"
 	.ascii	"\377\007\251"
 	.text
-	.section	.gnu.lto_oledGrab.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_oledGrab.37ed087a1ce12667,"e",%progbits
 	.ascii	"x\234\343``d\370\304\300\300\240\017\304\262@\314\310"
 	.ascii	"\314\300\310\324\320\320\340\300\336\310\301\304\310"
 	.ascii	"\010f5p02\32431\3263\3663Ogf\274\3274\367\007O\037\363"
@@ -69,7 +69,7 @@
 	.ascii	"\305\0059\211\225\005\371E%\361\3719\251)z\311\014\334"
 	.ascii	"P\261\000\240\030\000\275\376_\244"
 	.text
-	.section	.gnu.lto_oledRelease.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_oledRelease.37ed087a1ce12667,"e",%progbits
 	.ascii	"x\234\343``d\370\304\300\300\240\017\304\262@\314\310"
 	.ascii	"\314\300\310\324\320\320\340\300\336\310\301\304\310"
 	.ascii	"\010f5p02\32431\3263\3663Ogf\274\3274\367\007O\037\363"
@@ -88,7 +88,7 @@
 	.ascii	"\305\0059\211\225\005\371E%\361\3719\251)z\311\014\334"
 	.ascii	"P\261\000\240\030\000\0017`4"
 	.text
-	.section	.gnu.lto_oledDrawScreen.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_oledDrawScreen.37ed087a1ce12667,"e",%progbits
 	.ascii	"x\234E\217?K\003A\020\305\347\335\234\347\241\246\025"
 	.ascii	"\341P\024\002!MN\361\013\370\021\374\006\022\022\213"
 	.ascii	"\203\350\205\304\306*{\211\"\022\211\215!\246\010g\023"
@@ -107,7 +107,7 @@
 	.ascii	"2\356J\332[u=\337\315z\305|.\275\236\367\013kK~n9\233"
 	.ascii	"\312\320\350\237\267(\336\017\\%c\034"
 	.text
-	.section	.gnu.lto_oledScreenSize.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_oledScreenSize.37ed087a1ce12667,"e",%progbits
 	.ascii	"x\234\225\220\313+Dq\024\307\317\367\236\353\316\315"
 	.ascii	"kk!\031\245d\343\362\037XZ\332+\222\261\230\302\010"
 	.ascii	"\033+\277\231\361(\204\005\015\213\351\206ff#\217R\312"
@@ -131,7 +131,7 @@
 	.ascii	"\332\337\035\353\351k\211u\264Gj\332\250\340[k\024\355"
 	.ascii	"\013\232\372\251X"
 	.text
-	.section	.gnu.lto_oledIsTransferInProgress.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_oledIsTransferInProgress.37ed087a1ce12667,"e",%progbits
 	.ascii	"x\234E\217\317JBQ\020\306\347\273s\273]*_\240KP \210"
 	.ascii	"\033o\320\013\364\010\275A\210\266\020,E\333\264r\264"
 	.ascii	" \304\260MbB\341*\335\364\027Ze\177\356*\2506\021B\264"
@@ -150,7 +150,7 @@
 	.ascii	"\223\251|6\035_\313fr\253\213\231\364R2\226\240\361"
 	.ascii	"\277\336\202\366~\000\004\337f\010"
 	.text
-	.section	.gnu.lto_oledIsSynced.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_oledIsSynced.37ed087a1ce12667,"e",%progbits
 	.ascii	"x\234EO\275J\003a\020\334\271=\317\363'Op\010\012\201"
 	.ascii	"\220&'\370\002>\202o !\2618\210&$6V\331\004ABD\033C"
 	.ascii	"\014(\251\242\010\202\012ba\242^%\250 b#6\022\265V,"
@@ -169,7 +169,7 @@
 	.ascii	"Y?\035\024r\231\344R.\233_\234\315f\346\322\211\024"
 	.ascii	"\215\374q3\312\375\000>\334fH"
 	.text
-	.section	.gnu.lto_oledHeartbeat.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_oledHeartbeat.37ed087a1ce12667,"e",%progbits
 	.ascii	"x\234\343``d\370\302\300\300\240\017\304\262@\314\310"
 	.ascii	"\314\300\310\324\320\320\340\300\336\310\301\304\310"
 	.ascii	"\010f5p02\32431\3263\3663Ogf\274\3274\367\007O\037\363"
@@ -186,7 +186,7 @@
 	.ascii	"\353\247d\026\027\344$V\026\344\027\225\304\347\347"
 	.ascii	"\244\246\350%3pC\305\002\200b\0004\371a\013"
 	.text
-	.section	.gnu.lto_oledRedraw.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_oledRedraw.37ed087a1ce12667,"e",%progbits
 	.ascii	"x\234\343``dx\311\300\300\240\017\304\262@\314\310\314"
 	.ascii	"\300\310\324\320\320\340\300\336\310\301\304\310\010"
 	.ascii	"f5p02\32431\3263\3663Ogf<\324\376l'\223\346r\240L\303"
@@ -204,7 +204,7 @@
 	.ascii	"d\026\027\344$V\026\344\027\225\304\347\347\244\246"
 	.ascii	"\350%3pC\305\002\200b\000\225\313\\\347"
 	.text
-	.section	.gnu.lto_oledTxBytesFree.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_oledTxBytesFree.37ed087a1ce12667,"e",%progbits
 	.ascii	"x\234UOMK\002Q\024\275g\3564NV\364\003D(\020\304\215"
 	.ascii	"\363\027\372\011\375\203\020m1`\215h\233V>'!B\251Ma"
 	.ascii	".J\0102\202 \0127}\317*\2506\321B(*\254\366\255Z\264"
@@ -223,7 +223,7 @@
 	.ascii	"\302\214\227\235\315$\3234\362\313M\013\367\003\342"
 	.ascii	"\310k="
 	.text
-	.section	.gnu.lto_oledWriteChar.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_oledWriteChar.37ed087a1ce12667,"e",%progbits
 	.ascii	"x\234\225\222\317KTQ\024\307\317\367\2357\343\233I\015"
 	.ascii	"Z\004\246\201\201 \266p\206jS\253\376\204\376\203\020"
 	.ascii	"m1`)\352\"W\336\031\247\006Tlc\350T\257\247\3254A\321"
@@ -257,7 +257,7 @@
 	.ascii	"]=\307;\332O\2645\267\322\216R\356\230\344p\032\275"
 	.ascii	"vKOO\027Z\377\002\215S\000>"
 	.text
-	.section	.gnu.lto_oledWriteString.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_oledWriteString.37ed087a1ce12667,"e",%progbits
 	.ascii	"x\234\225\222\337K\024Q\024\307\317w\316\354\354\354"
 	.ascii	"jF\005a\231` \210=\270K\365RO\375\011\375\007!\332\203"
 	.ascii	"`)\352C>yw\265\0045\353\241\320\325\246\261l3(\262@"
@@ -291,7 +291,7 @@
 	.ascii	"\325\025U\224\267\225;-9\\@\263]\331\324\324\200\306"
 	.ascii	"?\324\344\001Z"
 	.text
-	.section	.gnu.lto_oledClearScreen.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_oledClearScreen.37ed087a1ce12667,"e",%progbits
 	.ascii	"x\234U\220\315K[A\024\305\357y\367%y\265\232]\0136\010"
 	.ascii	"\026\204\240\013\023\351\242[\227.\373\037\210\030\027"
 	.ascii	"\001\353\013\211\033WN\236)B\025]T1Y\204\347W\032A\361"
@@ -316,7 +316,7 @@
 	.ascii	"K\332\261D2\223\032\036\030K\331\351\321~{x(\321=H\017"
 	.ascii	"\357j/\244\026\262S\243I{$\363\017\270\243\241W"
 	.text
-	.section	.gnu.lto_displayPortOledInit.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_displayPortOledInit.37ed087a1ce12667,"e",%progbits
 	.ascii	"x\234\225\222\337KSa\030\307\337\357y\267\263\263\323"
 	.ascii	"\017\273(\010V` \230]\270\375\011\375'!\333.\006\326"
 	.ascii	"D#\350\312w\247\225\226\265@&\323`\235\325\032\331E"
@@ -351,7 +351,7 @@
 	.ascii	"\226\343m\321\366\243\207\242\255\341Ps\220\351\241"
 	.ascii	"\360\261H0\374\023\025X12"
 	.text
-	.section	.gnu.lto_oledVTable.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_oledVTable.37ed087a1ce12667,"e",%progbits
 	.ascii	"x\234e\320\273J\003A\024\306\361\371r6\331K\274<@\020"
 	.ascii	"\021\033od\353\024>\213\204\304b!\232\220\330\330\255"
 	.ascii	"\032!\020\310\224f\012\231\210\205\202XY\004\\5\336"
@@ -370,7 +370,7 @@
 	.ascii	"b\260\351\007U\277\0344j\225\342v\255Z\337Z\253V\326"
 	.ascii	"\313\371\222\370\007kF\264n"
 	.text
-	.section	.gnu.lto_.symbol_nodes.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.37ed087a1ce12667,"e",%progbits
 	.ascii	"x\234u\321I\012\302P\020\004\320\252|\243&\316z\000"
 	.ascii	"\301\223(\270\363P\225\205\363<\273\365\030\342\316"
 	.ascii	"\013x%\215F\005!\335\253\242\036\015\015\235\007\321"
@@ -383,12 +383,12 @@
 	.ascii	">]\370+\303\332\257,\324\277e\261\361Ix\002\351\233"
 	.ascii	"\256d"
 	.text
-	.section	.gnu.lto_.refs.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_.refs.37ed087a1ce12667,"e",%progbits
 	.ascii	"x\234\005\301\211\001\200 \020\003\301dy<\225\320\012"
 	.ascii	"\375w\307L\311:\222\346rL`\3434\247\223\2616\302\374"
 	.ascii	"@\343\343\2453y\030\224.$o\001("
 	.text
-	.section	.gnu.lto_.decls.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_.decls.37ed087a1ce12667,"e",%progbits
 	.ascii	"x\234\265ZiPTY\226\316\373nB\222\311f\241\323\032E\325"
 	.ascii	"\264\335Eu9Q\335\245V\031]FTELE\351Tu\307\364\264\025"
 	.ascii	"\2453\275D\3170\024d!Q\012N&\226\345\374\251D\026\001"
@@ -668,7 +668,7 @@
 	.ascii	"{\317\345\004Q\351X2+I\271x\003f\356s\017\317\357\274"
 	.ascii	"uP7\274\314\327\344r\217\273\366\177\000y\356\236\355"
 	.text
-	.section	.gnu.lto_.symtab.7e2046397f562d84,"e",%progbits
+	.section	.gnu.lto_.symtab.37ed087a1ce12667,"e",%progbits
 	.ascii	"displayPortOledInit\000"
 	.ascii	"\000"
 	.ascii	"\000"

@@ -9,10 +9,10 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"mixer.c"
-	.section	.gnu.lto_.profile.4ad14ec5b0c015e0,"e",%progbits
+	.section	.gnu.lto_.profile.ae6a49fa047b32e4,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.4ad14ec5b0c015e0,"e",%progbits
+	.section	.gnu.lto_.icf.ae6a49fa047b32e4,"e",%progbits
 	.ascii	"x\234\343``dX\313\200\000\262\014S\357\377\233\317\306"
 	.ascii	"\262\241g\301q&\366\275\017\337\265\263r\200IN0\311"
 	.ascii	"\005&\271'm_|\227\231\347\323\217\363\327\271y{\327"
@@ -24,7 +24,7 @@
 	.ascii	"yc\342\364#\274Z;\217\\X\302\256\015\226e\000\000\321"
 	.ascii	"\246W\014"
 	.text
-	.section	.gnu.lto_.jmpfuncs.4ad14ec5b0c015e0,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.ae6a49fa047b32e4,"e",%progbits
 	.ascii	"x\234\225S\273J\003Q\020\235s\357\215\273\211\206\004"
 	.ascii	"!\202\254\333\372H\272|\205_\245\213\212Z\005\033\025"
 	.ascii	"\261\210`k\253\2051&\232\004\374\001;\261J'\"\244\022"
@@ -48,7 +48,7 @@
 	.ascii	"\030\273\327q\331\262\375\027E\205_\276\001%\012\302"
 	.ascii	"\230"
 	.text
-	.section	.gnu.lto_.inline.4ad14ec5b0c015e0,"e",%progbits
+	.section	.gnu.lto_.inline.ae6a49fa047b32e4,"e",%progbits
 	.ascii	"x\234\215S\317kSA\020\376ff_\372\320TC\017\005\251B"
 	.ascii	"NZ\365\342\301\243\007\377\202\374\017\2615\375%\330"
 	.ascii	"\277@\324(\224\010%\236j\017\3326m\017Byz\261hA\010"
@@ -78,13 +78,13 @@
 	.ascii	"\320\322\232\276\221\236]\252'OG&\177\371\377\365\341"
 	.ascii	"/\370\307\277\000"
 	.text
-	.section	.gnu.lto_.pureconst.4ad14ec5b0c015e0,"e",%progbits
+	.section	.gnu.lto_.pureconst.ae6a49fa047b32e4,"e",%progbits
 	.ascii	"x\234\005\3011\016\200 \024D\3015y\005\215\215\005\211"
 	.ascii	"\001ZE\274\346?\304\302i\231I:\324%\2352\227\311\346"
 	.ascii	"^\224E\235\264\311\023\274\246\233\317\014\363\007\033"
 	.ascii	"\302\010\011\221"
 	.text
-	.section	.gnu.lto_calculateThrottleAndCurrentMotorEndpoints.4ad14ec5b0c015e0,"e",%progbits
+	.section	.gnu.lto_calculateThrottleAndCurrentMotorEndpoints.ae6a49fa047b32e4,"e",%progbits
 	.ascii	"x\234\235[\011XTG\022\236~\357\015\303\015\202\"\202"
 	.ascii	"(\036\250\200\002\212\267f7\367\261\311&\331l\222\315"
 	.ascii	"&\233M\210\0225QH\0207\232s\004\005\301\373BA\007\220"
@@ -424,7 +424,7 @@
 	.ascii	"N\234h\354\235QXnt\024~\216\035;1d\254\352\377\036\024"
 	.ascii	"<~"
 	.text
-	.section	.gnu.lto_applyFlipOverAfterCrashModeToMotors.4ad14ec5b0c015e0,"e",%progbits
+	.section	.gnu.lto_applyFlipOverAfterCrashModeToMotors.ae6a49fa047b32e4,"e",%progbits
 	.ascii	"x\234\215YyT\225\325\026\377\316w\356<0\317p\321\006"
 	.ascii	"*-\0255KMK[\357\345\312\3473\207\365Vi\251!\241\322"
 	.ascii	"sh)\255\372\257+*N\240\226)b^\257\312#gQq\010\024D@"
@@ -625,7 +625,7 @@
 	.ascii	"\014\310\307G_'|\365u\302\360\0313\247\305L\215\237"
 	.ascii	"\025\367\205\321\203\373\177\334k\326\222"
 	.text
-	.section	.gnu.lto_updateDynLpfCutoffs.4ad14ec5b0c015e0,"e",%progbits
+	.section	.gnu.lto_updateDynLpfCutoffs.ae6a49fa047b32e4,"e",%progbits
 	.ascii	"x\234\215\223\337OTW\020\307\317\334s\357\336\273\313"
 	.ascii	"\017W\037\332\252!\362PB\214\011\033\023\305\327>\371"
 	.ascii	"\324\364\211\376\001\006V\331\350.\355\272&\326\027"
@@ -678,7 +678,7 @@
 	.ascii	"8\342\257\252p<\205U_\205>\375b\357\212\271qM\312\312"
 	.ascii	"\232`\260&\344\213`\212\262j\366\017R#\307\224"
 	.text
-	.section	.gnu.lto_applyMixerAdjustmentLinear.4ad14ec5b0c015e0,"e",%progbits
+	.section	.gnu.lto_applyMixerAdjustmentLinear.ae6a49fa047b32e4,"e",%progbits
 	.ascii	"x\234\215VkL\024W\024\276g\356\354\316\354\262,\210"
 	.ascii	"\342\203-\021\265\324`\03311M\370\331\244\217\177\366"
 	.ascii	"o\373\257\335*m7e%\241\3740\375\343uA\264\276\323\370"
@@ -758,7 +758,7 @@
 	.ascii	"\277\373\260\264,\350/\011|\343/\017\224.\377\300\277"
 	.ascii	"\024\265\020\370\027G\250>\244"
 	.text
-	.section	.gnu.lto_applyMixerAdjustment.4ad14ec5b0c015e0,"e",%progbits
+	.section	.gnu.lto_applyMixerAdjustment.ae6a49fa047b32e4,"e",%progbits
 	.ascii	"x\234\215V]LTG\024\236s\347\356\335\273{\367\207(\032"
 	.ascii	"e\273\204\264R\242M\300\264\017\365\251i\322\364\251"
 	.ascii	"\361\255/}\244@\205F Al|\363\272 R!\212\326?bWL\011"
@@ -843,7 +843,7 @@
 	.ascii	"\033\363\3223\277\336\270\2410+3\252\200\234\271Q3\362"
 	.ascii	"ss\363\363p_\230\275!5\233\375\0030\010Xz"
 	.text
-	.section	.gnu.lto_applyMixToMotors.4ad14ec5b0c015e0,"e",%progbits
+	.section	.gnu.lto_applyMixToMotors.ae6a49fa047b32e4,"e",%progbits
 	.ascii	"x\234\215VkpTE\026\356s\373\316\275w\3363\231\020B\206"
 	.ascii	"<\200E*\212\211\244\026J\013\177\354\237\375\351\356"
 	.ascii	"\377\335_\026\245\222*\003[\020-\313?^2\230(\241\240"
@@ -950,7 +950,7 @@
 	.ascii	"\377\372J\355?^\251\315\366^\261\272\246f\365*\\\327"
 	.ascii	"\256\\[\261\222\375\006\2630\220\345"
 	.text
-	.section	.gnu.lto_mixTable.part.0.4ad14ec5b0c015e0,"e",%progbits
+	.section	.gnu.lto_mixTable.part.0.ae6a49fa047b32e4,"e",%progbits
 	.ascii	"x\234\235Z\007X\324\307\266\377\317\177\266\322\213"
 	.ascii	"X@\024\013\026l(\266\030\223\230\233f\212\367\246\336"
 	.ascii	"\364k\210\222H\236%\237!\357\346\275\357\276/K\021\025"
@@ -1276,7 +1276,7 @@
 	.ascii	"\305M\215aB>\017\3703fRX\347i\035\037\377\371'\377\017"
 	.ascii	"\212\006\207\303"
 	.text
-	.section	.gnu.lto_getMotorMixRange.4ad14ec5b0c015e0,"e",%progbits
+	.section	.gnu.lto_getMotorMixRange.ae6a49fa047b32e4,"e",%progbits
 	.ascii	"x\234E\216\275J\003A\024\205\357\231Yw\027\215\017\240"
 	.ascii	"QH\233&\373\012\226\276\206\004\177\026L\212ha\227\331"
 	.ascii	"5*\230\240\215\032R,AB\260L\004\261\210?\331\312\240"
@@ -1294,7 +1294,7 @@
 	.ascii	"\227\233\361\363\336\334\242?\277\260\354\345\374\225"
 	.ascii	"\331B&K\337\214+_\242"
 	.text
-	.section	.gnu.lto_writeMotors.4ad14ec5b0c015e0,"e",%progbits
+	.section	.gnu.lto_writeMotors.ae6a49fa047b32e4,"e",%progbits
 	.ascii	"x\234]\216\275J\003Q\020\205\347\334\331\254k\221^\242"
 	.ascii	"y\2004\331W\360U$\370\263`,\242\205]\356\306\325\010"
 	.ascii	"1\261\222%\205\354j\020\005\321`\031\177/\026V\"\301"
@@ -1313,7 +1313,7 @@
 	.ascii	"\255\316y+\356\302\262\267\270\264\346V\275\365\371"
 	.ascii	"Z\271B?\353~e\""
 	.text
-	.section	.gnu.lto_stopMotors.4ad14ec5b0c015e0,"e",%progbits
+	.section	.gnu.lto_stopMotors.ae6a49fa047b32e4,"e",%progbits
 	.ascii	"x\234\215T\317O\023A\030\235\267\263\333n\261E\343\311"
 	.ascii	"P5\\8\240\206\022N\034\375\007\374\0038\032\342\217"
 	.ascii	"&\342\001=\030c\302\322\226B\004Jb4\330hS\260!`P\204"
@@ -1355,7 +1355,7 @@
 	.ascii	"+\012\334\250,\017T\\\014^\017\\\276\026\274r\365f\240"
 	.ascii	"\"x\353ReQ9C\360?\376\007x\203"
 	.text
-	.section	.gnu.lto_mixTable.4ad14ec5b0c015e0,"e",%progbits
+	.section	.gnu.lto_mixTable.ae6a49fa047b32e4,"e",%progbits
 	.ascii	"x\234mQ\317KTQ\024>\337=\367\215o\246q\031\244\242\264"
 	.ascii	"\020D\027\316\242M\313v\375\003\365\007\3100\325@\343"
 	.ascii	"b4\010Z\314\235\0371\304\204!\030\303\203\246'h\364"
@@ -1382,7 +1382,7 @@
 	.ascii	"k\263\231B\376f\2568\231\245\376\354\215b17={)_\310"
 	.ascii	"]\236\371\013\305E\266\330"
 	.text
-	.section	.gnu.lto_mixerSetThrottleAngleCorrection.4ad14ec5b0c015e0,"e",%progbits
+	.section	.gnu.lto_mixerSetThrottleAngleCorrection.ae6a49fa047b32e4,"e",%progbits
 	.ascii	"x\234EOKKBa\020\235s\277\233^\244\210\226%B\213@\204"
 	.ascii	"\320\277\320\262_\320^\304J\360\001f\320\316O\021\204"
 	.ascii	"\214\"0\304@\012DZV\024EOo\006E-\"\302mAQBA\271\250"
@@ -1403,7 +1403,7 @@
 	.ascii	"\017\207&&\023\276Hh&\030\367\006\2507\020\213\307\203"
 	.ascii	"\201D(\026\035\363\207\247\203\277\313\024|\317"
 	.text
-	.section	.gnu.lto_mixerGetThrottle.4ad14ec5b0c015e0,"e",%progbits
+	.section	.gnu.lto_mixerGetThrottle.ae6a49fa047b32e4,"e",%progbits
 	.ascii	"x\234E\216\275K\003A\020\305\347\355\236\311)j\257Q"
 	.ascii	"H'ir\377\202\377\212\004?\016\214H\264\260\313\336\021"
 	.ascii	"\020LP\0045\244\210)B\260\214\242\225_\331J\321B\202"
@@ -1421,7 +1421,7 @@
 	.ascii	"\264+j\374g\023\015\247\275\205\\\306\313N\370s\336"
 	.ascii	"\324\254?=\263\350e\375\245\311\\:C\337\234\215c\031"
 	.text
-	.section	.gnu.lto_.symbol_nodes.4ad14ec5b0c015e0,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.ae6a49fa047b32e4,"e",%progbits
 	.ascii	"x\234u\225[oTU\024\200\327\2453--L\341@\247\2249\247"
 	.ascii	"-\265B\007*\027o\340\025L\210\177\203\300\203\017\022"
 	.ascii	"|\260&\276\261\246u\020\305\013m\201\012\202\202\323"
@@ -1471,7 +1471,7 @@
 	.ascii	"8\335\352h\035\247\275wF\333\003\354@N\007\343\305:"
 	.ascii	"9\204\177\000&\207\000F"
 	.text
-	.section	.gnu.lto_.refs.4ad14ec5b0c015e0,"e",%progbits
+	.section	.gnu.lto_.refs.ae6a49fa047b32e4,"e",%progbits
 	.ascii	"x\234%R[O\023a\024\234\331\335\356\265\037-\355V\260"
 	.ascii	" m\245\005\244\030Q1B\210\372\3334F\243\211\306Kb4\321"
 	.ascii	"'\237|\361\301\0075\361\301\240\210\015`\304\033\242"
@@ -1503,7 +1503,7 @@
 	.ascii	"\273\255\230\2166WiG\273a\305!{\331DV\321I\374\003\216"
 	.ascii	"+tW"
 	.text
-	.section	.gnu.lto_.decls.4ad14ec5b0c015e0,"e",%progbits
+	.section	.gnu.lto_.decls.ae6a49fa047b32e4,"e",%progbits
 	.ascii	"x\234\325}\011XUW\226.\207}/\367r\231\024Mi4UI\245\255"
 	.ascii	"\251\273\022\223\262\273+\325\235\036RIU%\335IWu*=U"
 	.ascii	"\277\357QW\270*\035\246\342^\022S\337{\257/\203(\342"
@@ -2361,7 +2361,7 @@
 	.ascii	"C\274\215\342\226\016\356EP\013{~)\356a\340f\340\377"
 	.ascii	"\004\366%\037r"
 	.text
-	.section	.gnu.lto_.symtab.4ad14ec5b0c015e0,"e",%progbits
+	.section	.gnu.lto_.symtab.ae6a49fa047b32e4,"e",%progbits
 	.ascii	"motor\000"
 	.ascii	"\000"
 	.ascii	"\000"

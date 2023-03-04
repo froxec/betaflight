@@ -9,31 +9,31 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"bus_i2c.c"
-	.section	.gnu.lto_.profile.7b5c48a5591bd775,"e",%progbits
+	.section	.gnu.lto_.profile.cb74dd4492ab22b2,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.7b5c48a5591bd775,"e",%progbits
+	.section	.gnu.lto_.icf.cb74dd4492ab22b2,"e",%progbits
 	.ascii	"x\234\343``dP`@\000V\206E\263>-\345e<uy\325\004&\246"
 	.ascii	"\307\263\377\335`f\006\223,{\037\276kge\000\000\002"
 	.ascii	"\255\017\270"
 	.text
-	.section	.gnu.lto_.jmpfuncs.7b5c48a5591bd775,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.cb74dd4492ab22b2,"e",%progbits
 	.ascii	"x\234\343``d\360a@\000F\006FF\306\372\371\314\014l,"
 	.ascii	"u \316\001\026F\006 \376\017\004\374\014L\214Z\322p"
 	.ascii	"!\006\006\246\351\314\214\333\317\317\234\316\326\307"
 	.ascii	"<\237\231\221\221\215q\027#D\232\015,\315\000\000\222"
 	.ascii	"\364\020i"
 	.text
-	.section	.gnu.lto_.inline.7b5c48a5591bd775,"e",%progbits
+	.section	.gnu.lto_.inline.cb74dd4492ab22b2,"e",%progbits
 	.ascii	"x\234\343``d\260c@\000F\006\006\276\006 `NgddP\000\362"
 	.ascii	"\230y\376\003\001s*\003\003\033H\234)\205\211\001\010"
 	.ascii	"\301\314d\006\026\220\026\026^ \301<\301\017H\002\000"
 	.ascii	"\342\257\015$"
 	.text
-	.section	.gnu.lto_.pureconst.7b5c48a5591bd775,"e",%progbits
+	.section	.gnu.lto_.pureconst.cb74dd4492ab22b2,"e",%progbits
 	.ascii	"x\234\343``d`a`\000\222\263X\000\001\322\000\255"
 	.text
-	.section	.gnu.lto_pgResetFn_i2cConfig.7b5c48a5591bd775,"e",%progbits
+	.section	.gnu.lto_pgResetFn_i2cConfig.cb74dd4492ab22b2,"e",%progbits
 	.ascii	"x\234\235T\335K\024Q\024\277\277\271wfg\3275\251\207"
 	.ascii	"\022\366\305\207L\364A\245\277 \350\257\350!\242\314"
 	.ascii	"d\037\262H\202\336\274\273\232R-\026d\250\3202[&~D~"
@@ -76,7 +76,7 @@
 	.ascii	"Zp\270\244`\337\321\262=\341\355E\371E\302O\303\316"
 	.ascii	"C\245\007\302%f\270t\177\361\261_\253\253w\246"
 	.text
-	.section	.gnu.lto_i2cConfig_Registry.7b5c48a5591bd775,"e",%progbits
+	.section	.gnu.lto_i2cConfig_Registry.cb74dd4492ab22b2,"e",%progbits
 	.ascii	"x\234\343``d\020gd`\220b\200\200\351\314\214sW\234\371"
 	.ascii	"\317\331\302\330\324\330\321\320\360\240{\036s\017\377"
 	.ascii	"|f\206\305\314\230\222\013\236\035c\234\317\3148\023"
@@ -92,7 +92,7 @@
 	.ascii	"=\375\342\242d\375\334\304\314<\375\202t\375\244\322"
 	.ascii	"\342\370L\243d\275d\006\000<\027c\212"
 	.text
-	.section	.gnu.lto_.symbol_nodes.7b5c48a5591bd775,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.cb74dd4492ab22b2,"e",%progbits
 	.ascii	"x\234\343``d(d\000\002\246\036\306z\206\306\206\206"
 	.ascii	"\006&\306\011\347\030\030\352\031\030v-p\004J\002\001"
 	.ascii	"\353DF\206V%\006\275\202\364\370\242\324\364\314\342"
@@ -100,10 +100,10 @@
 	.ascii	"d\0063\030'1\3263\376\207\002y\260q\014\014\015\015"
 	.ascii	"\016\014\014\314\014\254\020+T\030\000\237}\036\306"
 	.text
-	.section	.gnu.lto_.refs.7b5c48a5591bd775,"e",%progbits
+	.section	.gnu.lto_.refs.cb74dd4492ab22b2,"e",%progbits
 	.ascii	"x\234\343``d\340f```adbbbfb`ba\000\000\001\361\000+"
 	.text
-	.section	.gnu.lto_.decls.7b5c48a5591bd775,"e",%progbits
+	.section	.gnu.lto_.decls.cb74dd4492ab22b2,"e",%progbits
 	.ascii	"x\234\225VkPTW\022\276}\3170/\030\261\320\254n\351n"
 	.ascii	"\231\0241\251\332\340 f\263\246j\253\022\327\324\346"
 	.ascii	"\361c\177\304\315V%U\273\3248\\`jafvfH\326\255\332\312"
@@ -262,7 +262,7 @@
 	.ascii	"\366H\311\013\\.\313\222)A\356B\\\216\361T\033\015\230"
 	.ascii	"4|\034\263\360\003\351K\233U\372/\341p\223\342"
 	.text
-	.section	.gnu.lto_.symtab.7b5c48a5591bd775,"e",%progbits
+	.section	.gnu.lto_.symtab.cb74dd4492ab22b2,"e",%progbits
 	.ascii	"pgResetFn_i2cConfig\000"
 	.ascii	"\000"
 	.ascii	"\000"

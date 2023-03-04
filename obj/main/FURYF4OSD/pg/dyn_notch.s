@@ -9,24 +9,24 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"dyn_notch.c"
-	.section	.gnu.lto_.profile.8472f50580c8e846,"e",%progbits
+	.section	.gnu.lto_.profile.c75693891b32d97a,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.8472f50580c8e846,"e",%progbits
+	.section	.gnu.lto_.icf.c75693891b32d97a,"e",%progbits
 	.ascii	"x\234\343``dP`@\000V\206C\017^\274\346f\374\330\261"
 	.ascii	"\370\003?S\377\337\367\317y\231\301$\313\336\207\357"
 	.ascii	"\332Y\031\000\033D\020\312"
 	.text
-	.section	.gnu.lto_.jmpfuncs.8472f50580c8e846,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.c75693891b32d97a,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.inline.8472f50580c8e846,"e",%progbits
+	.section	.gnu.lto_.inline.c75693891b32d97a,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.pureconst.8472f50580c8e846,"e",%progbits
+	.section	.gnu.lto_.pureconst.c75693891b32d97a,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_pgResetTemplate_dynNotchConfig.8472f50580c8e846,"e",%progbits
+	.section	.gnu.lto_pgResetTemplate_dynNotchConfig.c75693891b32d97a,"e",%progbits
 	.ascii	"x\234\343``d(d`\000\222\0200\235\231\261\351\352\232"
 	.ascii	"\355|}\314\363\231\031\030\231\201\334\033\327\237^"
 	.ascii	"\346\007q\031\031\3270\001\371\257\266\367\254\346\200"
@@ -35,7 +35,7 @@
 	.ascii	"\354e\224\236\001\224\335\003\242\230\030w\203(f\306"
 	.ascii	"]\214\322\014\214\373\030-\031\000\016?$\036"
 	.text
-	.section	.gnu.lto_dynNotchConfig_Registry.8472f50580c8e846,"e",%progbits
+	.section	.gnu.lto_dynNotchConfig_Registry.c75693891b32d97a,"e",%progbits
 	.ascii	"x\234\343``d\020cd`\220a\200\200\351\314\214sW\234\371"
 	.ascii	"\317\331\302\330\324\330\321\320\360\240{\237D\315|"
 	.ascii	"f\206\305\314\020\271\335_\366\276\002\313\315hhX\360"
@@ -52,16 +52,16 @@
 	.ascii	"\314<\375\202t\375\224\312\274\370\274\374\222\344\014"
 	.ascii	"\275d\006\000\001\247du"
 	.text
-	.section	.gnu.lto_.symbol_nodes.8472f50580c8e846,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.c75693891b32d97a,"e",%progbits
 	.ascii	"x\234\343``d\360`\000\002\326\011\214\014\255J\014z"
 	.ascii	"\005\351\361E\251\305\251%)\211%\211@\321>FF\270hzf"
 	.ascii	"qIQ%P\260\213\221\251Q\011\244\247\233\221\031\302\350"
 	.ascii	"ad\0013\030\000\271t\020n"
 	.text
-	.section	.gnu.lto_.refs.8472f50580c8e846,"e",%progbits
+	.section	.gnu.lto_.refs.c75693891b32d97a,"e",%progbits
 	.ascii	"x\234\343``d\340f```adbbbfb`ba\000\000\001\361\000+"
 	.text
-	.section	.gnu.lto_.decls.8472f50580c8e846,"e",%progbits
+	.section	.gnu.lto_.decls.c75693891b32d97a,"e",%progbits
 	.ascii	"x\234\225U}PT\327\025\177\347\335\005\326e\027\034\260"
 	.ascii	"\301\004\232Hg\3256\235\021M\246\231\374\221\316\264"
 	.ascii	"u\3721\375#\223I\333\177\362Gw\350\262.\314\310B\331"
@@ -176,7 +176,7 @@
 	.ascii	"\032\313\302\364\352+\276\323\266\237\254\362\360/)"
 	.ascii	"V\233)>t\325\350n\\s\365^<\274\377\003\037\\Y\357"
 	.text
-	.section	.gnu.lto_.symtab.8472f50580c8e846,"e",%progbits
+	.section	.gnu.lto_.symtab.c75693891b32d97a,"e",%progbits
 	.ascii	"pgResetTemplate_dynNotchConfig\000"
 	.ascii	"\000"
 	.ascii	"\000"

@@ -9,10 +9,10 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"cms_menu_firmware.c"
-	.section	.gnu.lto_.profile.d7641057dedd8442,"e",%progbits
+	.section	.gnu.lto_.profile.d448e645461a95e7,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.d7641057dedd8442,"e",%progbits
+	.section	.gnu.lto_.icf.d448e645461a95e7,"e",%progbits
 	.ascii	"x\234\343``dHg@\000A\206\035\315K\03613m\355\235\373"
 	.ascii	"\223\225\371\324\302\015\342,\267/\277|\305\301z\376"
 	.ascii	"\301\362\237\374l\023\316\336\272\302\305\336\376j\316"
@@ -21,7 +21,7 @@
 	.ascii	"|\257:\24661\011<\371w\357\006\247\340\343\033o\277"
 	.ascii	"\261\011\315Z\267\346-+\003\000\243\\4\247"
 	.text
-	.section	.gnu.lto_.jmpfuncs.d7641057dedd8442,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.d448e645461a95e7,"e",%progbits
 	.ascii	"x\234\235\220\277j\202A\020\304gv\357>\214\022\255\254"
 	.ascii	"|W\013-$\004$VVA\210D\360\005,\374\027_\304t6\001\361"
 	.ascii	"\001\024\342\336}\247\361\213\004\242\013\333\334\014"
@@ -37,7 +37,7 @@
 	.ascii	"\021\346o\201\275\256w_\314a\236\253\004\3639\014G\341"
 	.ascii	"\202\230\024"
 	.text
-	.section	.gnu.lto_.inline.d7641057dedd8442,"e",%progbits
+	.section	.gnu.lto_.inline.d448e645461a95e7,"e",%progbits
 	.ascii	"x\234\343``d(ad\200\0036\006\006\316Y\233\237maJgd`"
 	.ascii	"bi\000\002\246\024\240(\204\301\304\300\004R\303\310"
 	.ascii	"\005\"\231y@L\240\010\367\374\256u\373\361\251\007\253"
@@ -48,11 +48,11 @@
 	.ascii	"\316\000\205\004C#\220]\207n\025\013/H9P#\324<t>\003"
 	.ascii	"\000\332\0347\353"
 	.text
-	.section	.gnu.lto_.pureconst.d7641057dedd8442,"e",%progbits
+	.section	.gnu.lto_.pureconst.d448e645461a95e7,"e",%progbits
 	.ascii	"x\234\005\301A\016\000\020\000\300\260\221\021q\365"
 	.ascii	"\371=W{\030<`\2233\315\225;o~&\224\003\346"
 	.text
-	.section	.gnu.lto_cmsCalibrateAcc.d7641057dedd8442,"e",%progbits
+	.section	.gnu.lto_cmsCalibrateAcc.d448e645461a95e7,"e",%progbits
 	.ascii	"x\234e\220\317k\023A\024\307\337w\337$\273I\033<\011"
 	.ascii	"J(\024\024CE\032\357\202x\360\377(%\244\0200\245$\210"
 	.ascii	"\307N\322\205hZ\023\017JI!nlX\355A\374\001\365b\253"
@@ -83,7 +83,7 @@
 	.ascii	"Ke\322WF3\311\341\004\005&.\246\262\023\"\233\2744\366"
 	.ascii	"\007\307\015\314\353"
 	.text
-	.section	.gnu.lto_cmsCalibrateAccMenu.d7641057dedd8442,"e",%progbits
+	.section	.gnu.lto_cmsCalibrateAccMenu.d448e645461a95e7,"e",%progbits
 	.ascii	"x\234eP\317K\224Q\024\275\347\273\357\233_:\313\240"
 	.ascii	"\230MP4X\241\355\333\264\350\377\020\033F\030hDf\210"
 	.ascii	"\226>\247\011\3231\247E2\2140|22\345\252\010lQN\371"
@@ -115,7 +115,7 @@
 	.ascii	"\222\327\373R\361\356\030\331\203\227\023\351A\225\216"
 	.ascii	"_\355\377\003\357\004\331\333"
 	.text
-	.section	.gnu.lto_cmsx_menuCalibrateAcc.d7641057dedd8442,"e",%progbits
+	.section	.gnu.lto_cmsx_menuCalibrateAcc.d448e645461a95e7,"e",%progbits
 	.ascii	"x\234\343``d\310c``Pe\200\200\351\314\214\273\277\354"
 	.ascii	"}\305\331\302\330\3248\243\241\341A\367ZV\215\371\314"
 	.ascii	"\014\213\231!r}\315\357\357q\3641\317gfdD\3412\201\271"
@@ -125,7 +125,7 @@
 	.ascii	"<\375\344\334b\020\216\317M\315+\215O\313,\312-O,J\325"
 	.ascii	"Kf\000\000\331\2400y"
 	.text
-	.section	.gnu.lto_cmsCalibrateBaro.d7641057dedd8442,"e",%progbits
+	.section	.gnu.lto_cmsCalibrateBaro.d448e645461a95e7,"e",%progbits
 	.ascii	"x\234e\220\337K\223Q\030\307\237\357y\316\336\2753\355"
 	.ascii	".(\006\021\024\015#\\\367\335t\341\377!2&\014\232\310"
 	.ascii	"Ft\351\331\034\210N]A1&\2147\212\314\0131\002\273)\313"
@@ -154,7 +154,7 @@
 	.ascii	"\322\311\341+\003C\251L\372\352`&\331\227\240\320H\177"
 	.ascii	"*;\242\263\311\313C\177\001=\313\272R"
 	.text
-	.section	.gnu.lto_cmsCalibrateGyro.d7641057dedd8442,"e",%progbits
+	.section	.gnu.lto_cmsCalibrateGyro.d448e645461a95e7,"e",%progbits
 	.ascii	"x\234e\220\321K\223Q\030\306\337\347\274g\337\276\231"
 	.ascii	"^\006\305n\202\242a\210\353\276\233.\372?D\306\204A"
 	.ascii	"\023\331\210.=[\003\231\263\255\213B&\214O\222R!\212"
@@ -182,7 +182,7 @@
 	.ascii	"\244\223\303\227\006\206R\231\364\345\301L\262?A\241"
 	.ascii	"\221\013\251\354\210\316&/\016\355\003p\223\272b"
 	.text
-	.section	.gnu.lto_cmsx_CalibrationOnDisplayUpdate.d7641057dedd8442,"e",%progbits
+	.section	.gnu.lto_cmsx_CalibrationOnDisplayUpdate.d448e645461a95e7,"e",%progbits
 	.ascii	"x\234\215\225]L\034U\024\307\357\271w\366\316\314vf"
 	.ascii	"]\037jl\366e7&\222\232R\236\214/>h\364EMZ\037L\364\255"
 	.ascii	"ipMH\244i@\343\223a\200mj\273\273%&6@\015YB\003\264"
@@ -244,7 +244,7 @@
 	.ascii	"\321\312\367\242o\3137_|\345\2150\223\341\362\362r\272"
 	.ascii	"\205\367\277F\267}t\373\037\012\"\270\311"
 	.text
-	.section	.gnu.lto_cmsx_FirmwareInit.d7641057dedd8442,"e",%progbits
+	.section	.gnu.lto_cmsx_FirmwareInit.d448e645461a95e7,"e",%progbits
 	.ascii	"x\234\215\222\313k\023Q\024\306\3177'\217I\223\350J"
 	.ascii	"7A\020\024K\021\232m\227.\374?J\011\025\262H)\011\352"
 	.ascii	"\2627\323b\324h\273\261\206\264\206\011\015\265\202"
@@ -274,7 +274,7 @@
 	.ascii	"\356\\o\337\371\356s\331|\356bO\276\2673C\341\376\263"
 	.ascii	"\331B\377o\263\377\345\333"
 	.text
-	.section	.gnu.lto_cmsx_menuFirmware.d7641057dedd8442,"e",%progbits
+	.section	.gnu.lto_cmsx_menuFirmware.d448e645461a95e7,"e",%progbits
 	.ascii	"x\234\343``d\250f``Pe\200\200\351\314\214\273\277\354"
 	.ascii	"}\305\331\302\330\3248\243\241\341A\367-v\215\371\314"
 	.ascii	"\014\213\231!r}\315\357\357q\3641\317gfd\004q\347\256"
@@ -285,7 +285,7 @@
 	.ascii	"\353\347&f\346\351'\347\026\203p|nj^i|ZfQnybQ\252^2"
 	.ascii	"\003\000@q6J"
 	.text
-	.section	.gnu.lto_menuFirmwareEntries.d7641057dedd8442,"e",%progbits
+	.section	.gnu.lto_menuFirmwareEntries.d448e645461a95e7,"e",%progbits
 	.ascii	"x\234}\224_L[U\034\307\317\257\247\334\322\322\262\271"
 	.ascii	"\351x\350\0137\276J\211c\211\341eZF;\033\231\314\322"
 	.ascii	"m\361\301,\013\301\310\003,B\234\361\311k!\214iWq\213"
@@ -343,7 +343,7 @@
 	.ascii	"vX\012,\005\210\263\037\330os\022\010\227\275\004e\330"
 	.ascii	"\0178\212\221\211\366v\274j/M\266\376\017\201\241@\000"
 	.text
-	.section	.gnu.lto_cmsx_menuCalibration.d7641057dedd8442,"e",%progbits
+	.section	.gnu.lto_cmsx_menuCalibration.d448e645461a95e7,"e",%progbits
 	.ascii	"x\234\343``d\350b``Pe\200\200\351\314\214\273\277\354"
 	.ascii	"}\305\331\302\330\3248\243\241\341A\367/V\215\371\314"
 	.ascii	"\014\213\231!rsW\234\371\017\226\353hhX\360|\272\305"
@@ -354,7 +354,7 @@
 	.ascii	"~rn1\010\307\347\246\346\225\306\247e\026\345\226'\026"
 	.ascii	"\245\352%3\000\000\366T;y"
 	.text
-	.section	.gnu.lto_menuCalibrationEntries.d7641057dedd8442,"e",%progbits
+	.section	.gnu.lto_menuCalibrationEntries.d448e645461a95e7,"e",%progbits
 	.ascii	"x\234u\222Mh\023A\024\307\347\355$u\323\244*\036\004"
 	.ascii	"\331K\026=\232\004{\221\034\004\323 \"\012\205\340\305"
 	.ascii	"S-\241B\017\251\220\"\342E\326m\"\005K\361b\335\012"
@@ -389,7 +389,7 @@
 	.ascii	"\344\361x\334\301\300\205sm\241\300\3053n\022\241?J"
 	.ascii	"\337;\231"
 	.text
-	.section	.gnu.lto_menuCalibrateAccEntries.d7641057dedd8442,"e",%progbits
+	.section	.gnu.lto_menuCalibrateAccEntries.d448e645461a95e7,"e",%progbits
 	.ascii	"x\234}\221_HSQ\034\307\317\357\236m\271?\332\037A\220"
 	.ascii	"\275\234K\257\251\324\333\236\352z\2310\274il\253\247"
 	.ascii	"@d\030\3700\211I\365:7\021+1\023\311i\330]YYa\010A\214"
@@ -426,7 +426,7 @@
 	.ascii	"l'\325UD\"\212\375\202]aS\025t\011\025\225\224\224d"
 	.ascii	"r\354D\222eBW\320?@\240>\012"
 	.text
-	.section	.gnu.lto_.symbol_nodes.d7641057dedd8442,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.d448e645461a95e7,"e",%progbits
 	.ascii	"x\234u\2219N\003A\020E\353wO\367\330c\300\354\373&\304"
 	.ascii	"\035HA\"\347\022\276G\015\222\017\300\021\034\260\230"
 	.ascii	"}\263\301\230\325@L\300\011\010\234CL\002\355iO[\210"
@@ -447,13 +447,13 @@
 	.ascii	"+\224\0132\232O?\025\315\332\264.\2439\233J\216\225"
 	.ascii	"A\277c\263\035G"
 	.text
-	.section	.gnu.lto_.refs.d7641057dedd8442,"e",%progbits
+	.section	.gnu.lto_.refs.d448e645461a95e7,"e",%progbits
 	.ascii	"x\234\015\207\201\015\200 \014\300\266n\016P\004!^\345"
 	.ascii	"\377\007\2714i\332**\237H\032u\00535\266\005%\250\203"
 	.ascii	"\366rrAw\356\254\341#\2573y\222`\305\342\240\000\025"
 	.ascii	"\247\351F\344\007T\271\001\376"
 	.text
-	.section	.gnu.lto_.decls.d7641057dedd8442,"e",%progbits
+	.section	.gnu.lto_.decls.d448e645461a95e7,"e",%progbits
 	.ascii	"x\234\245Z\011TT\331\231\256[\267\240\240\330l\227\326"
 	.ascii	"\216\231\336b:}2mc/3q\316\351\323'\351%\235LN'=\351"
 	.ascii	"N&\335\347L\030\304B\231@a\252\212N\2333gR,\002\242"
@@ -778,7 +778,7 @@
 	.ascii	"h@;\317[\224\271\356F\313\240\361\372\377\005\246}\006"
 	.ascii	"'"
 	.text
-	.section	.gnu.lto_.symtab.d7641057dedd8442,"e",%progbits
+	.section	.gnu.lto_.symtab.d448e645461a95e7,"e",%progbits
 	.ascii	"cmsCalibrateAccMenu\000"
 	.ascii	"\000"
 	.ascii	"\000"

@@ -9,10 +9,10 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"usbd_cdc_core.c"
-	.section	.gnu.lto_.profile.1fbdbc4878e0431e,"e",%progbits
+	.section	.gnu.lto_.profile.ee242d9604f0b5c2,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.1fbdbc4878e0431e,"e",%progbits
+	.section	.gnu.lto_.icf.ee242d9604f0b5c2,"e",%progbits
 	.ascii	"x\234\343``d\250c@\000Q\206_\357&\276db|\331yo\036?"
 	.ascii	"\363\247\037\347\257s\263\364\377}\377\234\227\265\367"
 	.ascii	"\364\365Z\266\277\347\256[\260\177\\\270\35763gSk\373"
@@ -22,7 +22,7 @@
 	.ascii	"\330\204\356\011k\370\305\277\317<?\213Sb\342\204\253"
 	.ascii	"\237\371$?}\332\372\222\217\001\000\221\020A\260"
 	.text
-	.section	.gnu.lto_.jmpfuncs.1fbdbc4878e0431e,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.ee242d9604f0b5c2,"e",%progbits
 	.ascii	"x\234\255T\271N\303@\020\235\267k\007\023\256\006A\221"
 	.ascii	"&\037\301\367\305J\250 RD\203\350\210\000\201\004\351"
 	.ascii	")\010\204\020\256tTH\210\002\211\026\004\264 q\315\330"
@@ -51,7 +51,7 @@
 	.ascii	"\005z6\240N\312F4+\373\245\314~)Gv\377\232\261\324\223"
 	.ascii	"3\244O\214\322\252\002"
 	.text
-	.section	.gnu.lto_.inline.1fbdbc4878e0431e,"e",%progbits
+	.section	.gnu.lto_.inline.ee242d9604f0b5c2,"e",%progbits
 	.ascii	"x\234\215SMk\024A\020}U\335;;\356\256\331\211\212\036"
 	.ascii	"D\210W\017\222\2370\007\317\373\02361\2111\236\342/"
 	.ascii	"\220\015\242\202H2H \250\007\205\205\010\221\304\334"
@@ -82,12 +82,12 @@
 	.ascii	"\275\330!p\342Jo3z\035\023\273\017\007o\276\\[2Z\370"
 	.ascii	"\360\332\2433gy\213\220\254\360&A\370\0030\305\322\265"
 	.text
-	.section	.gnu.lto_.pureconst.1fbdbc4878e0431e,"e",%progbits
+	.section	.gnu.lto_.pureconst.ee242d9604f0b5c2,"e",%progbits
 	.ascii	"x\234\005\301A\016\000\020\020\004\301\221\264\020\304"
 	.ascii	"I8\372\366\232\327\252\252J\272\222\232\202l\212i\217"
 	.ascii	"\036\0143\315\012vp\314\007k\217\006\322"
 	.text
-	.section	.gnu.lto_usbd_cdc_EP0_RxReady.1fbdbc4878e0431e,"e",%progbits
+	.section	.gnu.lto_usbd_cdc_EP0_RxReady.ee242d9604f0b5c2,"e",%progbits
 	.ascii	"x\234\215\222OHTQ\024\306\317\367\316\233\231\347\244"
 	.ascii	"\313\240p\343\"\022[\370\206l\327&\254\026A\255\254"
 	.ascii	"\365\240\343,\006\254d\246\244V^G1KQ\014\377T0\2155"
@@ -123,7 +123,7 @@
 	.ascii	"\020\014\035\215\206KCd\326V\207\353~\001\375\270\034"
 	.ascii	"\314"
 	.text
-	.section	.gnu.lto_USBD_cdc_GetCfgDesc.1fbdbc4878e0431e,"e",%progbits
+	.section	.gnu.lto_USBD_cdc_GetCfgDesc.ee242d9604f0b5c2,"e",%progbits
 	.ascii	"x\234]\220\315k\023Q\024\305\357\231;\371Pj\377\201"
 	.ascii	"(t!\204n:\322\376\003Ru\245.\244\272\036\222\311\240"
 	.ascii	"\201X%Q\301U_\306\370\201-\321BkP\210S\033C\335\251"
@@ -154,7 +154,7 @@
 	.ascii	"\223\256\233\211\346\334\301\243\247\216\375\006\226"
 	.ascii	"\242\273\230"
 	.text
-	.section	.gnu.lto_usbd_cdc_CfgDesc.1fbdbc4878e0431e,"e",%progbits
+	.section	.gnu.lto_usbd_cdc_CfgDesc.ee242d9604f0b5c2,"e",%progbits
 	.ascii	"x\234%\214\313\011\2000\024\004w_\362L\342\311\213\005"
 	.ascii	"\010\251\300\012\204`_~\212\360\230>\004\301\232\304"
 	.ascii	"\273F\234\313\014{X\017\242\0050\342g3\274\327\353\360"
@@ -162,7 +162,7 @@
 	.ascii	"j$h\243\210\306\012t\272\030\217'XB\352\362\345\224"
 	.ascii	"2|\232?\275\366h\014 "
 	.text
-	.section	.gnu.lto_usbd_cdc_Init.1fbdbc4878e0431e,"e",%progbits
+	.section	.gnu.lto_usbd_cdc_Init.ee242d9604f0b5c2,"e",%progbits
 	.ascii	"x\234}\223mHSa\024\307\237\377}\266\271\251S?F\243\360"
 	.ascii	"C B8\311\257\031a\365%\012\002\353\363\320m\305\300"
 	.ascii	",6\222\372\344\335f\250YZ\221\315\201k\323\261\322\242"
@@ -206,7 +206,7 @@
 	.ascii	"m\026\012,\326SN{\206\225iN\333\354E:\353\361\023\016"
 	.ascii	"\333\331_)\227j5"
 	.text
-	.section	.gnu.lto_usbd_cdc_DataOut.1fbdbc4878e0431e,"e",%progbits
+	.section	.gnu.lto_usbd_cdc_DataOut.ee242d9604f0b5c2,"e",%progbits
 	.ascii	"x\234\215\223\311OSQ\024\306\357\327\333\021\0138\255"
 	.ascii	"lLX\230\020\\\320\012\177\200\006uc4.\320u\003\245\213"
 	.ascii	"&\200\204\006\022W\274\026\020\020\003B\030\027/\255"
@@ -249,7 +249,7 @@
 	.ascii	"^\273+\307e\367\026\272\354E\336\354\034'\031N\327\271"
 	.ascii	"Bw\252\213\351\013r\334\305\006wA~Q\336O\245\354V|"
 	.text
-	.section	.gnu.lto_usbd_cdc_DeInit.1fbdbc4878e0431e,"e",%progbits
+	.section	.gnu.lto_usbd_cdc_DeInit.ee242d9604f0b5c2,"e",%progbits
 	.ascii	"x\234}\222_HSa\030\306\337\347|\373s\026Y7]D#\362\""
 	.ascii	"\030\336xF\336gX\335DA`]\217\355l\305\300\376\260\221"
 	.ascii	"$\004~;S\312,\205\320t\320:\023\223\362\246\014\244"
@@ -283,7 +283,7 @@
 	.ascii	"4\222\011\323\270\222\214DC\\\204\314K\211X\243I\256"
 	.ascii	"\313\321X\273\307<w>\036\275\372\0278\350\345\370"
 	.text
-	.section	.gnu.lto_usbd_cdc_Setup.1fbdbc4878e0431e,"e",%progbits
+	.section	.gnu.lto_usbd_cdc_Setup.ee242d9604f0b5c2,"e",%progbits
 	.ascii	"x\234\225WiLTW\024\276\347\3357\373\206Z\265\2021\246"
 	.ascii	"\332\030\375!Z\3777\215m\223\246\251?\032\353o\242H"
 	.ascii	"\023\023\272\210\251i\177\371\206]@pGLq\246P\"`\253"
@@ -385,7 +385,7 @@
 	.ascii	"\311\3132R\223\177Z\266hq\012\016RR\177\310H\233\231"
 	.ascii	"\312\324\037\027\247-\347\031iK\377\007\316y\256\344"
 	.text
-	.section	.gnu.lto_Handle_USBAsynchXfer.1fbdbc4878e0431e,"e",%progbits
+	.section	.gnu.lto_Handle_USBAsynchXfer.ee242d9604f0b5c2,"e",%progbits
 	.ascii	"x\234\215VoPTU\024\277\347\335\267\373\376\354{\374"
 	.ascii	"Q\372\30442\225\343\330\007\266\241\017~\350\213c\365"
 	.ascii	"\245\251O\332\364\221Q`\212\031\263\006\312\251O\276"
@@ -459,7 +459,7 @@
 	.ascii	"V\222_\304\344w\213K\266\232\364\332\206\017\0127\227"
 	.ascii	"ly\363\275\267\376\005?el\314"
 	.text
-	.section	.gnu.lto_usbd_cdc_SOF.1fbdbc4878e0431e,"e",%progbits
+	.section	.gnu.lto_usbd_cdc_SOF.ee242d9604f0b5c2,"e",%progbits
 	.ascii	"x\234\215\221\313kSQ\020\306\347\273ss\223\224\024\377"
 	.ascii	"\200l\\\010\245\010\275\305\270s#U\027\202.\244\272"
 	.ascii	"\016y-\002\365A\202\005W=y\330\322\007-\005\233ZhHJ"
@@ -491,7 +491,7 @@
 	.ascii	"\345x0\354\227\300\037\272\030\213\264\205\310\274\024"
 	.ascii	"\216t\377\006&M\361\231"
 	.text
-	.section	.gnu.lto_usbd_cdc_DataIn.part.0.1fbdbc4878e0431e,"e",%progbits
+	.section	.gnu.lto_usbd_cdc_DataIn.part.0.ee242d9604f0b5c2,"e",%progbits
 	.ascii	"x\234\205Q\317KTQ\024\276\337;\357\315\017Ih?\233\026"
 	.ascii	"\015\203-|\222\377\200XAD\2554h\023\203\316\0145\240"
 	.ascii	"&3)\265\362\316h\0119hV&\012\323$f\351\2464\214B\373"
@@ -527,7 +527,7 @@
 	.ascii	"\312p\220\223`\350T,R\030\022fm8R\237\257\332\312\317"
 	.ascii	"\004\253\"5'N\237\264\"\2655u\325\177\001-~\017\005"
 	.text
-	.section	.gnu.lto_usbd_cdc_DataIn.1fbdbc4878e0431e,"e",%progbits
+	.section	.gnu.lto_usbd_cdc_DataIn.ee242d9604f0b5c2,"e",%progbits
 	.ascii	"x\234\215T[L\\U\024=\373\236;\3675w\240M\303O\211\221"
 	.ascii	"\017\033R?:\015|\372aS\365\307hb\322\372i&0L\224\204"
 	.ascii	"b\003\226\350W/\317\011\017\201\032\012!af\324\221\266"
@@ -594,7 +594,7 @@
 	.ascii	"\324\011\027\013>\376\241'\317\227\377\356\007\357\375"
 	.ascii	"\013\346\373\243\306"
 	.text
-	.section	.gnu.lto_USBD_CDC_cb.1fbdbc4878e0431e,"e",%progbits
+	.section	.gnu.lto_USBD_CDC_cb.ee242d9604f0b5c2,"e",%progbits
 	.ascii	"x\234\343``d\360cd`pa\200\200\351\314\214sW\234\371"
 	.ascii	"\317\331\302\330\324\330\321\320\360\240{%;\363|f\206"
 	.ascii	"\231\314\020\271\276\346\367\3678\372\200\"\214\214"
@@ -610,7 +610,7 @@
 	.ascii	"(\261\250R\3379'\261\270X?9%Y\277\270(Y\277\2648)%\036"
 	.ascii	"\310\211O\316/J\325Kf\000\000g\355\207\011"
 	.text
-	.section	.gnu.lto_.symbol_nodes.1fbdbc4878e0431e,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.ee242d9604f0b5c2,"e",%progbits
 	.ascii	"x\234u\221KO\333P\020\205\347\370^\307!6NU\241 A\001"
 	.ascii	"\213v\305\2165\233\"\361?\272\341\177\214\001\223\024"
 	.ascii	"\302\253\245-oH\242\264\264,\221\220\010\013$\036Bj"
@@ -635,7 +635,7 @@
 	.ascii	"\226p\012\221\363Z\007u{\305\177+#8\267Dw\356\313B\375"
 	.ascii	"7a\322\245\007C\036\371\017"
 	.text
-	.section	.gnu.lto_.refs.1fbdbc4878e0431e,"e",%progbits
+	.section	.gnu.lto_.refs.ee242d9604f0b5c2,"e",%progbits
 	.ascii	"x\234\025\314An\3030\020\004\301\231!)\221\246\224]"
 	.ascii	"\255D\331\006\002$H.\376\377_\362\237\310\267>4\252"
 	.ascii	"\202\370\003P\000\022JHY\271\220\023\213&\345\2315\263"
@@ -647,7 +647,7 @@
 	.ascii	"=\020;c\300\316\372\320\254\256E\320]7\035*\370\007"
 	.ascii	">\307\007\344"
 	.text
-	.section	.gnu.lto_.decls.1fbdbc4878e0431e,"e",%progbits
+	.section	.gnu.lto_.decls.ee242d9604f0b5c2,"e",%progbits
 	.ascii	"x\234\255{{XT\331\265g\355\332UPU\024`\243\335\351i"
 	.ascii	"\373K\362e\274I\356MwkO\367\364d\222|\223t\243\266~"
 	.ascii	"\323i\035\265s\357\344\233\011A([\346\362\272\200\335"
@@ -1136,7 +1136,7 @@
 	.ascii	"x\344A\223\213\302\015&\017\027\177\226i\240\223\204"
 	.ascii	"TcO\346\024\350\227\377\007\370\330O\231"
 	.text
-	.section	.gnu.lto_.symtab.1fbdbc4878e0431e,"e",%progbits
+	.section	.gnu.lto_.symtab.ee242d9604f0b5c2,"e",%progbits
 	.ascii	"usbd_cdc_EP0_RxReady\000"
 	.ascii	"\000"
 	.ascii	"\000"

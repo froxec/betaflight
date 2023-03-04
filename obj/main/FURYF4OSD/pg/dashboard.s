@@ -9,31 +9,31 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"dashboard.c"
-	.section	.gnu.lto_.profile.7368e43132f8aa91,"e",%progbits
+	.section	.gnu.lto_.profile.fb64cfa780f05539,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.7368e43132f8aa91,"e",%progbits
+	.section	.gnu.lto_.icf.fb64cfa780f05539,"e",%progbits
 	.ascii	"x\234\343``dP`@\000V\2063+\227\234\347f\234\331\273"
 	.ascii	"d6\037\323\231\257\2276s0\203I\226\275\017\337\265\263"
 	.ascii	"2\000\000\373\004\017S"
 	.text
-	.section	.gnu.lto_.jmpfuncs.7368e43132f8aa91,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.fb64cfa780f05539,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.inline.7368e43132f8aa91,"e",%progbits
+	.section	.gnu.lto_.inline.fb64cfa780f05539,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.pureconst.7368e43132f8aa91,"e",%progbits
+	.section	.gnu.lto_.pureconst.fb64cfa780f05539,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_pgResetTemplate_dashboardConfig.7368e43132f8aa91,"e",%progbits
+	.section	.gnu.lto_pgResetTemplate_dashboardConfig.fb64cfa780f05539,"e",%progbits
 	.ascii	"x\234\343``dpf`\000\222\0200\235\231q\355\337\235m\\"
 	.ascii	"}\314\363\231\031\030m\200\334m\235oWr\202\270\214\214"
 	.ascii	"\214@\356\257\246\246K\374\226\333\033:\0264(\314gf"
 	.ascii	"\232\001T\265\233Qz\006Pv\027\2434\003\343\036FK\006"
 	.ascii	"\000:\177\025."
 	.text
-	.section	.gnu.lto_dashboardConfig_Registry.7368e43132f8aa91,"e",%progbits
+	.section	.gnu.lto_dashboardConfig_Registry.fb64cfa780f05539,"e",%progbits
 	.ascii	"x\234\343``d\020gd`\220a\200\200\351\314\214sW\234\371"
 	.ascii	"\317\331\302\330\324\330\321\320\360\240\373\204\\\355"
 	.ascii	"|f\206\305\314\020\271\335_\366\276\002\313\315hhX\260"
@@ -49,16 +49,16 @@
 	.ascii	"w\201<\300x\230\321\222AJO\277\270(Y?713O\277 ]?%\261"
 	.ascii	"8#)?\261(E/\231\001\000\242Ye\024"
 	.text
-	.section	.gnu.lto_.symbol_nodes.7368e43132f8aa91,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.fb64cfa780f05539,"e",%progbits
 	.ascii	"x\234\343``d\360`\000\002\326)\214\014\255J\014z\005"
 	.ascii	"\351\361E\251\305\251%)\211%\211@\321I\214\214p\321"
 	.ascii	"\364\314\342\222\242J\240`\037#S\243\022HO?#3\2041\201"
 	.ascii	"\221\005\314`\000\000\274$\020\202"
 	.text
-	.section	.gnu.lto_.refs.7368e43132f8aa91,"e",%progbits
+	.section	.gnu.lto_.refs.fb64cfa780f05539,"e",%progbits
 	.ascii	"x\234\343``d\340f```adbbbfb`ba\000\000\001\361\000+"
 	.text
-	.section	.gnu.lto_.decls.7368e43132f8aa91,"e",%progbits
+	.section	.gnu.lto_.decls.fb64cfa780f05539,"e",%progbits
 	.ascii	"x\234\225VmPT\347\025\276\347\276\313\262\\v!\005\252"
 	.ascii	"F\354\210\351\372\321\351\214\304d\306\351\217L\247"
 	.ascii	"\035:\375\230\316t:\246\375\223\037e6\260.\314\350J"
@@ -171,7 +171,7 @@
 	.ascii	"\315n\336\236\260\360u\012\272]\264\236\000\365\377"
 	.ascii	"\001\236\250@\236"
 	.text
-	.section	.gnu.lto_.symtab.7368e43132f8aa91,"e",%progbits
+	.section	.gnu.lto_.symtab.fb64cfa780f05539,"e",%progbits
 	.ascii	"pgResetTemplate_dashboardConfig\000"
 	.ascii	"\000"
 	.ascii	"\000"

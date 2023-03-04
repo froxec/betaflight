@@ -9,10 +9,10 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"jetiexbus.c"
-	.section	.gnu.lto_.profile.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_.profile.7e66b8a325355a42,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_.icf.7e66b8a325355a42,"e",%progbits
 	.ascii	"x\234\343``d\230\301\200\000\222\014k\266\235\373\305"
 	.ascii	"\313\370\351\307\371\353\334L]\315GN\2622\267/\233\367"
 	.ascii	"\203\235e\366\256\315\035\274\254\317\177o\237\302\303"
@@ -24,7 +24,7 @@
 	.ascii	"\256n\377z\217Wv\367\367\316\377\214\012\033z\026\034"
 	.ascii	"gR\002\273\201\001\000\374\300LF"
 	.text
-	.section	.gnu.lto_.jmpfuncs.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.7e66b8a325355a42,"e",%progbits
 	.ascii	"x\234\225\226[O\023A\024\307\347?\273\335\336\333p\363"
 	.ascii	"\245\032y\366\311\360\001|\367\253\370!\024!\242\211"
 	.ascii	"\330xI hLU\304\304h\242<\010\211\205\266P.*jQ\240\""
@@ -68,7 +68,7 @@
 	.ascii	"\241\312#\346(c\307\330\301\3747\353\254\347\311qe+"
 	.ascii	"\026\345\032\365(u\376\003\351\324\321\212"
 	.text
-	.section	.gnu.lto_.inline.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_.inline.7e66b8a325355a42,"e",%progbits
 	.ascii	"x\234\245\225\315OSA\020\300gv_\313\003Z)(\306H5\375"
 	.ascii	"\023\274\030M\274\364\340\311CO\2365\341\233\206D\256"
 	.ascii	"^\314\203\206 \037\201\022?\2401\305\257\240\342\301"
@@ -116,12 +116,12 @@
 	.ascii	"}pp4\366`\236\227\323\226\243\335\361\215M^\266u/O\206"
 	.ascii	"\220\336\3012\203\002\370\015\004\253\207\273"
 	.text
-	.section	.gnu.lto_.pureconst.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_.pureconst.7e66b8a325355a42,"e",%progbits
 	.ascii	"x\234\343``d\320```\340e\230\301\302<\203\205\245\225"
 	.ascii	"\205u\006\013\333,\026\316Y,\\3Xxf\260\010\315b\021"
 	.ascii	"\235\305\"\266\203E\246\201Ev\006\013\000\2607\010\317"
 	.text
-	.section	.gnu.lto_getNextActiveSensor.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_getNextActiveSensor.7e66b8a325355a42,"e",%progbits
 	.ascii	"x\234eR\317KTQ\024>\347\236;\357\275qf6\201.\262\205"
 	.ascii	"A \266p\214\250U\213\242?\241\277\240\344-\2244\030"
 	.ascii	"G\250\225\327q\312&\303Zd\"\364\232l\2222+kQ\224\246"
@@ -160,7 +160,7 @@
 	.ascii	"\306c'\242\265n\274\306=~\244\261\241\262\032\"\325"
 	.ascii	"\215\261\230[\037?\344\3267\034\213\375\001PN\031\013"
 	.text
-	.section	.gnu.lto_enableGpsTelemetry.part.0.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_enableGpsTelemetry.part.0.7e66b8a325355a42,"e",%progbits
 	.ascii	"x\234\215\324\315O\023A\030\006\360yv\266\245V\300\350"
 	.ascii	"I\323\223\211\204\340\201j\274\033\376\025 {\300\000"
 	.ascii	"\007\250\211za\332\362\225@j\324`A%[m\0325\036\324\013"
@@ -197,7 +197,7 @@
 	.ascii	"cJ\250M9\321r\274\273\261\225x\225\316\346\226v\345"
 	.ascii	"?fP\343("
 	.text
-	.section	.gnu.lto_calcCRC8.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_calcCRC8.7e66b8a325355a42,"e",%progbits
 	.ascii	"x\234}T]OTW\024=\353\356s\347\316\0143 \010\341c|\260"
 	.ascii	"\211\206\230\032\306h\322\370\350\017\360\037\364\311"
 	.ascii	"\222Ic#\244\001\232\350\223\207\031\030B\264\300\003"
@@ -247,7 +247,7 @@
 	.ascii	"\3333\355\324\332\321\252\333ve\332\377\005\227+\206"
 	.ascii	"."
 	.text
-	.section	.gnu.lto_enableGpsTelemetry.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_enableGpsTelemetry.7e66b8a325355a42,"e",%progbits
 	.ascii	"x\234\215\324\317K\024a\030\007\360\367;\357\314:\231"
 	.ascii	"\032u*\226\240 \020;\270B\227N\321\245?De\016\206zP"
 	.ascii	"\203\352\342\273\353\372\003\024\243\302\266\255\226"
@@ -286,7 +286,7 @@
 	.ascii	"\353\316\264V\327\023\237\321\\[\327h\374\005\321\014"
 	.ascii	"\353\010"
 	.text
-	.section	.gnu.lto_initJetiExBusTelemetry.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_initJetiExBusTelemetry.7e66b8a325355a42,"e",%progbits
 	.ascii	"x\234\215\227\333S\023W\034\307\367w\316^s\245^\352"
 	.ascii	"m\246c\247}\321N\305\361\255\227\207\376+\255\303\203"
 	.ascii	"\235\352\203\332\231\366\311%\\\242@\025\255\032\323"
@@ -373,7 +373,7 @@
 	.ascii	"m\310\337\\\360E\301\372\202\315\033\277\316\377\274"
 	.ascii	"`\363\272\202\257>\373r\323\252\265\302\377\"h]\200"
 	.text
-	.section	.gnu.lto_createExTelemetryTextMessage.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_createExTelemetryTextMessage.7e66b8a325355a42,"e",%progbits
 	.ascii	"x\234\225V[L\224W\020>\363\237\177\331]`AQ\251\2621"
 	.ascii	"\241QD\024\001\305\013^\232\372\320\227\332\366\265"
 	.ascii	"/&M\224l\254\015\320\0240\261}\361\347^\274a\023t\321"
@@ -471,7 +471,7 @@
 	.ascii	"HZ\263\326\226$\327jr\222-\205'\246&\376\015@\322\323"
 	.ascii	"\313"
 	.text
-	.section	.gnu.lto_calcGpsDDMMmmm.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_calcGpsDDMMmmm.7e66b8a325355a42,"e",%progbits
 	.ascii	"x\234\215T_lSe\024\377~\367\373z{\373o\335\030$d\365"
 	.ascii	"\241&\314\005L\266\202\211>\030\377$\276\356\331\367"
 	.ascii	"A\0323\302f\302\206\321'n\273\246\005FP\027\331VH\251"
@@ -529,7 +529,7 @@
 	.ascii	"\276\346iin\335\374\254\325\264\265\355UF\377\0062y"
 	.ascii	"\353\313"
 	.text
-	.section	.gnu.lto_getSensorValue.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_getSensorValue.7e66b8a325355a42,"e",%progbits
 	.ascii	"x\234\255\231iP\025\307\026\307\247g\356\276\261\203"
 	.ascii	"\212F\214\232\030M\024}\211\251\227\312\263\254\354"
 	.ascii	"\213\331w\223\230\250\241\352%\225\344U\305\244*\371"
@@ -726,7 +726,7 @@
 	.ascii	"g\375\347\033\343W\237\177=~\242e\372\214Y\357N\377"
 	.ascii	"\362\273\230\377\001\015t\265\247"
 	.text
-	.section	.gnu.lto_createExTelemetryValueMessage.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_createExTelemetryValueMessage.7e66b8a325355a42,"e",%progbits
 	.ascii	"x\234\215WyPU\327\031\277\337=\367\355\013O\215QA\023"
 	.ascii	"T\020\223Fp\304$\330L5\3528.\2111q\213\321\376c\235"
 	.ascii	"\327\214-jF\264c\235is\331C\203KR\005!}\001%\330\250"
@@ -867,7 +867,7 @@
 	.ascii	"\352\345\253\372\212\355\351(;s\361\232\251+W\254\376"
 	.ascii	"H[\026\355^\316\226\254\\\362?\323\320\246]"
 	.text
-	.section	.gnu.lto_jetiExSensors.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_jetiExSensors.7e66b8a325355a42,"e",%progbits
 	.ascii	"x\234\215\227YPSW\030\307\357\271Y\330\022\342\332\215"
 	.ascii	"\027\356K\373\244\214\266/\314t:Z\035m;}p\352\214\265"
 	.ascii	"\355S\212w4\035\026\007\342\264\276\005dU@v\022A\022"
@@ -965,7 +965,7 @@
 	.ascii	"\035x7\345\271\347Dx8\033\252\246\350C\224\347\241\260"
 	.ascii	"`\265\362(+\200\357\240\376\003l\362\357\215"
 	.text
-	.section	.gnu.lto_createExBusMessage.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_createExBusMessage.7e66b8a325355a42,"e",%progbits
 	.ascii	"x\234}T\337O\024W\024\276\337\334\331\335\231]`1FS\202"
 	.ascii	"\255\230h\210/Rc\332\227\246ic|\361\301?\202n&\015\376"
 	.ascii	"\212a!\301'g\027\335\225nc\333\264]E\335\254hW\244\011"
@@ -1019,7 +1019,7 @@
 	.ascii	"\316\332T\033Y\3474\254^\345\213\324G\226\277\373\024"
 	.ascii	"\035\351\344:"
 	.text
-	.section	.gnu.lto_sendJetiExBusTelemetry.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_sendJetiExBusTelemetry.7e66b8a325355a42,"e",%progbits
 	.ascii	"x\234\215WYsTE\024\356\323=\313\235;k A0\006\003Z\005"
 	.ascii	"Z%A\254\262\312\007\253\334^\364\037\370\250\030\253"
 	.ascii	"P\261,\215U\372\304\315\016\231\021\210,a\2000\003#"
@@ -1123,7 +1123,7 @@
 	.ascii	"\226\315*\375\350\365\017?\2306\223\031\357\2756\363"
 	.ascii	"\355\322\262\227_r\314*+\235\375\037\026\205&\322"
 	.text
-	.section	.gnu.lto_checkJetiExBusTelemetryState.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_checkJetiExBusTelemetryState.7e66b8a325355a42,"e",%progbits
 	.ascii	"x\234\343``d\230\300\300\300\240\014\304\262@\314\310"
 	.ascii	"\314\300\310\324\320\320\340\300\336\310\301\304\310"
 	.ascii	"\010f5p02\32431\3263\3663Ogf<\324\376l'\223\346r\240"
@@ -1136,7 +1136,7 @@
 	.ascii	"\271\211\231y\372%\2519\251\271\251%E\225\372Y\251%"
 	.ascii	"\231\251\025I\245\305z\311\014\000\277C>\262"
 	.text
-	.section	.gnu.lto_handleJetiExBusTelemetry.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_handleJetiExBusTelemetry.7e66b8a325355a42,"e",%progbits
 	.ascii	"x\234\225V\377O[U\024\277\347\335\327\366\365\265\257"
 	.ascii	"\205M\030\212Q\314\334\017[\310H\346/jb\342\017\376"
 	.ascii	"#\272\260\004#\376\260a2\343\017{@\001\035d(\001I3\272"
@@ -1209,7 +1209,7 @@
 	.ascii	"\242\262\342w\212K\213\313\016\276_\364vqYI\361\341"
 	.ascii	"\267\336;\264w?S\312JJ\213\337(9p\340?\373 _\212"
 	.text
-	.section	.gnu.lto_.symbol_nodes.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.7e66b8a325355a42,"e",%progbits
 	.ascii	"x\234u\224\333O\023A\024\306\347\333a\267---l\351\212"
 	.ascii	"h\225\000\202w\361\022\342\243\032\376\024\376\217\263"
 	.ascii	"\220}\322\027\343\013O<@\032\321\304D\023/\\\024\264"
@@ -1249,7 +1249,7 @@
 	.ascii	"N\034\271j\236\265V7\3725\024\342<{fre\330\273\275\024"
 	.ascii	"\373\007\020p/\303"
 	.text
-	.section	.gnu.lto_.refs.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_.refs.7e66b8a325355a42,"e",%progbits
 	.ascii	"x\234e\317\315J\303P\020\005\340s\246I\34767I\323&i"
 	.ascii	"n\222\366&\251\340\017\026W\212\317\350k\271S\004A\020"
 	.ascii	"D\227\272\324w\360v]\230\017\316\234Y\215\001\361@@"
@@ -1267,7 +1267,7 @@
 	.ascii	"U\330\327\3347\364\216\276E\337\241\333\262\037\350"
 	.ascii	"G\374\003M\216\033\277"
 	.text
-	.section	.gnu.lto_.decls.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_.decls.7e66b8a325355a42,"e",%progbits
 	.ascii	"x\234\265|\011X\224W\232n\235:\265@\261\0314\306\304"
 	.ascii	"$\235\364\330\313LO\242Yz\231;=\317L\332twzn\247\247"
 	.ascii	"o\222\356\236\236;\3170\025,\225\036\266\251*l\355\373"
@@ -1913,7 +1913,7 @@
 	.ascii	"@~g\315v2\237Bb2\030I\354\337\377\221\306R\241\201\325"
 	.ascii	"\203\037\255\375\033\005\271\374?1\002$\217"
 	.text
-	.section	.gnu.lto_.symtab.86f17b7306de3076,"e",%progbits
+	.section	.gnu.lto_.symtab.7e66b8a325355a42,"e",%progbits
 	.ascii	"calcCRC8\000"
 	.ascii	"\000"
 	.ascii	"\000"

@@ -9,26 +9,26 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"debug_pin.c"
-	.section	.gnu.lto_.profile.68df60a9c2dbb430,"e",%progbits
+	.section	.gnu.lto_.profile.8f0868c33aae5710,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.68df60a9c2dbb430,"e",%progbits
+	.section	.gnu.lto_.icf.8f0868c33aae5710,"e",%progbits
 	.ascii	"x\234\343``d\020a@\000f\206\253\333\277\336\343e\274"
 	.ascii	"\260\376\306&6&0\311\000\000jZ\011\256"
 	.text
-	.section	.gnu.lto_.jmpfuncs.68df60a9c2dbb430,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.8f0868c33aae5710,"e",%progbits
 	.ascii	"x\234\343``d\020e@\000f fddd`\230\317\314\300\004\245"
 	.ascii	"\031\000\016\317\001m"
 	.text
-	.section	.gnu.lto_.inline.68df60a9c2dbb430,"e",%progbits
+	.section	.gnu.lto_.inline.8f0868c33aae5710,"e",%progbits
 	.ascii	"x\234\343``d\310f@\000f j\000\002\246\024F\006&\006"
 	.ascii	"\206F \263\216\201\201\015\"\304\004\022b\000\352 \250"
 	.ascii	"\204\211\260\022\006\000\012\216\026\214"
 	.text
-	.section	.gnu.lto_.pureconst.68df60a9c2dbb430,"e",%progbits
+	.section	.gnu.lto_.pureconst.8f0868c33aae5710,"e",%progbits
 	.ascii	"x\234\343``d\340b```fh`al`aj`\001\000\011\030\001\246"
 	.text
-	.section	.gnu.lto_dbgPinInit.68df60a9c2dbb430,"e",%progbits
+	.section	.gnu.lto_dbgPinInit.8f0868c33aae5710,"e",%progbits
 	.ascii	"x\234\343``d\350e``\220\007bY fdf`djhhp`o\344`bd\004"
 	.ascii	"\263\0328\030\031\352\231\030\353\031\373\231\24733"
 	.ascii	"\036j\177\266\223Is9P\246\341\300\364]\222\015+\016"
@@ -40,7 +40,7 @@
 	.ascii	"z\372\305E\311\372\271\211\231y\372I\245\2319)\372)"
 	.ascii	"\251I\245\351\361\005\231yz\311\014\000\254B:M"
 	.text
-	.section	.gnu.lto_dbgPinHi.68df60a9c2dbb430,"e",%progbits
+	.section	.gnu.lto_dbgPinHi.8f0868c33aae5710,"e",%progbits
 	.ascii	"x\234\343``dx\311\300\300\240\012\304\262@\314\310\314"
 	.ascii	"\300\310\324\320\320\340\300\336\310\301\304\310\010"
 	.ascii	"f5p02\32431\3263\3663Ogf<\324\376l'\223\346r\240L\303"
@@ -58,7 +58,7 @@
 	.ascii	"\314\323O*\315\314I\321OIM*M\217/\310\314\323Kf`\315"
 	.ascii	"\314KI\255\000\000\244\320XU"
 	.text
-	.section	.gnu.lto_dbgPinLo.68df60a9c2dbb430,"e",%progbits
+	.section	.gnu.lto_dbgPinLo.8f0868c33aae5710,"e",%progbits
 	.ascii	"x\234\343``dx\311\300\300\240\012\304\262@\314\310\314"
 	.ascii	"\300\310\324\320\320\340\300\336\310\301\304\310\010"
 	.ascii	"f5p02\32431\3263\3663Ogf<\324\376l'\223\346r\240L\303"
@@ -76,15 +76,15 @@
 	.ascii	"\323O*\315\314I\321OIM*M\217/\310\314\323Kf`\315\314"
 	.ascii	"KI\255\000\000\011\226X\354"
 	.text
-	.section	.gnu.lto_.symbol_nodes.68df60a9c2dbb430,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.8f0868c33aae5710,"e",%progbits
 	.ascii	"x\234\343``d\010f\000\002\246\026\306z\206\006 `a\234"
 	.ascii	"p\216\201\241\236\201aW\203#P\022$\325\312X\317\210"
 	.ascii	"C\252\215\261\236\011\273\024\003\000x\211\023\217"
 	.text
-	.section	.gnu.lto_.refs.68df60a9c2dbb430,"e",%progbits
+	.section	.gnu.lto_.refs.8f0868c33aae5710,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.decls.68df60a9c2dbb430,"e",%progbits
+	.section	.gnu.lto_.decls.8f0868c33aae5710,"e",%progbits
 	.ascii	"x\234\205\221\317k\023Q\020\307\347\273\273B\262\244"
 	.ascii	"\265\224b\017\265P\202\007A\332\245\020\360\017\360"
 	.ascii	"P\005\021\017z\351E\232\037\266\013MZb#^\012\253%\""
@@ -118,7 +118,7 @@
 	.ascii	"\235:\333u\254\267\227:\377\325E>)w\334V\301\311\221"
 	.ascii	"\337\353\312\340("
 	.text
-	.section	.gnu.lto_.symtab.68df60a9c2dbb430,"e",%progbits
+	.section	.gnu.lto_.symtab.8f0868c33aae5710,"e",%progbits
 	.ascii	"dbgPinInit\000"
 	.ascii	"\000"
 	.ascii	"\000"

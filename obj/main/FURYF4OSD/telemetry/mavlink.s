@@ -9,10 +9,10 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"mavlink.c"
-	.section	.gnu.lto_.profile.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_.profile.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_.icf.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234\001\347\000\030\377\010\000\001\000\327\000\000"
 	.ascii	"\000\000\000\000\000\000\000\000\000$\000\361\354\324"
 	.ascii	"\361\011\001\225\273\365\366\014\002\344\267\255\360"
@@ -32,7 +32,7 @@
 	.ascii	"\002-\342\264\261\302\016.\362\370\317\327\013/\367"
 	.ascii	"\277\363\276\012\000\377`p\344"
 	.text
-	.section	.gnu.lto_.jmpfuncs.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234\275X\377O\\E\020\337y\357q\357\276\301\021\305"
 	.ascii	"\006{P\320\2646\251\321&\215\277\232\372\243\377\210"
 	.ascii	"\377\006\034^1\251U\2021\265mLcZRT\320\226_D\003\025"
@@ -104,7 +104,7 @@
 	.ascii	"\032y\346\370z\201\032y\221\301\006\351/\226\222[\321"
 	.ascii	"\304/R@/\361\037\007\371\217\377\000kQ1l"
 	.text
-	.section	.gnu.lto_.inline.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_.inline.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234\245T\357KSQ\030~\316{6w\275\233\363':Mi\205\331"
 	.ascii	"\207\210\372\003\372\033F\364\271O\345\324\324?\302"
 	.ascii	"\010%\205\320\3000\205B\244\017\331\207QL\322\010$\372"
@@ -146,14 +146,14 @@
 	.ascii	"\336z{\371+u1<\2648\376r\261\030\356\000\361\033Hr^"
 	.ascii	"\004"
 	.text
-	.section	.gnu.lto_.pureconst.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_.pureconst.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234\005\301A\016C`\024\205\321W\276\242\24410\362"
 	.ascii	"'\"\244:\221\246K\261\275\373\356j\235\323\305#\256"
 	.ascii	"\210(a*S\033\314\3234\2465\235y\231\336\014\342-F1%"
 	.ascii	"\263(bIV\261%{\362\021G\362MN\361\023\177q\003\317\\"
 	.ascii	"\022}"
 	.text
-	.section	.gnu.lto_mavlink_finalize_message_chan.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_mavlink_finalize_message_chan.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234\245Xit\025U\022\356\352\333\375\226l\310\000*"
 	.ascii	"\333\021\317\021Y\304$@X\3340\"\012\"\310\"\240\210"
 	.ascii	"\210\020\002A\222\300\001\2343\363c\216M\022\022\263"
@@ -307,7 +307,7 @@
 	.ascii	"\326IBRb\302\324\231\357\246\240\272\003i#R\246;\247"
 	.ascii	"\367}w\322\244\304\0310\375\277\007\366DH"
 	.text
-	.section	.gnu.lto_mavlink_msg_sys_status_pack.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_mavlink_msg_sys_status_pack.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234\205\325[LTG\030\000\340\363\237\331\373\262\273"
 	.ascii	"^\242\326lA\2141F\323\010\3256\251>4\266Omz{h\322\244"
 	.ascii	"I\223\315\002[!.\273dw5\361\311\303.\256\027\324z\027"
@@ -397,7 +397,7 @@
 	.ascii	"\215_c\363\304L\222\300W\031L\264\331Sl.L\335\377\353"
 	.ascii	"\366\322w"
 	.text
-	.section	.gnu.lto_mavlink_msg_to_send_buffer.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_mavlink_msg_to_send_buffer.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234\225SIL\024Q\020\375\325\277\247\247{V\224hP4\231"
 	.ascii	"\203\206pa\2147\017F\275\353\325\253\021\002BX4\022"
 	.ascii	"\275\362g \243\202AL\020\30486\004G\344\002H\214\310"
@@ -446,7 +446,7 @@
 	.ascii	"T\376\351\362\234B\246\345\236)(\310?\315K\313O(y\305"
 	.ascii	"\177\001+e\332\247"
 	.text
-	.section	.gnu.lto_mavlink_msg_rc_channels_raw_pack.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_mavlink_msg_rc_channels_raw_pack.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234\205\324mP\324E\030\000\360\377s\373\277\367\003"
 	.ascii	"u\314W@h\032\207\261i\200\2647j\234\261\017M}\250oM"
 	.ascii	"\3237\006\351J\022\356\030\356\246\246/\271\034\210"
@@ -525,7 +525,7 @@
 	.ascii	"V\332\335\251\217\311\341Q\022+\3549y\366|\027.\374"
 	.ascii	"\037\357yPA"
 	.text
-	.section	.gnu.lto_mavlink_msg_gps_raw_int_pack.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_mavlink_msg_gps_raw_int_pack.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234\205\226mLSg\024\307\357\271\317m{K\313\2133NG"
 	.ascii	"\325\271d\006\335\022!.Y\342\267-\373\272%\373\260\354"
 	.ascii	"\343\032dWl,\205\330\016g\366\301KAp\242\370\202\"\240"
@@ -605,7 +605,7 @@
 	.ascii	"9\351\031\3134_\352KB{\036\333R\315\235\243-\367bL\377"
 	.ascii	"\000\322\007\030\360"
 	.text
-	.section	.gnu.lto_mavlink_msg_global_position_int_pack.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_mavlink_msg_global_position_int_pack.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234\205\324_PTU\030\000\360\373\335\263{w\027\026"
 	.ascii	"Vsh\320\305\302\231\034\244\007a\354\311\227F\337\232"
 	.ascii	"\251^\233\036\234\331\001\335p\307\375C\2621\331\213"
@@ -682,7 +682,7 @@
 	.ascii	"\366\234\230\236\004\265\331\356\314\266o\315\301 \376"
 	.ascii	"\005\002}\353o"
 	.text
-	.section	.gnu.lto_mavlink_msg_gps_global_origin_pack.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_mavlink_msg_gps_global_origin_pack.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234}S]l\223e\024~\317\367\366\347\353\372\0077\204"
 	.ascii	"\330hf\"\231x\261\026\274\0321Q/M\364\316\354\302\233"
 	.ascii	"\246\033\2654\364g\241\225\304+\336\266[G\234\314\351"
@@ -742,7 +742,7 @@
 	.ascii	"^\245\365\343\336\333\374\241\006\377\216\030v\373\007"
 	.ascii	"m\270\000\324"
 	.text
-	.section	.gnu.lto_mavlink_msg_attitude_pack.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_mavlink_msg_attitude_pack.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234}\224[L\223g\030\307\277\247o\373\365\014\262\350"
 	.ascii	"\030)\022\226\3140wA\211fK\274c\367\363b7\273\034\341"
 	.ascii	"\320\215FJ\211\324\031\257\374(\254\335\254\242\233"
@@ -812,7 +812,7 @@
 	.ascii	"\377\324\340\005\377\020\313\362\013\367Y\034\346\004"
 	.ascii	"\365l\024Tl))\263\354/\307Z\376\005x\216\242o"
 	.text
-	.section	.gnu.lto_mavlink_msg_vfr_hud_pack.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_mavlink_msg_vfr_hud_pack.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234}\224_LSw\024\307\357\271\277\376\271\245-8\204"
 	.ascii	"m\246\232\270d\206\271\007JX|\360i\356\335%{Z\262'\302"
 	.ascii	"\237\012\215m!PI\266\027\177\024\006\003\204\341T\376"
@@ -882,7 +882,7 @@
 	.ascii	"\222X\315\242\300\346(\262\025\227`\006\377\000L\\t"
 	.ascii	"\024"
 	.text
-	.section	.gnu.lto_mavlink_msg_heartbeat_pack.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_mavlink_msg_heartbeat_pack.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234\205\224]L\233e\024\307\237\363>\375\244\245\214"
 	.ascii	"\205\220,l\011^,\270]P\202\032\303\235\273W/\274\320"
 	.ascii	"KRX\025\002\245d-.\273\332\333\3625`\342\334&\203\216"
@@ -948,7 +948,7 @@
 	.ascii	"\022\317\251q\336\343ux\253<\206JGq\231\323k\337@\311"
 	.ascii	"S)%\316\362J\347\036\017\212\370\023\275\036^h"
 	.text
-	.section	.gnu.lto_headingOrScaledMilliAmpereHoursDrawn.part.0.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_headingOrScaledMilliAmpereHoursDrawn.part.0.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234uR\317KTQ\024>\337\275\367\275y3)\204[\027\331"
 	.ascii	"b@[\314\330\177 \264\011\372+B\006\032R\027&A+\357\374"
 	.ascii	"@\011\305,Fl\202\351\031\203\345\252HfQi5Sj3\326b(\262"
@@ -980,7 +980,7 @@
 	.ascii	"\320\351D?\035\376g\276\205\022\247\350\027\207\354"
 	.ascii	"\377v"
 	.text
-	.section	.gnu.lto_headingOrScaledMilliAmpereHoursDrawn.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_headingOrScaledMilliAmpereHoursDrawn.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234mRMk\023Q\024\275\347\335\231\311d\232X7.\244\013"
 	.ascii	"u\231M\023\350\037\360g\270\225\222E1\355\242\026\301"
 	.ascii	"U'\037\266\202\241\206\242\244\021\303\264\224h\263"
@@ -1014,7 +1014,7 @@
 	.ascii	"\311\221\341\213\342^H\015\014\235\353\355\247?\"E\366"
 	.ascii	"\275"
 	.text
-	.section	.gnu.lto_checkMAVLinkTelemetryState.part.0.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_checkMAVLinkTelemetryState.part.0.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234m\222\313kSA\024\306\347\23337\275\265v\225M\241"
 	.ascii	"\202 T(H#\270\322U\027\372\037\210\373X\357\242\230"
 	.ascii	"fQ\253\342\252\3234ZjC]\2651B\210\020\212\272\252R\020"
@@ -1045,7 +1045,7 @@
 	.ascii	"\033\020]q\357\354\321\272\377H<z<\346\2358\026\215"
 	.ascii	"\235\366\376\002nC\376\316"
 	.text
-	.section	.gnu.lto_mavlinkSendPosition.part.0.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_mavlinkSendPosition.part.0.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234\225X\373S\324\327\025\377\236{\367\375\002ADX"
 	.ascii	"\024DAy\010$\355L\375\2613\235\351\364\207\366\267\376"
 	.ascii	"\003\235\014c\235F'\023\235N\362K\263<}`|\305\210k\335"
@@ -1174,7 +1174,7 @@
 	.ascii	"7\256\375m\371\206\265\233\376\010\353\376\017:\265"
 	.ascii	"\364D"
 	.text
-	.section	.gnu.lto_freeMAVLinkTelemetryPort.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_freeMAVLinkTelemetryPort.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234\215\220\277KBQ\024\307\317\367]\337\353%\264\007"
 	.ascii	"\021\325\320`\203\376\013\375+!\016\222:\230\004M^\315"
 	.ascii	"\2220l*q\220\007\211\024\004E[\331\257\227\225\223C"
@@ -1196,7 +1196,7 @@
 	.ascii	"\372\246\242~_x\"\030\361\305\002\241@8\020\213\316"
 	.ascii	"p9\035\012F&\275~\372\002\\r\240^"
 	.text
-	.section	.gnu.lto_initMAVLinkTelemetry.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_initMAVLinkTelemetry.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234e\220\277K\202A\030\307\237\357\235?^\005\327\010"
 	.ascii	"$\242\321\002\335\233\372WB\034$u0\011\232<M\2232l2"
 	.ascii	"q\220W\221(Z\"\232\372\375f\021\015\016\321\320\022"
@@ -1217,7 +1217,7 @@
 	.ascii	"|!\321t8\262\234\216F\222\213\361T$\023K\304\222\261"
 	.ascii	"Lz\225\323\225D<\265\024\216\3227\276!\223\363"
 	.text
-	.section	.gnu.lto_configureMAVLinkTelemetryPort.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_configureMAVLinkTelemetryPort.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234}T]O\224W\020>\317\231\367s\331E\254m\205\354E"
 	.ascii	"M\023/L\014\020\333\037\340\255w\215\377\200\352^\230"
 	.ascii	"\"\027\2266\355\225\207\005D\205P\233~ &t\015\033k\253"
@@ -1267,7 +1267,7 @@
 	.ascii	"j7\211\324\373\015\037m\336\330\320\234\331\320\264"
 	.ascii	"9\363\311\377\315k\274c"
 	.text
-	.section	.gnu.lto_checkMAVLinkTelemetryState.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_checkMAVLinkTelemetryState.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234\215TIk\024A\024\256\257^o3\3118j\334@\305 x\010"
 	.ascii	"\210\011z\021O^\374\007\342=\352\034\304\230\203+\236"
 	.ascii	"\354dF\243\030\024\025\227\021\207\026\207\240 \270"
@@ -1317,7 +1317,7 @@
 	.ascii	"kWo\344\351\372\226\025\255+\347,\023SZ\023\033\026"
 	.ascii	"\377\363/jm^\332\222X\276\244\271e]\342/Ze\377W"
 	.text
-	.section	.gnu.lto_mavlinkSendSystemStatus.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_mavlinkSendSystemStatus.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234\215VkTTU\024\276\373\236;\367\336y\335y`\245\014"
 	.ascii	"\345\224A)&\256\325\037{\374\250\325\337\372Sk\365\337"
 	.ascii	"j\226\271Bh!\265V\253\037^\207\307TXfX4\3460\030Q\366"
@@ -1423,7 +1423,7 @@
 	.ascii	"\373K\236x$T\262\266\264l\255}\315\332U\017\206JV\225"
 	.ascii	"?\011\253\377\005\205W0\337"
 	.text
-	.section	.gnu.lto_mavlinkSendRCChannelsAndRSSI.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_mavlinkSendRCChannelsAndRSSI.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234\215\227\331S\024W\024\207\373\334\333\323\263"
 	.ascii	"0;\213\342\240\220T!\202D,\237|LU^\343\037\221\262,"
 	.ascii	"cE}P+Uy\262e\325\200\032\343\202c9\031t\324\250\017"
@@ -1524,7 +1524,7 @@
 	.ascii	"\254y\263\026-\370\016o\277\235;g\3767Sfj\356y\013g"
 	.ascii	"\1779k\376\354E_\303\234\377\000\365\035{N"
 	.text
-	.section	.gnu.lto_mavlinkSendPosition.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_mavlinkSendPosition.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234]P\277K\202Q\024\275\347\335\247}\205M\021D\016"
 	.ascii	"\325h\203n\321\022\364\017\364G\2048H\352`\0224}\317"
 	.ascii	"_9(\266\024\342`_\321\240\270D[\277\373(\307\246\300"
@@ -1545,7 +1545,7 @@
 	.ascii	"P|3\232\010\245\"\261H<\222J\356j\270\023\213&\266\202"
 	.ascii	"a\372\001J\312w\374"
 	.text
-	.section	.gnu.lto_mavlinkSendAttitude.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_mavlinkSendAttitude.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234\215V\337SSG\024\336s\367\336\344&\004\012\011"
 	.ascii	"\020$22\235\341\201V\205G\036\373\007\264\177B\037:"
 	.ascii	"\016ci\205\007e:\323'\327\004\2023i\245\266ZLk\346\322"
@@ -1613,7 +1613,7 @@
 	.ascii	"\375).?\331U\327\360\361\366\035\314U\277g\347\273\265"
 	.ascii	"\015;\033?\204\272\377\000>\314\334\302"
 	.text
-	.section	.gnu.lto_mavlinkSendHUDAndHeartbeat.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_mavlinkSendHUDAndHeartbeat.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234\225XYp\224\307\021\236\236\331\373\324\205\000"
 	.ascii	"-\002a\2548\010\202\004\330\034\306\251\304\225\207"
 	.ascii	"\274\204\312\003\251\274\273\214\312!\341p@N\025\345"
@@ -1762,7 +1762,7 @@
 	.ascii	"\2147ssg:q\371\352\354\274Yyo\315\314\265\317Y\360\306"
 	.ascii	"\037r\347\276\221\367\027\230\365?\267dq+"
 	.text
-	.section	.gnu.lto_CSWTCH.69.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_CSWTCH.69.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234M\320KK\002Q\030\006\3409\216\267\314K\367\026"
 	.ascii	"\375\0227\365\327\314\300\\\014\022\005\212\205\250"
 	.ascii	"d\201\324\242\225B\223\367\034-+\265\322\010*\212\202"
@@ -1784,7 +1784,7 @@
 	.ascii	"\372:\347\324\230Uf\205Yf\226\230\272\334O\021\327\""
 	.ascii	"\250\374\001t.\246\036"
 	.text
-	.section	.gnu.lto_processMAVLinkTelemetry.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_processMAVLinkTelemetry.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234\215\225\335o\024U\030\306\317{\316\354\354\356"
 	.ascii	"\354wK\023\265\027\032\022Lj\0145kL\274\364o\360? \330"
 	.ascii	"\013\"pQ\033\022\257\230\375\010 \333P0\230R\354\322"
@@ -1849,7 +1849,7 @@
 	.ascii	"\206M[\233\333Z6\267liik}\233_n\333\274i\353\233\353"
 	.ascii	"7\022\255uC[\313\377\341z\335\352"
 	.text
-	.section	.gnu.lto_handleMAVLinkTelemetry.part.0.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_handleMAVLinkTelemetry.part.0.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234\215RMk\023Q\024\275\347\3357\311\244T\\\011B\027"
 	.ascii	"J!\213\272hV\272\356\302?\"%\213b\033\241\026?V}M\242"
 	.ascii	"E\033Z\004\265\006L#\006\261 (\301nl\255N\323\232~\020"
@@ -1881,7 +1881,7 @@
 	.ascii	"\014_\226\366\302\340@\352lo?q\352\334\305=\315i\346"
 	.ascii	","
 	.text
-	.section	.gnu.lto_handleMAVLinkTelemetry.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_handleMAVLinkTelemetry.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234m\221K+EQ\024\307\327\177\257}\256C\214\244\224"
 	.ascii	"\201\230\221\334\257\340\013\370\020\342\016\3441@\312"
 	.ascii	"\310\276\3342\270\"\3459\300\340$\217\211L\224\367\361"
@@ -1905,7 +1905,7 @@
 	.ascii	"\260<\334\334T\035n\250\252m\014\267D\352#\015\221\226"
 	.ascii	"\2466q[\353k\033\353\312\253\351\035\036\032\256\320"
 	.text
-	.section	.gnu.lto_.symbol_nodes.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234u\225\337\217\023U\024\307\357\235\323\231i\247"
 	.ascii	"\234-t`\221\302n\267\245\035\324\262\240\354\202\200"
 	.ascii	"\200\220\360?\370N\374?NS\253D!qyD\023\220\322\300B"
@@ -1960,7 +1960,7 @@
 	.ascii	"f<\274\232\303#\321]X;|\354\356\361\207a\220=\003\326"
 	.ascii	"%\035j"
 	.text
-	.section	.gnu.lto_.refs.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_.refs.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234-\217\331R\3030\024Cu\3454$m6;\265\235\322-\255"
 	.ascii	"\351FMY\312@\031\276\215\177'\314\360\242\007\315\350"
 	.ascii	"H\312 \370\021\200\200\244\"\271LP\220%\012\205*U5\032"
@@ -1978,7 +1978,7 @@
 	.ascii	"\016q&q.q\305'\\(\227\224\3170\002\255\360\013Y\020"
 	.ascii	"\027\357"
 	.text
-	.section	.gnu.lto_.decls.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_.decls.2268e8c413b21ffc,"e",%progbits
 	.ascii	"x\234\255}\011XV\331\225 \357\277\377\306^.\245\246"
 	.ascii	"\254\252,m\222\352\356\251\262*U\235\244{2\335\251T"
 	.ascii	"%\251\314\327\325\235.+\351ef\232P\370\253tP\014\240"
@@ -2945,7 +2945,7 @@
 	.ascii	";?\007Cn7\370\270B\342q\373\370\303\317?t\333\362\371"
 	.ascii	"g?\375\360\323\377\007$X7\264"
 	.text
-	.section	.gnu.lto_.symtab.1644c3db1005e162,"e",%progbits
+	.section	.gnu.lto_.symtab.2268e8c413b21ffc,"e",%progbits
 	.ascii	"freeMAVLinkTelemetryPort\000"
 	.ascii	"\000"
 	.ascii	"\000"

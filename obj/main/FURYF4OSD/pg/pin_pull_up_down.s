@@ -9,28 +9,28 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"pin_pull_up_down.c"
-	.section	.gnu.lto_.profile.75746cb78c393dc2,"e",%progbits
+	.section	.gnu.lto_.profile.3d2ca3b4cd34423,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.75746cb78c393dc2,"e",%progbits
+	.section	.gnu.lto_.icf.3d2ca3b4cd34423,"e",%progbits
 	.ascii	"x\234\343``d\260c@\000.\206\225;\372\016s0\202I\246"
 	.ascii	"7k\246_\340d\336\373\360];+\013\230d\005\223l\347^\375"
 	.ascii	"k`a\007\2639\300$'\230d\000\000\303\034\036\305"
 	.text
-	.section	.gnu.lto_.jmpfuncs.75746cb78c393dc2,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.3d2ca3b4cd34423,"e",%progbits
 	.ascii	"x\234\343``d\020b@\000&\006FF\306\372\371\314 \012L"
 	.ascii	"3\000\000\026\345\002g"
 	.text
-	.section	.gnu.lto_.inline.75746cb78c393dc2,"e",%progbits
+	.section	.gnu.lto_.inline.3d2ca3b4cd34423,"e",%progbits
 	.ascii	"x\234\343``d\360`@\000&\006\006\216\226\206\206\006"
 	.ascii	"\346tF\006&. \353\001S:\003\003[3P\210)\205\011$\315"
 	.ascii	"\000\324AP\011\003\000uQ\017\333"
 	.text
-	.section	.gnu.lto_.pureconst.75746cb78c393dc2,"e",%progbits
+	.section	.gnu.lto_.pureconst.3d2ca3b4cd34423,"e",%progbits
 	.ascii	"x\234\343``d`g```b\230\305\3028\213\005\000\005<\001"
 	.ascii	"P"
 	.text
-	.section	.gnu.lto_pgResetFn_pinPullupConfig.75746cb78c393dc2,"e",%progbits
+	.section	.gnu.lto_pgResetFn_pinPullupConfig.3d2ca3b4cd34423,"e",%progbits
 	.ascii	"x\234]R[KTQ\024^\337Y\373\034\307\301|\220\010b^\014"
 	.ascii	"\024\261\304\021|\352\255?\022\022F2`\343PH\217nGQ\302"
 	.ascii	"2\212\3021\034F\220\321\222\310\322\210\354bG\315\362"
@@ -65,7 +65,7 @@
 	.ascii	"G/_j\216^<\027\213G\023-\321D,\336\224hommjO4\235o\273"
 	.ascii	"\022\257o&\257\271-~!\326\202\330\037\301\247\006,"
 	.text
-	.section	.gnu.lto_pgResetFn_pinPulldownConfig.75746cb78c393dc2,"e",%progbits
+	.section	.gnu.lto_pgResetFn_pinPulldownConfig.3d2ca3b4cd34423,"e",%progbits
 	.ascii	"x\234]R\337KTQ\020\236\357\316\271\327\325\314\007\241"
 	.ascii	"\207\332\027\003E,q\005\237z\353\037\011\011#Y\260u"
 	.ascii	")\244G\217\253(e\031E\261\032-+,\233\025\221\245\021"
@@ -102,7 +102,7 @@
 	.ascii	"\321\321\332\025o=\325y>\326\324F^[g\354t\264\035\321"
 	.ascii	"?m\325\005\321"
 	.text
-	.section	.gnu.lto_pinPulldownConfig_Registry.75746cb78c393dc2,"e",%progbits
+	.section	.gnu.lto_pinPulldownConfig_Registry.3d2ca3b4cd34423,"e",%progbits
 	.ascii	"x\234\343``d\220`d`Pf\200\200\351\314\214sW\234\371"
 	.ascii	"\317\331\302\330\324\330\321\320\360\240\373\266D\017"
 	.ascii	"\363|f\206\305\314\230\222\013\236]e\234\317\3148\023"
@@ -119,7 +119,7 @@
 	.ascii	"\346\344\304\227\026\304\247\344\227\347\351%3\000\000"
 	.ascii	"0di\031"
 	.text
-	.section	.gnu.lto_pinPullupConfig_Registry.75746cb78c393dc2,"e",%progbits
+	.section	.gnu.lto_pinPullupConfig_Registry.3d2ca3b4cd34423,"e",%progbits
 	.ascii	"x\234\343``d\220`d`Pf\200\200\351\314\214sW\234\371"
 	.ascii	"\317\331\302\330\324\330\321\320\360\240\373\214L\027"
 	.ascii	"\363|f\206\305\314\230\222\013\366]a\234\317\3148\023"
@@ -135,7 +135,7 @@
 	.ascii	"f\346\351\027\244\353\027d\346\305\027\224\346\344\304"
 	.ascii	"\227\026\304\247\344\227\347\351%3\000\000b:i\276"
 	.text
-	.section	.gnu.lto_.symbol_nodes.75746cb78c393dc2,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.3d2ca3b4cd34423,"e",%progbits
 	.ascii	"x\234\343``d\230\301\000\004LS\030\353\031\316\314\334"
 	.ascii	"\374\214\201q\3029\006\206z\006\206]\013\034\201\222"
 	.ascii	" \251Y\214\365\214\330\245Xg22\264*1\350\025\244\307"
@@ -144,12 +144,12 @@
 	.ascii	"\262\023\030\331 \214\211\214\354`\006\003\000\030d"
 	.ascii	"#\211"
 	.text
-	.section	.gnu.lto_.refs.75746cb78c393dc2,"e",%progbits
+	.section	.gnu.lto_.refs.3d2ca3b4cd34423,"e",%progbits
 	.ascii	"x\234\005\301\201\001\000 \010\303\260R\247\340\001"
 	.ascii	"\376\377\252\311P< \272\214\345\316\261\035\361\362"
 	.ascii	"\001\005\373\000d"
 	.text
-	.section	.gnu.lto_.decls.75746cb78c393dc2,"e",%progbits
+	.section	.gnu.lto_.decls.3d2ca3b4cd34423,"e",%progbits
 	.ascii	"x\234\265VkTT\327\025\276\373\236\031f\030\030\261\240"
 	.ascii	"\3218v-tML\323\032Pc\223\374\350\217\266v\265Y+kuu\245"
 	.ascii	"\365G\373\243\263(\214\003k\3510\213\031\222\332?\275"
@@ -285,7 +285,7 @@
 	.ascii	"\306\246\210\204\327\324\334I!\367\205\3100y@a\353\315"
 	.ascii	"\311c>KAt^;\263Y$'\327\305\177\001<\233P\363"
 	.text
-	.section	.gnu.lto_.symtab.75746cb78c393dc2,"e",%progbits
+	.section	.gnu.lto_.symtab.3d2ca3b4cd34423,"e",%progbits
 	.ascii	"pgResetFn_pinPullupConfig\000"
 	.ascii	"\000"
 	.ascii	"\000"

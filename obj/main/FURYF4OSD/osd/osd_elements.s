@@ -14,10 +14,10 @@
 	.ascii	"U\000"
 .LC1:
 	.ascii	"D\000"
-	.section	.gnu.lto_.profile.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_.profile.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_.icf.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_.icf.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\001Y\003\246\374\010\000\001\000I\003\000\000"
 	.ascii	"\000\000\000\000\000\000\000\000\210\001\000\335\211"
 	.ascii	"\355\326\006\002\354\263\366\323\013\003\316\320\324"
@@ -81,7 +81,7 @@
 	.ascii	"\273\210\331\206\007\243\001\314\316\2500\000\225\330"
 	.ascii	"\303c"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_.jmpfuncs.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\275\033\011X\024\327\371\3753\273\313\262\034"
 	.ascii	"\253\301\233\032\030u\315U\242\211I\017\222\246%j\242"
 	.ascii	"m<\242\266i\232\266i\003I\323\364LS\277\246M\202\010"
@@ -315,7 +315,7 @@
 	.ascii	"\205\340\217#|\010\276\365\026'o\010\233?\002\244F "
 	.ascii	"\240\341\322\335H\347\335\377\000J\000P}"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_.inline.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_.inline.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\255Z\013pUG\031\376w\367\336\233\223\033\222\\"
 	.ascii	"\036\005\022Dn\2552\316\224ZJ\265:\332\261\031\035\035"
 	.ascii	"\037c\252\3438:>\201\020\302\313\202\216\216\326j=\011"
@@ -486,7 +486,7 @@
 	.ascii	"'\\\365\356\2467\011\3669\034\361*\344\006\006w#'oR"
 	.ascii	"j\"\377o\304\365T\221j_.\360?\206\206\270\342"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_.pureconst.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_.pureconst.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\015\313kKVa\020\205\341\275\353\026\"\010EIL\021"
 	.ascii	"E\015\204DLM%ED1\322(\213\020\305L\361\230\347T\012"
 	.ascii	"\317\372R[-*L\023\2335a\007\374\243\315\207\213\265"
@@ -504,7 +504,7 @@
 	.ascii	"\337#Oc\367,\372\217\350\347\341\"n~\006\305\237\207"
 	.ascii	"_\321/\303\357\360'\374\015\377b\357*f\377\001!GuM"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdGetTimerSymbol.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdGetTimerSymbol.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234mS\337K\024Q\024>\337\334\231\331\265\\\354}A\014"
 	.ascii	"\003\361E\203\336\245\377$\304|\010\322 {+\360\216?"
 	.ascii	"\331\334\364!\326-sY7\221T\"\013\264\007\177\256\255"
@@ -543,7 +543,7 @@
 	.ascii	"W\225\327T^\251-\277VwY\355K\325W\253k\252ko\324\225"
 	.ascii	"U\221\340\340?\355\\7!"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdGetHeadingIntoDiscreteDirections.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdGetHeadingIntoDiscreteDirections.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234eP]KTQ\024\335\353\35433W\307\261\327b\250,\242"
 	.ascii	"a^\034\301?\320?\011\231\271\324@\216\340\370\356\231"
 	.ascii	"\021\257\244\226\004M\203\3410\275\224\217\025\010i"
@@ -571,7 +571,7 @@
 	.ascii	"\375\312H\265\267H\251\213\376@\251\\\271\320Y*\017"
 	.ascii	"\373\305\221\362P\245\372\007\335\314\273\002"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdGetDirectionSymbolFromHeading.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdGetDirectionSymbolFromHeading.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234EQ]K\024a\024>\317\234\335\235\321\024\272\350"
 	.ascii	"B\030\025\243\300\274q\205\376@\377$D\227\024r\005\327"
 	.ascii	"{\337\035\327\221j)$Md\235&/LoD\204P\360sR\021\212."
@@ -598,7 +598,7 @@
 	.ascii	"\313\017\026\332\273\310\356\311uv\367\346\357\375\003"
 	.ascii	"\022\214\246<"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementCrosshairs.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementCrosshairs.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225\322\315k\023A\030\006\360\367\331w\273\335"
 	.ascii	"\252\265x.\225\012B\354%\311\311\263\377\211H\315A\260"
 	.ascii	"U\214\367\316&\207Z#\225\202R=\204\255J\324F\261\012"
@@ -630,7 +630,7 @@
 	.ascii	"d\211vGc\311\023\235\261\256CG\272c\307\222\207U;\230"
 	.ascii	"8\232\350Jt\237LF;\251\261:\376\003\353\2079\317"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementGpsHomeDirection.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementGpsHomeDirection.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225\224\355oTE\024\306\347\271s\337v\367\266\305"
 	.ascii	"\255\364\013\211\301D\202%\241m\3427?(\377\2111\320"
 	.ascii	"D\023Ac\375\316\354v\241\335\245\200\222\362\246\331"
@@ -686,7 +686,7 @@
 	.ascii	"k\315o5\357l\336\365^K\303v\341\350>\336\370\017\347"
 	.ascii	"\221=Y"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementIsActive.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementIsActive.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234eS\337K\024Q\024\276\337\234;\263\263\313Z\177"
 	.ascii	"\300B\330\203\210\021*\006\365\220\204\317\375\023\021"
 	.ascii	"\346\203\240\006\331\273\327\325\014k\321\2074\011\034"
@@ -724,7 +724,7 @@
 	.ascii	"r\353%\275.44547\264\\m\255\254\027\241\202\215\306"
 	.ascii	"\277[u\025\227"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementGForce.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementGForce.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]Q]k\023A\024\275gf\263\273\251m\372\346\313\242"
 	.ascii	"4 \224\370\320\344\037\350?\221Z\363 \330\012\306\367"
 	.ascii	"\316n\012\305&\264\010j\0231l\241D+B?@Ekm\326\250\211"
@@ -756,7 +756,7 @@
 	.ascii	"3g\364>\225>\227\356O\017\\\314\364\364\221\325:\203"
 	.ascii	"\016\000\371\032\321-"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementAngleRollPitch.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementAngleRollPitch.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\215T\337O\024W\024\276\337\334\371qg\335]h\205"
 	.ascii	">\270\241\205\244\306\320\246\262\361\241/\306\244I"
 	.ascii	"\337\372\324\377\240i\224\207&\325&\245}\366\356B\301"
@@ -811,7 +811,7 @@
 	.ascii	"\253\333\270U8\241m\277\265>\271\351saW\372\177\377"
 	.ascii	"\001\274\341\330\367"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementTotalFlights.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementTotalFlights.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]\221\337K\024Q\024\307\317w\316\354\356hj\004"
 	.ascii	"\321\213\030+\265\210/\272o>\364\342\177\"\242[\011"
 	.ascii	"\253B\273\357\336\335\225\226\362G\005\211+\261\315"
@@ -844,7 +844,7 @@
 	.ascii	"\214wG\273\216F\373\216\035\217\307\314C\241^\372\007"
 	.ascii	"\245\315\347j"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementNumericalHeading.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementNumericalHeading.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]\222\357KSQ\030\307\317\367>\333\356u9-\213\336"
 	.ascii	"H\241\324\220\021\270Eoz\351\277\321\253\2209JH\203"
 	.ascii	"\354mx6G\313\014\213Q\270A\343Z\"\032\201\032\030\230"
@@ -882,7 +882,7 @@
 	.ascii	"\263\3706\317\307\352\033\032\233\317\231\301h0r\252"
 	.ascii	"A\374\0014\325\020r"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementDebug.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementDebug.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\215\222\337K\024Q\024\307\317w\356\356\354\354"
 	.ascii	"\352\032\201\364\"\206B!V\250\010\365\026D\004\375\015"
 	.ascii	"=E\250\017A\032d\217\201wWQ\310\262\002\313\335\207"
@@ -920,7 +920,7 @@
 	.ascii	"\232\006\012\345t\351\251\223\247+\016\036m\314?\364"
 	.ascii	"\017\322,?\321"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdFormatPID.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdFormatPID.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225\222\317KTQ\024\307\317\367\235\367f\2363\343"
 	.ascii	"\270h\025C\241\220\211\020*\264h\033\364W\264\012\177"
 	.ascii	"\214 \250ESk\357L\202\013K#,Gcx\206M\266\262\202@*\263"
@@ -956,7 +956,7 @@
 	.ascii	"k&\273\351|k\253\323\336\330\224l\3473m-\373\252S\225"
 	.ascii	"\325G[\376\237\364\027_\3301k"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementPidsYaw.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementPidsYaw.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234e\221\337K\223Q\030\307\237\357{\366\343\365\307"
 	.ascii	"fDx#\205\203@\006\345\306\376\202\372\003\272\216\256"
 	.ascii	"\"l\027A\032\264\256\272\361l\312F*\026\261r^\254w0"
@@ -990,7 +990,7 @@
 	.ascii	"\"g\022'e\037\217\237\216\367\306\373\316%\272{\310"
 	.ascii	"\277}\367\034;|\224~\003=\000\362\204"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementPidsPitch.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementPidsPitch.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234e\221\313kSA\024\306\317wO\036\267M\037 \322MP"
 	.ascii	"\032\020JP\233\220\277\300\255;\027\356Ej\026\202\255"
 	.ascii	"`\\\271\351$-\026\333PQ\243M\027\341\006C\252\240\230"
@@ -1023,7 +1023,7 @@
 	.ascii	"\342\347\342\203\361\241\213\211\376\001\362\357\334"
 	.ascii	"='\216\237\244\277\336~\355\247"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementPidsRoll.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementPidsRoll.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234e\221\317k\023A\024\307\337wg7\3316M\013\"\275"
 	.ascii	"\004\245\001\241D\264\011\371\013\374\003\004\301\177"
 	.ascii	"@\244\346 \330\012\306\223\227\316&\305b*\025\332j\322"
@@ -1055,7 +1055,7 @@
 	.ascii	"\374h\364b\362\234\332g\022\027\022#\211\321\313\311"
 	.ascii	"\241a\362\357\336\365\323\247N\322_\311\237\355\364"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementTxUplinkPower.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementTxUplinkPower.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\205S[HUA\024\235u\3669\327\343U\257\366\372\272"
 	.ascii	"T\012\211H\240F\277}\364S\177AA\321g\204\032He\221A"
 	.ascii	"\3759\367^\037\225R\321\0035\323c\230T\024=\244\242"
@@ -1102,7 +1102,7 @@
 	.ascii	"\3615[7\345\345o\\\275s\345\226\035\271\333V\354\260"
 	.ascii	"S\263S\027\347\254X\313?\336o\206^v\340"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdDisplayWrite.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdDisplayWrite.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234u\223\337O\024W\024\307\357w\316\354\316\354\272"
 	.ascii	"? \320\244\226\264\322\244\011!\244B\341\3214\351\177"
 	.ascii	"\322\030\312C\023\265\011\360`\237\274\273\0206\241"
@@ -1151,7 +1151,7 @@
 	.ascii	"\33367+'\334c'\276\264\267\266\267\267\242\355%\332"
 	.ascii	"d\201V"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementUpDownReference.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementUpDownReference.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225VkLTG\024\236s\347\356\3357\253X\205\202(4"
 	.ascii	"5Vk\204\332\376\361G\023c\374\323\177M\032\223\366W"
 	.ascii	"\323*MM|EL\032\223&^\226\015\250\210\017\352\003\220"
@@ -1242,7 +1242,7 @@
 	.ascii	"\225IK\346k\253\277M\\\375\325|e!S\026\260\177\000J"
 	.ascii	"\302\344R"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdDisplayWriteChar.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdDisplayWriteChar.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234}\222\333KTQ\024\306\3677\353\2349g&\315\036z("
 	.ascii	"\246+$\203I\032S\020\276D\377E\217\241f\020\244\201"
 	.ascii	"\027\250'\267'iB\313\012\014/5\034-\324\240\007+\204"
@@ -1280,7 +1280,7 @@
 	.ascii	"\372\217\225\234*)-)\253\254\310+\026Fj\21538\253\025"
 	.ascii	"VV\226\243\230\212\252N\374\006\213>\035,"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementArtificialHorizon.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementArtificialHorizon.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225VkL\024W\024\276g\356\354\354\354\354.\253"
 	.ascii	"(*\202\257\000\"\240@\322&M\223\376\260?\232\376j\322"
 	.ascii	"\366O\1776\206\232j\002\332\210?l\322\304a!\213\012"
@@ -1377,7 +1377,7 @@
 	.ascii	"\276\237\035\222&muF\306\352U\270^\273\"3y\005\373\017"
 	.ascii	"\237\350\354\032"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdBackgroundStickOverlay.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdBackgroundStickOverlay.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225U\351O\\U\024\277\347\335\267\315\233\015D"
 	.ascii	"\305d\022S\023\011!*`H\325\217\374'\306T>\230\330\326"
 	.ascii	"\024?\264\237zg\300N\004\322\022\254l)\016\011b\265"
@@ -1445,7 +1445,7 @@
 	.ascii	"\221\367K\363\017\021C\236\325\023\357\035-U\217\243"
 	.ascii	"\200\343p\342oEX{v"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdBackgroundHorizonSidebars.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdBackgroundHorizonSidebars.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\235\224\333kTW\024\306\367w\326\271\315dr\201"
 	.ascii	"@K\034\020\013\265\022-&/B\037\3757|\020)6\017\205j"
 	.ascii	"\301\364\245\017\305=\223\320\240\221TD\321Q\307\261"
@@ -1497,7 +1497,7 @@
 	.ascii	"\205\224\025M_5\255jZ\375M\363\342\225\312\013\353\370"
 	.ascii	"\366\025\000\022>\264"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdBackgroundCameraFrame.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdBackgroundCameraFrame.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225V\373OTG\024\236s\347\276vY^>\360\261\306\240"
 	.ascii	"B\214Qam\223\306\264Ic\377\214\376\3244J*I}DL\332\376"
 	.ascii	"\344eA\210\212\212\242\021\214\353\332P\252\255\212"
@@ -1585,7 +1585,7 @@
 	.ascii	"S8o\351|\375\273\305\213\212\364oq\200\302\377\000\033"
 	.ascii	"c\345|"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdDrawSingleElementBackground.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdDrawSingleElementBackground.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\205U[L\224W\020>\363\237\377\262\027`\267\255"
 	.ascii	"T[\222\026\222\032b\037dC\333\007\037\232\030\323\267"
 	.ascii	"\276\370\320&m_\032\253\230\232xi\300>\370\344aAQ\326"
@@ -1660,7 +1660,7 @@
 	.ascii	"\353\265k\035d\254\334\224\363\351\364\307'\300\376"
 	.ascii	"\005\345=\351\200"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementBackgroundFunction.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementBackgroundFunction.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\343``dpfd`P`\200\200\351\314\214sW\234\371\317"
 	.ascii	"\331\302\330\324\330\321\320\360\240{\215\350b\366\371"
 	.ascii	"\314\0143\231!\222\375\013\257\355\340\356c\236\317"
@@ -1675,7 +1675,7 @@
 	.ascii	"\220\301\300x\224\321\222ANO\277\270(Y?713O?\2778\005"
 	.ascii	"\204\343SsRsS\363J\212\365\222\031\000D\235y\213"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdDrawSingleElement.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdDrawSingleElement.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\205V[L\024W\030\236\177\316\354\316\316\356rQ"
 	.ascii	"\241\212\264\212I\215\3216J\265>\370\320\304\330\276"
 	.ascii	"\365\305\244m\322>5V15Qi\304\246\351\223\303\202x\301"
@@ -1767,7 +1767,7 @@
 	.ascii	"f\255\266bm\312*]\276\327\276\371~\371r\033\035\026"
 	.ascii	"\247\246}5\274\371\022\224\177\001\035\277\323\016"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementDrawFunction.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementDrawFunction.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234e\226\351SSW\024\300\363\022\366UD\334p\301}\007"
 	.ascii	"\021\265\245\255\375W\234\216\345Cg\252\235)\355\207"
 	.ascii	"~\003\302\246`Db\241\310\222\000\002\"\262\211\205\322"
@@ -1845,7 +1845,7 @@
 	.ascii	"\377\022_\347\343\276\216\273\030w\351\273\370\310\013"
 	.ascii	"\252\377\000?\3046\270"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementCurrentDraw.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementCurrentDraw.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]RQKTA\024>\337\234u\367\256\272j\020\275,\226"
 	.ascii	"B\"\276\250\024\370\354?\211\305\226\010\322B\353\331"
 	.ascii	"\331][\26555\251\334\265\226+\210e=\244FQ\272V7KK\323"
@@ -1881,7 +1881,7 @@
 	.ascii	">\021n\016\267\234n\253m\"\337\316\335\0125\237\012"
 	.ascii	"\267\206\216\205=U\207\317\320_\321\012\002\274"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementRcChannels.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementRcChannels.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225UmOTG\024\236s\347\336\275\013\273\013\264"
 	.ascii	"\305\276\270\211\321\244\033Cm`#\361\203M\232\330\017"
 	.ascii	"\375\021~j\250`bR\264\021\232\330\364\203\303B\241("
@@ -1952,7 +1952,7 @@
 	.ascii	"Gp\200\003jnNa\216i\177~\341\247_\354W\035\273r\311"
 	.ascii	"?\031\364\207\332"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementStickOverlay.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementStickOverlay.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225V\353OTG\024\277\347\316\275{w\331\205\005"
 	.ascii	"\024A\327\007\032\225hS\245\366C\233\306&~\352?\320"
 	.ascii	"/\355'c\220D\022\205\006l\323\366\213\227\305\202\005"
@@ -2040,7 +2040,7 @@
 	.ascii	"\230\2725)a\314\241|\365YJ\232\362%\232\177\000\231"
 	.ascii	"\245\336S"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_radioModes.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_radioModes.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234m\216\273\012\302@\020E\367f\032\033\025\353\375"
 	.ascii	"\012\355\322Y\373U\301B\"\210\210M\202\010\261\260\264"
 	.ascii	"\260\020\002y\2511\222\302\306BA\260\266\024\361\017"
@@ -2053,7 +2053,7 @@
 	.ascii	"\277\236\316\243N\265M\350J\234`\242'\221r\034!q\340"
 	.ascii	"\334s&0\0052\036?~\344_\255"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementRssiDbm.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementRssiDbm.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]P\321K\223Q\024?\277{\266o\237\246\005!\276\214"
 	.ascii	"b\203DF\344\006A\317\376\033>E\314=\004i\340z\367~\337"
 	.ascii	"\204A\212B\030\333\036\306\035\352\252\2474\350\241"
@@ -2083,7 +2083,7 @@
 	.ascii	"\271\261\334\370\255\374P\226b'\2713\220\035\270<J\177"
 	.ascii	"\001J\336\264l"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementOsdProfileName.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementOsdProfileName.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225U[O\\U\024\336\353\354s\233af\240BI\314$\315"
 	.ascii	"\220\210\015&\026\202\321\020/\261\017\276\370\344\203"
 	.ascii	"?\240\232B\023\222\226\232\242I\337\272\231!L\244\223"
@@ -2149,7 +2149,7 @@
 	.ascii	"Kw\354f\206\363\356y\353\300\376=\305{\213^-),:\010"
 	.ascii	"\305\306k\257\277\262+\373\035\366\027\251\264d\301"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementPidRateProfile.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementPidRateProfile.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234mQ[k\023Q\020\236og\263\273i\023\005\021_\202\222"
 	.ascii	"\200\245\004\265\011\376\002\377\206O\"M\036\004[\301"
 	.ascii	"\370\336\263\233b\300J\005/4\001\343\006%\324\027\255"
@@ -2179,7 +2179,7 @@
 	.ascii	"\244<z\25224L\356\206\355\014\224\016\014\224\350\017"
 	.ascii	"`\237\323V"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_renderOsdEscRpmOrFreq.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_renderOsdEscRpmOrFreq.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225T]LTG\024\236s\317\375Y\226\345G\332n\223B"
 	.ascii	"\032IJ\010\332\010!}\200\244IM\223\366\241I\223&>\366"
 	.ascii	"\301\030\334\007\023\241\015\360\\g\027\204\032[i\023"
@@ -2242,7 +2242,7 @@
 	.ascii	"-\270\325Wg\326\177X\273\241\261^\333\270\011K6\213"
 	.ascii	"\277\001\256\316\033\315"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementEscRpmFreq.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementEscRpmFreq.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234UO\315K\002q\020\235\267\263\352\026Et\226\312"
 	.ascii	" 0/\332_\020\321\177\320_\020a\036\2024\310\356\376"
 	.ascii	"\334\014#\243\010\012\361 \353\245\217\233\004^\372"
@@ -2262,7 +2262,7 @@
 	.ascii	".\321`8\222\\\214F\3423s\211\310Br\326\311\351\330|"
 	.ascii	",\036K,%\303Q\362u\360/V\365xD"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_getEscRpmFreq.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_getEscRpmFreq.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234U\220\275K\202Q\024\306\317\363\036?^\243\034Z"
 	.ascii	"\255\260(\304E\377\201\206\346\376\200\326\010s\020"
 	.ascii	"\322 \333\275\232\030d\324RH\320\213} \266\204\010\016"
@@ -2283,7 +2283,7 @@
 	.ascii	"'\032\011\205\223K\221p|.\226\010/&\347u\315F\027\242"
 	.ascii	"\361hb9\031\212\020b?>\314u\247"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementEscRpm.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementEscRpm.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234UO\313JB\001\020\235s\347\252\267(\242\265T\006"
 	.ascii	"\201\271\321\276 \242?\350\013\"\314EP\006\331\336\321"
 	.ascii	"\214\"\243\010\2140\220\353\246\307.\2026=\275\265+"
@@ -2303,7 +2303,7 @@
 	.ascii	"dl65\351\346xb:1\223H\316\247\242q\012\264\360/\321"
 	.ascii	"\357w\227"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_getEscRpm.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_getEscRpm.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\215SKO\023Q\024>g\356\235\351\264\264\345\235"
 	.ascii	"h\032\014\032\022\002\013\300\370\007\\\372\023\334"
 	.ascii	"\031\203,H\004\023q\317\245TPDt\201\201FJ\253\265\202"
@@ -2346,7 +2346,7 @@
 	.ascii	"\325\234\341\367T\305\331\212\252\212\352\0135%\345"
 	.ascii	"\200\225\277\000\310\274W\253"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementCrashFlipArrow.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementCrashFlipArrow.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225\227]lT\307\025\307\347\314\334\275\273{\367"
 	.ascii	"\333\353\335\265\275\2661Q-D\"\001U\372T\251R\372\326"
 	.ascii	"\247\276\365\271\252(j#\021\022\205<7\327\273\306\016"
@@ -2455,7 +2455,7 @@
 	.ascii	"z\327\237v\356p\276\373\366\316\235\306\354\377\272"
 	.ascii	"u59"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementAdjustmentRange.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementAdjustmentRange.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]R[KTQ\024^\337Y\3339\307\311\013\275&\305\030"
 	.ascii	"\015b\017*\004=\324\213\377$D'\010\322\240\351\335="
 	.ascii	"\027\232J1$\303\031h8S\"N=d\205\206\245\325I\273i\371"
@@ -2490,7 +2490,7 @@
 	.ascii	"\325\033s\242\361C\221\350\201\036\372\007\362;\357"
 	.ascii	"\372"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementMahDrawn.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementMahDrawn.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]\220MkSA\024\206\317;\347\366\336\333\232*\210"
 	.ascii	"\270\011\225\004,%]\364f\341\017\360\237\210\244Y\010"
 	.ascii	"\266B\323}\347\336\024\002V*\224j\222E\230\240F\305"
@@ -2519,7 +2519,7 @@
 	.ascii	"\305\323\305\211\342\344ti\254@\336^\356\016\037\033"
 	.ascii	"\037.\320_\227\361\260`"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementCompassBar.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementCompassBar.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225R[KTQ\024\336\337\331gf\316\034\035/]$\030"
 	.ascii	"\012\203\300|q\346'\3647z\2120\037\202\264\310\336\335"
 	.ascii	"3\232\227\014+)\324\207\341L\014fE\244E\244\215\216"
@@ -2558,13 +2558,13 @@
 	.ascii	"\257\012]\254>'\317\231\212\013\025\225\025UW\252\313"
 	.ascii	"\312\231\317\275\377\005g\330Ej"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_compassBar.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_compassBar.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\343``d\020e``\220b\200\200\351\314\214\367\337"
 	.ascii	"\235m\342Ud\232\337\3001\237\231\201\201q\027\243\""
 	.ascii	"\203\204\264\254\214\254\004\020K\001\261$\020\303\370"
 	.ascii	"\0000\314\011{"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementMainBatteryUsage.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementMainBatteryUsage.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225W\351SUG\026\357s\373\355\033\233\270=\027"
 	.ascii	"\214<\021\214bM\312\2141\326TJ\277\231\0173\345?0\305"
 	.ascii	" \025\251\212\232\022f\246\234/\271,\202\202Ac|\312"
@@ -2698,7 +2698,7 @@
 	.ascii	"\231\023#.N_\265b\305\252\225\270\316^\2365g93{\322"
 	.ascii	"=\313<\036\366_{\240\271\367"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdFormatCoordinate.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdFormatCoordinate.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\215W\371SUG\026\276\347\336\373\026\336\306\276"
 	.ascii	"\350sc2\214\025\023\005\035\2472\251\232Te\376\200\251"
 	.ascii	"\262j\246\246\246\2462I\021\304\014U\012)\226\324\244"
@@ -2861,7 +2861,7 @@
 	.ascii	"\210\230\210\250U\242]\301^c$c\004v\243\336J\021\235"
 	.ascii	"\325)\322\377\000\377\265\340/"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementPower.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementPower.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]Q\317kSA\020\236o\347\275\344\265&\015\210x)J"
 	.ascii	"\002J\011H\022\320?\300\377B<\211\2649\010\266\202\361"
 	.ascii	"\342\251\233\244$`\245\026Q\232\240\341\005%\352\311"
@@ -2892,7 +2892,7 @@
 	.ascii	"!sOdOg\207\263#\347r\251A\012o\373\356\301#C\307\350"
 	.ascii	"\037}h\323\344"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementVtxChannel.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementVtxChannel.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\235VmpLW\030>\357=\367\356\275\373\225\020\264"
 	.ascii	"e\033\025\204j\247\230\351/\306\017\323\366O;\246\323"
 	.ascii	"\031\277;\2354\266S3\304\214\244j\372\307\225\217\246"
@@ -2990,7 +2990,7 @@
 	.ascii	"\314`\256\364\314\251\351\331\3427\223\331\243\023\366"
 	.ascii	"/\260x$\035"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementThrottlePosition.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementThrottlePosition.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]Q\317k\023Q\020\236\357\315f\263\255\255\202\224"
 	.ascii	"^\202\222\200\245\344\222\004\274y\352\277\341IJ\232"
 	.ascii	"\203\320V0\336\373vS\010XiA\224$\207\360B5T<\030\205"
@@ -3019,7 +3019,7 @@
 	.ascii	"\3318W\030/L\024&/\0253y\212\037\346\356P~\350\364\030"
 	.ascii	"\375\001BQ\271\322"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementFlymode.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementFlymode.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\235\326]H[W\034\000\360\363\277\347\336\334\233"
 	.ascii	"Oca\017\032\355\014l\024\367PecO\2031\351\272n\260\265"
 	.ascii	"\240{\330\333\030\255\205\301\332\301\334\343\2407\321"
@@ -3091,7 +3091,7 @@
 	.ascii	"\346\220\376\247\205\307I\373Q\274\177\244\360\004\372"
 	.ascii	"\037Q\371|\036"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementRssi.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementRssi.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]Q\337K\024Q\024\276\337\234\331\331\335Y\327\242"
 	.ascii	"\242\027)\024ZD\"\265\036\352\325\277\241\177 B}\020"
 	.ascii	"\322\242\355\335\273\263\352R\206\211$\352\303\356l"
@@ -3128,7 +3128,7 @@
 	.ascii	"\375\231\372\306\372\246\013\361\312Z\021\334\271\007"
 	.ascii	"9~2\036o\260b\265\261cu\342\017\0008\007!"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementDisarmed.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementDisarmed.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]\221\317k\023A\024\307\337w\336n\262\021\177\340"
 	.ascii	"M(H\002b\310\245\211z\360\252PA\017^\364\017\020is\020"
 	.ascii	"l\005\343\275/\333j\301\326z\2114=,S\221XOV\305\203"
@@ -3157,7 +3157,7 @@
 	.ascii	"\265\347T\255\275\223\262\313:\327q\340\360\336C\007"
 	.ascii	"\367u\320?DO\273\314"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementDisarmed.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementDisarmed.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]QKK[Q\020\236\357\316\271\017\203E\272\350*(\026"
 	.ascii	"\012j\027\306\235\340\312\177RD\263(\250\205\246\373"
 	.ascii	"\234\334\004\004\025E\360\201\213p\013bue(tc}\335\372"
@@ -3184,7 +3184,7 @@
 	.ascii	"&^\244\272\214=Kv'{\222\275\257R\315\235\344V\374;\000"
 	.ascii	"\337\254\267"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdGetTimerValue.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdGetTimerValue.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234eR[KTQ\024\336\337^\347\234\2714\345S\3640\321"
 	.ascii	"\005\021\321\007\015\372\001\365\330[?!\304|\010\322"
 	.ascii	"\240\361\335=\227\022mp J\231`\032m\220\354BR\030T\226"
@@ -3225,7 +3225,7 @@
 	.ascii	"3u\347\353\352\353\032\032CU\265\202\370\320\0145\326"
 	.ascii	"4\206\376\002\014uF\300"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdGetTimerValue.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdGetTimerValue.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234m\224mK\024Q\024\307\357\231;3;\263\356\372\005"
 	.ascii	"6z@\244\354\205\012\275\327>H\020R\276\010\322\240\365"
 	.ascii	"myW%QK\2412[a\333]\027\261'2\321\242Gwk\315t\265m\263"
@@ -3273,7 +3273,7 @@
 	.ascii	"\017\323{\260\362heUeu\215\277\370\020\343\270h\370"
 	.ascii	"k*j\374\277\001\252)\267s"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementPidProfileName.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementPidProfileName.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]RKkSA\024\236o\316Mr[\333\212;! )\030B\2504\261"
 	.ascii	"KW]\270\320\235\377\240H\333E\301V0\272\356$)\011\332"
 	.ascii	"P7\225\246h\274\201\022*.\214J\027>\332\032[\037}\244"
@@ -3308,7 +3308,7 @@
 	.ascii	"c\355\335\302\267\207\321\347;s\372dW\360\222\370\007"
 	.ascii	"\034^\006%"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementPidProfileName.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementPidProfileName.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225T\337O\024W\024\276\337\334\231\331\231a\177"
 	.ascii	"Tb\373BbhRk\361A\210O\306\264\211\377\211i,\017&\325"
 	.ascii	"&\245\357\336]\010\204\037\301V\255\026\313fi\350F1"
@@ -3364,7 +3364,7 @@
 	.ascii	"\274\307\317\376\372\367\353\017\325\037\376\250a\327"
 	.ascii	"\001\021\011m\034\374\007\230\352\372^"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementRateProfileName.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementRateProfileName.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]RMHTQ\024\276\337=o\306\347\244F\273@\010\007"
 	.ascii	"\022\231\0145\332\265\262E\320:\332K\350,\2044hj\355"
 	.ascii	"uF\324Rlc:\003MO\220\301HH\013\027\375\250Mj\223\277"
@@ -3398,7 +3398,7 @@
 	.ascii	"u\315\252d\027\243\325=w\372\374\231\246\352\253\352"
 	.ascii	"\037\205\325\005J"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementRateProfileName.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementRateProfileName.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225T\335O\\E\024\237\337\235{\357\316]\366\303"
 	.ascii	"\222jbH\032L\254\225>\024\322\247\246\321\244\377\211"
 	.ascii	"1\225\207&\266M\304\367\316.\004\302\207\324\017J\005"
@@ -3455,7 +3455,7 @@
 	.ascii	"\307\253O\274]s\340\250\210\2046\216\375\003\276\261"
 	.ascii	"\371\232"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_getEscRpm.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_getEscRpm.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234uRKk\023Q\024>\337=3\223\364a\026\"\202\0244BK"
 	.ascii	"\310\246\251Kw\335\010\375\025\212\324\242\005\323J"
 	.ascii	"\323}ob\260\364A}Uj\3008b\015u\345\213\202\326>L\215"
@@ -3489,7 +3489,7 @@
 	.ascii	"5\2003'\023\311\336\376\336\276\326S\364\027\250\004"
 	.ascii	"\017\272"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementMotorDiagnostics.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementMotorDiagnostics.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225U\335O\\E\024\237s\347\356\336\273\313.\337"
 	.ascii	"P\310&\004\023I\0036\013\251\017\362d|\366\321\177\300"
 	.ascii	"\230J\014\211\200)\365\271\227\257\245\241\004*Q`\223"
@@ -3558,7 +3558,7 @@
 	.ascii	"]\365~UMU\355\261z\357\021f(\331]Sw\254\356h\375[\037"
 	.ascii	"\326\326V\327\276\007\325\377\003\036\006\246\365"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementLinkQuality.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementLinkQuality.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234e\223\317KTQ\024\307\357\367\3357?uTZ\005\003\241"
 	.ascii	"\3200\314F\307\332\204+i\325\302\026\365\017\2048\023"
 	.ascii	"H\376\200\264E+\2573\246\224b\022\2113\340\370\246\304"
@@ -3600,7 +3600,7 @@
 	.ascii	"\252\262\376\274\203\322\223\247\217\327\006\202NO\205"
 	.ascii	"\2478P\3429\024`\177\001Q\344P\333"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementLinkQuality.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementLinkQuality.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\235S[O\\U\024\336\337\331\3476\247\334l\323'\022"
 	.ascii	"\003\211\204\340CA\373\342\233M\214o\276\370\013L\003"
 	.ascii	"\230\020[L\244>\370\324=\303\300\204R+A\264L\302\364"
@@ -3654,7 +3654,7 @@
 	.ascii	"\257\357\335\327r\340\015\267\246\261\346\351&\301?"
 	.ascii	"O5\211\177\000\3334\315F"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementLogStatus.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementLogStatus.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]RKkSA\024\236o\316MrS\037\025WB@\0220\204t\321"
 	.ascii	"D\004\327]\272\020\377\202h\014\"4-4\272\356$-\026m"
 	.ascii	"\251.*M\221x+5>\321j\311\302G\324k}\245\265\225P\032"
@@ -3687,7 +3687,7 @@
 	.ascii	"\220^\373\223\335\311T\262\347h\2723!|k\330\337\335"
 	.ascii	"{x\337\261\324\301d\037\205\023\342\037\300@\363\270"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementLogStatus.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementLogStatus.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\235\224\373o\024U\024\307\357\2313\357\266[\240"
 	.ascii	"\242\306&f7qC\332\037h\023\177\341\027\010\361g\303"
 	.ascii	"\277`\2404\306\204BB\321_\271\273\2556<\322\222\262"
@@ -3742,7 +3742,7 @@
 	.ascii	"{\263cC\373V5\331\226\0204\254\021Z\262-\271Q\374\005"
 	.ascii	"\364\347\361\350"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementAntiGravity.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementAntiGravity.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]\221\317KTQ\024\307\317\367\23673\317\260\244"
 	.ascii	"] \310\014D\303P8\323\252m\256\352\277\010\321Y\010"
 	.ascii	"j\320\264\367\314S\021TlS8\006\303\023b\264\225?\250"
@@ -3771,7 +3771,7 @@
 	.ascii	"\373v\241\271\215\022\007\232[\256\321\177\2651\273"
 	.ascii	"\271"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementAntiGravity.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementAntiGravity.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]O\313+\204Q\024?\277\357\334\231\371L$\013\033"
 	.ascii	"J\224\362*cm\345?\221\230\205\362(c?w\036\245\020\011"
 	.ascii	"i\026\3237\033\217\215W\331x\177\036\033BH\354,\024"
@@ -3794,7 +3794,7 @@
 	.ascii	"\336\025\352\216\264\231n\016w\204;\303]\275\221\372"
 	.ascii	"V\012d\347_k\336\225G"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdBackgroundDisplayName.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdBackgroundDisplayName.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225\222MHTQ\024\307\357\377\2367\343\3234\251"
 	.ascii	"E\004B(4\210\033\265U\273PH*\250\010j\323JB\255\204"
 	.ascii	"T\3106\255\2743NJ*Z\241\250\301\364\004\031\214\202"
@@ -3831,7 +3831,7 @@
 	.ascii	"\3623\261_\356Y\201\362\264\375\207\216\037;\\x\262"
 	.ascii	"\370h\341\221\"\361\033\"%3\217"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdBackgroundDisplayName.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdBackgroundDisplayName.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225T\335O\034U\024\277\2779\363\265\273|\254\215"
 	.ascii	">\021\025\023kC\037\312\246/6\352C\377\023c*\017MlM"
 	.ascii	"\304\367^\026\002)%\264*ZI\\\007K\010\342C\277\322\207"
@@ -3886,7 +3886,7 @@
 	.ascii	"_\257{\253\356@\335\301w\353w\355S^dc\377\037{8\346"
 	.ascii	"\315"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdBackgroundCraftName.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdBackgroundCraftName.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225\222\333KTQ\024\306\367\267\327\231\361x\311"
 	.ascii	"\350%\002!\024\032\304\227\321\374\013\224\260z\251"
 	.ascii	"\007\351]B\255\204T\310\236zq\3178)\251\330\005C\205"
@@ -3924,7 +3924,7 @@
 	.ascii	"@M\346\256\362\322\335\007*\366\227\356+\023\277\001"
 	.ascii	"\216\2243w"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdBackgroundCraftName.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdBackgroundCraftName.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225T\335o\024U\024\277\2779\363\265\273\375X\211"
 	.ascii	">\325hMDR\036\350\246Oh|\340?1\006\373@\"\230X\337\271"
 	.ascii	"\273m\332Pj\361\003\255M\\\247\322\324Z\243PHc(\364"
@@ -3978,7 +3978,7 @@
 	.ascii	"\376\227\367\035\250}\255\341\025\271_\252\177\265~"
 	.ascii	"\177\375\2017\032v\355U^dc\337\037R\250\344\270"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementGpsCoordinate.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementGpsCoordinate.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\215R\317KTQ\024\276\337;\357\315\274\031\177\004"
 	.ascii	"\255\202\201\262Hd\010t\324E[\227\375\001\355C\306Y"
 	.ascii	"\010\251\241nZy\235\021\207T,\242\322\026\3033\206A"
@@ -4016,7 +4016,7 @@
 	.ascii	"\354\250\016\013o\336/\017\267\265\26575\2676vF\316"
 	.ascii	"^\274\020\371\013\011\24251"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementGpsCoordinate.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementGpsCoordinate.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225T\337O\024W\024\276\337\334\231\335\331ew\021"
 	.ascii	"Dh\262\211bSb\261\011P|\360\325\227\376\007}7\006\366"
 	.ascii	"\201D\301\210/}\362\356B\330\004\0106\306\202\373\200"
@@ -4067,7 +4067,7 @@
 	.ascii	"lh\254\345gol\177\354@\254\376pcE\215\360{\353HMC\303"
 	.ascii	"\241\332\272\372}\207c\237\177q0\3667C\345\327U"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdGetBatterySymbol.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdGetBatterySymbol.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\215R\337kTW\020>\337\235\273w\357fc\036|\020\351"
 	.ascii	"\322b\305\020\242\220l\351?\340c\337\372\346k\211\351"
 	.ascii	"\246\026\262Y\310\335\027\237<\371a\2021\244\261tM\366"
@@ -4115,7 +4115,7 @@
 	.ascii	"vvG\300\241X\2603\375yKK\220\312\276\004\334\015\241"
 	.ascii	"e"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdGetBatterySymbol.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdGetBatterySymbol.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]QAK\233A\020\235\267\263I\276\2509W\010\224Z\004"
 	.ascii	"\025\305\010\275y\362Wx\025I?J!*\030\357\256IZI\015"
 	.ascii	"-\202!\344\020>\021\305\336\332\202\364`\254\375j\004"
@@ -4141,7 +4141,7 @@
 	.ascii	"\307S\331\305tjn\366\361|j!\373Pc\306\317\370s\376\374"
 	.ascii	"Rv<M\275i?\223\231^\310,\315>\362\377\002\323P\236\222"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementAverageCellVoltage.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementAverageCellVoltage.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]Q\357K\223Q\024>\317{\266w\357lN\373A_\206\245"
 	.ascii	"\220\210_\334\376\004\377\212\276F\254}\010\324 \373"
 	.ascii	"\356\335&Z-\314\240\322e\3535\206(\024\376\000c\245"
@@ -4178,7 +4178,7 @@
 	.ascii	"\336\307b-\261\326X\333\231\366\246(\371v\356\336h\254"
 	.ascii	"\245\345(\350\017\001\024\007\347"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementMainBatteryVoltage.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementMainBatteryVoltage.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234mSML\024I\024\256\257_wO3\314\014\270\353\032\223"
 	.ascii	"\211\012\211\304p\001\216&^<\255WO\233x\332\21481&\240"
 	.ascii	"\211p\361d\3150\202\012A\334\354\256\214:6\221\020A"
@@ -4225,7 +4225,7 @@
 	.ascii	"\033\243\333w\374\262\255\2561\2629\032\334\024\255"
 	.ascii	"\335R\037\251[_\027\251\2156@|\006\027#kD"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementWarnings.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementWarnings.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\215SMkSA\024\2353\367%y\326j\301\225\020\020]"
 	.ascii	"\204R\027M\0337\226n\304?\"R\203\006\333\010\306}'/"
 	.ascii	"\241\321\266\264R\224\352\"D\211A]UE(~\307\250\215\215"
@@ -4256,7 +4256,7 @@
 	.ascii	"\341\236p\337\336X<|(\261O\367=\321\336h_4~$\321\336"
 	.ascii	"#Z\352xwo,~0\026\337\037\250\257\277\003#\236\005|"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementWarnings.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementWarnings.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\215S[KTQ\030\335\353\354sf\216\343\350T\017E\015"
 	.ascii	"\205A\"\366\240\203\275$\276D\320\357\210P\011I\015"
 	.ascii	"\262w\367\214\242\242b\020\346\350\303p$\231\352)-\002"
@@ -4298,7 +4298,7 @@
 	.ascii	"g\253\362\212\2313\271\366$\347\243\345e\225\247\312"
 	.ascii	"*O\376\004\323\235h\276"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementGpsSats.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementGpsSats.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225U\353O\\E\024\237\337\235\273/X\236\026[\305"
 	.ascii	"\266\020%\004\233\000\361\253\0374\321\017\306h\242"
 	.ascii	"\361\0170\206\222\330\304\266F\374h\322a\241\200\200"
@@ -4363,7 +4363,7 @@
 	.ascii	"\\\274\345\355\222\374\"\341s\347\031\367\252\345\277"
 	.ascii	".\344\233[K\3749E\364{b#}\231\376\001\301La\244"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementGpsSats.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementGpsSats.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234mR]k\023A\024\235\263ww\263\211i\373\003\0025A"
 	.ascii	"K\311K\223\237 \210\257\376\005\2214\242`+\030\337;"
 	.ascii	"\331\015\004\214\266\340\007M\320t[$Z\020\254\212\017"
@@ -4396,7 +4396,7 @@
 	.ascii	"'\363C\371\3413\205\201\234\210t\354H_\256/w\370\240"
 	.ascii	"\370\003\250\020\345\326"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdAddActiveElement.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdAddActiveElement.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\215\222\317k\023A\024\307\347;o\223l%^\024\241"
 	.ascii	"\020\021=\224\020\017I\215\367\342\177\"R\003\012\266"
 	.ascii	"\202\361\340\255\223\037\266\220\206ZE-\025c\002!(x"
@@ -4431,7 +4431,7 @@
 	.ascii	"E\272\"\335\027\243\301N\341\251\307\007vc\3013\342"
 	.ascii	"\017\301\345\017\261"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdAddActiveElement.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdAddActiveElement.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]Q\317KTQ\024>\337=w\346\275\261q\325r$le\266p"
 	.ascii	"\006\333\271\352?\211\260\011\2024h\332{|31\220eA\204"
 	.ascii	"\316bx\202H\202\340\257]?\254\227\232\253\010\251\220"
@@ -4459,7 +4459,7 @@
 	.ascii	"g\006\212\225\233\303\305\221\313\327F\2137*W\234]*"
 	.ascii	"_/\217\224GoU\006\206)8\362\377\001\231\372\272\362"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdConvertTemperatureToSelectedUnit.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdConvertTemperatureToSelectedUnit.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234mRMkSA\024\2353\367\2754\225Z\213V\020J\244RK\310"
 	.ascii	"&\301\225\0137\202.*\376\010\221\370\320B\023\245\251"
 	.ascii	"\353N\322\030?\032\224\212RB\033\023?\322\256\304\217"
@@ -4494,7 +4494,7 @@
 	.ascii	"=\301\356\213\221\275\377r\374\347\304\037B\243\011"
 	.ascii	"\351"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementRemainingTimeEstimate.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementRemainingTimeEstimate.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225R[KTQ\024\336\337\336\347\034\217\246\023\010"
 	.ascii	"\201 \204\022\203\314\303\250\321[\275\030\364\340?"
 	.ascii	"\350)DtH\241\231@\205\036\3353NJ*j\027\363B\323\021"
@@ -4534,7 +4534,7 @@
 	.ascii	"\333\364\236.9SVx\311w\344O|v\011q\224y\344K\251\357"
 	.ascii	"|AE\251\327c\270\335'\335n\362\033\035\267h\360"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementAltitude.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementAltitude.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225\222\333KTQ\024\306\367w\326\036\347\030\231"
 	.ascii	"\364\026\014\204Q\"#\244#>\325S\364R\377E\210\015\024"
 	.ascii	"\344\005'zu\317\014de\031b\241Q2\222M\021\201\227\250"
@@ -4572,7 +4572,7 @@
 	.ascii	"\252u\304\177\302_\341\257<\031(*g\3565\333}\254\354"
 	.ascii	"\224\377Pu\300V\357\203e5U\177\001b\252b\304"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdDrawNextActiveElement.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdDrawNextActiveElement.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\215SMHTQ\024\276\337\273\357\315\2747\251\265"
 	.ascii	"\224\006\302 \021\027e\350\252M\264p\321\262E\255Kl"
 	.ascii	"\026\202V\314X\320\252\353h\212\025\225\251\215V6\305"
@@ -4620,7 +4620,7 @@
 	.ascii	"\254\317\257\336\036\014\322\321\372\232\272\300\206"
 	.ascii	"\220'\030\250\337QU\373\037Z\244\257\233"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdDrawActiveElementsBackground.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdDrawActiveElementsBackground.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234}SKKUQ\024\336\337Y\373\334s\275^\255h\022\010"
 	.ascii	"aQ\210\023-\2338)\0324p\320\240\177\020Q\016\004\037"
 	.ascii	"\241N\032\265\273\371 \024\205\354\201\321\345\004\027"
@@ -4664,7 +4664,7 @@
 	.ascii	"T\331\274\336SVs\270\374\300\221}U\325\265(\373\003"
 	.ascii	"\267\375p\334"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdSyncBlink.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdSyncBlink.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\205\221\317kSA\020\307\367\273\263I\236R/\212"
 	.ascii	" \004\212\227\036\332C\202\227^\274\364?\021i\003\012"
 	.ascii	"\266\005\343\275\233\347\203`+\025E\2559\304\027\210"
@@ -4695,7 +4695,7 @@
 	.ascii	"\245\207\263\0032.d\256d\0063C\327\262\251~u\372p9u"
 	.ascii	"I\375\001\242\362\337\273"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdConvertTemperatureToSelectedUnit.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdConvertTemperatureToSelectedUnit.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]Q\317K\025Q\024>\337=w\306yb\266\250\235\024\206"
 	.ascii	"\241\010\341s\323\246UP\213\202\376\207\210\327\020"
 	.ascii	"\202\357\025\216\255\275\357G\204\371\260\026\205\031"
@@ -4725,7 +4725,7 @@
 	.ascii	"\262p\334?\327\347\373\3011\2777\327s1\370\013\315<"
 	.ascii	"\2754"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdFormatRtcDateTime.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdFormatRtcDateTime.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234}R\335KTA\024\237\337=\263\353\335m\255\036\203"
 	.ascii	"\2052H\314\027\025\202\300\227\350\251\277\240\3670"
 	.ascii	"]AH\003\265\327\034\327\335T\326,D\261}Xn\241\213\365"
@@ -4762,7 +4762,7 @@
 	.ascii	"_\252\254\214\324\232\025e\365\221\263U\325\221_\231"
 	.ascii	"{\014\017"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementRtcTime.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementRtcTime.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234EQ\313+Da\024?\277{\346q\311\243$\033\321(\205"
 	.ascii	"\0053+k\377\211\304,\224G\031{\337\275\246\024\242D"
 	.ascii	"\314b\272S\032$y\224\362\346\032+b\243\211P\243,\024"
@@ -4785,7 +4785,7 @@
 	.ascii	"\265\207\273\333:{\302\275\261\016]\255\321\256hw\264"
 	.ascii	"\247?\326\324N\301\277\376\027=\252\213\306"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdFormatTime.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdFormatTime.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234}T[LTG\030\236\377\314\331\263g\017\273h\3324\251"
 	.ascii	"!!\020K\211/@\333\364\245\201\244/}\357[\323\247\246"
 	.ascii	"\262k )K\303Bbm\032g\227\355\022J\275\"\027I\267\273"
@@ -4852,7 +4852,7 @@
 	.ascii	"s\031iYo\332\337\341\015\331\024\357f<;~\303N\376\003"
 	.ascii	"\223\347\\|"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementRemainingTimeEstimate.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementRemainingTimeEstimate.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\205T\377oSU\024\277\347\235\367^\337\272~\231"
 	.ascii	"l\305\351\202v?\0202\022Y#?\351O\220\230\370\233\377"
 	.ascii	"\002!\243\352\0227\223\215\304\037\271m\267\0167\302"
@@ -4910,7 +4910,7 @@
 	.ascii	"~\245=\324\021g\337\326\366\027v\355mm\213\333\261\330"
 	.ascii	"\323\261\230\370\013\206\036\362\337"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdFormatTimer.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdFormatTimer.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234mT[L\\U\024=\353\356{\357\014\303<\012\332DCb1"
 	.ascii	")\222\376\024\254\037\376\231\376\366\303h\364\253_"
 	.ascii	"\306\322!\222\024H\2306\332/\0163t\030u\302C\245\014"
@@ -4969,7 +4969,7 @@
 	.ascii	"\332:;\002\207\333\332\243]\373:\016F_ .bi\363\037?"
 	.ascii	".\305\217"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementTimer.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementTimer.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234u\221\317KTQ\024\307\317\367\2367o\336\250\325"
 	.ascii	"&\332\014\305\004\201\272q\206\226\255\372O$l\026\202"
 	.ascii	"\0324\355Zx\337\033q\260\011\203H&a\206'\311\330\017"
@@ -4998,7 +4998,7 @@
 	.ascii	"p\331Xg\276'\337\233\357\273V\350\350\242\344\241\177"
 	.ascii	"\000\215n\277\241"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdGetMetersToSelectedUnit.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdGetMetersToSelectedUnit.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234mQMkSA\024\2353w\336KR+\270\020\024J\245\022\241"
 	.ascii	"\026\244\351Op\345\336_ R\263\020L\205\246\373N>\250"
 	.ascii	"BCTh\255R\037\257R\242.\304ZpU\333\370j4A\355\242\226"
@@ -5031,7 +5031,7 @@
 	.ascii	"\235O\2361\373T\374\\<\021\037\032I\366\017\012;\021"
 	.ascii	"\037\211\017'\377\000\210\355\352\375"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdFormatDistanceString.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdFormatDistanceString.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234}\224[L\\E\030\200\347?\377\271,\313\356\322Rc"
 	.ascii	"\214k\015\244\022\322D\333&\306\304\007M|\320\027\237"
 	.ascii	"L4>\370\240\331\262\033\335dY\032X/}\352\354.\205\012"
@@ -5103,7 +5103,7 @@
 	.ascii	"\230\032\334k\237\004<~\267\307m]\023m\315\311\363\177"
 	.ascii	"\344\311\017x\334\253\306\200\375\003c\275o\\"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementGpsFlightDistance.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementGpsFlightDistance.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]RAk\023A\024~\337\274\331dS\253\342M\010H\004"
 	.ascii	"!\346\322\304_P\217\376\013\2216\007\301V0\336;\331"
 	.ascii	"\224\006l\211\027k\215\020\266PB=Y\005\301\252\325\256"
@@ -5133,7 +5133,7 @@
 	.ascii	"\331\363\205A;O\347\317\345\207\362\303\027\013}\003"
 	.ascii	"\024\357\340\277\364\250\335|"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementGpsFlightDistance.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementGpsFlightDistance.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234mR[KTQ\024^\337Y\373\314\034\307\033=\3644P\016"
 	.ascii	"$b\220\372\017\352\245\337\0211\032\004i\320\364\356"
 	.ascii	"\236Q\020\324\214h\274=\214G\220Q\037B\273A7kNj\326"
@@ -5168,7 +5168,7 @@
 	.ascii	"\315'O\267\324\237M4\232{\242\351LSsS\313\371D]\234"
 	.ascii	"\302\273\266]\035\257\216\323oY\271\373\301"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementGpsHomeDistance.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementGpsHomeDistance.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]R\337KTA\030\375\316|\263\273w\315\222z\012\026"
 	.ascii	"b\213`\333\227\335\355?\350\261\377\"B\367!H\003\267"
 	.ascii	"wg\257\322B\212\275h\346\303r\003Y\024\202,\350\241"
@@ -5197,7 +5197,7 @@
 	.ascii	"t\331:W\276X\356.\367\\\256\024:)\265\203\267\001\331"
 	.ascii	"\367\315y"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementGpsHomeDistance.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementGpsHomeDistance.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225\222\337KTA\024\307\347{\317\275w\257\272*"
 	.ascii	"\365*\204E\240>\344\012\275\365\324K\177G\204\371\020"
 	.ascii	"\244A\333\273sW\303R1\010\177R\313.\211hQmB\224\251"
@@ -5237,7 +5237,7 @@
 	.ascii	"\222\363%\245%e\227\202\205\305\302\227\330\377\003"
 	.ascii	"\374\002S\025"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdGetMetersToSelectedUnitSymbol.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdGetMetersToSelectedUnitSymbol.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234EP\317K[A\020\236og\223>5\342\271<(\202P*\210\011"
 	.ascii	"x\364\342\177\"bs(T\013\246w\367%\201\242\206\250`0"
 	.ascii	"\036\302\263\204\242\2476\2457\177\365Y\241\036T\010"
@@ -5263,7 +5263,7 @@
 	.ascii	"\231\2676\372\323\357\323C\351\341\217\231\356Az\004"
 	.ascii	"\321\317\232\015"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdFormatAltitudeString.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdFormatAltitudeString.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234e\222_L\024W\024\306\3577gv\031\226\335\205j|q"
 	.ascii	"\265J(\022l\0025>\232\306&>6iL\332\324\370\322f\205"
 	.ascii	"%\331d\027\215,&>qw\331\010\012A\323\242\200\272\016"
@@ -5311,7 +5311,7 @@
 	.ascii	"\366\311\321C!_y\250,\034\015F\366F\202e\241*Oue8\366"
 	.ascii	"\361\321\350\201\203\021\210\177\001\226\224^\365"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementAltitude.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementAltitude.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\205T]o\224E\030\2353\317\274_\353~\010\2127kL"
 	.ascii	"IlH\327\204\326p\345\235\361\306\013\177\204i\240F\215"
 	.ascii	"\200\241\306[fwK\033\240P\032\225\262\027\233\267I\245"
@@ -5363,7 +5363,7 @@
 	.ascii	"q\360z\363\273-/\277\335\032\232\357K\315;\266\377\003"
 	.ascii	"\247\243\245\010"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdGetSpeedToSelectedUnit.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdGetSpeedToSelectedUnit.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234mR\335K\024Q\024\277\277\271wv\307J|\013\302\010"
 	.ascii	"CQ|Q\377\201\242\247\336{\353!\010\261}\010\374\200"
 	.ascii	"\266zuf]V\312\315V\310\266\244i-\023%\350Cs!\334\315"
@@ -5401,7 +5401,7 @@
 	.ascii	"\271N\373j}u\276\372\363\376\212\032\246_\254\256\275"
 	.ascii	"\340\373\007.\351$\347"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementEfficiency.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementEfficiency.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\235V]L\024W\024\276g\356\314\316\356\354.\313"
 	.ascii	"OEq\005\027uUL*>\370\334\330\244\317}\356K\323\030X"
 	.ascii	"\033\223b\215\364\245O\016\013\002\245\024\014\241\272"
@@ -5485,7 +5485,7 @@
 	.ascii	"\270\2662XQ\036\254`\306\333\370\310\341\177\356\004"
 	.ascii	".\220"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdGetSpeedToSelectedUnitSymbol.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdGetSpeedToSelectedUnitSymbol.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234eR\315k\023A\024\177\277y\273q\005So\202\004\244"
 	.ascii	"P\020{i\002\036\275\370Ox\026\2519\010\266\202\361\336"
 	.ascii	"\3314(bh\353!\244b\327M)\241\321\203Z\264\027\023\355"
@@ -5515,7 +5515,7 @@
 	.ascii	"/\231\271\336\237\034\270te0y-s\331\354\213\351\253"
 	.ascii	"\351\201\364\340\215L_?\355\001\333\207\317\026"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementGpsSpeed.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementGpsSpeed.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]\222\337KTQ\020\307\347{\346\272\367j\376\000"
 	.ascii	"\351\241X\010\245D|\310\265\376\000\351%\350\277\210"
 	.ascii	"P)!5\332\336=\273.I*\332O\334\205\266\273!k>eI\017\231"
@@ -5552,7 +5552,7 @@
 	.ascii	"\327\355\235[\260\372\246\320\361S\341\312\023d\227"
 	.ascii	"\325\230\037\375\005\034\305\020\011"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementGpsSpeed.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementGpsSpeed.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\215TkoLQ\024=\353\236\373\232\351\314\364A\275"
 	.ascii	"\212\264\241\241>h\305\037\360OD\332J$T\242\276;\235"
 	.ascii	")\025\244\025\217\232\3710\271M\032\217D\2424\"\324"
@@ -5601,7 +5601,7 @@
 	.ascii	"\225\225\302\011|\267\264\262tuUi\245\370\001\221\347"
 	.ascii	"\267\305"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdGetVarioToSelectedUnitSymbol.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdGetVarioToSelectedUnitSymbol.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234EPMK[Q\020\235s\347&>%\376\000y \202\213V\020\023"
 	.ascii	"\350\322\215\377DD\263\020\252\205\246{\357\213\001"
 	.ascii	"\021C\252H\260.\302S\202D\020\254\265;\265\372T\320"
@@ -5627,7 +5627,7 @@
 	.ascii	"]\275\375\311/\231\036\033\235\351\317\351\276t\377"
 	.ascii	"\267L[7\375\007\251\340\234\311"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementNumericalVario.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementNumericalVario.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234}T[L\\E\030\236\357\314\331\263ga\201z7nj!\351"
 	.ascii	"\206\220\230.\352\233O\215/6\276\370\320\027}2\010\233"
 	.ascii	"H\302\245\001\322\304\247\316\356R\220.\366bi\331mC"
@@ -5686,7 +5686,7 @@
 	.ascii	"\037\324\277\327XW\2645\330\324R[]U\267yK0X\003\366"
 	.ascii	"\017\004\244\355\210"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementNumericalVario.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementNumericalVario.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\225S\337oTE\024\236o\316\334\037\273\355.\325"
 	.ascii	"D_6!5\261\301bdkx\322'\343\213\017\376\021\246\301&"
 	.ascii	"j\004\0145\2762\273\333\322@WjUZ\032\263\271\215\265"
@@ -5738,7 +5738,7 @@
 	.ascii	"\343\315\306-\333\204\027\315\275W\352\337jx\341\215"
 	.ascii	"F\337|\237\257\337\265\363\037S\024\301\313"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdGetTemperatureSymbolForSelectedUnit.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdGetTemperatureSymbolForSelectedUnit.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234EP\317KTQ\024>\337=w\246g\315\270\217\007\"\270"
 	.ascii	"0!f\006\\\266\351?\221\320Y\004\251\340\270\367\276"
 	.ascii	"q \242a*p\262\204\351%\022\265*\305\235?\257\012\026"
@@ -5764,7 +5764,7 @@
 	.ascii	"(V\246F\213\343\267nO\024'+c.F\312w\312\343\345\211"
 	.ascii	"\351Ja\224\376\003\245\273\234P"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementCoreTemperature.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementCoreTemperature.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]R\317k\023Q\020\236og\263\331\264McE\274\004%"
 	.ascii	"\001C\311\245\011\372\017\010\376\025\236D\322\034\004"
 	.ascii	"[\301x\357\313&\020h\245\"T\233\034\302\006%$^\254\025"
@@ -5797,7 +5797,7 @@
 	.ascii	"\270\266S\371\263\371\211\374\344\205\302X\216\302{"
 	.ascii	"q\344D*\227:6\236\312\321_\247\334\334$"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementEscTemperature.part.0.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementEscTemperature.part.0.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234mR\337KTA\024\236o\316\275{\357\3723\253\207@\010"
 	.ascii	"\215D\366\305\335\352\261\227^\202\376\213\210\325\207"
 	.ascii	" \015\262w\307\335\205\005\025{\350\207\273\017\333"
@@ -5834,7 +5834,7 @@
 	.ascii	";\242\027;[\3658\333v\241\255\275\255\343rgK\\x[y\370"
 	.ascii	"tS\274\351DkS\\\374\003J-!\253"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementEscTemperature.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementEscTemperature.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]P\317+\204Q\024\275\347\273of>\"YXM\371Q\312\217"
 	.ascii	"\205\261f\343?\221\230\205b\224\261\367fL)D\2124e\372"
 	.ascii	"f\243\231,H\331\370\37516D!eg\241\310B\203\374\014\341"
@@ -5857,7 +5857,7 @@
 	.ascii	"F1\032QuK(:\330\035\352\357\352\215\204\006\242=\246"
 	.ascii	":\303}\341\376pd(\332\322M\201B\377\013\363s\235\245"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdAddActiveElements.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdAddActiveElements.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234}\226\355STU\030\300\317s\317}\333\335\273\213"
 	.ascii	"EN\3160\243T\360Am\004\355[6\345\377\320\037\3204F3"
 	.ascii	"\316\244\315d\337=,\250%\014\226\242H\343\266\330\016"
@@ -5927,13 +5927,13 @@
 	.ascii	"\017\034\312\371\364\360G\370|\220\367I\336\301\274"
 	.ascii	"C\237\037\336\265\237\300\201\177\001o\022\014\376"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementDisplayOrder.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementDisplayOrder.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\343``d\020e``0f\200\200\351\314\214\257w\255Y"
 	.ascii	"\312\243\3104\277\201c>3\003\003\343.FE\006CF\006&\026"
 	.ascii	"\033V6UvN.n\036\016~\001A!a\021Q1I)i\031Y\005E%M\035"
 	.ascii	"m]#5u\015=[s\003C\023S3\013Kk\000$\004\014\265"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdGetActiveElement.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdGetActiveElement.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234E\216\277K\202A\034\306\237\347\316\354\032\374"
 	.ascii	"\013\244pu\361\225Z\033\372O\"\354\035\202\264\350m"
 	.ascii	"\367\336W)\372\201\015b\322 \016\0225\004\322\232\025"
@@ -5951,7 +5951,7 @@
 	.ascii	"\277\033X\310y\301N\301+\256m\224\274\255`\335e\325"
 	.ascii	"\337\364\213~i7\310\025\360\003|\321Y\327"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdGetActiveElementCount.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdGetActiveElementCount.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234E\216?K\003A\024\304gv\317x\026\371\004AI\233&"
 	.ascii	"\027\264\265\360\233\210\304+\004\023\305\263\317\336"
 	.ascii	"%\030\374C,b\014\026!E\010\012\026\"\330hT\256\262\321"
@@ -5968,7 +5968,7 @@
 	.ascii	"\360\277\0140\223\365\202\215\274WXZ)zk\301\262\235"
 	.ascii	"E\177\325/\370\305\315 \233\307/~Z^+"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdDrawNextActiveElement.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdDrawNextActiveElement.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234eR\313KTQ\030?\277{\316\275s\275\336\031m\021\024"
 	.ascii	"\003a\020\210-\034\261u\320\242?\240EA\273\020\233\205"
 	.ascii	"\340#fl\321\312\343dH\017\224R\023\253q\026\303T\020"
@@ -6009,7 +6009,7 @@
 	.ascii	"5\301s\265U\027N4\004\032\335\325\347\003\001::YS\347"
 	.ascii	"?\025\374\017\234@O\320"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdDrawActiveElementsBackground.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdDrawActiveElementsBackground.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234mP\315+\254Q\030\177~\357sf\274w\342ntWJ\324-\261"
 	.ascii	"0\013\033uS\026\376\200\373\037H\314B\371\312\330\334"
 	.ascii	"\325\234yM)D\371\314brkr\311\202D\311\367\213\351\326"
@@ -6034,7 +6034,7 @@
 	.ascii	"\326\332`cM}S\2609\\g\252:\324\020j\0145\265\205Kk\351"
 	.ascii	"\263\340\252\372pKC\315\217\357\315\255m\317hc\250\323"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementsInit.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementsInit.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234eR\321K\223Q\024?\277\357~\333>s.\301G1\354I|q"
 	.ascii	"B\321[\320S\020\364\017\364\024K\207D:a\263\207\236"
 	.ascii	"\274n\352\004m\005%s\305X\264\244 (\006\371`\251\373"
@@ -6070,7 +6070,7 @@
 	.ascii	"\362\365\\\351\013\016^\015\364\236\367]\363\007\317"
 	.ascii	"\366\373\372\376\002\023\254\034\234"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdSyncBlink.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdSyncBlink.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\215\221\317KTQ\024\307\317\367\236\373f\236\222"
 	.ascii	"\264\210VB\270\265\300q\325\242U\177A\253\366\021:\213"
 	.ascii	" \015\232\366^g\206\031\032\305\\T6\2403\321C*\002\373"
@@ -6099,7 +6099,7 @@
 	.ascii	"\271\354\305\354Pv\370J\256o\200\376\002\012\312\311"
 	.ascii	"k"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdResetAlarms.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdResetAlarms.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234]\217\261J\003A\020\206\347\337\271\304\263\260"
 	.ascii	"\262\014\212m,\222J;\301w\360\001Db\012\301D\310\331"
 	.ascii	"g\023\203\021\"\261\020=R\310\005\203h'\2261\352\235"
@@ -6118,7 +6118,7 @@
 	.ascii	"\250\211\032\343\357/D\223\251\264S\310\244sK+\371\364"
 	.ascii	"\232\263lr1\273\232\315e\363\353N*C?\004\340qO"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdUpdateAlarms.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdUpdateAlarms.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\235Z\011P\224\307\022\376{f\227=\200]P\301\203"
 	.ascii	"C\016Q9<\242\306\230\230\303\334\2471\207\271\254z\365"
 	.ascii	"\312\312\263\312\274\027\363\252\222T\252^\275z\345"
@@ -6330,7 +6330,7 @@
 	.ascii	"\035\373\351\227\360\211\371\313O&\214\373\334\204\324"
 	.ascii	"6\366\323\261\237O\030\315F\377\007\251\24156"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_osdElementsNeedAccelerometer.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_osdElementsNeedAccelerometer.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234m\323\317k\023A\024\007\360\367\235\331\237\261"
 	.ascii	"AoB\027$\327Vl\004\257\242\376'\"5\007\301V0\342\265"
 	.ascii	"\223\030\010\222R\005\255\245h\210\202\240(\230\026"
@@ -6363,7 +6363,7 @@
 	.ascii	"+\226\317\217\027'N\235\231,\236+\237\346\353d\351l"
 	.ascii	"i\2424y\241<6N\377\001(\352.\276"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_.symbol_nodes.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234uXw\\UW\022>3\303{$`\320h\254\304`\024\02371\331"
 	.ascii	"(ItM\326M\262n\357\2757\327\335l\357\311\366\035@\004"
 	.ascii	"E\014(\212\035\245<\245(*\246\240F\305\007F\261\242"
@@ -6534,7 +6534,7 @@
 	.ascii	"~\371kq\3600\243\006\026\354\243\233O\375\037D\200*"
 	.ascii	" "
 	.section	.rodata.str1.1
-	.section	.gnu.lto_.refs.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_.refs.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234=S[k]E\030]k\355\331\373\354\235sNN\223\234$=u"
 	.ascii	"R\2625&6\346\322Hm\332\032{\004\301\007E\304\007\301"
 	.ascii	"7\301\313\203\212>\210\342\203\342%Vb\253U\352\375~"
@@ -6579,7 +6579,7 @@
 	.ascii	"\214\177\031\317\033\377\366\370r\245\214E\217+\256"
 	.ascii	"\277E\216\373\214\317\020\377\000\323\266\224\272"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_.decls.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_.decls.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"x\234\314\275\007xdYu \254W\267JU\312L\367\014\3230"
 	.ascii	"\030\023\006\030\007\014,\330`\203\355\2611f\300\014"
 	.ascii	"\266\261\327\006\214\0156\266\361.\336\317?\254\261"
@@ -8550,7 +8550,7 @@
 	.ascii	"Bp\212SA[\201\352\017\233*\211\276\210T\227\333\355"
 	.ascii	"R\242\003\023\346\377\000p\234s\301"
 	.section	.rodata.str1.1
-	.section	.gnu.lto_.symtab.7d82b0ca5ca628e6,"e",%progbits
+	.section	.gnu.lto_.symtab.8b38fa2dbd0670bb,"e",%progbits
 	.ascii	"osdElementBackgroundFunction\000"
 	.ascii	"\000"
 	.ascii	"\000"

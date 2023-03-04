@@ -9,10 +9,10 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"rc_controls.c"
-	.section	.gnu.lto_.profile.ae14825253f34bc,"e",%progbits
+	.section	.gnu.lto_.profile.c38d273b32c0cf5e,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.ae14825253f34bc,"e",%progbits
+	.section	.gnu.lto_.icf.c38d273b32c0cf5e,"e",%progbits
 	.ascii	"x\234\343``d\330\300\200\000\262\014\263\036^n\341f"
 	.ascii	">\366\366\320Tn\226c/\337\356\340bmj\\;\237\205\355"
 	.ascii	"\326\264G\255\274\354\217~v\255\341\347\350\335\335"
@@ -24,7 +24,7 @@
 	.ascii	"\372\325\351S\030\345\016}\\\337\317)\377\354\350\317"
 	.ascii	"\353\214\012`R\021,\313\000\000\300`Y\351"
 	.text
-	.section	.gnu.lto_.jmpfuncs.ae14825253f34bc,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.c38d273b32c0cf5e,"e",%progbits
 	.ascii	"x\234uTIK\0031\030\315K\246\233m\035P<y\260W\375\223"
 	.ascii	"\326\212\210\024\212\236\352E\212+\250\007\025A\301"
 	.ascii	"\332\261j]\353\322\272\200x\020D\004/\342A\020A\241"
@@ -52,7 +52,7 @@
 	.ascii	"\254\232\276\321\303\001A\377NR\376=\275.\341\326x\025"
 	.ascii	"\177\300I\366\352"
 	.text
-	.section	.gnu.lto_.inline.ae14825253f34bc,"e",%progbits
+	.section	.gnu.lto_.inline.c38d273b32c0cf5e,"e",%progbits
 	.ascii	"x\234\215R9\016\3020\020\034\257\015\004\010(\002\211"
 	.ascii	"\212\212\257q)\277p\032\336\201DE\001=\242Ai\240\244"
 	.ascii	"\246@PQ \304\027X;\011\302\001\242\270\330\303\236\331"
@@ -67,12 +67,12 @@
 	.ascii	"a5\320\340lG\005\032\350\242\025i}\220S\356\347GF?_"
 	.ascii	"\032p\336\000/\300\372DD"
 	.text
-	.section	.gnu.lto_.pureconst.ae14825253f34bc,"e",%progbits
+	.section	.gnu.lto_.pureconst.c38d273b32c0cf5e,"e",%progbits
 	.ascii	"x\234\343``d\020c```g\230\301\302\322\302\302\326\302"
 	.ascii	"\3021\203\205s\006\213P\013\213\360\014\026\0001\370"
 	.ascii	"\004o"
 	.text
-	.section	.gnu.lto_calculateThrottleStatus.part.0.ae14825253f34bc,"e",%progbits
+	.section	.gnu.lto_calculateThrottleStatus.part.0.c38d273b32c0cf5e,"e",%progbits
 	.ascii	"x\234\225U[KTQ\024\336\337\336\347\234\2714*t\201`|"
 	.ascii	"\220\304\207\"\034\261\037P\357\005=\364\020=E\014\224"
 	.ascii	"QYh\017\275\271\325I\221\244\251H\314HG\030\272>\230"
@@ -119,7 +119,7 @@
 	.ascii	"\376\374\300\336`\240 \270;x8\377h\301\341\203\205\331"
 	.ascii	"A\266\312\341<\262/Pp,;\357_\001y\354/\222A\005s"
 	.text
-	.section	.gnu.lto_isUsingSticksForArming.ae14825253f34bc,"e",%progbits
+	.section	.gnu.lto_isUsingSticksForArming.c38d273b32c0cf5e,"e",%progbits
 	.ascii	"x\234E\216\261J\003A\020\206\377\1777\346\316\"\326"
 	.ascii	"B\214\330\246\311\011\276\200o\"r \010\232\300\305>"
 	.ascii	"s\227\004\021%V1X\304 A\264\023[\243rU*\013\261PD\260"
@@ -137,7 +137,7 @@
 	.ascii	"\365\315r\260\021\006Q\270\026V\312;Qe\253Z\012\361"
 	.ascii	"\003\335\345U\216"
 	.text
-	.section	.gnu.lto_areSticksInApModePosition.ae14825253f34bc,"e",%progbits
+	.section	.gnu.lto_areSticksInApModePosition.c38d273b32c0cf5e,"e",%progbits
 	.ascii	"x\234\215RMkSQ\020\235s\347\276\274$\232\352\302\205"
 	.ascii	"\020\305\254,\255\320H\375\003\376\002\377B)QA\260\215"
 	.ascii	"\244\356s\223\246)%\241\352\"\024\027!\224\020t\247"
@@ -168,7 +168,7 @@
 	.ascii	"\247/g\322\271\314D&;}=\227\275:3\226!\177\362\332\304"
 	.ascii	"T\366\342\245_\210[\337\217"
 	.text
-	.section	.gnu.lto_calculateThrottleStatus.ae14825253f34bc,"e",%progbits
+	.section	.gnu.lto_calculateThrottleStatus.c38d273b32c0cf5e,"e",%progbits
 	.ascii	"x\234\215T[KTQ\024\336\353\354s\237\0315/AL\211\257"
 	.ascii	"V8b\177\240?R\021\003AP\012\332KO\036GS\324\301)Pl\""
 	.ascii	";\311\024i\017\216\021D\344mJ\2634+\235L#E\272B\211"
@@ -214,7 +214,7 @@
 	.ascii	"X\356\273\340\367U\372\317\371+\312\257TV\\\252*\361"
 	.ascii	"\263\177 /\270\015"
 	.text
-	.section	.gnu.lto_processRcStickPositions.ae14825253f34bc,"e",%progbits
+	.section	.gnu.lto_processRcStickPositions.c38d273b32c0cf5e,"e",%progbits
 	.ascii	"x\234\235[gTUI\266\256\252s\271\227\2149\201\2029\013"
 	.ascii	"\346\034:\332v\016v\262\3554\2163\3233\3353\263\324"
 	.ascii	"\037o\315zo\315U\024DLmBTDE\032\025\001\025\263\266"
@@ -557,7 +557,7 @@
 	.ascii	"\316\236\363\257\237f\317\233=g\372\234\037~\232\373"
 	.ascii	"\372\354\037\347}\377\377\027\313\342\001"
 	.text
-	.section	.gnu.lto_getRcStickDeflection.ae14825253f34bc,"e",%progbits
+	.section	.gnu.lto_getRcStickDeflection.c38d273b32c0cf5e,"e",%progbits
 	.ascii	"x\234]P\337K\024a\024\375\316\334\331\331\3315A\"z\310"
 	.ascii	"\244}P\304\010\027\374\013\374OD6\002)\025v\203|\011"
 	.ascii	"\277]eWQ\264\007K\026\231\226\3306\013\021+\366A[\255"
@@ -592,7 +592,7 @@
 	.ascii	"-|\"\022\216F\232\"\355m\247\243\355\247b\365\021e6"
 	.ascii	"w\264\304|\255-\307\243\021\243\251\3437\360p\365c"
 	.text
-	.section	.gnu.lto_rcControlsInit.ae14825253f34bc,"e",%progbits
+	.section	.gnu.lto_rcControlsInit.c38d273b32c0cf5e,"e",%progbits
 	.ascii	"x\234e\221\317KTQ\024\307\317\367\236\373\336\274\321"
 	.ascii	"q?\360\"\334Z\340\270r\343\246\177\240\277!\342\201"
 	.ascii	"\020\230\302\330\336;?lH\007s\023:\213\341M\014b &\026"
@@ -620,7 +620,7 @@
 	.ascii	"Y\321\205\376\334x>\310\335\274~c47\034\344\362\301"
 	.ascii	"\265`l\364V~ld\274?\240?\231\353\317\021"
 	.text
-	.section	.gnu.lto_pgResetTemplate_flight3DConfig.ae14825253f34bc,"e",%progbits
+	.section	.gnu.lto_pgResetTemplate_flight3DConfig.c38d273b32c0cf5e,"e",%progbits
 	.ascii	"x\234\343``d\330\314\300\000$!`:3\343\361\367o\2570"
 	.ascii	"\3661\317g\006\012\002\271\023\232^^\345\000q\031\031"
 	.ascii	"/\360\003\371\037\216N\263\205p_\260\003\271\335\013"
@@ -631,7 +631,7 @@
 	.ascii	"\367\202(\026\306= \212\225q7\210bc\334\305(\315\300"
 	.ascii	"x\220\321\222\001\000\344\2557\271"
 	.text
-	.section	.gnu.lto_flight3DConfig_Registry.ae14825253f34bc,"e",%progbits
+	.section	.gnu.lto_flight3DConfig_Registry.c38d273b32c0cf5e,"e",%progbits
 	.ascii	"x\234e\216\275J\003A\024\205\357\331\233l\326\306\330"
 	.ascii	"\011*>B\266\224}\032\221\001A\320\0046>\300\250A\002"
 	.ascii	"J,\235Fgd\005}\003\301$\353OR\004\222\302V\020\261\266"
@@ -647,14 +647,14 @@
 	.ascii	"\335~\214\220\321Z#m\347\"\335\333\332i\246\333\"\315"
 	.ascii	"\305\246h5\367\363\326n\273!\350\027R\244e\322"
 	.text
-	.section	.gnu.lto_pgResetTemplate_armingConfig.ae14825253f34bc,"e",%progbits
+	.section	.gnu.lto_pgResetTemplate_armingConfig.c38d273b32c0cf5e,"e",%progbits
 	.ascii	"x\234\343``dpf`\000\222\0200\235\231\361\332\335\305"
 	.ascii	"\013\030\373\230\347330\262\002\271\307\337\277\275"
 	.ascii	"\002\345\202d\377m\272\326\314a\271\275\241cA\203\302"
 	.ascii	"|f\306\031@\341\335\214\3223\230\031\031w1J30\356a\264"
 	.ascii	"d\000\000S\372\025\304"
 	.text
-	.section	.gnu.lto_armingConfig_Registry.ae14825253f34bc,"e",%progbits
+	.section	.gnu.lto_armingConfig_Registry.c38d273b32c0cf5e,"e",%progbits
 	.ascii	"x\234\343``d\020cd`\220c\200\200\351\314\214sW\234\371"
 	.ascii	"\317\331\302\330\324\330\321\320\360\240{-\363\\\376"
 	.ascii	"\371\314\014\213\231!\222\273\277\354}\005\226\234\321"
@@ -670,7 +670,7 @@
 	.ascii	"\030-g0s0\356\0029\237\3610\243%\203\214\236~qQ\262"
 	.ascii	"~nbf\236~Z\262~Qr|r~^IQ~N\261^2\003\000j\235d\367"
 	.text
-	.section	.gnu.lto_pgResetTemplate_rcControlsConfig.ae14825253f34bc,"e",%progbits
+	.section	.gnu.lto_pgResetTemplate_rcControlsConfig.c38d273b32c0cf5e,"e",%progbits
 	.ascii	"x\234\343``d(e`\000\222\0200\235\231\261\257\371\375"
 	.ascii	"=\216>\346\371\314@A w_\317\205\323\314 .###\220\373"
 	.ascii	"t\321\033Q\010O\003\310;\376\376\355\025F\010\027\244"
@@ -678,7 +678,7 @@
 	.ascii	"h\304^F\351\031@Y0\305\304\270\007D13\356\006Q,\214"
 	.ascii	"\273\030\245\031\030\3671Z2\000\000R8#\360"
 	.text
-	.section	.gnu.lto_rcControlsConfig_Registry.ae14825253f34bc,"e",%progbits
+	.section	.gnu.lto_rcControlsConfig_Registry.c38d273b32c0cf5e,"e",%progbits
 	.ascii	"x\234e\2161K\003A\024\204wn.\311Y\305ND\361'\344\352"
 	.ascii	"+\374-\"\013\202\240\011\\\374\001\033M\021Pb\351\202"
 	.ascii	"\350-\034\212\225\226\2021gT\260\211\004+;\305\332&"
@@ -694,7 +694,7 @@
 	.ascii	"hF\270q\375\361\210D,7\342v*\343\355\365\315f\274!\343"
 	.ascii	"T\256\311Vs'mm\265\033R\374\002D\320e\365"
 	.text
-	.section	.gnu.lto_.symbol_nodes.ae14825253f34bc,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.c38d273b32c0cf5e,"e",%progbits
 	.ascii	"x\234u\224\377O\325U\030\307\317\3739\\\270\037\221"
 	.ascii	"\357\010\210\245xATJ\355{\331w\267\376\217\246\351X"
 	.ascii	"\375P\015Y\255\332z\256\372\321\314\314n&\231\265\331"
@@ -744,7 +744,7 @@
 	.ascii	"\273BC\216Z&\344:F\035\035\031\020\272\342h\364;\241"
 	.ascii	"\353\260e\337\230\2517U\026L\342#\346_\376N\373\355"
 	.text
-	.section	.gnu.lto_.refs.ae14825253f34bc,"e",%progbits
+	.section	.gnu.lto_.refs.c38d273b32c0cf5e,"e",%progbits
 	.ascii	"x\234\015\320\273J\003Q\024\205\341\265\366\234\311"
 	.ascii	"L\346\234\231$\032\343\335(\361RX\330\211\205\330\372"
 	.ascii	"\\\3666\0266\276\200X\350\023\010\206\200(DRD\211\240"
@@ -760,7 +760,7 @@
 	.ascii	"y(\377\312#rL_c\343\250;\306\251kXd\2236aSn\306*6k\323"
 	.ascii	"6\347\026\254i\2136oK\370\007IM.\227"
 	.text
-	.section	.gnu.lto_.decls.ae14825253f34bc,"e",%progbits
+	.section	.gnu.lto_.decls.c38d273b32c0cf5e,"e",%progbits
 	.ascii	"x\234\325|yTT\331\271o\355\332U\314\203S\267vk\322\303"
 	.ascii	"\263\223\356$\335\332mV'\271+\353\256\327\351\316\320"
 	.ascii	"\353\336\316\355\327\335\311z\351\225u+%\024X\011\323"
@@ -1374,7 +1374,7 @@
 	.ascii	"M\233?\355\216\224\300\323\372\231\331\323\371\310\246"
 	.ascii	"\273\311U\326G\351\366\377\013\351%Ew"
 	.text
-	.section	.gnu.lto_.symtab.ae14825253f34bc,"e",%progbits
+	.section	.gnu.lto_.symtab.c38d273b32c0cf5e,"e",%progbits
 	.ascii	"flight3DConfig_System\000"
 	.ascii	"\000"
 	.ascii	"\000"

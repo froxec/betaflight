@@ -9,10 +9,10 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"rcdevice.c"
-	.section	.gnu.lto_.profile.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_.profile.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_.icf.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234\343``d\230\316\200\000\222\014\307\276\335\351"
 	.ascii	"\343d\234\264\363\303m\026\246\257\347\237\356ce^\262"
 	.ascii	"r\342&.\226\237\207Z\266\360\262\266|i\353\341dkjm?"
@@ -25,7 +25,7 @@
 	.ascii	"e\222\350{\334\364\221I\362\365\215?\215<\014\000\261"
 	.ascii	"\252Lx"
 	.text
-	.section	.gnu.lto_.jmpfuncs.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234\255V\335KTA\024\237\337\314\335\273wW\327\365"
 	.ascii	"\253(\366\305\347\002\361\257\350\275\177h\327R\202"
 	.ascii	"\020\304\220P)\260\224\202\354\301\007\243\240\255\264"
@@ -77,7 +77,7 @@
 	.ascii	"\316\037\022\366;\353\023c\256\272%]\274\322\033]\265"
 	.ascii	"\357?=\273b\251"
 	.text
-	.section	.gnu.lto_.inline.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_.inline.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234\225UmKTA\024>sfv\235\365u\335T\012?t\241\372\326"
 	.ascii	"\267\350\273\277`\177\203\232\353+\241\277 n\232TT\272"
 	.ascii	"BfQ\240_,%\333@#M3\225H\241\204\264\3000,\254D\011\324"
@@ -127,13 +127,13 @@
 	.ascii	"\310\371\346\205\267tt\236A\322Z\243\"\337\374z\367"
 	.ascii	"\367\177Sb\221\036~\370\013=\232\224\275"
 	.text
-	.section	.gnu.lto_.pureconst.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_.pureconst.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234\005\301\013\016@@\020D\301Y\236\304'\010\226p"
 	.ascii	"\030\367\234\356\233\270\235\252>J\274\021Q\303\024"
 	.ascii	"\323\210\366\003\321\211\301\214b\022s\262\230\325l"
 	.ascii	"bO\216\244&gr%\267y\304\017\247\376\015\274"
 	.text
-	.section	.gnu.lto_rcdeviceRespCtxQueuePush.part.0.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_rcdeviceRespCtxQueuePush.part.0.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234\215RMO\023Q\024}g\356L[\252\350\026SM\210\011"
 	.ascii	"ipA+\032\327$nX\272\360\017\220\332E\215\202\202\250"
 	.ascii	";\036\270 \025\202\211\202\265\206IM\010\361#Q\252A"
@@ -172,7 +172,7 @@
 	.ascii	"\032n\015\273\233\303-G\366\036;\351m\014\237\330\337"
 	.ascii	"\0209\264\257\251\345/\371\266XT"
 	.text
-	.section	.gnu.lto_runcamDeviceParseV1DeviceInfo.part.0.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_runcamDeviceParseV1DeviceInfo.part.0.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234\225\222MkSQ\020\206\317{\346\346S\033\301\225"
 	.ascii	"\265.\272\251!\233&\376\003\227\376\015\211\005\263"
 	.ascii	"\260B\025q\327\323t\021\244\245\272\2604\025BJc,~`U"
@@ -205,7 +205,7 @@
 	.ascii	"\376\350\251\241x\364\304\321\304`4q2:\024?6p&\021\037"
 	.ascii	"\350\217+\212\237>\353u\263\337\3579.6"
 	.text
-	.section	.gnu.lto_runcamDeviceParseV1DeviceInfo.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_runcamDeviceParseV1DeviceInfo.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234m\221\301KTQ\024\306\317w\317\2357O\321\331\265"
 	.ascii	"\220\011r'\266p\334\346\312\177%^.fa\302\024\341\316"
 	.ascii	"\363\246\201!\014\335\030j\360z\221\015\265Q\023B,-"
@@ -232,7 +232,7 @@
 	.ascii	"\227o\226\312\023\245Jpc\354N9\030\033\012\210\203\333"
 	.ascii	"\223\347\232<\235\305"
 	.text
-	.section	.gnu.lto_runcamDeviceFlushRxBuffer.isra.0.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_runcamDeviceFlushRxBuffer.isra.0.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234u\222?hSA\034\307\357{\277{\177\022\253\202.JE"
 	.ascii	":\010!\016\011Nv\254\233\256::I\354\220A\205\010\256"
 	.ascii	"\275\246)\035Z\332%\245D|\244P\242q\321\010]\324j\323"
@@ -264,7 +264,7 @@
 	.ascii	"\364\255d&u\275\377N:\325\237H\011\357\322\225\313\027"
 	.ascii	"\022\347\316\273a\346\017\210R\3534"
 	.text
-	.section	.gnu.lto_runcamSplitSendCommand.isra.0.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_runcamSplitSendCommand.isra.0.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234\215V\353O\024W\024\277g\356\314\356\354\316\356"
 	.ascii	"\242\242\206Jc4j\250}\370\240\375 i\214\232~h\373\245"
 	.ascii	"i\332?\240\261\024\033\222j\033\252M\2324qpq\361AQ\033"
@@ -361,7 +361,7 @@
 	.ascii	"_.[\264(%\015R\371wK\323\3707)KlR\011\371\376\005\267"
 	.ascii	",\2672"
 	.text
-	.section	.gnu.lto_runcamDeviceParseV2DeviceInfo.part.0.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_runcamDeviceParseV2DeviceInfo.part.0.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234\225VkPTe\030>\357\367\235s\366\302\002\246\231"
 	.ascii	"\"fT2\216N#\314\364\313_:\365\307i\232\251\237\365/"
 	.ascii	"\207H\231&u\200\312\177\036\330\025\2205L\205\330-q"
@@ -448,7 +448,7 @@
 	.ascii	"[}\254\\:\352c\231\222\220\233\235\267r\305\362\274"
 	.ascii	"\354\267\363W\375\017g\036\024\354"
 	.text
-	.section	.gnu.lto_runcamDeviceParseV2DeviceInfo.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_runcamDeviceParseV2DeviceInfo.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234\225T\337o\024U\024\276\337\334\231\235\231v\177"
 	.ascii	"\250\364\005\352C_\032\302\013\335\204?\000cbb\214\377"
 	.ascii	"\004Y\253\356\203\220\224\242\276qw\267\260\326\255"
@@ -502,7 +502,7 @@
 	.ascii	"\333\343a\376\354\266W8\215\230\346\277\001\3356\371"
 	.ascii	"\244"
 	.text
-	.section	.gnu.lto_runcamDeviceSendPacket.part.0.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_runcamDeviceSendPacket.part.0.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234\215V\355O[U\034\276\317=\267\355-\024\246\323"
 	.ascii	"m0fB\324\205\020\223\321\314\030\263o\306h\342\007\023"
 	.ascii	"\377\206\216a\302\007\230\301\227O\306\035\260:\003"
@@ -567,7 +567,7 @@
 	.ascii	"\277\022\252\012U<\027z-\024X\036\275XV)v\276\376\362"
 	.ascii	"\277\304\263\227\276"
 	.text
-	.section	.gnu.lto_runcamDeviceSendRequestAndWaitingResp.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_runcamDeviceSendRequestAndWaitingResp.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234\215VmP\224\327\025\276\347\336ww\337e\277,\251"
 	.ascii	"\237k\014b\0205\2512\311\217L:\231if\352t\306\251\277"
 	.ascii	":\375\325\177\014ng\370\001d\000\333\230?y]PAP\223\270"
@@ -682,7 +682,7 @@
 	.ascii	"\337\207\354\377\001\314G"
 	.ascii	"\264\236"
 	.text
-	.section	.gnu.lto_expectedResponsesLength.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_expectedResponsesLength.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234\343``dPbd\000\222\0200\235\231\261\351\352\232"
 	.ascii	"\355|}\314\363\231\031\030\231\201\334{Ms\177\360@\270"
 	.ascii	",@\356\214\277?z9-\2677t,hP\230\017\344\002\205w3J\317"
@@ -695,7 +695,7 @@
 	.ascii	"h$\315x\020H\035`\224f\334\017\244\367\002\351=\214"
 	.ascii	"\226\014\214G\201\004\000*\015Z\024"
 	.text
-	.section	.gnu.lto_runcamDeviceGetDeviceInfo.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_runcamDeviceGetDeviceInfo.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234\215\221MkSA\024\206\317;'\271\271\211\255\205"
 	.ascii	"\342Fb\241\024\241\304E\322\237\340\336_\321\306.\262"
 	.ascii	"P\241B\267=\271-D\211T\027-5\310\345.B?@\360\243\270"
@@ -723,7 +723,7 @@
 	.ascii	"\271T\232)\237\237\236\255\224\247\213e\362\334\355"
 	.ascii	"7V\376\312m"
 	.text
-	.section	.gnu.lto_getWaitingResponse.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_getWaitingResponse.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234\235X]PU\327\025>k\357s\377\177\270\227\377\224"
 	.ascii	"v\206\304\020\004\243P\247\351\243\223N\037;}\353S^"
 	.ascii	":-\345\301\316$\351\240\355\344-\007\270\304\300\265"
@@ -842,7 +842,7 @@
 	.ascii	"55\325/m\375\325\346\027\253\177\271\305QS\275\345\017"
 	.ascii	"?\337\372\012\257\332\372\312\377\001\254V\332\270"
 	.text
-	.section	.gnu.lto_runcamDeviceInit.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_runcamDeviceInit.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234\235SIO\024A\024\256\257_w\317\"#*\342\006F\342"
 	.ascii	"\022\343A\230\243G\023\357\376\007\203K8\010\006\215"
 	.ascii	"G\255\031F\215B\\!\010\2214f (\032q\005w\306QT6\027"
@@ -890,7 +890,7 @@
 	.ascii	"\326\242\302u\371\205\302v\377\374\233JJ\267\254*)^"
 	.ascii	"_\264\341\027\265\225\262K"
 	.text
-	.section	.gnu.lto_runcamDeviceSimulateCameraButton.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_runcamDeviceSimulateCameraButton.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234uS[KTQ\024^\337\336g\316\2313y\011\"H&H(0Kr \350"
 	.ascii	"1\372\005\275\364\013\304|\020*\303\242\307:\216\232"
 	.ascii	"\331D\275h3Fv$\233J\"-\010\223\354r\272\247y)\263\244"
@@ -937,7 +937,7 @@
 	.ascii	"\212\035\225\345\025\253\312\311\364wv\325\326\212\352"
 	.ascii	"\262\355\225U[~\002\270x{-"
 	.text
-	.section	.gnu.lto_runcamDeviceOpen5KeyOSDCableConnection.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_runcamDeviceOpen5KeyOSDCableConnection.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234eQMkSQ\020\235\363\346\345\253\261q'\352S(h\011"
 	.ascii	"EL\004A\350\316\225\177@\004\267!f\221\205II\325mob"
 	.ascii	"m-\021\255\330\222T\011oQ\264\012\202\021\212\242U\363"
@@ -969,7 +969,7 @@
 	.ascii	"?u\350d&\031\312\366\245r\211\023\351l\346\017@\017"
 	.ascii	"\317T"
 	.text
-	.section	.gnu.lto_runcamDeviceClose5KeyOSDCableConnection.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_runcamDeviceClose5KeyOSDCableConnection.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234eQMkSQ\020\235\363\346\345\253\261q'\352S(h\011"
 	.ascii	"EL\004A\350\316\225\377\300\205\313\030\263\310\302"
 	.ascii	"\246\244\352\2667\261\266\226\210VlI\253\204\007\226"
@@ -1002,7 +1002,7 @@
 	.ascii	"l\362H\352D:\231\212%\311\357E\241\316D\266+u\340xG"
 	.ascii	"2\224\351Le\023\307\322\231\216?\034T\3248"
 	.text
-	.section	.gnu.lto_runcamDeviceSimulate5KeyOSDCableButtonPress.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_runcamDeviceSimulate5KeyOSDCableButtonPress.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234e\222\317KTQ\024\307\317\367\236;\343\314\250\271"
 	.ascii	"\013k\242\204\026\342\242\231 h\323\246U\377A\233v\303"
 	.ascii	"4\213\011\232\221\261\332z\235&E&LH\0315\206G\226T\020"
@@ -1036,7 +1036,7 @@
 	.ascii	"\244\240\177\012g[S\271\304\231t6\023nM\344\332R\307"
 	.ascii	"\316f\222\177\001\"\246\334\341"
 	.text
-	.section	.gnu.lto_runcamDeviceSimulate5KeyOSDCableButtonRelease.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_runcamDeviceSimulate5KeyOSDCableButtonRelease.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234ePKK[a\020\235\363\315\315\365F+])J\024\204.\202"
 	.ascii	"T\222\277\320\225\177\302\225\\\263\310\302\007\221"
 	.ascii	"v\353\227\370B\"*h\360E\010\"\242H\241\012\202\370j"
@@ -1062,7 +1062,7 @@
 	.ascii	"\013G\333\3031\273%\362-jGB6\231\305\312\337\321\034"
 	.ascii	"\353\2144~m\263_\001\\G\237F"
 	.text
-	.section	.gnu.lto_rcdeviceGetRequest.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_rcdeviceGetRequest.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234\215\221\317KTQ\024\307\317\367\236;\317\2478["
 	.ascii	"A\307\205\340J\004gVm\332\370\017\364G\304(4\213\024"
 	.ascii	"\014\332z\3479\220\321d \245&<\237\214\244n\362\007"
@@ -1091,7 +1091,7 @@
 	.ascii	"\336N\365\304S\275\361\276dW\367\375T\262\273#I\177"
 	.ascii	"\001v_\305\306"
 	.text
-	.section	.gnu.lto_rcdeviceReceive.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_rcdeviceReceive.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234\225Z\011PUW\232~\3779\217\307\343\301\0037Py."
 	.ascii	"\250\340\202\013\270K\242\251\356\352\252IU\317te\272"
 	.ascii	":\251IM\245\246+C;\325\351\231\244\273\324\354\333c"
@@ -1378,7 +1378,7 @@
 	.ascii	"\377\357\357F\377\357\334\005\226\277\316}\367/s\347"
 	.ascii	"\361\377\233\373\001\377\307\202y\377\017k\346o\242"
 	.text
-	.section	.gnu.lto_runcamDeviceSendAttitude.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_runcamDeviceSendAttitude.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234\215\224YO\024A\020\307\373?5;\273.,\210\276h\360"
 	.ascii	"\301x_\021\342\233\361\305\257\340GP\324\204\0075\321"
 	.ascii	"\350\253\315\262\001\021\342m\200\350\272\306\015Q\343"
@@ -1427,7 +1427,7 @@
 	.ascii	"\272|cI\371\246\222\315ek\327m+/[\267\264L9\336\214"
 	.ascii	"\326l]\377\013t\312\331\242"
 	.text
-	.section	.gnu.lto_.symbol_nodes.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234u\224\311O\024A\024\306\353\353\327=\003\3352#"
 	.ascii	"#h#\313\340\270{\363b<\252\341/1\236<\350\301D\023/"
 	.ascii	"o\330b\242&.1,z\201\311\260\011\250\2702\270\3010\206"
@@ -1469,7 +1469,7 @@
 	.ascii	"`\3724t\373\350\227;c\002\223;\005\025\231\237\356\246"
 	.ascii	"^k\210\371\305?\300\325\026\360"
 	.text
-	.section	.gnu.lto_.refs.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_.refs.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234\015\314A+Ea\024\205\341w\357\357\234\263\367q"
 	.ascii	"\357\345\014t?\216\030)\244\373#E\006$\006\3745\305"
 	.ascii	"LJ]\312\200DD\326\340i\255\325\256\235\030K Z\357\032"
@@ -1482,7 +1482,7 @@
 	.ascii	"\232\3273\365s\345\205\366\245\\\311\2651\334X\331d"
 	.ascii	"4\306\2061\370\0070\330\037$"
 	.text
-	.section	.gnu.lto_.decls.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_.decls.1f06be11e787e8c,"e",%progbits
 	.ascii	"x\234\255|\011XU\331\265\346\335w\337{\201\313d\251"
 	.ascii	"\245VYI*y&U\031,\255\252tw\372\353\327\235\244*\251"
 	.ascii	"W\351\356\274T\227I\336\227\364\367=B\341U\3510\030"
@@ -2109,7 +2109,7 @@
 	.ascii	">\276\254\377\326]\377\327\255\006\210Q\336$\023\227"
 	.ascii	"\363\376?\337H\220\337"
 	.text
-	.section	.gnu.lto_.symtab.35ddd057ea9ef954,"e",%progbits
+	.section	.gnu.lto_.symtab.1f06be11e787e8c,"e",%progbits
 	.ascii	"waitingResponseQueue\000"
 	.ascii	"\000"
 	.ascii	"\000"

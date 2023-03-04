@@ -9,23 +9,23 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"vcd.c"
-	.section	.gnu.lto_.profile.91be4af655804765,"e",%progbits
+	.section	.gnu.lto_.profile.51da531d75ccf8d1,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.91be4af655804765,"e",%progbits
+	.section	.gnu.lto_.icf.51da531d75ccf8d1,"e",%progbits
 	.ascii	"x\234\343``d\220b@\000\026\206\335\033'\364\3621^\377"
 	.ascii	"q\364.?\023\230d\336\373\360];+\003\000\255 \014\335"
 	.text
-	.section	.gnu.lto_.jmpfuncs.91be4af655804765,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.51da531d75ccf8d1,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.inline.91be4af655804765,"e",%progbits
+	.section	.gnu.lto_.inline.51da531d75ccf8d1,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.pureconst.91be4af655804765,"e",%progbits
+	.section	.gnu.lto_.pureconst.51da531d75ccf8d1,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_vcdProfile_Registry.91be4af655804765,"e",%progbits
+	.section	.gnu.lto_vcdProfile_Registry.51da531d75ccf8d1,"e",%progbits
 	.ascii	"x\234\343``d\370\311\300\300 \306\000\001\323\231\031"
 	.ascii	"\347\2568\363\237\263\205\261\251\261\243\241\341A\367"
 	.ascii	"^\221\214\371\314\014\213\231!r/\366\037~\302j\271\275"
@@ -40,15 +40,15 @@
 	.ascii	"P\224\201\361\020\243%\203\210\236~qQ\262~nbf\236~A"
 	.ascii	"\272~Yr\212^2\003\000\206\330X\216"
 	.text
-	.section	.gnu.lto_.symbol_nodes.91be4af655804765,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.51da531d75ccf8d1,"e",%progbits
 	.ascii	"x\234\343``d0b\000\002\326>F\206V%\006\275\202\364\370"
 	.ascii	"\242\324\364\314\342\222\242J\240`\027#c\243\022H\266"
 	.ascii	"\233\221\011\302\350ad\0063\030\0000\203\011\366"
 	.text
-	.section	.gnu.lto_.refs.91be4af655804765,"e",%progbits
+	.section	.gnu.lto_.refs.51da531d75ccf8d1,"e",%progbits
 	.ascii	"x\234\343``d\340d```f`bdbbbf\000\000\001j\000\""
 	.text
-	.section	.gnu.lto_.decls.91be4af655804765,"e",%progbits
+	.section	.gnu.lto_.decls.51da531d75ccf8d1,"e",%progbits
 	.ascii	"x\234\225VmLSW\030\276\357=\205\226Kk\0350?R\267hRu"
 	.ascii	"\373\0032\027\343\217eYb\262\371kY\\\366gK\3260(\205"
 	.ascii	"D\013\241\305\305\375\361\362ae\210X\025QP\344S\303"
@@ -149,7 +149,7 @@
 	.ascii	"\241[\255 }0\307\010j\250\323\250\022\226\241{\352\210"
 	.ascii	"OZ\375/\021\362\270\003"
 	.text
-	.section	.gnu.lto_.symtab.91be4af655804765,"e",%progbits
+	.section	.gnu.lto_.symtab.51da531d75ccf8d1,"e",%progbits
 	.ascii	"vcdProfile_Registry\000"
 	.ascii	"\000"
 	.ascii	"\000"

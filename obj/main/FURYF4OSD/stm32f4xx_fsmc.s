@@ -9,10 +9,10 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"stm32f4xx_fsmc.c"
-	.section	.gnu.lto_.profile.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_.profile.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_.icf.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\343``dX\314\200\000\322\014[;'\235ac|:\351\363"
 	.ascii	"=>\246\303\277\272\21713omj\236\315\302\262\343\310"
 	.ascii	"\306\313\334\254`\222m\351\342\351-<\354\377\232[\327"
@@ -25,7 +25,7 @@
 	.ascii	"\266}g\227X\325~\254\207E\262k\342\2543\274R\213\366"
 	.ascii	"\237\232\301\307\000\000E\335Q\201"
 	.text
-	.section	.gnu.lto_.jmpfuncs.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\205\216\001\012\302@\020\003\223\335\323V\252"
 	.ascii	"\326\266j\265\017\360\231\372\024\277\342\317t\365B"
 	.ascii	"9Ap!L\302e\227\253A\\\210y\246PD\003\034H$ow\307B\\"
@@ -34,7 +34,7 @@
 	.ascii	"|\326,]\343\317|$\"\364\214i1\026wq*\303\257\366\271"
 	.ascii	",L\377\332x\0015\2136N"
 	.text
-	.section	.gnu.lto_.inline.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_.inline.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\315W\313n\034E\024\275\365\360L\331\236\330\355"
 	.ascii	"8!\020#\245\277 +\304\202\005\364\027\260\340\013\306"
 	.ascii	"3c;lH\276\000\332Faa$\223\005!\033d,\021#\036\022\260"
@@ -101,13 +101,13 @@
 	.ascii	"=\372o8\323\274\276F\037\3164\257\257\321\2073\370\013"
 	.ascii	"'K;2"
 	.text
-	.section	.gnu.lto_.pureconst.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_.pureconst.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\005\301\207\025@@\024\000\301\177,\316\223shJ"
 	.ascii	"\177[\255\231\034)\276\210xC\222\024R\012RI-\215di\245"
 	.ascii	"\223^\006\031e\222Y\026Ye\223]\0169\345\222[\036y\345"
 	.ascii	"\007\302v\021\324"
 	.text
-	.section	.gnu.lto_FSMC_NANDDeInit.part.0.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_NANDDeInit.part.0.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\235\221\317KTQ\024\307\357\367\2357\323hF\256"
 	.ascii	"Jr\323\"\0237\276I\373\003\242\302M\030\301\004-\007"
 	.ascii	"\233\224\206\032\211\031\011w^\307\322\310\230\\\024"
@@ -140,7 +140,7 @@
 	.ascii	"t\205\232\233:\224\273#\022\0124\006DE\213\257u\237"
 	.ascii	"\177o[\347\211\277\025\363\023\300"
 	.text
-	.section	.gnu.lto_FSMC_NANDCmd.part.0.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_NANDCmd.part.0.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\215R=h\223A\030\276\347{\277\374\264F\254[1\213"
 	.ascii	"\240\241tib\343\256\250t\221\026!\016n1\306\024\203"
 	.ascii	"\246H\022\264[\317\2444\322\226XDi\024j\212!\212\203"
@@ -174,7 +174,7 @@
 	.ascii	"H\260/(:\006|\203\207\375\207\002#g\355C\241\213\276"
 	.ascii	"x \036\372\003&\304\363b"
 	.text
-	.section	.gnu.lto_FSMC_NANDECCCmd.part.0.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_NANDECCCmd.part.0.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\215QMkSA\024\235\363\356\313Gk\304\272+f\343\302"
 	.ascii	"X\272ib\343\017\020\225n\244E\210\013w1\306\024\203"
 	.ascii	"\246H\022\264\273\216I1\322\206(bi+\324\024C\024\013"
@@ -208,7 +208,7 @@
 	.ascii	"\273\202\242\245\307\327{\304\17780p\316\336\027\272"
 	.ascii	"\344\213\007\342\241?j\324\363\310"
 	.text
-	.section	.gnu.lto_FSMC_PCCARDCmd.part.0.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_PCCARDCmd.part.0.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\215Q\317k\023Q\020\236\357\315n\273J\244z+\344"
 	.ascii	"&\204\322K76\376\001\036\304\213X\204\210\327Rc\212"
 	.ascii	"\001#\222\004\355\255\3234\020iK\004A\252B\330B\211"
@@ -238,7 +238,7 @@
 	.ascii	"\362\251\321I\233\236,\3463#\031\362\306\262g\323\245"
 	.ascii	"\211R\3667C\270\306\030"
 	.text
-	.section	.gnu.lto_FSMC_ITConfig.part.0.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_ITConfig.part.0.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\215\221_H\323Q\024\307\357\367w~s\323\324\354"
 	.ascii	"\315\362\245\207d\370\220\233Z\364\032\025R\204\022"
 	.ascii	"Lz5\263\211\243&\261\215\362\315\353\224\026)\253\007"
@@ -275,7 +275,7 @@
 	.ascii	"^\330+=UGkO\324d\353\375H]\323yG\265\367\262'T\027\362"
 	.ascii	"\376\006z\315\033\012"
 	.text
-	.section	.gnu.lto_FSMC_ClearFlag.part.0.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_ClearFlag.part.0.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\215RKhSA\024\235\363\356\313\307\232\026\335\211"
 	.ascii	"\335\270\260\204l\232\264q-\376\210\202V\204\270p\027"
 	.ascii	"bl1h\212$E\272\3534\021\203V\252Bm\033!\246\022\322"
@@ -309,7 +309,7 @@
 	.ascii	"\213EB\235!\261\305\347\3579\030\360\035\333\177\330"
 	.ascii	"D\007\202\375\347\376\000\243\367\367\226"
 	.text
-	.section	.gnu.lto_FSMC_ClearITPendingBit.part.0.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_ClearITPendingBit.part.0.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\215S_HSQ\030?\277\373\335\273-S\211\236\242\275"
 	.ascii	"\004%2\0107]\275FTH\021F0\351u\330R\0325\211M\3027\217"
 	.ascii	"[8J\261\036,\0351g\330Z=X\004#ZY\255\345\237\264\027"
@@ -343,7 +343,7 @@
 	.ascii	"\351\012y\233:T\272#\022\0124\004\204\275\331\327r\330"
 	.ascii	"\177\254u\213\371>\324\326y\356\017>]\377\006"
 	.text
-	.section	.gnu.lto_FSMC_NORSRAMDeInit.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_NORSRAMDeInit.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\225\222\337KTA\024\307\347{\347^\275\373\243\336"
 	.ascii	"\202\300\027\037\002\363\305\225\265? *|\011#0\350Q"
 	.ascii	"\314\224\266RbW\3027g\327_\320n\026\226\250\230\256"
@@ -383,7 +383,7 @@
 	.ascii	"\2053yF\314\346r\026\330\\\245\305Y\366\"\021.r\025"
 	.ascii	"\027d\024\020Svn\316\341\274C\371%\347~\000\271y]\220"
 	.text
-	.section	.gnu.lto_FSMC_NORSRAMInit.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_NORSRAMInit.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\235\230kP\024W\026\307\373\364\355y0\014\017\025"
 	.ascii	"\004\305$\304H|EA\324\370\310\207hv\203\265Q\263[a\277"
 	.ascii	"[+1\025\252b\312\002\222\315~J\363Pv\001q\343\003Q\034"
@@ -499,7 +499,7 @@
 	.ascii	"\257,\\\372\2077\323\263R\2632\336J\313\262g\255\\\265"
 	.ascii	"\374\257\031\364'K\374I\313\370\037\337q\264\223"
 	.text
-	.section	.gnu.lto_FSMC_NORSRAMStructInit.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_NORSRAMStructInit.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\235\324\357KSQ\030\007\360\363\334\263\037Ws\022"
 	.ascii	"\006\026I\340\213B|\343D\373\003\212B\220\320\302\365"
 	.ascii	"^j*\015Rb[\341;\317\226)iX\2201#d\206\254\232\226V\024"
@@ -543,7 +543,7 @@
 	.ascii	"0\377`\201\245`o^n\231\315iq\332OZ\235\277\001\353\315"
 	.ascii	"_\365"
 	.text
-	.section	.gnu.lto_FSMC_DefaultTimingStruct.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_DefaultTimingStruct.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\343``d(c`\000\222\0200\235\231\361\370\373\267"
 	.ascii	"W\030\373\230\3473\003\005\201\334\003\033&_f\207p\371"
 	.ascii	"A\334\007\275?\231!\334\377\214@\376\246\236\256\031"
@@ -551,7 +551,7 @@
 	.ascii	"\203\231\021B11\356\001Q\314\020\036\013\204b\205Pl"
 	.ascii	"\214\273\030\245\031\030\3672Z2\000\000rT\"\341"
 	.text
-	.section	.gnu.lto_FSMC_NORSRAMCmd.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_NORSRAMCmd.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\245RMHTQ\024\276\337;\367\315\274\321i\325&p\343"
 	.ascii	"\"\030\33482\266/*\334\204\022L\213vf6\322TJ\314\014"
 	.ascii	"\345\316\353OM82ET\026b\2570\021\027e\201\213\264\264"
@@ -588,7 +588,7 @@
 	.ascii	"\327\013_U\270\372@\355\376\272\246\323VM\344|8Q\227"
 	.ascii	"\210\374\006\210\242D\246"
 	.text
-	.section	.gnu.lto_FSMC_NANDDeInit.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_NANDDeInit.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\235\222\335KTA\030\306\3479s\316zvS\353&\022\274"
 	.ascii	"\361\"\020\273p\027\365\017\210>\274\011#0\350.\261"
 	.ascii	"Mi)%vE\274sv\335\0222\324\213\025\335\213\335Ud1\010"
@@ -625,7 +625,7 @@
 	.ascii	"z\231\263\262\272\352|\315\271\332\306\333\377\000\235"
 	.ascii	"\347+\237"
 	.text
-	.section	.gnu.lto_FSMC_NANDInit.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_NANDInit.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\235\227kLTG\024\307\357\271s\367\375\302\027\""
 	.ascii	"\370@\005\015\212,j\223\266\237\332\246\306\244i4M\350"
 	.ascii	"w\243T[L1\006\250\361\233w\027\005\025\320\244*\212"
@@ -720,7 +720,7 @@
 	.ascii	"\326W\3519\206\234\314\325\253\227\346\360\357\314\345"
 	.ascii	"\231z\374N\317\372\017QwU7"
 	.text
-	.section	.gnu.lto_FSMC_NANDStructInit.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_NANDStructInit.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\235\225\337K\024Q\024\307\357\231;\216\233n\277"
 	.ascii	"\250\207@\002\211@|q7\355\017(\022!B\011\266w\261Mi"
 	.ascii	"!%v7\361\315\273\033d`)A\345jmk\224\245\025\326D\220"
@@ -763,7 +763,7 @@
 	.ascii	"\311\341,\316\312,b\351\"G\2615\303\212\266\344Xr\367"
 	.ascii	"\345\347\355\315\313\336_bsZ\234\366\023V\347_<bc\371"
 	.text
-	.section	.gnu.lto_FSMC_NANDCmd.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_NANDCmd.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\225\223QHSQ\030\307\317w\317\335v7\247\325C\020"
 	.ascii	"\370\"\024\210=\270\245\275\027\025\276\204\022\254"
 	.ascii	"\207\336\314l\322(%\334(\337<\233\253\205\256i\241\351"
@@ -810,7 +810,7 @@
 	.ascii	"\234\177\250\240\344\254\222g\277hs\025\270\354\177"
 	.ascii	"\001\323\321\261R"
 	.text
-	.section	.gnu.lto_FSMC_NANDECCCmd.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_NANDECCCmd.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\225SML\023A\024\236\267\263mwKA=x0\\8\030\011"
 	.ascii	"\036hc\275k\324p1\020\223z\360V\021Kl\024bh\243\334"
 	.ascii	"\230\226\232\032 \240\006\204b\240(!\200Q~\242\321\200"
@@ -856,7 +856,7 @@
 	.ascii	"D\315\260e\036\267\037\313\316\277\250d9\256\332\334"
 	.ascii	"\331n\307_\356\252\260\326"
 	.text
-	.section	.gnu.lto_FSMC_GetECC.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_GetECC.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234]\220\337K\223Q\034\306\317\363\236\363n\313\246"
 	.ascii	"t\323E\330\205\027\311\260\013'\332\037 \025\273\011"
 	.ascii	"#X\027]5lM\0329\221M\304;\3176)\262a\012\023]\344;\327"
@@ -891,7 +891,7 @@
 	.ascii	"\256\266I\226\233\002>w\265\233\034s8\033.\270\3167"
 	.ascii	"\266\3346y\334\356\366\306\346\277:}\005@"
 	.text
-	.section	.gnu.lto_FSMC_PCCARDDeInit.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_PCCARDDeInit.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\343``dheb`\360e``\220\005bFf\006F\246\206\206"
 	.ascii	"\006\007\366F\016&FF0\253\201\203\221\241\236\211\261"
 	.ascii	"\236\261\237y:3\343\241\366g;\2314\227\003e\032\016"
@@ -918,7 +918,7 @@
 	.ascii	"\344\364\213\213\222\365\213Kr\215\215\322@\322i\305"
 	.ascii	"\271\311z\311\014\000\233\000\373\231"
 	.text
-	.section	.gnu.lto_FSMC_PCCARDInit.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_PCCARDInit.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\235WkLTG\030\235\357\316\276`w\305\367\003D\361"
 	.ascii	"\201HT\226\"i\323\1776\032\223\246\2611\305\377\306"
 	.ascii	"\242\246$b\011\254\215\277\352\000\012\025Q\333j}U\272"
@@ -1001,7 +1001,7 @@
 	.ascii	"\315\313\313\3718\323\205?\027\371\375r\220\273$7S\254"
 	.ascii	"d\347g\376\007%\256\261\235"
 	.text
-	.section	.gnu.lto_FSMC_PCCARDStructInit.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_PCCARDStructInit.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\235\225OH\024Q\034\307\337o\336\354\354\026\026"
 	.ascii	"t\360d\301\036\002\361\342.\332\245[\241\010\021\206"
 	.ascii	"\264\335\2456\245\205\224\330\335\304\233o\267\203\220"
@@ -1043,7 +1043,7 @@
 	.ascii	"\177UaA%[\256\364U\271\363\335(\273\304UZT^VTt\372|"
 	.ascii	"\361\231j\217\337\345\367^w\373\377\0027\222~\313"
 	.text
-	.section	.gnu.lto_FSMC_PCCARDCmd.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_PCCARDCmd.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\225QMh\023A\024~\337\314n\262\255\021\361\034"
 	.ascii	"\204\336J/\335\320\010\036\365\240^\212E\210x-5\246"
 	.ascii	"\0300\"I\320\336:\233.\244\264!\"\250U!lA\242\202\240"
@@ -1074,7 +1074,7 @@
 	.ascii	"b.94\256\313\343\205\\z0M\326H\346b\2528V\314l\001("
 	.ascii	"\336\327\325"
 	.text
-	.section	.gnu.lto_FSMC_ITConfig.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_ITConfig.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\235T]l\024U\024\276g\356\374\356\316n\013\211"
 	.ascii	"\211\244\211\351\203I\203\017l\245\022c|1jH\214\201"
 	.ascii	"\230\224\007\337j\255%4\332\306\264\215\362\306\335"
@@ -1133,7 +1133,7 @@
 	.ascii	"4\326\255\253c\326\306\352M\257\325\274Z\333\364\276"
 	.ascii	"!Ool17\327\177\\\335Z\333Z\377/\307\245~\202"
 	.text
-	.section	.gnu.lto_FSMC_GetFlagStatus.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_GetFlagStatus.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234m\223_L\323W\024\307\357\371\235\337\337Z\354^"
 	.ascii	"\366\324\007y\030!\370`\211\370\264'7\015>l\032\023"
 	.ascii	"|\360\215\000jl&\304\265\335\346\233\267\255\221P\011"
@@ -1186,7 +1186,7 @@
 	.ascii	"U[7U\177X\323\360\211\032U~\374\301\026#R\277?\034r"
 	.ascii	"j\203\221p\244&\362Y\370\0253\024\2649"
 	.text
-	.section	.gnu.lto_FSMC_ClearFlag.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_ClearFlag.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\225SMHTQ\024\276\347\335\367\336\274\371\351o"
 	.ascii	"\321\312E.\002\261\205c\332:\372\303\026e\004\266h'"
 	.ascii	"\323\2444\224\0223\022\356\274\363\003CcX\202\3770>"
@@ -1229,7 +1229,7 @@
 	.ascii	"$\346\242\222\342\223\245'\034\225W\365]\321\331\343"
 	.ascii	"\247\177\001\257\343j\341"
 	.text
-	.section	.gnu.lto_FSMC_GetITStatus.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_GetITStatus.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234m\224]L\223W\030\307\317\363\236\367\273\005M\306"
 	.ascii	"\256z!\027#\314e\261Dv?\263-&\313\342\262\004/v\261"
 	.ascii	"\204\001\303\254\031\020\323v\013w\236\266FG!\270M\230"
@@ -1289,7 +1289,7 @@
 	.ascii	"\037\006\264`\343\336\200\337\252]\263\377\0037\226"
 	.ascii	"\003$"
 	.text
-	.section	.gnu.lto_FSMC_ClearITPendingBit.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_FSMC_ClearITPendingBit.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\225\223]HTA\024\307\347\334\271{\357\365\356J"
 	.ascii	"\022\364\344\213P`F\270\246\365\036\025B\204\021\350"
 	.ascii	"Co\213mJK)\261+\341\233\263\037\264\264\246Eh~\304\356"
@@ -1333,7 +1333,7 @@
 	.ascii	".\247\335\352*+\311\311.\346\351bW\211=\323N\222r\363"
 	.ascii	"\363.\332.\024\226\336\226\265\331\345\202\277=Jv\364"
 	.text
-	.section	.gnu.lto_.symbol_nodes.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234u\322\271N\002q\030\004\360o\366\277\273\"\242"
 	.ascii	"\340\001\202\215\304\267\260\204G\341Ef\345\360\000"
 	.ascii	"\224\303\373\210\215=\261\205\316\027\2602\2615\224"
@@ -1350,11 +1350,11 @@
 	.ascii	"\206\373\030']>x{\232L\014c\270\235\360\247VC\373\002"
 	.ascii	"jo\321A"
 	.text
-	.section	.gnu.lto_.refs.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_.refs.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\343``d\340d```\342d\342\342c\342\342g\000\000"
 	.ascii	"\002K\000S"
 	.text
-	.section	.gnu.lto_.decls.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_.decls.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"x\234\255ZyTTW\232\257[\267\200\242d1\240\306\211f:"
 	.ascii	"\235c\322\231\323Ip;g\222\231\236sB\320tL\307\304\003"
 	.ascii	"&\231\356\323\023Cc\251\234\021t\260H\307\236?\246X"
@@ -1677,7 +1677,7 @@
 	.ascii	"\377n\241\267\2734?W<\300\260\2049E\003\243[\2048\305"
 	.ascii	"\212\3372d\345\364\271\377_,3\377\017\271$\357\255"
 	.text
-	.section	.gnu.lto_.symtab.3b5607de6cefaff7,"e",%progbits
+	.section	.gnu.lto_.symtab.c1ca3f1b7b9922fc,"e",%progbits
 	.ascii	"FSMC_NORSRAMDeInit\000"
 	.ascii	"\000"
 	.ascii	"\000"

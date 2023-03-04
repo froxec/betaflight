@@ -9,24 +9,24 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"sdft.c"
-	.section	.gnu.lto_.profile.584e023650c042a2,"e",%progbits
+	.section	.gnu.lto_.profile.690842d18e712af9,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.584e023650c042a2,"e",%progbits
+	.section	.gnu.lto_.icf.690842d18e712af9,"e",%progbits
 	.ascii	"x\234\343``d\260e@\000.\206\276G\233\247p1N\332\276"
 	.ascii	"\370.3\323\336\207\357\332Y\2317\255\270\266\226\211"
 	.ascii	"\345^\323\263B\326\333\213o\256ae[u\360\363\005~\366"
 	.ascii	"\217\255?.\360p\234=\330~\232\221\263\373\336\244~~"
 	.ascii	"\006\000\241\244\035\302"
 	.text
-	.section	.gnu.lto_.jmpfuncs.584e023650c042a2,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.690842d18e712af9,"e",%progbits
 	.ascii	"x\234eN\333\015\200 \020k\271*\370\305\3068\212\013"
 	.ascii	"8\204\233\351a \020m\322K\372J.\20181\020!:\362~\030"
 	.ascii	"\234\354\0145\034G\201\264\326\011\213\371\"vU\333k"
 	.ascii	"\213+\025g\361\256\323\354l\277X*\376\025/\021\316\333"
 	.ascii	"\221\241\302\257\205\007\202n \301"
 	.text
-	.section	.gnu.lto_.inline.584e023650c042a2,"e",%progbits
+	.section	.gnu.lto_.inline.690842d18e712af9,"e",%progbits
 	.ascii	"x\234\205\222=K\303P\024\206\337\234\233\304\210\251"
 	.ascii	"\004q\251.\241\223\263\203s\177\200\3647\024[?\352\307"
 	.ascii	"\177\020\241\016*Z\241\340Pq(\202\016\032\244\223\024"
@@ -52,12 +52,12 @@
 	.ascii	"r^\235P)\027\241\020\022\211\012\251B\012\337\032\211"
 	.ascii	"\265\215"
 	.text
-	.section	.gnu.lto_.pureconst.584e023650c042a2,"e",%progbits
+	.section	.gnu.lto_.pureconst.690842d18e712af9,"e",%progbits
 	.ascii	"x\234\005\301\201\015\000 \010\004\26179\004\027p\370"
 	.ascii	"\233\226vr\362\223t\004)\271\3222\362d\0014\317\004"
 	.ascii	"\240"
 	.text
-	.section	.gnu.lto_sdftInit.584e023650c042a2,"e",%progbits
+	.section	.gnu.lto_sdftInit.690842d18e712af9,"e",%progbits
 	.ascii	"x\234\235V\333SUU\030_\337^\373v\356 e*1\342(\032\226"
 	.ascii	"\242\366\324LY\323\237\320s/\216\345\350\003\350\010"
 	.ascii	"\365X\233\003a\342\255q0\257GLr\314HE\247\034\357\036"
@@ -158,7 +158,7 @@
 	.ascii	"/\232\277`\334\213\372\331s\362\346\347N\237\317\376"
 	.ascii	"\006\215\0314\236"
 	.text
-	.section	.gnu.lto_sdftPush.584e023650c042a2,"e",%progbits
+	.section	.gnu.lto_sdftPush.690842d18e712af9,"e",%progbits
 	.ascii	"x\234\225U\335O\024W\024\277\277\2713\263\263\313\256"
 	.ascii	"\037$\006\015\232\332DCM\033 <\371\330\177\243\355\023"
 	.ascii	"AMHD\233b\232\364\311\331]X\022\332B\233\330\332\025"
@@ -219,7 +219,7 @@
 	.ascii	"\333\256\257\256{}\377^k\317\336\375\207\252Q\373'7"
 	.ascii	"\262M\234"
 	.text
-	.section	.gnu.lto_sdftPushBatch.584e023650c042a2,"e",%progbits
+	.section	.gnu.lto_sdftPushBatch.690842d18e712af9,"e",%progbits
 	.ascii	"x\234\225V]LTW\020>s\317\275w\357.\273\253@\032\301"
 	.ascii	"\205\"\215\204\332\037\261\276\324\276\371\322\207\246"
 	.ascii	"}\353[\337(\330\224D\240A\322\264O\336]`I\324`\233J"
@@ -294,7 +294,7 @@
 	.ascii	"\037\276\225\375\211\226\275kwa\246||3/\333!\026\357"
 	.ascii	"\026f\026\024B\316?\002U\002\306"
 	.text
-	.section	.gnu.lto_sdftMagSq.584e023650c042a2,"e",%progbits
+	.section	.gnu.lto_sdftMagSq.690842d18e712af9,"e",%progbits
 	.ascii	"x\234\225T\337OTG\024\236\357\236\271{\027X \370\320"
 	.ascii	"\330\240\221&\022j4,1\232\370\320\207\376\037M\037\032"
 	.ascii	"Z\023\036\220F\361\245\017u`eIT\300\2076\332\264\333"
@@ -345,7 +345,7 @@
 	.ascii	"\223\246m\361\306\226\346\346\226m\361\035\237nm\255"
 	.ascii	"oTZ\276#-;[?\337\331\35245;\333?C\323+Q\361\306\223"
 	.text
-	.section	.gnu.lto_sdftMagnitude.584e023650c042a2,"e",%progbits
+	.section	.gnu.lto_sdftMagnitude.690842d18e712af9,"e",%progbits
 	.ascii	"x\234\225V\355STU\030?\317=\347\276\354\013 \276`\015"
 	.ascii	"4\322\214\01494,\343\350\214\037\373\033\372\332\247"
 	.ascii	"\206j\206\017H\243\370\245/^v\027\230\021\001?TJ\265"
@@ -414,7 +414,7 @@
 	.ascii	"\322\262\335\201\275o\275S^X\314\004\3757\312\366\225"
 	.ascii	"\277\273\257\\+)\325\366\274\015%\377\001\346U\307i"
 	.text
-	.section	.gnu.lto_sdftWinSq.584e023650c042a2,"e",%progbits
+	.section	.gnu.lto_sdftWinSq.690842d18e712af9,"e",%progbits
 	.ascii	"x\234\225U\337OTG\024\236sg\356\356\335e\027H\344WE"
 	.ascii	"D\023\011\030Z \250\211\217\375G\372`h\233\220\024i"
 	.ascii	"\024\373\320\207:\200,\266\025h*V(\335.\226\254\240"
@@ -478,7 +478,7 @@
 	.ascii	"\037\2522\312+\214\003o\360w\366\275\005\345\177\003"
 	.ascii	"\236tU\223"
 	.text
-	.section	.gnu.lto_sdftWindow.584e023650c042a2,"e",%progbits
+	.section	.gnu.lto_sdftWindow.690842d18e712af9,"e",%progbits
 	.ascii	"x\234uTKOSA\030\235sg\356\355mi\325\215\211\246,0\221"
 	.ascii	"`\325\320-K\377\204\033w\004c\302\0020\002k\206R \021"
 	.ascii	"\205\215\005\033m\012\301F\014\211O\022E\004.\017\345"
@@ -523,7 +523,7 @@
 	.ascii	"\031.\253\252\250\250\252\014W_\277QS\\\306\204\372"
 	.ascii	"ZU\26557kkP\376\033\\\335g3"
 	.text
-	.section	.gnu.lto_.symbol_nodes.584e023650c042a2,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.690842d18e712af9,"e",%progbits
 	.ascii	"x\234m\316;\016\001a\024\005\340s\376\337\274\260\007"
 	.ascii	"\211\005\250\225\254DF\241\323\030\375\035\211\367k"
 	.ascii	"\006[Ph\265j\211Nk\0054\032\225B\341-\232\371our\276"
@@ -536,12 +536,12 @@
 	.ascii	"\235\303N\263\235\321\236\373\371(\257\275l\364\355"
 	.ascii	"l<\001\317\371~>"
 	.text
-	.section	.gnu.lto_.refs.584e023650c042a2,"e",%progbits
+	.section	.gnu.lto_.refs.690842d18e712af9,"e",%progbits
 	.ascii	"x\234\015\3021\012\000 \020\003\301Mr\202pXXX\373\377"
 	.ascii	"_\3520\023q\201\002I\216\262\244\355\302!\355\301\237"
 	.ascii	"\303\003\013\221\000\230"
 	.text
-	.section	.gnu.lto_.decls.584e023650c042a2,"e",%progbits
+	.section	.gnu.lto_.decls.690842d18e712af9,"e",%progbits
 	.ascii	"x\234\245X{PT\327\031\277\337\275\013\354\023\030\222"
 	.ascii	"\230\207\315\304\244$\223i\213k\0363i;\235N\206\246"
 	.ascii	"\215\235\211iZ\233\351\324\351\214\263\302\";\003\273"
@@ -708,7 +708,7 @@
 	.ascii	"2k\250\026;\312\326\240\304\250O\226\243\300\377\002"
 	.ascii	"\002\314h\350"
 	.text
-	.section	.gnu.lto_.symtab.584e023650c042a2,"e",%progbits
+	.section	.gnu.lto_.symtab.690842d18e712af9,"e",%progbits
 	.ascii	"sdftInit\000"
 	.ascii	"\000"
 	.ascii	"\000"

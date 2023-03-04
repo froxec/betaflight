@@ -9,24 +9,24 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"simplified_tuning.c"
-	.section	.gnu.lto_.profile.5bab6567983bfb88,"e",%progbits
+	.section	.gnu.lto_.profile.2ed4218aecb1c907,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.5bab6567983bfb88,"e",%progbits
+	.section	.gnu.lto_.icf.2ed4218aecb1c907,"e",%progbits
 	.ascii	"x\234\343``d\260e@\000.\206o\263N\337\344c\374\323<"
 	.ascii	"\365\006;\323\351\373\333\216\2601\237\276\363\261\223"
 	.ascii	"\231e\372\374\206\265\214\254\267w\035\276\304\303\006"
 	.ascii	"&\331\301$\307\346\025gw\360r^Y\360\211\223\001\000"
 	.ascii	"\276t\036c"
 	.text
-	.section	.gnu.lto_.jmpfuncs.5bab6567983bfb88,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.2ed4218aecb1c907,"e",%progbits
 	.ascii	"x\234}N[\012\200@\010\234Q+\373\352\306u\224\256\322"
 	.ascii	"G\367*e\205`Y\032\020\321y\250\203\270\361\301A\362"
 	.ascii	"8\025Z\335Z\347T\263\330\036\026^FD=\201\015\363\017"
 	.ascii	"\267\224\177\304\271\220*ad\023\020\235 M\243]\037\264"
 	.ascii	"fP~\220\227\360\0025V0\024"
 	.text
-	.section	.gnu.lto_.inline.5bab6567983bfb88,"e",%progbits
+	.section	.gnu.lto_.inline.2ed4218aecb1c907,"e",%progbits
 	.ascii	"x\234\345T\275J\0041\020\236L\262\232\365\232\024v6"
 	.ascii	"\373\010\367\010\373\004\276\203z\376p\215Z\013\022"
 	.ascii	"\025\341\260\320+\016<+-\255T\260R\021\016A\261\021"
@@ -54,11 +54,11 @@
 	.ascii	"\202\312\177`\030\324r\351w\233\273\272\036\316\322"
 	.ascii	"V\311;\344\0148\266\236\014[\341\013\345\3212#"
 	.text
-	.section	.gnu.lto_.pureconst.5bab6567983bfb88,"e",%progbits
+	.section	.gnu.lto_.pureconst.2ed4218aecb1c907,"e",%progbits
 	.ascii	"x\234\005\301\201\021\000\020\020\003\301\030\207|\011"
 	.ascii	":\367\251\326\2565t%Ya\006\302jvs\032?*|C\366\005@"
 	.text
-	.section	.gnu.lto_calculateNewPidValues.5bab6567983bfb88,"e",%progbits
+	.section	.gnu.lto_calculateNewPidValues.2ed4218aecb1c907,"e",%progbits
 	.ascii	"x\234\245X{P\225e\032\377\236\357;\367\303ME3\211\264"
 	.ascii	"\022\0151A\324\314[\231],\013e\306k\227\031\307\345"
 	.ascii	"\322\236\035o\2036\273\377\365\201\210bbVx\027\2619"
@@ -182,7 +182,7 @@
 	.ascii	"\253\013\227\373\330UN\236m\301\357|\313\376\017Qh\335"
 	.ascii	"\200"
 	.text
-	.section	.gnu.lto_pidDefaults.11443.5bab6567983bfb88,"e",%progbits
+	.section	.gnu.lto_pidDefaults.11443.2ed4218aecb1c907,"e",%progbits
 	.ascii	"x\234\343``d\010fd\000\222\0200\235\231\261\247w\352"
 	.ascii	"w\376>\346\371\314\014\214?@\374\343\357\337^a\004\361"
 	.ascii	"\031\031A\334m\023\266\267\261@\270\027@\374\311\313"
@@ -198,7 +198,7 @@
 	.ascii	"\031\2171Z2\032I3\036\001R\373\031\245\031\3671Z20\036"
 	.ascii	"\007\022\000\336\001i\313"
 	.text
-	.section	.gnu.lto_dMinDefaults.11444.5bab6567983bfb88,"e",%progbits
+	.section	.gnu.lto_dMinDefaults.11444.2ed4218aecb1c907,"e",%progbits
 	.ascii	"x\234\343``d\210d`\000\222\0200\235\231\261\355\350"
 	.ascii	"\204\335\274}\314\363\231\031\030\231\200\334\236}?"
 	.ascii	"Os\203\270\214\214J@\356\343\311\307\346\361@\270r@"
@@ -206,7 +206,7 @@
 	.ascii	"\207Q\232\321H\232q7\220\332\005\304Z\322\014\214{\031"
 	.ascii	"-\031\000I\301\032\035"
 	.text
-	.section	.gnu.lto_calculateNewDTermFilterValues.5bab6567983bfb88,"e",%progbits
+	.section	.gnu.lto_calculateNewDTermFilterValues.2ed4218aecb1c907,"e",%progbits
 	.ascii	"x\234\245SKO\324P\024\276\247\267\355t:\003\30331\260"
 	.ascii	"\220\205\221\260aH\374\003\376\004\377\2011\303#M` "
 	.ascii	"\240qI\031\014D \340B\004\324\311`\310\210$\006!\232"
@@ -252,7 +252,7 @@
 	.ascii	"\350\361\023Q#ZQ\034az\215Qz\244\266\272\334\250,\373"
 	.ascii	"\013\034\362 \254"
 	.text
-	.section	.gnu.lto_calculateNewGyroFilterValues.5bab6567983bfb88,"e",%progbits
+	.section	.gnu.lto_calculateNewGyroFilterValues.2ed4218aecb1c907,"e",%progbits
 	.ascii	"x\234\245R[KTQ\024\336\353\354s\233\343\214\343\345"
 	.ascii	"ET\310\207H|q\204\236\203\240\037\0221\245L\344\030"
 	.ascii	"\332\205\236\334\216\242\220e/\231\3710\214!b\026\250"
@@ -298,7 +298,7 @@
 	.ascii	"\343\307b\225\261#\207\017\2368\031\217\305\253\312"
 	.ascii	"\243\314\252:S[s\300\301\377\000\023\021!\311"
 	.text
-	.section	.gnu.lto_applySimplifiedTuningPids.5bab6567983bfb88,"e",%progbits
+	.section	.gnu.lto_applySimplifiedTuningPids.2ed4218aecb1c907,"e",%progbits
 	.ascii	"x\234m\220?K\034Q\024\305\357\231\373vv\\6v\201\004"
 	.ascii	"-,$\262\026\256`i\223\217\3407\010aue@W\321\244\366"
 	.ascii	"\315\270\211\250a\265HP\213e\024\231\304B4A\305\374"
@@ -326,7 +326,7 @@
 	.ascii	"\366\206\014%\272\355\326\226\236\256\254\335\321v\011"
 	.ascii	"\234+\250\275"
 	.text
-	.section	.gnu.lto_applySimplifiedTuningDtermFilters.5bab6567983bfb88,"e",%progbits
+	.section	.gnu.lto_applySimplifiedTuningDtermFilters.2ed4218aecb1c907,"e",%progbits
 	.ascii	"x\234m\220\315k\023Q\024\305\357\231\3732\231\206\330"
 	.ascii	"\235\240\024\241\013\261\304E\022p\351\306?\241\377"
 	.ascii	"\201\224\264)\003I\032\032]\367\315\030[\264%\335X\332"
@@ -354,7 +354,7 @@
 	.ascii	"`\027\306\223\031\212\025\355\321\341\311\211\254\235"
 	.ascii	"\033\373\007>\236\251\210"
 	.text
-	.section	.gnu.lto_applySimplifiedTuningGyroFilters.5bab6567983bfb88,"e",%progbits
+	.section	.gnu.lto_applySimplifiedTuningGyroFilters.2ed4218aecb1c907,"e",%progbits
 	.ascii	"x\234m\220\317KTQ\034\305\277\347}\357\274y=\254VB\""
 	.ascii	"\202\213H\306\205#\270l\023\370\207DL:<\3101\324\026"
 	.ascii	"\255\274\357\365J\320p6\311\350bxF\2143\033\177\004"
@@ -382,7 +382,7 @@
 	.ascii	"\371\276\034\271\371\333c\243\203f~\014\207\210\251"
 	.ascii	"W"
 	.text
-	.section	.gnu.lto_applySimplifiedTuning.5bab6567983bfb88,"e",%progbits
+	.section	.gnu.lto_applySimplifiedTuning.2ed4218aecb1c907,"e",%progbits
 	.ascii	"x\234u\220\315k\023Q\024\305\357\231;\223LB$\333B\250"
 	.ascii	"\270(\015\331t6\256E\360\037\360?\020\311\027\003\311"
 	.ascii	"\244\244u\321U^\302h\220\026\263\251\204\010a\322EL"
@@ -408,7 +408,7 @@
 	.ascii	"]Y\275\346\330Nq)K\361e;w\271Z)\330\245|\274\270V\255"
 	.ascii	"\\\012\320c\032\235\240\221"
 	.text
-	.section	.gnu.lto_disableSimplifiedTuning.5bab6567983bfb88,"e",%progbits
+	.section	.gnu.lto_disableSimplifiedTuning.2ed4218aecb1c907,"e",%progbits
 	.ascii	"x\234\225\220\313k\023Q\024\306\3177gf\222\206\352R"
 	.ascii	"\012E\332\205\032\262i\262p-B\377\201n\\\213\244M\030"
 	.ascii	"h\223\222\352\302\215\275\211\217\022\022\352\246\022"
@@ -437,7 +437,7 @@
 	.ascii	"=\271l\312\351\357\213\244\317\346\262\335\301\327\237"
 	.ascii	"v2\332\024"
 	.text
-	.section	.gnu.lto_.symbol_nodes.5bab6567983bfb88,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.2ed4218aecb1c907,"e",%progbits
 	.ascii	"x\234u\315\273\021\3020\020\004\320]\235$\253\016\027"
 	.ascii	"@\017P\212\033\271+\30196\377\200\026 \243\001\002*"
 	.ascii	"q\354\310\230\221\003f\254\213v\346\355\354%\020\033"
@@ -447,11 +447,11 @@
 	.ascii	"I\002>\303x'\033\211\262\244\312/)\345g\265\244\274"
 	.ascii	"\275\223\224\247\032L\030\334Lu"
 	.text
-	.section	.gnu.lto_.refs.5bab6567983bfb88,"e",%progbits
+	.section	.gnu.lto_.refs.2ed4218aecb1c907,"e",%progbits
 	.ascii	"x\234\343``d\020f```e``Td`\324a`\262``\264b`\274\312"
 	.ascii	"\300\000\000\015.\001\274"
 	.text
-	.section	.gnu.lto_.decls.5bab6567983bfb88,"e",%progbits
+	.section	.gnu.lto_.decls.2ed4218aecb1c907,"e",%progbits
 	.ascii	"x\234\355ZkTT\331\225\256S\247x\025/\005l\351\326$\246"
 	.ascii	"\307\356\225d\246\333\230\3565\311L\346\307\364J'\335"
 	.ascii	"Y\223\316\364J\234\311L\257YS\251.\012\250\004(VU\321"
@@ -793,7 +793,7 @@
 	.ascii	"\337~\313\027\265\004\205AYq\351~\333\0177Q\010k\017"
 	.ascii	"\210L\275\355\177\001\372\\S~"
 	.text
-	.section	.gnu.lto_.symtab.5bab6567983bfb88,"e",%progbits
+	.section	.gnu.lto_.symtab.2ed4218aecb1c907,"e",%progbits
 	.ascii	"applySimplifiedTuningPids\000"
 	.ascii	"\000"
 	.ascii	"\000"

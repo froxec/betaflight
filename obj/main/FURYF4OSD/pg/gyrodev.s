@@ -9,15 +9,15 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"gyrodev.c"
-	.section	.gnu.lto_.profile.948fd804db2437c0,"e",%progbits
+	.section	.gnu.lto_.profile.d9baaa3e1df9b8d9,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.948fd804db2437c0,"e",%progbits
+	.section	.gnu.lto_.icf.d9baaa3e1df9b8d9,"e",%progbits
 	.ascii	"x\234\343``dP`@\000V\206\217+7\334\344f\374\360v\373"
 	.ascii	"#~\2467\177\266\254\345a\006\223,{\037\276kge\000\000"
 	.ascii	"\033X\020\256"
 	.text
-	.section	.gnu.lto_.jmpfuncs.948fd804db2437c0,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.d9baaa3e1df9b8d9,"e",%progbits
 	.ascii	"x\234}\216\275\012\302P\014F\363\335\334\241\016Zq\355"
 	.ascii	"\342\233Z\321\245\010]\035\213\243>\200C\375\335|\001"
 	.ascii	"g\361\005JW\301\3025\271\267\225\342` \031\302I\276"
@@ -29,16 +29,16 @@
 	.ascii	"\363Z\177=\372\301\363\325n3\014\301\214K\373\225}0"
 	.ascii	"}\000\241FF\335"
 	.text
-	.section	.gnu.lto_.inline.948fd804db2437c0,"e",%progbits
+	.section	.gnu.lto_.inline.d9baaa3e1df9b8d9,"e",%progbits
 	.ascii	"x\234\343``dpf@\000F\006\025\353\206\206\206\037L\231"
 	.ascii	"\214\014L>@\326\006\246\014\006\006! \243\201)\215\211"
 	.ascii	"\201\011\244\206\231\007\254\020L1ap\031\000\341\333"
 	.ascii	"\0119"
 	.text
-	.section	.gnu.lto_.pureconst.948fd804db2437c0,"e",%progbits
+	.section	.gnu.lto_.pureconst.d9baaa3e1df9b8d9,"e",%progbits
 	.ascii	"x\234\343``d`a`\000\222\263X\000\001\322\000\255"
 	.text
-	.section	.gnu.lto_pgResetFn_gyroDeviceConfig.948fd804db2437c0,"e",%progbits
+	.section	.gnu.lto_pgResetFn_gyroDeviceConfig.d9baaa3e1df9b8d9,"e",%progbits
 	.ascii	"x\234\235V\373OSw\024\277\347\373mKy\225\202$s![\\\034"
 	.ascii	"1\306\004\352\342~\360\267\355\207\375\007\373i\331"
 	.ascii	"\017[\2303.\023\014\272%K\226y[\252\210\005|\003e\303"
@@ -121,7 +121,7 @@
 	.ascii	"\361\262\245\371\313\227\344\257z-^\2600-N\360\037\230"
 	.ascii	"\205<k"
 	.text
-	.section	.gnu.lto_gyroDeviceConfig_Registry.948fd804db2437c0,"e",%progbits
+	.section	.gnu.lto_gyroDeviceConfig_Registry.d9baaa3e1df9b8d9,"e",%progbits
 	.ascii	"x\234\343``d\220`d`\220b\200\200\351\314\214sW\234\371"
 	.ascii	"\317\331\302\330\324\330\321\320\360\240\273\227y\245"
 	.ascii	"\341|f\206\305\314\230\222\0136]a\234\317\3148\023*"
@@ -137,7 +137,7 @@
 	.ascii	"h\311 \241\247_\\\224\254\237\233\230\231\247_\220\256"
 	.ascii	"\237^Y\224\237\222Z\246\227\314\000\000?pe\004"
 	.text
-	.section	.gnu.lto_.symbol_nodes.948fd804db2437c0,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.d9baaa3e1df9b8d9,"e",%progbits
 	.ascii	"x\234\343``dX\313\000\004LK\031\353\031\032\200\200"
 	.ascii	"\205q\3029\006\206z\006\206]\013\034\201\222@\300\272"
 	.ascii	"\204\221\241U\211A\257 =\276(5=\263\270\244\250\022"
@@ -146,10 +146,10 @@
 	.ascii	"1\3263a\225af`\203X\276\204\221\231\201\025\302la\203"
 	.ascii	"\213>\341\206\213\036\341c\000\000x\2104R"
 	.text
-	.section	.gnu.lto_.refs.948fd804db2437c0,"e",%progbits
+	.section	.gnu.lto_.refs.d9baaa3e1df9b8d9,"e",%progbits
 	.ascii	"x\234\343``d\340f```adbbbfb`ba\000\000\001\361\000+"
 	.text
-	.section	.gnu.lto_.decls.948fd804db2437c0,"e",%progbits
+	.section	.gnu.lto_.decls.d9baaa3e1df9b8d9,"e",%progbits
 	.ascii	"x\234\255X{L\224I\266\377\352\253~\321\274f\321\331"
 	.ascii	"q\207\331\304\335\313\314N\262\031\021\235\335\235\344"
 	.ascii	"f\223\353\250\263;\311\314\215\201\271{7\373\307\022"
@@ -383,7 +383,7 @@
 	.ascii	"H\013u\303\317\024x\206\36047l\2453E\332\366\377S\376"
 	.ascii	"\261Q"
 	.text
-	.section	.gnu.lto_.symtab.948fd804db2437c0,"e",%progbits
+	.section	.gnu.lto_.symtab.d9baaa3e1df9b8d9,"e",%progbits
 	.ascii	"pgResetFn_gyroDeviceConfig\000"
 	.ascii	"\000"
 	.ascii	"\000"

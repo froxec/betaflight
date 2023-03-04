@@ -9,10 +9,10 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"pwm_output_dshot_shared.c"
-	.section	.gnu.lto_.profile.7f7301ab15a07b5b,"e",%progbits
+	.section	.gnu.lto_.profile.d4c4cf86f6e880f1,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.7f7301ab15a07b5b,"e",%progbits
+	.section	.gnu.lto_.icf.d4c4cf86f6e880f1,"e",%progbits
 	.ascii	"x\234\343``d\210f@\000~\206\336\326u\277\371\031\327"
 	.ascii	"\235\3758\237\215i\302\207\363G\270\231\367>|\327\316"
 	.ascii	"\312rv\317\244d\256\237\2476\375\346\341~2\357R3\007"
@@ -21,7 +21,7 @@
 	.ascii	"\206'\034\242\373\026\337\335\317-\326\377\367\375s"
 	.ascii	"^\006\000c\266.\226"
 	.text
-	.section	.gnu.lto_.jmpfuncs.7f7301ab15a07b5b,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.d4c4cf86f6e880f1,"e",%progbits
 	.ascii	"x\234\205R=K\003A\024|\263os\336\305/D\305b\033{A\362"
 	.ascii	"\013\215$\225 )\325F\016\264\022A;\013?c\004\261\266"
 	.ascii	"\012\202i\323\030Rj\221\020\337f\327\345>B\\xw\273\263"
@@ -40,7 +40,7 @@
 	.ascii	"\3057\252g\352\327\004Y\367In\310|\323\317\335\265\376"
 	.ascii	"\005\230\254\276\016"
 	.text
-	.section	.gnu.lto_.inline.7f7301ab15a07b5b,"e",%progbits
+	.section	.gnu.lto_.inline.d4c4cf86f6e880f1,"e",%progbits
 	.ascii	"x\234mP;N\303@\024\234}o!\006'\221B\002\025\005\007"
 	.ascii	"\340\014p\003\027\034\201DV>=%\302\025JgA\3452\015\022"
 	.ascii	"\015\024\010$\240\202\206&R$\232\270@Jm\250(\020\025"
@@ -58,12 +58,12 @@
 	.ascii	"4\000\255\010\032Rw\276\343*\032\3118zg\177\341\333"
 	.ascii	"qm\022]\334\330\252\177\035\363\036\370\002\007Ep\036"
 	.text
-	.section	.gnu.lto_.pureconst.7f7301ab15a07b5b,"e",%progbits
+	.section	.gnu.lto_.pureconst.d4c4cf86f6e880f1,"e",%progbits
 	.ascii	"x\234\343``d\220a``\340dhea\232\305\302\325\300\302"
 	.ascii	"=\203\205o\026\213\340\014\026\341\026\026\221\031,"
 	.ascii	"\242-,\000S\002\005\316"
 	.text
-	.section	.gnu.lto_decodeTelemetryPacket.7f7301ab15a07b5b,"e",%progbits
+	.section	.gnu.lto_decodeTelemetryPacket.d4c4cf86f6e880f1,"e",%progbits
 	.ascii	"x\234\215WiPTW\026~\347\335\327\333\353\005w\215\250"
 	.ascii	"\240B\001\"\213\250q\313T\315\374\311\357\251\232\232"
 	.ascii	"\244\246j\252,\003X\241F%\303\222\311\217T\345\201\330"
@@ -181,7 +181,7 @@
 	.ascii	"\274\261cWz\"\331\225\270Gy+)-\325\230\274\213{t\357"
 	.ascii	"R\013IJB\322\316\235\377\003\302\034\245)"
 	.text
-	.section	.gnu.lto_decode.11261.7f7301ab15a07b5b,"e",%progbits
+	.section	.gnu.lto_decode.11261.d4c4cf86f6e880f1,"e",%progbits
 	.ascii	"x\234M\222MO\032Q\024\206\3470\310\207\"~\364\313Jm"
 	.ascii	"\177Cu\345\306\377\345\216\322\204\272\240\306h\242"
 	.ascii	"Qc\201XML5\255\033H\034\025\205\212Vl\301*\330VD\024"
@@ -209,7 +209,7 @@
 	.ascii	"\202/`\007l\203\264\344[R?\203\024H\202M\260!\353\011"
 	.ascii	"\260\016\326\300*0x]\243\032\365kw\026\017\031p"
 	.text
-	.section	.gnu.lto_pwmStartDshotMotorUpdate.part.0.7f7301ab15a07b5b,"e",%progbits
+	.section	.gnu.lto_pwmStartDshotMotorUpdate.part.0.d4c4cf86f6e880f1,"e",%progbits
 	.ascii	"x\234\235XiP\325\327\025\377\237{\337\276\262\271\260"
 	.ascii	"\250\330\224\266\256\240\306\304\330t&\037\323\316t"
 	.ascii	"\232\231\246\235N\2778\016\322\3124\250\005\264\323"
@@ -358,7 +358,7 @@
 	.ascii	"\317\017f'\377-%\323\210\213\013S\214)s\376\232\222"
 	.ascii	"\361?\336\334\321\307"
 	.text
-	.section	.gnu.lto_getMotorDmaOutput.7f7301ab15a07b5b,"e",%progbits
+	.section	.gnu.lto_getMotorDmaOutput.d4c4cf86f6e880f1,"e",%progbits
 	.ascii	"x\234EP\315+DQ\034\375\235\367{3\036\236\275\232\324"
 	.ascii	"\354d\301\210\354\375'\223\314\224Y\030z3>v\356<#\205"
 	.ascii	"H\221\250\361H\242$\224\205o\317G\212,\260\260Q\212"
@@ -383,7 +383,7 @@
 	.ascii	"\326h[G\272\275#\035\215\245Z\332\322\321TK\223\023"
 	.ascii	"\217\3254S \221\214\305\273\177\001\332T\227\266"
 	.text
-	.section	.gnu.lto_getTimerIndex.7f7301ab15a07b5b,"e",%progbits
+	.section	.gnu.lto_getTimerIndex.d4c4cf86f6e880f1,"e",%progbits
 	.ascii	"x\234\215R\333K\324A\024\2363g~\227\225\335\264\247"
 	.ascii	"\250\355\241\207D\272\356bP/=\370\237\210\250\240\017"
 	.ascii	"\246\254Z\217\215\253t\225\352\301.F?,V\273\320\315"
@@ -431,7 +431,7 @@
 	.ascii	"%\221\362\262\255\245\302\252\253\254*\217@\345OX\033"
 	.ascii	"{\233"
 	.text
-	.section	.gnu.lto_pwmWriteDshotInt.7f7301ab15a07b5b,"e",%progbits
+	.section	.gnu.lto_pwmWriteDshotInt.d4c4cf86f6e880f1,"e",%progbits
 	.ascii	"x\234\215WiLTW\024~\347\3357of`\006P@\226A\241\265\224"
 	.ascii	" \251\240&M\1774\215\377\372\253\351\217\3763i\210\025"
 	.ascii	"\214\244u\011.m\232&>f\200Q6\305\005\034\352d\320\251"
@@ -530,7 +530,7 @@
 	.ascii	"\250\350\313Bu\331\374\005\237\026\256\370\037?\303"
 	.ascii	"\340\204"
 	.text
-	.section	.gnu.lto_pwmStartDshotMotorUpdate.7f7301ab15a07b5b,"e",%progbits
+	.section	.gnu.lto_pwmStartDshotMotorUpdate.d4c4cf86f6e880f1,"e",%progbits
 	.ascii	"x\234mPM+\204Q\024>\317=\227y}\375\202Y\260\225x\225"
 	.ascii	"\245\222\1772\311(\026>\232\031\354\314\365\232\322"
 	.ascii	"Dl|4\213\311\002a\205\215\344\363\025)\261\220\005I"
@@ -554,7 +554,7 @@
 	.ascii	"\304\342nWo{\244\263;\321\325\235\210D\343\255\235\211"
 	.ascii	"H\274\265)\326\022\255i\246\037\366\203\225e"
 	.text
-	.section	.gnu.lto_isDshotMotorTelemetryActive.7f7301ab15a07b5b,"e",%progbits
+	.section	.gnu.lto_isDshotMotorTelemetryActive.d4c4cf86f6e880f1,"e",%progbits
 	.ascii	"x\234MO\277K[a\024\275\347\335\227\370\024\305\265\020"
 	.ascii	"\004\007A\034j\036\272\271\330\265\177E\020\023\320"
 	.ascii	"!F^\242u\363K4\376\300biA\264\303\343)*\355\244qP$\376"
@@ -579,7 +579,7 @@
 	.ascii	"\023\231\241\334\340P.\221\314\366er\211l_\217\227J"
 	.ascii	"\266\367R]:\223\313xo\007\222\251\221'\2749\227\325"
 	.text
-	.section	.gnu.lto_isDshotTelemetryActive.7f7301ab15a07b5b,"e",%progbits
+	.section	.gnu.lto_isDshotTelemetryActive.d4c4cf86f6e880f1,"e",%progbits
 	.ascii	"x\234}S\335KSa\030\177\177\357{v\276\246\005\022\024"
 	.ascii	"\014\302\233.\012r\243\300\233$\202n\352\257\020\311"
 	.ascii	"@/t2g]z\334l%\256\017\313\262\240\271\310\242\204(\203"
@@ -626,7 +626,7 @@
 	.ascii	"T\005\216V\227\035af\235?\350\017\034\3647\325\007Q"
 	.ascii	"\373\007D\240ow"
 	.text
-	.section	.gnu.lto_getDshotTelemetryMotorInvalidPercent.7f7301ab15a07b5b,"e",%progbits
+	.section	.gnu.lto_getDshotTelemetryMotorInvalidPercent.d4c4cf86f6e880f1,"e",%progbits
 	.ascii	"x\234\215T_L[U\030?\277{\356mo\313m\207{0\306\272\204"
 	.ascii	"\027\262\360\340h\266\027\023_L|\222\007\343\233\217"
 	.ascii	"\244\201&#\031\355R\312\364m\207\322t\030\0102\343\306"
@@ -683,7 +683,7 @@
 	.ascii	"u\321X\322r\267\317\306\233cI\1772\236\214\034\262\037"
 	.ascii	"\377\006\276Y\340;"
 	.text
-	.section	.gnu.lto_.symbol_nodes.7f7301ab15a07b5b,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.d4c4cf86f6e880f1,"e",%progbits
 	.ascii	"x\234u\223\315OSQ\020\305\347\334y\257-\024.\202\320"
 	.ascii	"\242\240\324Z\335\020]\262\326\304\377\303\300\302\235"
 	.ascii	"\033\353~\236\261[\215J\215PQD\013\025\004\374@\220"
@@ -712,7 +712,7 @@
 	.ascii	"\315\305\016\342v5Z?0\304\235\207\302\3174\307]\207"
 	.ascii	"\327F\027\246\314N\214\376\002B\313iP"
 	.text
-	.section	.gnu.lto_.refs.7f7301ab15a07b5b,"e",%progbits
+	.section	.gnu.lto_.refs.d4c4cf86f6e880f1,"e",%progbits
 	.ascii	"x\234-\215\313\016\301\000\024\005\347\334\236\253E"
 	.ascii	"K=C\342\321 \210\220X\370i\177\251\013\273\231\315L"
 	.ascii	"\205\370\002\006u\350\214\356\350\265\014\212\002\227"
@@ -722,7 +722,7 @@
 	.ascii	"h\217\270\303'|\3017\374\320\214\271\324/CK2\213UOT"
 	.ascii	"\246J~\237\234\006\363"
 	.text
-	.section	.gnu.lto_.decls.7f7301ab15a07b5b,"e",%progbits
+	.section	.gnu.lto_.decls.d4c4cf86f6e880f1,"e",%progbits
 	.ascii	"x\234\315|\011tT\307\225hWW/ZZ\022\006l\023\343I\234"
 	.ascii	"\304I|\316\037\033\260=\023\347\234\314\234\330`g\370"
 	.ascii	"3$\036\300\231I\376\314gd\251\001\375h!\352\226c\347"
@@ -1383,7 +1383,7 @@
 	.ascii	"N\320\320\336\315k\337N\232-\371~C\206v\037oqJ\253\361"
 	.ascii	"\363\326\321A\353\015\030\237\377/\002~\242$"
 	.text
-	.section	.gnu.lto_.symtab.7f7301ab15a07b5b,"e",%progbits
+	.section	.gnu.lto_.symtab.d4c4cf86f6e880f1,"e",%progbits
 	.ascii	"inputStampUs\000"
 	.ascii	"\000"
 	.ascii	"\000"

@@ -5011,5 +5011,5 @@ extern uint8_t __config_end;
 
 const char * const targetName = "FURYF4OSD";
 const char * const shortGitRevision = "norevision";
-const char * const buildDate = "Mar  3 2023";
-const char * const buildTime = "22:51:04";
+const char * const buildDate = "Mar  4 2023";
+const char * const buildTime = "15:09:20";

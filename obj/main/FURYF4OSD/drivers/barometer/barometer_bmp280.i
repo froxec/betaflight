@@ -6179,7 +6179,7 @@ _Bool
 
     if ((dev->bus->busType == BUS_TYPE_I2C) && (dev->busType_u.i2c.address == 0)) {
 
-        dev->busType_u.i2c.address = (0x76);
+        dev->busType_u.i2c.address = (0x77);
         defaultAddressApplied = 
 # 160 "./src/main/drivers/barometer/barometer_bmp280.c" 3 4
                                1

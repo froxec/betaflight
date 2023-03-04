@@ -9,14 +9,14 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"sensor_alignment.c"
-	.section	.gnu.lto_.profile.fda962560741d2ae,"e",%progbits
+	.section	.gnu.lto_.profile.3772fad1f8ec1ab0,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.fda962560741d2ae,"e",%progbits
+	.section	.gnu.lto_.icf.3772fad1f8ec1ab0,"e",%progbits
 	.ascii	"x\234\343``d\020f@\000f\206\233\217\246\265s06\277\231"
 	.ascii	"d\315\264x\311\307\035\234\014\000S\360\0108"
 	.text
-	.section	.gnu.lto_.jmpfuncs.fda962560741d2ae,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.3772fad1f8ec1ab0,"e",%progbits
 	.ascii	"x\234mN\273\015\302@\024\263\317\217S\272\014\220\015"
 	.ascii	"\0302\024\364i#\252\033#\0224\364\024l\300\012,\200"
 	.ascii	"\024|\020%\005X\262\364\364,\177\032\0207l\020\022\251"
@@ -26,7 +26,7 @@
 	.ascii	"\260\253\214\236?\2655\210\313\256\370\263\313\236-"
 	.ascii	"~\366\375\006#\2360\374"
 	.text
-	.section	.gnu.lto_.inline.fda962560741d2ae,"e",%progbits
+	.section	.gnu.lto_.inline.3772fad1f8ec1ab0,"e",%progbits
 	.ascii	"x\234UP\241N\003Q\020\234\331}\327.\344H. *0\375\224"
 	.ascii	"\252\312\373\0108(\016\276\200<\202\"!\315\011\022$"
 	.ascii	"\225\310\252\012H\240\012\317\017\240q\030\360\354{"
@@ -41,11 +41,11 @@
 	.ascii	"\011\302\367\355\373\235\036\033&\366\027bl\220\266"
 	.ascii	"\366\237\370\005M,C\265"
 	.text
-	.section	.gnu.lto_.pureconst.fda962560741d2ae,"e",%progbits
+	.section	.gnu.lto_.pureconst.3772fad1f8ec1ab0,"e",%progbits
 	.ascii	"x\234\343``d\340b```f\230\305\3028\223\205i\006\013"
 	.ascii	"\000\012\225\001\361"
 	.text
-	.section	.gnu.lto_buildAlignmentFromStandardAlignment.part.0.fda962560741d2ae,"e",%progbits
+	.section	.gnu.lto_buildAlignmentFromStandardAlignment.part.0.3772fad1f8ec1ab0,"e",%progbits
 	.ascii	"x\234eTAlTU\024}\347\337?\177\376Lg:\003\205\0063\033"
 	.ascii	"\0266\265\202\264\322\030t\247\254\\\272po\232\006M"
 	.ascii	"\023\333&\014\013w\374i'3\204B%\006mk\030\006%\003H"
@@ -103,7 +103,7 @@
 	.ascii	"=\273\266t\252\204\301^\251B\221\332b\274\346m\357\332"
 	.ascii	"\225\266;\336\351J\377\007\005Z\345I"
 	.text
-	.section	.gnu.lto_buildRotationMatrixFromAlignment.fda962560741d2ae,"e",%progbits
+	.section	.gnu.lto_buildRotationMatrixFromAlignment.3772fad1f8ec1ab0,"e",%progbits
 	.ascii	"x\234\235S[KTQ\024\336\353\354s\346\342\350\030\326"
 	.ascii	"\203`\222/b\366\240\323[\322K\276\004\375\212\020\021"
 	.ascii	"\021\234\031P\337\3353N^2\246\233\242\223\014c\232\250"
@@ -149,7 +149,7 @@
 	.ascii	"\033KI%N{\211\273,\257\254\310\355\312u\025\026\027"
 	.ascii	"\224\376\001\365\240\321\033"
 	.text
-	.section	.gnu.lto_buildAlignmentFromStandardAlignment.fda962560741d2ae,"e",%progbits
+	.section	.gnu.lto_buildAlignmentFromStandardAlignment.3772fad1f8ec1ab0,"e",%progbits
 	.ascii	"x\234E\221MkSA\024\206\317;g\346z\023Z\\\271\220\273"
 	.ascii	"\260\013%v\323\210n\\\332?\340_\220\022\212\024\314"
 	.ascii	"\0154\3563\211)\251T\242\202\222v\021.\210\332.\004"
@@ -177,7 +177,7 @@
 	.ascii	"\207\027G\012t0\315\215\356\2452\375\303\177\300I\267"
 	.ascii	"\333"
 	.text
-	.section	.gnu.lto_.symbol_nodes.fda962560741d2ae,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.3772fad1f8ec1ab0,"e",%progbits
 	.ascii	"x\234\343``dX\311\000\004L]\214\365\014\015@\300\310"
 	.ascii	"8\341\034\003C=\003\343\316\226\203\015\012@i\220d\033"
 	.ascii	"c=#H\222\005*\311\260\253\301\021*\325\316X\317\324"
@@ -186,10 +186,10 @@
 	.ascii	"\026\210\225K\330\231\231\030@*\031\030\223\030\000"
 	.ascii	"w\3737i"
 	.text
-	.section	.gnu.lto_.refs.fda962560741d2ae,"e",%progbits
+	.section	.gnu.lto_.refs.3772fad1f8ec1ab0,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.decls.fda962560741d2ae,"e",%progbits
+	.section	.gnu.lto_.decls.3772fad1f8ec1ab0,"e",%progbits
 	.ascii	"x\234\215WiPT\331\025\276\347\275\336h\240]\240f\254"
 	.ascii	"0I9\006\255\251\244\260\321\230e\222\3112\225T\222?"
 	.ascii	"N\245&\225T\234\374 -\266B\025\335M\272\2338\223\037"
@@ -337,7 +337,7 @@
 	.ascii	"\306lt S\353:\232\020?\036h\023\260\214~\026\345\374"
 	.ascii	"\037\330\241\266\003"
 	.text
-	.section	.gnu.lto_.symtab.fda962560741d2ae,"e",%progbits
+	.section	.gnu.lto_.symtab.3772fad1f8ec1ab0,"e",%progbits
 	.ascii	"buildRotationMatrixFromAlignment\000"
 	.ascii	"\000"
 	.ascii	"\000"

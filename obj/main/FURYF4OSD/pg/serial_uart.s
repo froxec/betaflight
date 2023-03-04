@@ -9,27 +9,27 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"serial_uart.c"
-	.section	.gnu.lto_.profile.6078d2a1cad88a66,"e",%progbits
+	.section	.gnu.lto_.profile.29254531dc6ab56c,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.6078d2a1cad88a66,"e",%progbits
+	.section	.gnu.lto_.icf.29254531dc6ab56c,"e",%progbits
 	.ascii	"x\234\343``dPc@\0006\206\2573\367\336`b|\366\344\356"
 	.ascii	"\177n\246\225\367\346\376dg~\364\263k\015?\013\230d"
 	.ascii	"\335\373\360];+\003\000\212s\023\227"
 	.text
-	.section	.gnu.lto_.jmpfuncs.6078d2a1cad88a66,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.29254531dc6ab56c,"e",%progbits
 	.ascii	"x\234\343``d\340b@\000F\006FF\306\372\371\314\014\014"
 	.ascii	"\000\006\375\0019"
 	.text
-	.section	.gnu.lto_.inline.6078d2a1cad88a66,"e",%progbits
+	.section	.gnu.lto_.inline.29254531dc6ab56c,"e",%progbits
 	.ascii	"x\234\343``dPe@\000F\006\006\221_s\232?0e220)\001Y/"
 	.ascii	"\2302\031\030\330Z\033\032\032\230R\230\030\230\300"
 	.ascii	"\212\000\340u\011\276"
 	.text
-	.section	.gnu.lto_.pureconst.6078d2a1cad88a66,"e",%progbits
+	.section	.gnu.lto_.pureconst.29254531dc6ab56c,"e",%progbits
 	.ascii	"x\234\343``d`a`\000\222\263X\000\001\322\000\255"
 	.text
-	.section	.gnu.lto_pgResetFn_serialUartConfig.6078d2a1cad88a66,"e",%progbits
+	.section	.gnu.lto_pgResetFn_serialUartConfig.29254531dc6ab56c,"e",%progbits
 	.ascii	"x\234\245T]O\234E\024\236\347\235\367k\267@\255\251"
 	.ascii	"\306@\023{!\326&\0066\365\246\027^\370O\014AD\022\255"
 	.ascii	"\206\252WM\031vq1J\261\306\326\002\351fi\311\326Z\213"
@@ -89,7 +89,7 @@
 	.ascii	"\215\262\352\327K\312\205[\376\352\256\027\253*Q\345"
 	.ascii	"\276P\361fUy\305\237\354\3229\207"
 	.text
-	.section	.gnu.lto_uartDmaopt.6078d2a1cad88a66,"e",%progbits
+	.section	.gnu.lto_uartDmaopt.29254531dc6ab56c,"e",%progbits
 	.ascii	"x\234\343``d\370\300\300\000$!`:3\343\333c3\347\263"
 	.ascii	"\3641\317gf`\254\007r\347\336}\377\212\021\304edd\005"
 	.ascii	"r\017\276\332z\226\305r{C\307\202\006\203\371\314L3"
@@ -100,7 +100,7 @@
 	.ascii	"\271\227\021\216da4\224f<\310h\311h$\315\270\037H\355"
 	.ascii	"e\224f\334\303h\311\300x\010H\000\000|\217J\036"
 	.text
-	.section	.gnu.lto_serialUartConfig_Registry.6078d2a1cad88a66,"e",%progbits
+	.section	.gnu.lto_serialUartConfig_Registry.29254531dc6ab56c,"e",%progbits
 	.ascii	"x\234\343``d\220`d`\220c\200\200\351\314\214sW\234\371"
 	.ascii	"\317\331\302\330\324\330\321\320\360\240\373\234P\027"
 	.ascii	"\363|f\206\305\314\230\222\0136]a\234\317\3148\023*"
@@ -116,18 +116,18 @@
 	.ascii	"\242d\375\334\304\314<\375\202t\375\342\324\242\314"
 	.ascii	"\304\234\370\322\304\242\022\275d\006\000Z\313e\214"
 	.text
-	.section	.gnu.lto_.symbol_nodes.6078d2a1cad88a66,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.29254531dc6ab56c,"e",%progbits
 	.ascii	"x\234\343``d\010e\000\002\246i\214\365\014k\332>Z0N"
 	.ascii	"8\307\300P\317\300\260k\201#P\016\010X\247224(100\263"
 	.ascii	"NadlUb\320+H\217/JM\317,.)\252\004\312N`djT\002)\233"
 	.ascii	"\310\310\014aLbd\0013\030\000\217\312\022b"
 	.text
-	.section	.gnu.lto_.refs.6078d2a1cad88a66,"e",%progbits
+	.section	.gnu.lto_.refs.29254531dc6ab56c,"e",%progbits
 	.ascii	"x\234\005\301\261\015\0000\010\004\261\373\203H\024"
 	.ascii	"(e\366\0375\366\020\036P\220!Knk\331\342\341\003\006"
 	.ascii	"n\000b"
 	.text
-	.section	.gnu.lto_.decls.6078d2a1cad88a66,"e",%progbits
+	.section	.gnu.lto_.decls.29254531dc6ab56c,"e",%progbits
 	.ascii	"x\234\225WkPT\311\025\276\347\366\000\3030\003\006L"
 	.ascii	"\330\210\225r\267\306G\262Q4n\271\326\306T\255\345V"
 	.ascii	"\222\312\217\244\312\215?\222\037!\004G\240J\220\232"
@@ -270,7 +270,7 @@
 	.ascii	"w>\337n2\033b\326\032\215\341\333\347\271\015\256C+"
 	.ascii	"\330\220{\030\234\363\374\007\000\001P\301"
 	.text
-	.section	.gnu.lto_.symtab.6078d2a1cad88a66,"e",%progbits
+	.section	.gnu.lto_.symtab.29254531dc6ab56c,"e",%progbits
 	.ascii	"pgResetFn_serialUartConfig\000"
 	.ascii	"\000"
 	.ascii	"\000"

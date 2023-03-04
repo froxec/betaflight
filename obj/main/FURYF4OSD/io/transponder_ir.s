@@ -9,32 +9,32 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"transponder_ir.c"
-	.section	.gnu.lto_.profile.c1c7b36b4aa682a5,"e",%progbits
+	.section	.gnu.lto_.profile.dfdc69bd8c9177cc,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.c1c7b36b4aa682a5,"e",%progbits
+	.section	.gnu.lto_.icf.dfdc69bd8c9177cc,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.jmpfuncs.c1c7b36b4aa682a5,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.dfdc69bd8c9177cc,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.inline.c1c7b36b4aa682a5,"e",%progbits
+	.section	.gnu.lto_.inline.dfdc69bd8c9177cc,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.pureconst.c1c7b36b4aa682a5,"e",%progbits
+	.section	.gnu.lto_.pureconst.dfdc69bd8c9177cc,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.symbol_nodes.c1c7b36b4aa682a5,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.dfdc69bd8c9177cc,"e",%progbits
 	.ascii	"x\234\343``d`b\000\001\000\000n\000\014"
 	.text
-	.section	.gnu.lto_.refs.c1c7b36b4aa682a5,"e",%progbits
+	.section	.gnu.lto_.refs.dfdc69bd8c9177cc,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.decls.c1c7b36b4aa682a5,"e",%progbits
+	.section	.gnu.lto_.decls.dfdc69bd8c9177cc,"e",%progbits
 	.ascii	"x\234\343``d\000\001\020\251\002\304\377\201\000\304"
 	.ascii	"\276\310@\000\000\000\3015\004\375"
 	.text
-	.section	.gnu.lto_.symtab.c1c7b36b4aa682a5,"e",%progbits
+	.section	.gnu.lto_.symtab.dfdc69bd8c9177cc,"e",%progbits
 	.text
 	.section	.gnu.lto_.opts,"e",%progbits
 	.ascii	"'-fno-openmp' '-fno-openacc' '-fno-pie' '-mthumb' '"

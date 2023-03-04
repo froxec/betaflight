@@ -9,10 +9,10 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"ledstrip.c"
-	.section	.gnu.lto_.profile.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_.profile.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_.icf.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\343``d`fb\200\2030\206\315\215s~\3622\336\270"
 	.ascii	"\272\321\232i\357\303w\355\254\314\223\266/\276\313"
 	.ascii	"\314\002&Y\301$\033\230d\007\223\034\363;N\277a\343"
@@ -42,7 +42,7 @@
 	.ascii	"\350<\313\026\001\212\335H\260\302\250U]\017\327rE\203"
 	.ascii	"\343 \006,\302\000\000\243g\021<"
 	.text
-	.section	.gnu.lto_.jmpfuncs.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\315W\333K\024Q\030\377\276s\246\331qwu\266\213"
 	.ascii	"\275\010\261\006\026\210\004I\221He\017](\212z\250\376"
 	.ascii	"\200\036{\015_\335\311\010\0023\002\323n\324\012>\024"
@@ -100,7 +100,7 @@
 	.ascii	"\272\002[\000\266\212\036\243`\026U\226\024U\226\027"
 	.ascii	"\355\260\337\225\360\007\001\377DL"
 	.text
-	.section	.gnu.lto_.inline.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_.inline.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\255V[L\234E\024>3\363/\374\\\026\226\250\304\226"
 	.ascii	"\250kc\221\360`\225hl\032\322\362Po\215\256>\250\317"
 	.ascii	"\310\035JS\036}2[\024\261\230l7\\D\242P\312\305B\252"
@@ -179,7 +179,7 @@
 	.ascii	"0B\211Ss\210\323C\241\272\033\002\221\226\373Q*\001"
 	.ascii	"\207\377\000\271\242\221\206"
 	.text
-	.section	.gnu.lto_.pureconst.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_.pureconst.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\005\301=\016\001\001\024\205\321'\371\212\241"
 	.ascii	"@\245\321I\220L!!\204\210\240\360\023B(\260\021[0{\270"
 	.ascii	"\357\256d\226\347\234\"\032\361\215\210Q$EE\323\264"
@@ -187,7 +187,7 @@
 	.ascii	"\263\024+\263N6f+vbo\016\025\307\344Ts6\027q57q\027"
 	.ascii	"\017\361\024/\361\376\361\021\177\315\250\037\201"
 	.text
-	.section	.gnu.lto_updateDimensions.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_updateDimensions.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\215VYS\024W\024\276\247oO\317>,\356\014\010y0"
 	.ascii	"U\306\010\210\242\030S\251\274\346\037hU^\214Z\221\252"
 	.ascii	"hR\232\007}\262\005\004\023\334\312\030\025+\355hM\022"
@@ -279,7 +279,7 @@
 	.ascii	"\362\305KV\251\270X@b\376\253\034,e\377\003\241k\373"
 	.ascii	"\021"
 	.text
-	.section	.gnu.lto_getLedQuadrant.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_getLedQuadrant.ce088ca722866551,"e",%progbits
 	.ascii	"x\234uT\355OSg\024\177\316=\267\367\315\226\"\276\315"
 	.ascii	"t\037\3700bt\213\020\215\331\327}[\366g\0301\031\211"
 	.ascii	"\270\2513\321O<\264\304F\312\030a\023Y\227\233\3164"
@@ -338,7 +338,7 @@
 	.ascii	"N\266|\270\377\210\260\310~\357x\363\3213\372\211\323"
 	.ascii	"\207\233\341,\234\371?\354\373\342?\"\321$\255"
 	.text
-	.section	.gnu.lto_pgResetFn_ledStripConfig.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_pgResetFn_ledStripConfig.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\235\324\337K\024Q\024\007\360\363\235\273;3k\376"
 	.ascii	"\010\202~Y\344C \366\340.\275\007A\177B\177A\330\017"
 	.ascii	"\026JC{wv\323l]1\010\305\014\226\331\224\351\327\203"
@@ -377,7 +377,7 @@
 	.ascii	"-\243|\036\037\224\343\003\025\345G\303\307\376\000"
 	.ascii	"K\013\252\201"
 	.text
-	.section	.gnu.lto_pgResetFn_ledStripStatusModeConfig.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_pgResetFn_ledStripStatusModeConfig.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\225\224]L\\E\024\307\347\177\317\354\007\313\307"
 	.ascii	"\242V\334v\033\323\2304M\215\001Bbb\342\203&>\371\340"
 	.ascii	"S\237}h\000\015Ie\015`\342\203\261\303B!Z\254M\241i"
@@ -435,7 +435,7 @@
 	.ascii	"\246\355m5\333k\336\251~-TV\376J\250\362\215\2127}\245"
 	.ascii	"\241\035\241\252W+\313\312\337\375\007a\274F\353"
 	.text
-	.section	.gnu.lto_hsv.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_hsv.ce088ca722866551,"e",%progbits
 	.ascii	"x\234}\223kK\033A\024\206\367\354\304\330\246\232\374"
 	.ascii	"\200\005\177C\253P\010\364\307\205X\202%\032\304\266"
 	.ascii	"&\261\324\244\364\206`K\025\333\240k\2526u\343%5\032"
@@ -465,7 +465,7 @@
 	.ascii	"`\237A\005`\015q\025\314\203\026\370\036\314\201K\340"
 	.ascii	"\"\370\026\314RP\243\217X\376\001\363\367K\357"
 	.text
-	.section	.gnu.lto_defaultModeColors.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_defaultModeColors.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\343``dp`d`Pa\200\200\351\314\214\327Voy\305\257"
 	.ascii	"\3104\277\201c>3X`\346\207#Sx-\2677t,h\020\230\317\314"
 	.ascii	"8\203\231\201q\027\243\"H\346^\323\334\037<}\314\363"
@@ -481,14 +481,14 @@
 	.ascii	"\334\314\274\\\314l\034\334, \212\013B\261B\004\031"
 	.ascii	"\271\231\200\024\000\232\274h\006"
 	.text
-	.section	.gnu.lto_defaultSpecialColors.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_defaultSpecialColors.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\343``d\360d``\340f\200\200\351\314\214\253\377"
 	.ascii	"Ol\343Pd\232\337\3001\237\031,pe\376\366\305\214\226"
 	.ascii	"\333\033:\0264\010\314gf\234\301\314\300\270\213Q\021"
 	.ascii	"$sw\361\205G\\p\031&FCi\306\335\214\226\014\214{\200"
 	.ascii	"\004'\033\027#\003\003\0233\033\003\000\324.\030\\"
 	.text
-	.section	.gnu.lto_updateLedCount.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_updateLedCount.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\225U\353OTW\020?s\347\356}\261\274c\303KY\232"
 	.ascii	"\360\001\232\210\3214i\323\246\266\377\202\375\013\014"
 	.ascii	"5-I\213\015\332\017m\322xY\0104EAA^\261\267\013],5\006"
@@ -559,7 +559,7 @@
 	.ascii	"S*;\012\012\337\364I\351\337ho\211\177\000\342\207\213"
 	.ascii	"\337"
 	.text
-	.section	.gnu.lto_applyLedHsv.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_applyLedHsv.ce088ca722866551,"e",%progbits
 	.ascii	"x\234eS[KTQ\024\336\337Y\347\346\\,{*\364\301\"\021"
 	.ascii	"+\034\261\227\036}\355g\224\012I\245\241A\275\271\035"
 	.ascii	"/\223\215iE\267\001\247#\230)De!D\345\324\2446eW3\251"
@@ -601,7 +601,7 @@
 	.ascii	"\252&\264\247\262\242n\177m\325\276\342ra\356\335Q\267"
 	.ascii	"\333*\257\331SS\353rz{uE\345\301?:FP\313"
 	.text
-	.section	.gnu.lto_applyLedWarningLayer.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_applyLedWarningLayer.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\225\230\353STG\026\300\357\271=\357'of\030@kM"
 	.ascii	"b\305\335\212V\254Jj\367Sj\367\323~\331\377\301WmQ\225"
 	.ascii	"h\312\270\225\217\271<\034\344-D@\300q\220\021\025M"
@@ -733,7 +733,7 @@
 	.ascii	"c\315\227\306uy\237\255Z\353\370r\331\332\325y\253\377"
 	.ascii	"\371\2675\237\256Yk\2257\177_\371?\246,X\227"
 	.text
-	.section	.gnu.lto_applyLedGpsLayer.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_applyLedGpsLayer.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\215W\353WTU\024?\373\234y\277`\006+Y\230a\211"
 	.ascii	"\010\265\222\250/}s\255\276\266\352o(u\265hU\272\320"
 	.ascii	"V_Z\253\313\200\242`\212\005\214T\343\220\243\206/4"
@@ -843,7 +843,7 @@
 	.ascii	"\035\353\212\2227\227\224:^[\266\374\205\245o,-\375"
 	.ascii	"\037E\367\314\224"
 	.text
-	.section	.gnu.lto_applyLedVtxLayer.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_applyLedVtxLayer.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\215Y{P\225\327\265\377\326\336\347\3119\207\207"
 	.ascii	"<\345 \357\207\340s\322\333Nmo\347f&\367\316\2643\231"
 	.ascii	"\336i\377\275\223\316\344*\255\334\246\232I\354c\356"
@@ -1043,7 +1043,7 @@
 	.ascii	">\275Z\270\340\225\305\177\\\264\004\212\"\204\301/"
 	.ascii	"\026-(\374\313\213\274,\324\376\005\243\200\254\211"
 	.text
-	.section	.gnu.lto_applyLedThrustRingLayer.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_applyLedThrustRingLayer.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\215W\351WU\327\025\277\373\236\373\346\211\007"
 	.ascii	"\250L*\326\246$\016\201B\320h\234V\363\251\037\332\017"
 	.ascii	"\375\017lt5\254e\224E\354J\373\245\271<&\005\202CQ\204"
@@ -1164,7 +1164,7 @@
 	.ascii	"\205uk~\376\216?\276\272k\307\256\002K\001\236\362\325"
 	.ascii	"\217)}]\371/\350?\345\307"
 	.text
-	.section	.gnu.lto_applyLarsonScannerLayer.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_applyLarsonScannerLayer.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\225X\371S\324G\026\377\276\356\271O\030 \212\210"
 	.ascii	"\222D\304\023Pc\024\257M\325\326\326n\252R\371\037,"
 	.ascii	"%\033\253\242\246\324\255M\325\376\340p\010\212\307"
@@ -1297,14 +1297,14 @@
 	.ascii	"\374\334\317`\201\001\245\377\272\370\223\305Kt\213"
 	.ascii	"?\372hi\356\262\201l}\254\374\037\335\317\003\352"
 	.text
-	.section	.gnu.lto_larsonParameters.15882.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_larsonParameters.15882.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\343``d\210d`\000\222\0200\235\231q_\317\205\323"
 	.ascii	"\314}\314\363\231\031\030\031\201\334\343\357\337^a"
 	.ascii	"\204p\031\220\271\214`nOW\343qV\313\355\015\035\013"
 	.ascii	"\032\014\34633\315\000\252\332\303(=\003(\273\033D1"
 	.ascii	"1\356b\224f`\334\313h\311\000\000\232s\033\351"
 	.text
-	.section	.gnu.lto_applyLedFixedLayers.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_applyLedFixedLayers.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\235ZyT\224G\266\377\356W\275\32144 (\210[\242"
 	.ascii	"&q_\262L65\211\311\0379s2s\336\314\274993\231\223\223"
 	.ascii	"\030\035\235\311K\3624\311\361\371\2227\015(\"\240\270"
@@ -1591,7 +1591,7 @@
 	.ascii	"\034?;}\236z\214n\366<\256\331\363\267-\351=Z\373_e"
 	.ascii	"\214\244\253"
 	.text
-	.section	.gnu.lto_flightModeToLed.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_flightModeToLed.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\343``dX\306\310\000$!`:3\343\361\367o\2570\366"
 	.ascii	"1\317g\006\012\"s\031\301\334?\1776\237\347\266\334"
 	.ascii	"\336\320\261\240Aa>3\323\014\240\252\335\214\3223\200"
@@ -1608,7 +1608,7 @@
 	.ascii	"\004\220:\312(\315x\004H\037\004\322\007\200\364^ \275"
 	.ascii	"\207\321\222\201\361\014\220\000\000y\260\205\212"
 	.text
-	.section	.gnu.lto_applyStatusProfile.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_applyStatusProfile.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\215VYL\224W\024\276\347\277\363\317\374\2631\254"
 	.ascii	"\255\026D\250\250\2216B5\266i\322\007\373\330\227>\370"
 	.ascii	"\326G\243$\222\0240J\353S\343\017\303R\031D\252#8\306"
@@ -1698,7 +1698,7 @@
 	.ascii	"m&\231\266\315\374\325\326\315\033\263\323>\317\332"
 	.ascii	"\021\352\275)+##+3\205,Voa\377\003@\035{f"
 	.text
-	.section	.gnu.lto_layerTable.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_layerTable.ce088ca722866551,"e",%progbits
 	.ascii	"x\234e\320=K\303@\000\306\361{rMZA\335%\203\337\240"
 	.ascii	"A\235\372q\244:\004|\243\355\007HC\221\202P\252\203"
 	.ascii	"%Ci\244\016\016.\342\0200\326\2326\365\005\004'\335"
@@ -1715,7 +1715,7 @@
 	.ascii	"\233\340\031%\262Rt\252\225\262\263\273\351\3569\356"
 	.ascii	"\276\263\263\275U\255U\334\203b\231\374\003ib\243\222"
 	.text
-	.section	.gnu.lto_applySimpleProfile.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_applySimpleProfile.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\215W}PT\327\025\277\347\335\367\366{Y>v\005D\023"
 	.ascii	"\332\210_X%\266\323\231\316t\332L\377J\246\231i\377"
 	.ascii	"h\376\355\214\225uJk4\305$\323\377\362X\026\020\026"
@@ -1846,7 +1846,7 @@
 	.ascii	"W\275\271\266\225kW\257\315\177eM\256\367\237\026a\216"
 	.ascii	"\026\377\007\353\001\273k"
 	.text
-	.section	.gnu.lto_applyLedBatteryLayer.part.0.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_applyLedBatteryLayer.part.0.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\215\224]LTW\020\307\317\377\316\335e\227.\264"
 	.ascii	"\372\244Y\037H\032bH\014\273\305'M\037\372\340s\343"
 	.ascii	"K\343k)\022C\342W\000\323\364\211\303\272\202\202\261"
@@ -1896,7 +1896,7 @@
 	.ascii	"rk\3717_\324\004w\355\334\\^[\371\371\216\257}\306M"
 	.ascii	"_m\251\370\007^\256\304\375"
 	.text
-	.section	.gnu.lto_applyLedBatteryLayer.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_applyLedBatteryLayer.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\225\224\337O\\E\024\307\347\334\271?\327\273\030"
 	.ascii	"\023jb\326\230&\265\222\032\2634\361\301\276\230\370"
 	.ascii	"\340\263o\376\001\244`B\322\332\0060\306\370\300\354"
@@ -1956,7 +1956,7 @@
 	.ascii	"\232\312\303\025U\266h_\2578T\366\336\233\325\177\001"
 	.ascii	"\370.Mw"
 	.text
-	.section	.gnu.lto_applyLedBlinkLayer.part.0.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_applyLedBlinkLayer.part.0.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\215V}LSW\024\277\347\335\327\327\017Z\374\230"
 	.ascii	"N\035K$Y\234\321-BX\2268]\324e\377\273\375\271\177\235"
 	.ascii	"\262\255\231\242A\314\376\364Qj\021p\002\"\002\272Z"
@@ -2043,7 +2043,7 @@
 	.ascii	"\334\034p\333Q\370\361\372\234/\334_\276L\321W\354?"
 	.ascii	"%^n\355"
 	.text
-	.section	.gnu.lto_applyLedBlinkLayer.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_applyLedBlinkLayer.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\215T[KTQ\024\336\337\331\34766\032R\0205=\364"
 	.ascii	"\220IV*\364\022\024\321/\350?\204\3710\320\0153zt;c"
 	.ascii	"\212:i\204Wh\032k\020\213\202.\210X\231\236\232n\246"
@@ -2090,7 +2090,7 @@
 	.ascii	"<\346;rh\357\236\302\374\335\007\217\032\205\301\375"
 	.ascii	"\371\005\010\376\001\312\205\244\027"
 	.text
-	.section	.gnu.lto_applyLedRssiLayer.part.0.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_applyLedRssiLayer.part.0.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\215\224\333O\\U\024\306\367w\326\231a\006\001"
 	.ascii	"\255O\232\361\201\304\020\322\304t\246\370`\322\304"
 	.ascii	"\204\030\237\375\037\020\210!im\003\030\365\251\233"
@@ -2145,7 +2145,7 @@
 	.ascii	"\326\336\367\003f0\320\322\312]z\373\235\372\277\001"
 	.ascii	"\035'\366\272"
 	.text
-	.section	.gnu.lto_applyLedRssiLayer.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_applyLedRssiLayer.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\225\224\333k\\E\034\307\347w\346\334{\262\020"
 	.ascii	"0\024]\221>XC\213t\213}\360\245B\021\237\375\037B\223"
 	.ascii	"\207@kJ\262\">u\262\273t\311\205^0m\032q\263\301CM\243"
@@ -2202,7 +2202,7 @@
 	.ascii	"\264\256\321\225\355;uGj>4\232\342\350\371\007\204\346"
 	.ascii	"+\355"
 	.text
-	.section	.gnu.lto_applyLedIndicatorLayer.part.0.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_applyLedIndicatorLayer.part.0.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\215W\353S\\E\026\357\323}\347\316\235\367\220"
 	.ascii	"\207\312N\262\313\227\370L%TRZ\352n\325\272\345\247"
 	.ascii	"\365\303\376\011ka\202\033\252\"(`\271\373\311\013\303"
@@ -2312,7 +2312,7 @@
 	.ascii	"\323Y\231\317g\374\355\277\355\270\215\320g\237\243"
 	.ascii	"\317\2469r\266\244mO\377\017s/dd"
 	.text
-	.section	.gnu.lto_applyLedIndicatorLayer.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_applyLedIndicatorLayer.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\215T\335OTW\020?s\317\375\332ew!\261\022qI\312"
 	.ascii	"C)\221\266b!M\373\322\244\177A\337\372L(\020C\242\325"
 	.ascii	"\000\215\217\\v\351nY\214J\213\037P\2265\331R?j+&$\205"
@@ -2378,7 +2378,7 @@
 	.ascii	";\240UW\354-\257\324\252JK\366\224+\305%J\361\247\377"
 	.ascii	"\001S\351r\367"
 	.text
-	.section	.gnu.lto_setModeColor.part.0.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_setModeColor.part.0.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\225U_lSU\030?\277s\356\277\336v\362@Hf\352\003"
 	.ascii	"\017\314f<\260\211\341\301?\017$\276\350\233\257>\232"
 	.ascii	"m\211K\200\231\341\203o\234\325\232\331\025g\250\303"
@@ -2438,7 +2438,7 @@
 	.ascii	"\215}\315-\357?#\255\327\332\366\264\265\333G\263\311"
 	.ascii	"37b\277C\376\006kVC\023"
 	.text
-	.section	.gnu.lto_ledStripUpdate.part.0.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_ledStripUpdate.part.0.ce088ca722866551,"e",%progbits
 	.ascii	"x\234uT\337KTA\024\236\357\316\275w\357Z\366\020\004"
 	.ascii	"E=\010&\342\213\333\177\220\320K\177@\321s\230\321B"
 	.ascii	"\277X\355\331\331mKt\305\322\224m\037\266\335\332\244"
@@ -2483,7 +2483,7 @@
 	.ascii	"#\253l<\344\3635\355o\331\346\335\327\264\275\371\177"
 	.ascii	"\270=\354\017\255e\206\220"
 	.text
-	.section	.gnu.lto_generateLedConfig.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_generateLedConfig.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\205W\373STG\026\276\347\366\235;w\356\274\210"
 	.ascii	"kP!\253\246\0241F\304h@\321$&\273U\251\335Jm\355\017"
 	.ascii	"\373\017\304(\256\324\272\222\002I\325\356/\271<\004"
@@ -2609,7 +2609,7 @@
 	.ascii	"\3133\262\322\271%\233aW\316\\\365k\363\255\224\274"
 	.ascii	"\0119\263\023r\026%d\363o\216\364?\215\023 W"
 	.text
-	.section	.gnu.lto_isOverlayTypeUsed.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_isOverlayTypeUsed.ce088ca722866551,"e",%progbits
 	.ascii	"x\234uS]oTU\024=\353\356s\357\334\371*\365\0153&4&\004"
 	.ascii	"QC\033\014$F\023y\325g\377\000\037MhR\201\024c\340\211"
 	.ascii	"\303\264\241\035\012\025\253\264\032\271\014\261\022"
@@ -2658,7 +2658,7 @@
 	.ascii	"\366\267\267oi\014\031\177s\323\206\306m\377G\337\250"
 	.ascii	"\376\0012q\206\331"
 	.text
-	.section	.gnu.lto_updateRequiredOverlay.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_updateRequiredOverlay.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\225\230\373wT\325\025\307\357\276\347\316\314"
 	.ascii	"\235\231;3\231\311\0031Xb *\020\222\000\362\022\344"
 	.ascii	"\351\013|t\365Oh\325\265d\255\326vi\177\350o\016IL\010"
@@ -2771,7 +2771,7 @@
 	.ascii	"\363\007\037x\364\327\217\254\373U\335\375\232\311\363"
 	.ascii	"5\017?\360\340o\212Y\036\322\376\007\305\005\025\257"
 	.text
-	.section	.gnu.lto_reevaluateLedConfig.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_reevaluateLedConfig.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\215\223\337K\223a\024\307\237\363\234\367\327"
 	.ascii	"\346,\360\252\260\013\011v!\202\363\252\253\210\256"
 	.ascii	"\243\177\"\314\013\251\2544\010\272\361u[.J\014\242"
@@ -2816,7 +2816,7 @@
 	.ascii	"\316V]\251,\277T\\\312\264\252\262\313\247\313*\376"
 	.ascii	"\001\371\353\206\036"
 	.text
-	.section	.gnu.lto_parseLedStripConfig.part.0.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_parseLedStripConfig.part.0.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\255XyPUG\326\277}\373\275\307\333x\354\373\276"
 	.ascii	"I\324\030\215&&&:11\211\306\030c&U\363}\337|53e\214"
 	.ascii	"\231Xq4\245\316T\246\352\253\232\207\270!.\210D\204"
@@ -3055,7 +3055,7 @@
 	.ascii	"\254_\323\351KI\2369]\376b\206<\345K\012\312\374?R_"
 	.ascii	"B\330"
 	.text
-	.section	.gnu.lto_parseLedStripConfig.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_parseLedStripConfig.ce088ca722866551,"e",%progbits
 	.ascii	"x\234e\221\317KTQ\024\307\317\367\236;o^\316\330\306"
 	.ascii	"\2151\221.\212A\002'h/\271l\321\037\021\243\305@\215"
 	.ascii	"\241-\332\315\365\315\230\210\242B#\203\213\341\021"
@@ -3083,7 +3083,7 @@
 	.ascii	"\230+\214\344\316\015\017\215]\034-\\\350\317\223/\361"
 	.ascii	"\311\342\320\360%/?R<S8\373\027[\256\246\210"
 	.text
-	.section	.gnu.lto_parseColor.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_parseColor.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\235V\351OTW\024\277\347\335\367f\336\274\231\201"
 	.ascii	"\001\244U\251\211\251\242\321\032!\232\246M\232\246"
 	.ascii	"&~\352\227\366?hB\220Z\022\005\203\266\3517\037\253"
@@ -3181,7 +3181,7 @@
 	.ascii	"\345!\361\311K\227%'%$\255\370\232\260\374\247\270%"
 	.ascii	"\377\002\215\207\322\031"
 	.text
-	.section	.gnu.lto_hsv_limit.15954.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_hsv_limit.15954.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\343``d\210a`\000\222\0200\235\231\361\300\203"
 	.ascii	"\336\237\314}\314\363\231\031\030\3773\002\371mG'\354"
 	.ascii	"\346\005\361\031\031\231\200\334c}\227\337rB\244\237"
@@ -3189,7 +3189,7 @@
 	.ascii	"i\306=\214\322\214F\322\214\273\200\324nF0\315\300\270"
 	.ascii	"\227\321\222\001\000\036\035\035O"
 	.text
-	.section	.gnu.lto_setModeColor.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_setModeColor.ce088ca722866551,"e",%progbits
 	.ascii	"x\234mS\313KTQ\034>\337=\347>\034G[\005\305\264p!\211"
 	.ascii	"-\324\214hY\320\252?#\324\205\344#\264E;\217\243d>0"
 	.ascii	"\362\201\032\215c\230\257M*\250\013M\273\346\243\324"
@@ -3234,7 +3234,7 @@
 	.ascii	"\222\374\353\0319,\241\26087\357JQn\336\315d%]..(.q"
 	.ascii	"T_\316\201\370\027\343Qhq"
 	.text
-	.section	.gnu.lto_ledStripEnable.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_ledStripEnable.ce088ca722866551,"e",%progbits
 	.ascii	"x\234]P;K\003a\020\234\271=\343E\260\263\021\261\264"
 	.ascii	"\210E\356/\370W$Z\004|\221\330\347\313\003\202\234$"
 	.ascii	" HHP\016\011b\254D\020\301\367aae\021\224\330\010\022"
@@ -3254,7 +3254,7 @@
 	.ascii	"g\223Knr\331]\230\237K\257\246\222+\361\004~\000\356"
 	.ascii	"<k-"
 	.text
-	.section	.gnu.lto_ledStripDisable.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_ledStripDisable.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\215\222\337K\024Q\024\307\317w\316\3568\273\265"
 	.ascii	"f>D\021\201\257\012\271\342?\220\177C\177@\020\326\303"
 	.ascii	"B\277\320\336\275\273n\030X\026\302\242\013\311,\014"
@@ -3286,7 +3286,7 @@
 	.ascii	"\350L\366\367\365&O\037O\235I\246\316&O\235<\321\177"
 	.ascii	"\276/u\256\263\2276\001\013\245\006%"
 	.text
-	.section	.gnu.lto_ledStripInit.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_ledStripInit.ce088ca722866551,"e",%progbits
 	.ascii	"x\234u\222Kk\023Q\024\307\357\177n\222N\333\264\325"
 	.ascii	"X\005\021\241\333v\321\364#\370\005\334\010~\000\251"
 	.ascii	"]\004|\321\272\357m\022\210\244\265\212(1h\230\300 "
@@ -3319,7 +3319,7 @@
 	.ascii	"\016\247\017\037\310\034Ig\216\246\017\215\034\034;"
 	.ascii	">\232968,~\003\237n\"("
 	.text
-	.section	.gnu.lto_ledStripUpdate.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_ledStripUpdate.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\215T[O\023A\024\236og\357]T\022\214!\370@\242"
 	.ascii	"\211\301(}\360\017\370#4>\033\344\201D\320\024|fl\253"
 	.ascii	"D1\020\010X\233\330\024%(\274\010\030/Q\020\012(\336"
@@ -3364,7 +3364,7 @@
 	.ascii	"\224W\370J\216\027\026\221\254\242\023>_qY\305\201\222"
 	.ascii	"\322\342\203\345\177\000t\300\277i"
 	.text
-	.section	.gnu.lto_getLedProfile.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_getLedProfile.ce088ca722866551,"e",%progbits
 	.ascii	"x\234-\216\275J\003Q\020\205\347\334\211\353\212\344"
 	.ascii	"\001d\021\322\006$\273\350\013\370*\022-\026\374#\261"
 	.ascii	"\317d\023\024\177\210\022\014Q$l\021$V\212\226&\352"
@@ -3383,7 +3383,7 @@
 	.ascii	"2r,\343\346sYwa\306_t\375%w~n6\277\222\363\2273Y\372"
 	.ascii	"\003:\311`\002"
 	.text
-	.section	.gnu.lto_setLedProfile.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_setLedProfile.ce088ca722866551,"e",%progbits
 	.ascii	"x\234E\220\313+Dq\024\307\317\367w\356\314\\\023\033"
 	.ascii	";\215\205\262\320\224\314\304\322\306\277\"\217\232"
 	.ascii	"\362j\330\373\315\235\021\031QS\362(]\321\204\222\327"
@@ -3408,7 +3408,7 @@
 	.ascii	"&\372z\272\207G\322\251\241\226.\212\014\245\007{S}"
 	.ascii	"=\277\224{\220\225"
 	.text
-	.section	.gnu.lto_ledStripStatusModeConfig_Registry.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_ledStripStatusModeConfig_Registry.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\343``d\220bd`\220f\200\200\351\314\214sW\234\371"
 	.ascii	"\317\331\302\330\324\330\321\320\360\240\373\015\353"
 	.ascii	"<\343\371\314\014\213\2311%\027|\272\3038\237\231q&"
@@ -3423,7 +3423,7 @@
 	.ascii	"3\2309\030w\201\274\300x\230\321\222ARO\277\270(Y?7"
 	.ascii	"13O?3_?'5\245\270\244(\263@/\231\001\000-9f\251"
 	.text
-	.section	.gnu.lto_ledStripConfig_Registry.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_ledStripConfig_Registry.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\343``d\220`d`\220f\200\200\351\314\214sW\234\371"
 	.ascii	"\317\331\302\330\324\330\321\320\360\240\373\035\363"
 	.ascii	"~\376\371\314\014\213\2311%\027<;\3038\237\231q&T\352"
@@ -3439,7 +3439,7 @@
 	.ascii	"\247\237\231\257\237\223\232R\\R\224Y\240\227\314\000"
 	.ascii	"\000;Pf\023"
 	.text
-	.section	.gnu.lto_.symbol_nodes.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.ce088ca722866551,"e",%progbits
 	.ascii	"x\234u\226\371SSW\024\307\317=\2275h@P\\\242\200\021"
 	.ascii	"D\243FYTj\255\250\245\177Gg\252\035\247\323_:\266S\247"
 	.ascii	"\355LO\304H\2538\025\213\240\264.\210a\260\250\005\255"
@@ -3521,7 +3521,7 @@
 	.ascii	"\027\335\332\237\324\015}W\266!s\005\352\271Zj\3322"
 	.ascii	"\304f7\300\377\253\203\233\275"
 	.text
-	.section	.gnu.lto_.refs.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_.refs.ce088ca722866551,"e",%progbits
 	.ascii	"x\234m\223K\217\343T\020\205\277S\266\343$v&\211\223"
 	.ascii	";I\272;\235\244\223\270\337\217\231L\247;\244\233a\301"
 	.ascii	"CB X\360\220\3709\254\020[v\374\233a4\002\001\032\361"
@@ -3560,7 +3560,7 @@
 	.ascii	"6~\337e?bu\373\211\370\003\013\3663V3\367\365_1\356"
 	.ascii	"X9"
 	.text
-	.section	.gnu.lto_.decls.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_.decls.ce088ca722866551,"e",%progbits
 	.ascii	"x\234\275\275\011X\\\307\2250\312\355\352\205f\265%"
 	.ascii	"yw\034;Q\342\314$\216lg\261\223\231?/\261\035\307\231"
 	.ascii	"\337N\362,'\231$3\217\301\250%1F\240\320\310\313\314"
@@ -4646,7 +4646,7 @@
 	.ascii	"\343\204\246V\016d\231\315\326Dx\314\337\342\246 \246"
 	.ascii	"\363\277\000\367M\267\205"
 	.text
-	.section	.gnu.lto_.symtab.757227c4bf8975d0,"e",%progbits
+	.section	.gnu.lto_.symtab.ce088ca722866551,"e",%progbits
 	.ascii	"ledStripStatusModeConfig_System\000"
 	.ascii	"\000"
 	.ascii	"\000"

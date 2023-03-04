@@ -9,10 +9,10 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"gps_rescue.c"
-	.section	.gnu.lto_.profile.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_.profile.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_.icf.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234\343``d0`d\200\003c\206\303g[.\2621\357}\370\256"
 	.ascii	"\235\225e\372\375\363G\271\330>\3758\177\235\233\275"
 	.ascii	"\253\371\310IV\0160\311\011&\271\247\356\376\372\215"
@@ -28,7 +28,7 @@
 	.ascii	"\235\007\317r\332\200L\267mj\275{\223\331\356\333\277"
 	.ascii	"\251{\031\355\301\376v\000\353g\000\000Y\333\235T"
 	.text
-	.section	.gnu.lto_.jmpfuncs.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234\265\220\255o\002A\020\305\337\273=r\027 \004\201"
 	.ascii	"+(,\2706\244\355\037w\353\212\252\255h\310\251Va\021"
 	.ascii	"|\035\227p\242\265\247\32058\304)\212 \335\331[\256"
@@ -43,7 +43,7 @@
 	.ascii	",7\372}\270\2329\\\372c\357[\340\016\2707\360\027\203"
 	.ascii	"wZe"
 	.text
-	.section	.gnu.lto_.inline.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_.inline.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234\343``d\270\305\304\000\007|\014\014R\335\353\372"
 	.ascii	"\0372\245\26322\0100200\353\000\271\033\231\322\031"
 	.ascii	"\030\330\032\200\200)\205\211\001\010\301\314d\006\026"
@@ -64,13 +64,13 @@
 	.ascii	">`J\332\000\266O\014\310z\200\351>\006\000z\225\214"
 	.ascii	"B"
 	.text
-	.section	.gnu.lto_.pureconst.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_.pureconst.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234\005\301\241\015\200@\024\005\301G\262\002AP\310"
 	.ascii	"s\310;\034\204\000\355\375\"\266\\f\346L\351I\326\010"
 	.ascii	"\262\310&Mv\031r\310Y\\r\313S\274\305W\374\341\376\012"
 	.ascii	"\205"
 	.text
-	.section	.gnu.lto_setBearing.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_setBearing.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234\215T[O\\U\024\336k\3573\3476\027\300K\037$\244"
 	.ascii	"\215\011i\260\021\360\017\030}\323\027\037\373j\032"
 	.ascii	"\030\201\244\200\031\352s\017\003\035\260E$\002\241"
@@ -134,7 +134,7 @@
 	.ascii	"\006\336-)8\355\177m\337\311\274\322\342\342\322\022"
 	.ascii	"\\\237),\313.$\377\000\021dW'"
 	.text
-	.section	.gnu.lto_checkGPSRescueIsAvailable.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_checkGPSRescueIsAvailable.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234\215V\337OTG\024\236s\347\356\335\273w\357\335"
 	.ascii	"\037X%fI\260&$\325\246b\355K\037\332\306\244\177@_\332"
 	.ascii	"\207\366\245i(\265&j\014\340C_\352u\227\000\013[\245"
@@ -211,7 +211,7 @@
 	.ascii	"e\025\314\367\351\373\253\327Vj8\336\260\246\306\252"
 	.ascii	"\330PUU\271\256\206B\037T\377\013\246\": "
 	.text
-	.section	.gnu.lto_sensorUpdate.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_sensorUpdate.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234\235\227iL\\U\024\307\357y\367\3150\0133\254e_"
 	.ascii	"\006\024\265\220\024RS\215i\\>\033?\332\017&&F\021k"
 	.ascii	"\023\333\030h\277\030\223>\026\207\322\015\272A\247"
@@ -304,7 +304,7 @@
 	.ascii	"f\246\267_]\264\270\304Q\274\254\264\264d\311R\372\275"
 	.ascii	"\240\354\037\366\373^\005"
 	.text
-	.section	.gnu.lto_idleTasks.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_idleTasks.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234\215W\353W\224E\030\237gfw\337\275\262\210\010"
 	.ascii	"\010\242\034o]\360(\331\207:\247\3239\375\005}\352\273"
 	.ascii	"\307\214J\217]\216b\365\315\027X\027Q4\261\274\200\256"
@@ -412,13 +412,13 @@
 	.ascii	"s\0271\276\250\210/x\231/X\230\272\360\225%+\226\027"
 	.ascii	"\025\276\362\322\353\313\336**ZZ\370\037\357U.\363"
 	.text
-	.section	.gnu.lto_gpsRescueAngle.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_gpsRescueAngle.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234\343``d0a`\000\222\0200\235\231\361\370\373\267"
 	.ascii	"W\030\373\230\3473\003\005\201\334\247\033\027l\341"
 	.ascii	"\265\334\336\320\261\240Aa>3#\243\2414\343.FiF#0\305"
 	.ascii	"\300\270\233\321\222\001\000\017\023\0202"
 	.text
-	.section	.gnu.lto_performSanityChecks.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_performSanityChecks.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234\225X\355S\224\327\025\177\316\275\373\316\276"
 	.ascii	"\260\354.\013,\313\356\3722S\355$0m:\323\351\333\344"
 	.ascii	"S\377\202\366s\246cm\352L\223\351h\362\241\237\262\002"
@@ -551,7 +551,7 @@
 	.ascii	"\376\361w\013\336\230\357\231\367\366\302\205\363\337"
 	.ascii	"|\213\236\177\277\350\377\030\263R?"
 	.text
-	.section	.gnu.lto_rescueAttainPosition.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_rescueAttainPosition.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234\225Zy\\\325U\026\377\235\337\017\036\217\007\017"
 	.ascii	"\220Md\027D\005M\315\366E\333\233\251\246\232\232j\266"
 	.ascii	"\232b\224\\\306-@K\377\250'\3303 \0257\024\365\201\316"
@@ -807,7 +807,7 @@
 	.ascii	"\343\307O\234\200\317\231\2433\006\215\226\376\017\256"
 	.ascii	"xd\210"
 	.text
-	.section	.gnu.lto_rescueNewGpsData.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_rescueNewGpsData.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234\343``d\370\312\300\300\240\010\304\262@\314\310"
 	.ascii	"\314\300\310\324\320\320\340\300\336\310\301\304\310"
 	.ascii	"\010f5p02\32431\3263\3663Ogf<\324\376l'\223\346r\240"
@@ -825,7 +825,7 @@
 	.ascii	"\211\231y\372i9\231\351\031%\372\351\005\305\361E\251"
 	.ascii	"\305\311\245\251z\311\014\0006\004^\031"
 	.text
-	.section	.gnu.lto_updateGPSRescueState.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_updateGPSRescueState.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234\235[\011T\024W\326\356[Ut\263/\012\342\002\212"
 	.ascii	" .\270\200\311,I\234$f\222\231d\222\3312Y&\223e\234"
 	.ascii	"\304\370'9g\222\231\223\345\374\3779\377\371'\015\030"
@@ -1149,7 +1149,7 @@
 	.ascii	"\271\377\370\374\363\177|A\256\277\376\364\253\031\237"
 	.ascii	"\032\376\037\177\337\250o"
 	.text
-	.section	.gnu.lto_gpsRescueGetYawRate.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_gpsRescueGetYawRate.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234E\216OK\002Q\024\305\357yo\322)\252/0D\266t3\363"
 	.ascii	"\025\372&\021b&T\210Sk\337\014B\220R\004\225\030\210"
 	.ascii	"\013\221\226\032\004\321_gU\024\024\021.Z\265(\202\012"
@@ -1167,7 +1167,7 @@
 	.ascii	"\274\331\311\354\23475\223\315L\317{\231\234?\221O\373"
 	.ascii	"\251\205\264\233\242oR\307d\276"
 	.text
-	.section	.gnu.lto_gpsRescueGetThrottle.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_gpsRescueGetThrottle.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234}\222\333KTQ\024\306\367w\366\231\2313\216\226"
 	.ascii	"=\313\220\004>\370\342\370\020\275\005\376\021\275\206"
 	.ascii	"\3108\251\340%\324\236\335\036M\013\305\014\314\013"
@@ -1206,7 +1206,7 @@
 	.ascii	"\345\206\322\372XC\364J\254(*NE\353jj\312j\313c\345"
 	.ascii	"\027*\353\353\032\033\253cFi\331o\327\2178\275"
 	.text
-	.section	.gnu.lto_gpsRescueIsConfigured.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_gpsRescueIsConfigured.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234]P]K\024Q\030~\237\363\31693\205\373\007\234\013"
 	.ascii	"\355r\013v\027\372\003\375\001\177\203\304b&X\204[\327"
 	.ascii	"\036\307\205%VL/\304\274X\2462\251\253\254\233\202]"
@@ -1234,7 +1234,7 @@
 	.ascii	"\277|=\337\177\255\324;\324W*\336\350\313\025\351/\001"
 	.ascii	"g\256\244"
 	.text
-	.section	.gnu.lto_gpsRescueIsAvailable.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_gpsRescueIsAvailable.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234E\2161K\003A\020\205\337\333\215\361D\362\013\016"
 	.ascii	"1\226i\356\002\376\001\377\211\310\021c@ErZgs\006T\224"
 	.ascii	"\210b\210\026!E\220Xi\254\204$\232\253\254,\242\205"
@@ -1253,7 +1253,7 @@
 	.ascii	"\317{\356\312Bn\325]\\\316e\227\326\335\354\232?\237"
 	.ascii	"\317\370\336F\306\361\360\013\012\205bH"
 	.text
-	.section	.gnu.lto_gpsRescueIsDisabled.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_gpsRescueIsDisabled.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234EOMK\002Q\024\275g\356\250\323\302_ Q-\3358A\177"
 	.ascii	"\240~I\204\230\011\025\241\265\366\315(H(F\340\007-"
 	.ascii	"\006\027\022\265\263VA\232\315\252M.\246\210\"\002\027"
@@ -1273,7 +1273,7 @@
 	.ascii	"\271l\322\336Z\313l\333\353\233\231\364\306\256\235"
 	.ascii	"\336\311\255fS\271\344^*\221\244_\262\337n\352"
 	.text
-	.section	.gnu.lto_gpsRescueDisableMag.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_gpsRescueDisableMag.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234m\222]k\023A\024\206\317;gvv\033\354/X\304zY\205"
 	.ascii	"n\300? \370+\274\022\011\265-\250HS\257;\331\006\252"
 	.ascii	"4\324\017\250U0\244\020\244^i\274\022\372\241\253\321"
@@ -1304,7 +1304,7 @@
 	.ascii	"3gG\206\206\307\242\241\013\371S\243\203\371\334\305"
 	.ascii	"\301\201\034\375\007\366\357\373\302"
 	.text
-	.section	.gnu.lto_pgResetTemplate_gpsRescueConfig.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_pgResetTemplate_gpsRescueConfig.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234-\217\313KBQ\020\207\357x4o7\037=\264\2026-[\265"
 	.ascii	"h\347\177'\005\321\213\270\364Pi\243\324\242\026A.2"
 	.ascii	"\241\322{\315\312|DRj-j\247P\230D\3452\260\3711\367"
@@ -1324,7 +1324,7 @@
 	.ascii	" \025\200Q\262\2011\312\001\343b\023d\001!\312\003a"
 	.ascii	"\311&\351\022\230\222%\2461L\243{\212h\377.a\222\253"
 	.text
-	.section	.gnu.lto_gpsRescueConfig_Registry.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_gpsRescueConfig_Registry.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234\343``d\220`d`Pd\200\200\351\314\214sW\234\371"
 	.ascii	"\317\331\302\330\324\330\321\320\360\240{'\353=\376"
 	.ascii	"\371\314\014\213\231!\222\273\277\354}\005\226\234\321"
@@ -1341,7 +1341,7 @@
 	.ascii	"O\313\311L\317(\321O/(\216/J-N.M\325Kf\000\000\2432"
 	.ascii	"h\251"
 	.text
-	.section	.gnu.lto_.symbol_nodes.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234u\224\311O\223A\030\306\347\231\351\002\264\354"
 	.ascii	"\245@\251\200\024w\213Kb\364\250\211\377\200\177\201"
 	.ascii	"!B\2107\003\\<MA\026q\345\342\311\223\244&jb\21471\242"
@@ -1383,7 +1383,7 @@
 	.ascii	"\347\024\007\332\272\226\223\007P\274g\324\330_\034"
 	.ascii	"b\357\003\343\351T\261\177\3066\364\346"
 	.text
-	.section	.gnu.lto_.refs.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_.refs.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234\035\222\331k\223A\024\305\317I\232uz\2336I\323"
 	.ascii	"41\315b6\233\266I\027\333\252h\377\265\242V\021E\037"
 	.ascii	"\024\361A|\260\202\013j\245\270\342\203ui]\260*\012"
@@ -1421,7 +1421,7 @@
 	.ascii	"\3739\201Ir\213\367\210\266\"@\37768\242\344\327\025"
 	.ascii	"\264\355\3609\337\224o\273O\016\376\007\256ky\337"
 	.text
-	.section	.gnu.lto_.decls.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_.decls.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"x\234\315}iXUW\226\350=w\337\001\356epJ41\203Ue\245"
 	.ascii	"R\325\225\322\014\225J}/\357{I'\235J\276J\272\363\222"
 	.ascii	"\352\356\327\371\321\364\015\\\224W\010\324\275\227"
@@ -2254,7 +2254,7 @@
 	.ascii	"d\241\220\300\020v\266\024j\204\364\323?@L\361\015\246"
 	.ascii	"\377\003\034\005\207\336"
 	.text
-	.section	.gnu.lto_.symtab.64da261cdfe3df71,"e",%progbits
+	.section	.gnu.lto_.symtab.c2ef7c8fc9e18d5c,"e",%progbits
 	.ascii	"gpsRescueConfig_System\000"
 	.ascii	"\000"
 	.ascii	"\000"

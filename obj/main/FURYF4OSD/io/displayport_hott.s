@@ -9,10 +9,10 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"displayport_hott.c"
-	.section	.gnu.lto_.profile.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_.profile.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_.icf.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234\343``d\310f@\000!\206\035\223\247\\`d\334\263"
 	.ascii	"h\303$>&0\233\371\302\372\033\233\330X\346N\334\372"
 	.ascii	"\235\223\365\320\302\2377\231\331\376.>\362\205\203"
@@ -21,7 +21,7 @@
 	.ascii	"\357\233Wr\011\254~r\355\011\213\340\354IM\216B\333"
 	.ascii	"\036M\337\316\"|y\3765\036\006\000\364\2553\201"
 	.text
-	.section	.gnu.lto_.jmpfuncs.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234}R\313.DA\020\255\323\325s\3472^!l\356f\276\300"
 	.ascii	"7X\372\014_2\202\210\010\221XY\311\004A\370\000\013"
 	.ascii	"\217\361~$6\026\026\"!\261\260\2210[BP\325\335w\334"
@@ -45,7 +45,7 @@
 	.ascii	"\352\314\362N 08\017\000\363C\320\030F$\303\270\310"
 	.ascii	"-\226\276\001\301\336\321\331"
 	.text
-	.section	.gnu.lto_.inline.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_.inline.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234\205\223\313J\034A\024\206\377s\252\234\256\271"
 	.ascii	"\031\321\215\020\002y\024\227\256\346\03541\221H\320"
 	.ascii	"'\220\011\022\203.\244\005o`\022\203\340&\220\013\031"
@@ -72,13 +72,13 @@
 	.ascii	"\213\262\205\375]\251\354p\217E\331\331\177,/\223\015"
 	.ascii	"}\271PZw%\003.\340\273\011n\223\032\347 \314\310\313"
 	.text
-	.section	.gnu.lto_.pureconst.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_.pureconst.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234\005\301\301\015\200 \024D\301E\237\210\022\023"
 	.ascii	"\202\225\330\341\277\330\303B'v\347LQ\322#\251)H/K\260"
 	.ascii	"\006\004\233\311f\377(\203crN\252\271L3\335\334\346"
 	.ascii	"\007\367\257\012B"
 	.text
-	.section	.gnu.lto_hottDrawScreen.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_hottDrawScreen.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234E\217\277J\003A\020\306\347\333\211\347\241\246"
 	.ascii	"\322B\010\202B \244\311)\276\200\217\340\033H\210\205"
 	.ascii	"\007\352\205\344\032\253\354%\212H$6\0111E\210M\264"
@@ -97,7 +97,7 @@
 	.ascii	"\247X\3109[Yw\333q=g\335-\3467\263;y\257\340\257mx\276"
 	.ascii	"\237\311\321\344\237\267*\336\017\375=b\277"
 	.text
-	.section	.gnu.lto_hottScreenSize.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_hottScreenSize.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234\225\220\315+Da\024\306\317s\317u\347\346k\307"
 	.ascii	"fR\243\224l\\\376\003KK{E\023\013S\0301\033+\357\314"
 	.ascii	"\370(\204\005\015\213\351\206\306l\304(\245|^\037)\026"
@@ -122,7 +122,7 @@
 	.ascii	";:\330\027\357O\264w\305\023\211\372\016*\371\326ZD"
 	.ascii	"\373\002\352U\251\007"
 	.text
-	.section	.gnu.lto_hottIsTransferInProgress.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_hottIsTransferInProgress.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234E\217\317JBQ\020\306\347\273s\273]*\037 $(\020"
 	.ascii	"\304\2157\350\005z\204\336 \304\026\011\225\242w\323"
 	.ascii	"\312\361\026\204\030\266IL(\\\225-\202\012ZD\366\347"
@@ -141,7 +141,7 @@
 	.ascii	"[J\255\346\262y\177~1\353\373\3114\215\376\365\346\264"
 	.ascii	"\367\003\346\236f\002"
 	.text
-	.section	.gnu.lto_hottRedraw.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_hottRedraw.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234E\217\273J\003Q\020\206\347?\263\256\213\232'X"
 	.ascii	"\204\010\201\220&\373\012>\202o !\026.\250\033\222m"
 	.ascii	"\2542Y\204\024\021m\224\230\"\004\301K#\210`\343}\261"
@@ -159,7 +159,7 @@
 	.ascii	"\353\245\240\034..\007a\230/\322\364\330[P\357\017\013"
 	.ascii	"\"]\221"
 	.text
-	.section	.gnu.lto_hottTxBytesFree.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_hottTxBytesFree.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234UO\315JBa\024<s\317\355z\263\242\007\260\240@\020"
 	.ascii	"7\336W\350\021z\203\220Z$T\212\272i\345\321\204\010"
 	.ascii	"\245Z\024\346\242\204 #\010\"p\323\377]\005eD\264\010"
@@ -177,7 +177,7 @@
 	.ascii	"\343\211\005/\221\364f\022\231\324\\|1\225Lg\247f\223"
 	.ascii	"\331ll\232\006~\271I\345~\000\255\206k\013"
 	.text
-	.section	.gnu.lto_hottHeartbeat.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_hottHeartbeat.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234]\220MK[Q\020\206\347\275s\356\315\215\232\356"
 	.ascii	"\272\250qQA\010\272\360\376\0007\375\011\376\203\"v"
 	.ascii	"a@\233\020\263q\345IL)h\242\033\213\0154\334(\370\261"
@@ -203,7 +203,7 @@
 	.ascii	"#\361\347^<\341=\213O&\307G\246\222\211T\372\351X\""
 	.ascii	"\235\036\034\245\316VlXb\267\377*\237="
 	.text
-	.section	.gnu.lto_hottWriteChar.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_hottWriteChar.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234m\321\317k\023Q\020\007\360\371\356l6k\254z\362"
 	.ascii	" \253\240P\014Uh*\365\340E\361\350\321\377@B<\030\250"
 	.ascii	"nI\027\304S_bj!\221\026\241\222\346\260l\024b\004\205"
@@ -232,7 +232,7 @@
 	.ascii	"\341\222\353y\303\031\332\335\315\235\227\034g\3341"
 	.ascii	"\316\271W\315\264\347\345\220\371\007\254s\273\346"
 	.text
-	.section	.gnu.lto_hottWriteString.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_hottWriteString.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234m\222\337K\024Q\024\307\357w\316\314\356\254\277"
 	.ascii	"z\213b\211\014\004\261\3005\354\301\227\242\307\036"
 	.ascii	"\353/\0101\"\301ZY\027\242'\257\273\253\221\033.A\245"
@@ -272,7 +272,7 @@
 	.ascii	"c\301p\270\270Bd\273\261\203\034\243\212`\025\205\202"
 	.ascii	"'\315\362p8\204\232\2770\307,\344"
 	.text
-	.section	.gnu.lto_hottClearScreen.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_hottClearScreen.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234\225SKHTQ\030>\337\375\357\343h\343\320\242E5\005"
 	.ascii	"\006\211\364 \2056.\202\332\267i\031\264\210\260EB9"
 	.ascii	"\242\003\321\252\343\314\230\220\242=i\002\207k\211"
@@ -319,7 +319,7 @@
 	.ascii	"qK<\221XQ-f\025b\3538\346\305\353\0225\361\332\006\252"
 	.ascii	"\217o\247\352\370\326\337\222#\202\030"
 	.text
-	.section	.gnu.lto_hottRelease.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_hottRelease.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234mPMK\033Q\024\275gn2\231\370\271p\231\012\012\202"
 	.ascii	"\350\302\361'\364'\370\017Dt\321\200\032\321l\272\362"
 	.ascii	"\315\030\221\252\304\215\242\201\206\211m\323(HU\220"
@@ -346,7 +346,7 @@
 	.ascii	"\350\353\356x\333\227\350O\266\277I$\223-\235T\376P"
 	.ascii	"k\223\332\177G{\245\323"
 	.text
-	.section	.gnu.lto_hottGrab.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_hottGrab.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234UPMK\033Q\024\275gn2\231\330\232\205\333((\010"
 	.ascii	"!\024\034\177B\177\202\377@$.\014\250\021\223\215+\337"
 	.ascii	"L\002\305*\351\242-\0320L\374\210\037 ~\200\224\322"
@@ -371,7 +371,7 @@
 	.ascii	"\330\360\300\304Xf<\327?\224\311\345zR\364\350\177\257"
 	.ascii	"Oz\377\000\230\023\222\220"
 	.text
-	.section	.gnu.lto_hottCmsOpen.part.0.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_hottCmsOpen.part.0.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234mOMKBQ\020\235s\347i\257\240M\020\024m\212Vn|\364"
 	.ascii	"\017\372'!\266H\250\024u\323\312\353G\031X\266\022q"
 	.ascii	"\021O\222\250]\264\264/\315\240U\213h\021Q\020\324\242"
@@ -391,7 +391,7 @@
 	.ascii	"Osa'\225\214:k\221\330\272\023\213;\313\261Tb5\262\221"
 	.ascii	"\210'\323K+\361t:\034\245_I\005\207\263"
 	.text
-	.section	.gnu.lto_hottSetCmsKey.part.0.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_hottSetCmsKey.part.0.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234mR\317KTQ\024\276\337=o\336<G\2136\201!Aa\"F8A"
 	.ascii	"\213\266B\313\026\376\011!6\220\224:\350l\\yg\034\223"
 	.ascii	"r\320 \374\265\2201\206Ak\221\024\206Tf\343\217\324"
@@ -429,7 +429,7 @@
 	.ascii	"\275\034\010\004\317U\327\227\007\0035\377\001\231w"
 	.ascii	"&\341"
 	.text
-	.section	.gnu.lto_hottDisplayportRegister.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_hottDisplayportRegister.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234\215\223\357KSQ\030\307\237\357=\273\363nVD \004"
 	.ascii	"K(ze\304\266?\241\377$\304^4\250&\2727\275\362n.g,&"
 	.ascii	"\204c\033!w5\226\215\240\262\027\201\332\326m\265\331"
@@ -464,7 +464,7 @@
 	.ascii	"|\201\240\357T\240\273\363L\373\371\316`W\350\344\351"
 	.ascii	"`(\344\355\240?\300\023^\371"
 	.text
-	.section	.gnu.lto_hottVTable.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_hottVTable.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234e\320\275J\003A\024\206\3419\373m\262?Q\274\200"
 	.ascii	" \"6\242\222\255Sx-\022b\341\202\272!\331\306n\325\024"
 	.ascii	"\001!\203\225\231B&\245\215\225E\300\250\361\337&\327"
@@ -482,7 +482,7 @@
 	.ascii	"5\330\253\204\373A\030\005\333a\243\266[9\250E\365x"
 	.ascii	"k'\212\343RU\374\003\017\326\251\342"
 	.text
-	.section	.gnu.lto_hottCmsOpen.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_hottCmsOpen.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234mO\277K\202Q\024\275\347\273O\373\222\032\205\240"
 	.ascii	")\232t\360\333\233\372\027\372\013BjH\250\024ui\362"
 	.ascii	"i\226\220\241\223\211\203X\210\344d4\366\373\243\242"
@@ -503,7 +503,7 @@
 	.ascii	"\213\316YK\301\320\262\025\012[\363\241Xd1\270\022\011"
 	.ascii	"G\343\263\013\341x<0G?g\233~\203"
 	.text
-	.section	.gnu.lto_hottSetCmsKey.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_hottSetCmsKey.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234}\324\331O\023A\034\007\360\371\355\354\331\002"
 	.ascii	"\017\306\033M4\230\020\2740\361A\037M|\364A\377\003"
 	.ascii	"c\224D\342\001\021^|r\026\212\2105x\226\225\207\332"
@@ -555,7 +555,7 @@
 	.ascii	"\325\273!''\177\371\246\202\225\3719\233\377\000\262"
 	.ascii	"\035\361\227"
 	.text
-	.section	.gnu.lto_.symbol_nodes.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234u\322MK\002A\030\007\360\371\357\350\272\272Y\346"
 	.ascii	"\373[$\321\207\350X\321'\011\277\307\263A\335*\255\354"
 	.ascii	"\205^\255\254$\243\263\005\036\204\240[H$]#\372\000"
@@ -578,13 +578,13 @@
 	.ascii	"\211QU\037\306/\021\323\365F)\213\212oT\364\261\037"
 	.ascii	"\272\370<!"
 	.text
-	.section	.gnu.lto_.refs.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_.refs.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234\015\307\311\001\200 \020\004\301\231\346TV\020"
 	.ascii	"C2\377\240\264~\325e\275\222<\010si\242\225\333\355"
 	.ascii	"?\001\033GrdG!\352\330\234\034t\204iT\240\220\310~4"
 	.ascii	"\255\017H>\001\265"
 	.text
-	.section	.gnu.lto_.decls.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_.decls.bc54a45830e71f19,"e",%progbits
 	.ascii	"x\234\265ZyTTW\232\257\373nA-l\006M\364D{\306\316\241"
 	.ascii	"\273\355\351t\304\211g\3329'}z\262\307\323\2236c2\235"
 	.ascii	"\351\2349C#T\224\023\005\247\252\214\232\371#\305* "
@@ -905,7 +905,7 @@
 	.ascii	"\370\012\211\021'\356\0232\024!\231\377\015\022\226"
 	.ascii	"\2400"
 	.text
-	.section	.gnu.lto_.symtab.836b092f350ffec4,"e",%progbits
+	.section	.gnu.lto_.symtab.bc54a45830e71f19,"e",%progbits
 	.ascii	"hottDisplayPort\000"
 	.ascii	"\000"
 	.ascii	"\000"

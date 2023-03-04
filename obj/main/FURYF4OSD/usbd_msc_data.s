@@ -9,30 +9,30 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"usbd_msc_data.c"
-	.section	.gnu.lto_.profile.21669dcabcbfaf73,"e",%progbits
+	.section	.gnu.lto_.profile.feb958b56a8efa25,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.21669dcabcbfaf73,"e",%progbits
+	.section	.gnu.lto_.icf.feb958b56a8efa25,"e",%progbits
 	.ascii	"x\234\343``d\020a@\000f\206)\237V}ac\334\277\357\364"
 	.ascii	"I6\246\205\007{_\3630\000\000d\334\011K"
 	.text
-	.section	.gnu.lto_.jmpfuncs.21669dcabcbfaf73,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.feb958b56a8efa25,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.inline.21669dcabcbfaf73,"e",%progbits
+	.section	.gnu.lto_.inline.feb958b56a8efa25,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.pureconst.21669dcabcbfaf73,"e",%progbits
+	.section	.gnu.lto_.pureconst.feb958b56a8efa25,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.symbol_nodes.21669dcabcbfaf73,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.feb958b56a8efa25,"e",%progbits
 	.ascii	"x\234\343``d\220e\000\002\326\026F\206F%\020\243\231"
 	.ascii	"\221\021\302hbd\0023\030\000>\220\003\256"
 	.text
-	.section	.gnu.lto_.refs.21669dcabcbfaf73,"e",%progbits
+	.section	.gnu.lto_.refs.feb958b56a8efa25,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.decls.21669dcabcbfaf73,"e",%progbits
+	.section	.gnu.lto_.decls.feb958b56a8efa25,"e",%progbits
 	.ascii	"x\234\245T]HTA\024\236\343l\273\327\253\022,F?\333\203"
 	.ascii	"\373\340\253w\315\010\037K\205\012\332\0106_\273\254"
 	.ascii	"\353\022\013j\264\253\201o\223ZI\224\030\345_Vk(eJ\021"
@@ -71,7 +71,7 @@
 	.ascii	"X\304\277\202\225\357\346\316S\356\263^\207C?^t\276"
 	.ascii	"\304\347/\325s\320\377\013\020jGM"
 	.text
-	.section	.gnu.lto_.symtab.21669dcabcbfaf73,"e",%progbits
+	.section	.gnu.lto_.symtab.feb958b56a8efa25,"e",%progbits
 	.ascii	"MSC_Mode_Sense10_data\000"
 	.ascii	"\000"
 	.ascii	"\000"

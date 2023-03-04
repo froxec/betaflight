@@ -9,10 +9,10 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"msp_serial.c"
-	.section	.gnu.lto_.profile.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_.profile.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_.icf.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234\343``d\250f@\000Q\206\011\1777T3.}\376R\225\351"
 	.ascii	"\355\3669!\314\2277\365>ceY\273p\3414f\326]\333\227"
 	.ascii	"\3671\261\277^\375n&7\307\232k\313>\361pN\332\364\340"
@@ -22,7 +22,7 @@
 	.ascii	"\371\217Qd\366\241\371\272\242S\272\273\371\305\256"
 	.ascii	"\276}\377\233\237\001\000\001\206=\241"
 	.text
-	.section	.gnu.lto_.jmpfuncs.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234\275V\335j\023A\024\236ofw\223\246I\232\364\317"
 	.ascii	"\237\025\354\265\202\357\341\235\217\341\235o\220`\205"
 	.ascii	"\202(\301+E\244$Zo\352\003X0\261\246jm\265\325V\261"
@@ -67,7 +67,7 @@
 	.ascii	"\006\031\314\210+\264G\341<%\371%D\341\311\210\212\330"
 	.ascii	"_\217K\365\246"
 	.text
-	.section	.gnu.lto_.inline.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_.inline.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234\245W\333o\225E\020\237\275\364\234\257\3559\207"
 	.ascii	"\217\012\246J%\307\210&\372\340\233o\206\234G\022\023"
 	.ascii	"\236xTz\241@\321\007\370\013\310W\213%XRJh\255\"\015"
@@ -161,13 +161,13 @@
 	.ascii	"f?\206h\231\271/\276S\236\007\267\273\265\273I\321\331"
 	.ascii	"f\264\035_=\254\236\362\240\1776\370\007\016@\235\024"
 	.text
-	.section	.gnu.lto_.pureconst.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_.pureconst.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234\005\301\201\015@0\000D\321+_4\022\211\242&\261"
 	.ascii	"\242\035\334mb;\357U\025\335\222\232\036J\030\302\030"
 	.ascii	"0S\230M\015\213Y?6\323\314\036\016s\276\364p\231\037"
 	.ascii	",+\013\210"
 	.text
-	.section	.gnu.lto_mspSerialChecksumBuf.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_mspSerialChecksumBuf.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234eR\317KTQ\024>\337;\367\315<\306\321E\253h\204"
 	.ascii	"\334\204\031\370\003\332\270l\335?\021\3034\220\244"
 	.ascii	"\022N-\303;c*ah\013')zL\021C\306@Z\031AZ=\033\303l\025"
@@ -202,7 +202,7 @@
 	.ascii	"]\352Qg\343\027\343\334\235\354\375\003\332\011\360"
 	.ascii	"8"
 	.text
-	.section	.gnu.lto_mspSerialProcessReceivedReply.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_mspSerialProcessReceivedReply.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234\235\223\311O\024A\024\306\353\353\327=4\003(n"
 	.ascii	"\027W\0225\304\013\314\305\203\036\214'\317\306\177"
 	.ascii	"\300(\341`\342\026\346\244\027\213\021\305\200K\342"
@@ -249,7 +249,7 @@
 	.ascii	"\264d]Qq4\272\254x\375\352\015K\326:%\362\377\025\355"
 	.ascii	"\371\230="
 	.text
-	.section	.gnu.lto_resetMspPort.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_resetMspPort.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234\235R\317KTQ\030\375\316\373\336\374\036\207 \002"
 	.ascii	"a\214\\\004\242\013\035\210\026\355\372\003ZD\010-c"
 	.ascii	"\260\007\0168\0313\263i\345\235\031S\322\320E\212\316"
@@ -285,7 +285,7 @@
 	.ascii	"\203\276\331\233n\217\247\254\323'\023\231\366V\253"
 	.ascii	"\303JZ\231\324\271\2373?\0124"
 	.text
-	.section	.gnu.lto_mspSerialProcessReceivedData.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_mspSerialProcessReceivedData.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234\255[iP\024I\276\357\254l\232\256>\000A\316F@\271"
 	.ascii	"\017\241\005g\346\275\235\367f7b?\275\367ac\277o\304"
 	.ascii	"\316nLll\354{{\305\314\356\347mDe\030P\306\021E\324"
@@ -527,7 +527,7 @@
 	.ascii	"\037~\362\207\217\377\364\373?\347~d\012&\243_\377\355"
 	.ascii	"\343\177\240\217\376\015\021\335i\312"
 	.text
-	.section	.gnu.lto_mspProcessPendingRequest.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_mspProcessPendingRequest.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234\225\223\335K\024Q\030\306\3173gfv\\]\353\306 "
 	.ascii	"\014\022\214\242.\322\256\272)\210\376\202\376\203\210"
 	.ascii	"(\020\372\020\355\242\256<\253\233f\226AT\266\330\266"
@@ -574,7 +574,7 @@
 	.ascii	"\273=\177W^\316\216=\353w2\017E\333\366\347\035\370"
 	.ascii	"\015l\030\243\023"
 	.text
-	.section	.gnu.lto_mspEvaluateNonMspData.isra.0.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_mspEvaluateNonMspData.isra.0.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234m\222\333KTA\034\307\347;3{\316\331e\365\241(\204"
 	.ascii	"\215\022zX\354A\245z\011{0z\251\267\250? d[H\310.k\364"
 	.ascii	"\352\270\032R\212]\260\264b\335h\331\262\207\254D\222"
@@ -613,7 +613,7 @@
 	.ascii	"\012\027\237\013\037\333\177\274(bJ\344\320\251\310"
 	.ascii	"\331\277j\0252\244"
 	.text
-	.section	.gnu.lto_mspSerialSendFrame.isra.0.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_mspSerialSendFrame.isra.0.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234\215Tkl\024U\024\276g\316\354\373\321\327jb\212"
 	.ascii	"\322\037\222\265\230\264\211\232\230\230\0301$\006\215"
 	.ascii	"\361\207\3764\321lJ\003\030\212f\333\377L\037\201\024"
@@ -678,7 +678,7 @@
 	.ascii	"\015K\233>l\212m\177-\036k\250\247\257-M[\221\230\376"
 	.ascii	"\006\266\223\242\232"
 	.text
-	.section	.gnu.lto_mspSerialEncode.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_mspSerialEncode.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234\225X{L\224W\026\377\316\275\363~\202\257\242\243"
 	.ascii	"\210V\327\255\266\225um\254\311\246\331\270i\2326M\327"
 	.ascii	"\264\3516\351?\033\226\332\324\330W\264\335d\233t\373"
@@ -842,7 +842,7 @@
 	.ascii	")\370\330\371\317?\314N\371\327\333\357\245\274\361"
 	.ascii	"\312\334\217\346\374\017\012\300\376-"
 	.text
-	.section	.gnu.lto_mspSerialProcessReceivedCommand.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_mspSerialProcessReceivedCommand.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234\235U[L\224G\024\236\363\317\2777nRE\012\202uM"
 	.ascii	"C\210}\220M\372\320\220&\255I\023_\333\267\2764i\010"
 	.ascii	"\265\011\211\240a\351C\237\034\226U\344&\306X\201\032"
@@ -916,7 +916,7 @@
 	.ascii	"\334\221\264\265\305\235eno\314\260\245\252\010K\346"
 	.ascii	"\246\255\233\277\376\027\240e\006\035"
 	.text
-	.section	.gnu.lto_mspSerialAllocatePorts.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_mspSerialAllocatePorts.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234\225UMLTW\024\276\347\335\367\346\315{\363S\001"
 	.ascii	"k\221\021\2646,l\0324\332t\345\302\246\213\246\273."
 	.ascii	"\232\264\351\246!H+\211\240\001\027\355\246^\006\224"
@@ -992,7 +992,7 @@
 	.ascii	"\367\3636\254y/wmn~\356\206\302\317\376\005A\215\273"
 	.ascii	"\257"
 	.text
-	.section	.gnu.lto_mspSerialReleasePortIfAllocated.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_mspSerialReleasePortIfAllocated.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234\215S[KTQ\024\336\337Y\347\3149s+\037z(\246\033"
 	.ascii	"\221D\022*\326k\320C/=\004\375\203\020\025\022\312D"
 	.ascii	"{\010zh\317hc\027\247\210\254T\032fT\314.\224\335\257"
@@ -1039,7 +1039,7 @@
 	.ascii	"n\314-\022\001w\265ns\305\026\1779\277\326\224\025\227"
 	.ascii	"l\315**,+.-.\334R\262\266\262\\\245~\003\341\036q\250"
 	.text
-	.section	.gnu.lto_mspSerialReleaseSharedTelemetryPorts.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_mspSerialReleaseSharedTelemetryPorts.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234\215T\333KTA\034\236\357\3149g\317\352n\026\024"
 	.ascii	"\005\033\325\213\017J\244\330S\017A\257=\004\375\003"
 	.ascii	"\021\242BB\232\250H\320C\263\253\255]\274\274l\245\330"
@@ -1086,7 +1086,7 @@
 	.ascii	"\314\315\317\315.\315\333RR\264\225F\177\000\037\355"
 	.ascii	"\216\216"
 	.text
-	.section	.gnu.lto_mspSerialProcess.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_mspSerialProcess.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234\235WkP\024W\026\356s\357<z^\014\303\014\340\212"
 	.ascii	"\021\014\022\003\353\2035U\373k\177dk\267\254\332\037"
 	.ascii	"\373\374\225\037[\331\"HUR%`\001nmv\2536\315K\224!\032"
@@ -1204,7 +1204,7 @@
 	.ascii	"*ck\332_\302\231-3;G\265o\3110\362\211\254\034153#{"
 	.ascii	"Gz\332VH\3757|\305\232\300"
 	.text
-	.section	.gnu.lto_mspSerialWaiting.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_mspSerialWaiting.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234mR\337KTA\024\236o\316\275w\357\272\012A\217\033"
 	.ascii	"\005\201\220 *\366\026>\370\332_\021b>\010i\242=\364"
 	.ascii	"\346\254.\251\355b\364`j\271\255\"\375P0\265\242\302"
@@ -1244,7 +1244,7 @@
 	.ascii	"\372\352\212\013E\225\302_w\261\376\322\331\332\363"
 	.ascii	"U\227\377\000P\320.x"
 	.text
-	.section	.gnu.lto_mspSerialInit.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_mspSerialInit.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234m\217\275JCA\020\205\347\354\334$\327\302\302N"
 	.ascii	"\210\332X\305\"y\005_\301'\320\020,\002F%y\200l~0B4"
 	.ascii	"b!!\205\336\213A\264\023+\211\277\327\024\267\321\""
@@ -1265,7 +1265,7 @@
 	.ascii	"\232\210'r\331T\"\223L/'2\271US\363\271\305l:\271\024"
 	.ascii	"O\3217\332\277}\221"
 	.text
-	.section	.gnu.lto_mspSerialPush.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_mspSerialPush.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234\215V[LTW\024=\373\236;s\0373\002UJ\265S\225\244"
 	.ascii	"5\326>d\252m\023\373S\223~\365\243I\177\372\321\257"
 	.ascii	"\206\000II\024\015\320\244_\3652>\240\210P\253U@\257"
@@ -1352,7 +1352,7 @@
 	.ascii	"\247$&}\257!\366K\014\324\265\337\245}\373/\027\256"
 	.ascii	"\007)"
 	.text
-	.section	.gnu.lto_mspSerialTxBytesFree.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_mspSerialTxBytesFree.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234mT[oTU\024\336\337Y\347:\235)>\250/c\"\211)\011"
 	.ascii	"\210\264!\206\007\237x2\361\017\370j\020\347\201D\220"
 	.ascii	"L\373\240O\354\231N*\267`\015(\035\364\364\264\031\025"
@@ -1404,7 +1404,7 @@
 	.ascii	"\225\314\353\301\313ote:\237\317f2\377\001f\303\214"
 	.ascii	"\303"
 	.text
-	.section	.gnu.lto_.symbol_nodes.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234u\224\333o\014Q\034\307\317w~\263;cj\253fK\253"
 	.ascii	"-\255\266\224\252\206\027\2277\304\273\007\177\201\242"
 	.ascii	"\211\004\021%\036\177\253\331\272EJD]\032\267n\327\275"
@@ -1448,7 +1448,7 @@
 	.ascii	"\032c?\353<\326\356\237\004\215\255\350\376\331\361"
 	.ascii	"\024rP\361\007\200LyA"
 	.text
-	.section	.gnu.lto_.refs.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_.refs.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234%\207I\016\202@\000\004\253{\204\000\003\255\216"
 	.ascii	"\2501z1>\322\357\213\341R\313\200\370\002\352\350\245"
 	.ascii	"\201\261\367D\225\347\346\352\331sY\234B\016\034\253"
@@ -1456,7 +1456,7 @@
 	.ascii	"\256<\224'y\2217\371\350B\254\325\221\257\033\376sc"
 	.ascii	"\363\017\012C\004M"
 	.text
-	.section	.gnu.lto_.decls.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_.decls.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"x\234\255|\011t\024\327\225v\277~\335j\251\265a\300"
 	.ascii	"\006\033\3428\211\023\373\314?\030l\347\214\3553\363"
 	.ascii	"\317\357\330\211\307\316\014\211\177\333\343\214s&G"
@@ -2070,7 +2070,7 @@
 	.ascii	"y\225\251\345\227\377\276\365\235_\273\031\376?\264"
 	.ascii	"9\367\220"
 	.text
-	.section	.gnu.lto_.symtab.d7514a29c484e5e6,"e",%progbits
+	.section	.gnu.lto_.symtab.2b2bd36dac5ec3ce,"e",%progbits
 	.ascii	"mspSerialAllocatePorts\000"
 	.ascii	"\000"
 	.ascii	"\000"

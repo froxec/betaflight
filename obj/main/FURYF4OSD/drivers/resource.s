@@ -9,23 +9,23 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"resource.c"
-	.section	.gnu.lto_.profile.a5cf30e0aee69f95,"e",%progbits
+	.section	.gnu.lto_.profile.e3be4de9057fdb8b,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.a5cf30e0aee69f95,"e",%progbits
+	.section	.gnu.lto_.icf.e3be4de9057fdb8b,"e",%progbits
 	.ascii	"x\234\343``d\340`@\000F\206\015\267v>fd\000\000\017"
 	.ascii	"\207\003:"
 	.text
-	.section	.gnu.lto_.jmpfuncs.a5cf30e0aee69f95,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.e3be4de9057fdb8b,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.inline.a5cf30e0aee69f95,"e",%progbits
+	.section	.gnu.lto_.inline.e3be4de9057fdb8b,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.pureconst.a5cf30e0aee69f95,"e",%progbits
+	.section	.gnu.lto_.pureconst.e3be4de9057fdb8b,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_ownerNames.a5cf30e0aee69f95,"e",%progbits
+	.section	.gnu.lto_ownerNames.e3be4de9057fdb8b,"e",%progbits
 	.ascii	"x\234e\227iTTI\226\200\337\313\227$[\002\335\325\265"
 	.ascii	"u\333U]\321=3\275LOYZ\323\335S\263\324\034H\262,N\001"
 	.ascii	"Igbi\375\3123\247\272\346\234\3721\313\261N\367\231"
@@ -237,14 +237,14 @@
 	.ascii	" S\250\311,iCB\202\340\317\241 \311\3453\263\321(\375"
 	.ascii	"\037(_5U"
 	.text
-	.section	.gnu.lto_.symbol_nodes.a5cf30e0aee69f95,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.e3be4de9057fdb8b,"e",%progbits
 	.ascii	"x\234\343``d\340f\000\002\326\026F\206F%\020\013\000"
 	.ascii	"\011\357\001B"
 	.text
-	.section	.gnu.lto_.refs.a5cf30e0aee69f95,"e",%progbits
+	.section	.gnu.lto_.refs.e3be4de9057fdb8b,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.decls.a5cf30e0aee69f95,"e",%progbits
+	.section	.gnu.lto_.decls.e3be4de9057fdb8b,"e",%progbits
 	.ascii	"x\234}\326YL\033G\030\000\340\235]Nc\214DH\233\212\246"
 	.ascii	"J\245F\352S\234\264}\350c\245>$Oy\253\372P\251RD\221"
 	.ascii	"\232\207\244\022\250\355c\315e\010\230+\306\016\346"
@@ -336,7 +336,7 @@
 	.ascii	"\373\366\324)!$\341\347sI\237\274\267\255\360?\347c"
 	.ascii	"\351x"
 	.text
-	.section	.gnu.lto_.symtab.a5cf30e0aee69f95,"e",%progbits
+	.section	.gnu.lto_.symtab.e3be4de9057fdb8b,"e",%progbits
 	.ascii	"ownerNames\000"
 	.ascii	"\000"
 	.ascii	"\000"

@@ -9,15 +9,15 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"sbus.c"
-	.section	.gnu.lto_.profile.f6d5cbd317615578,"e",%progbits
+	.section	.gnu.lto_.profile.36f1d7ff7ea6aa0e,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.f6d5cbd317615578,"e",%progbits
+	.section	.gnu.lto_.icf.36f1d7ff7ea6aa0e,"e",%progbits
 	.ascii	"x\234\343``dPc@\0006\206\235\2376\275\341e\236\272\352"
 	.ascii	"\322\034N\226U[\246\236dg\3752\341\353af60\311\276\367"
 	.ascii	"\341\273vV\006\000o\321\022\264"
 	.text
-	.section	.gnu.lto_.jmpfuncs.f6d5cbd317615578,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.36f1d7ff7ea6aa0e,"e",%progbits
 	.ascii	"x\234}P=\017\301P\024\275\347\335\247j\240?\240\377"
 	.ascii	"U\211I$\215AB\247F:a7P\325\335l5\330Eb\226p_\025\325"
 	.ascii	"\342&'y\367\236w\316\375\260\0114\002\275\202I\001\354"
@@ -30,7 +30,7 @@
 	.ascii	"I^r\260\225E\377\\\010\244Ty\273oG\325mT\\\356\353\242"
 	.ascii	"i\034"
 	.text
-	.section	.gnu.lto_.inline.f6d5cbd317615578,"e",%progbits
+	.section	.gnu.lto_.inline.36f1d7ff7ea6aa0e,"e",%progbits
 	.ascii	"x\234\343``d\340bd\200\003f\006\006\331\346I/\3461\247"
 	.ascii	"323\010\024Lgf\\\334pz\006[\037\363|f\006F~\306]\214"
 	.ascii	"\322\014\014\002\371P\032\250\217U\271u\311\205\335"
@@ -45,11 +45,11 @@
 	.ascii	"`\237\340\007$A:\200z\340\272\231y\200,\240\375<0\001"
 	.ascii	"\006\000\317\362:\243"
 	.text
-	.section	.gnu.lto_.pureconst.f6d5cbd317615578,"e",%progbits
+	.section	.gnu.lto_.pureconst.36f1d7ff7ea6aa0e,"e",%progbits
 	.ascii	"x\234\343``d\340b```f\230\305\302<\213\205e\026\013"
 	.ascii	"\000\012\260\001\370"
 	.text
-	.section	.gnu.lto_sbusDataReceive.f6d5cbd317615578,"e",%progbits
+	.section	.gnu.lto_sbusDataReceive.36f1d7ff7ea6aa0e,"e",%progbits
 	.ascii	"x\234\235UmO\\E\024\2363s_\366\345\302\226\026p\221"
 	.ascii	"D\371\320\206\324\017\260mb\342'\343\237\360\007 \232"
 	.ascii	"\330\017@Rj\364[/\273\004D\010\266\311\312K\302\262"
@@ -117,7 +117,7 @@
 	.ascii	"\331\341R\\VRRVZx\346T\311\007\005\037\222\177\001\246"
 	.ascii	"\017\270\032"
 	.text
-	.section	.gnu.lto_sbusFrameStatus.f6d5cbd317615578,"e",%progbits
+	.section	.gnu.lto_sbusFrameStatus.36f1d7ff7ea6aa0e,"e",%progbits
 	.ascii	"x\234\205T\335O\\E\024\237\337\235\373\261\354\027\270"
 	.ascii	"\025?Bbx\220\020\372P6\345\305G\036\214\317F\377\002"
 	.ascii	"lj\322\304\366\201\217\244o\275\013\230\206\272\242"
@@ -179,7 +179,7 @@
 	.ascii	"\207\016\037|\263\276\246\376\240\357\355\332\032g\332"
 	.ascii	"P\027`\227\327x\375jM}\315\177[yP\036"
 	.text
-	.section	.gnu.lto_sbusInit.f6d5cbd317615578,"e",%progbits
+	.section	.gnu.lto_sbusInit.36f1d7ff7ea6aa0e,"e",%progbits
 	.ascii	"x\234\235VYpSU\030>\3779\311\315Mn\222n\262\031\220"
 	.ascii	"\202`A\241tF_|a\034\365\305\027\307\3217\307\027DTf"
 	.ascii	"\004\234\026f\030_\270]\260\224\226E\204B\034b\252\241"
@@ -279,7 +279,7 @@
 	.ascii	"gz>\305\343\235\217'\345O\371@>*\355\177\001\222\305"
 	.ascii	"\222J"
 	.text
-	.section	.gnu.lto_.symbol_nodes.f6d5cbd317615578,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.36f1d7ff7ea6aa0e,"e",%progbits
 	.ascii	"x\234u\217;n\002A\020D\253\246gw\261\371\336\300\010"
 	.ascii	"\371 \366]\270GO@@H\014\330^\314\202?'\260\310\220H"
 	.ascii	"A\342\010+\221@N\014\373K\220\207N\252\324\257\272["
@@ -292,13 +292,13 @@
 	.ascii	"z\336\033\036B\261\235\262\331\027\333.]\022\211m\235"
 	.ascii	"\266\233\324p\360(\266y,l\322\306\025\311\010\204\250"
 	.text
-	.section	.gnu.lto_.refs.f6d5cbd317615578,"e",%progbits
+	.section	.gnu.lto_.refs.36f1d7ff7ea6aa0e,"e",%progbits
 	.ascii	"x\234\015\305A\016\200 \020\004\301\236A\331\005<\031"
 	.ascii	"\023N$\3067\370\377\267i]*\021/`\320%O\027\264\313m"
 	.ascii	"l\376\253V\244\242\273\014\347A\234f\271.\265[\375\341"
 	.ascii	"\003)\310\001\243"
 	.text
-	.section	.gnu.lto_.decls.f6d5cbd317615578,"e",%progbits
+	.section	.gnu.lto_.decls.36f1d7ff7ea6aa0e,"e",%progbits
 	.ascii	"x\234\315{kXTI\226`FF&\011\311\313BK\255\322\355\256"
 	.ascii	"\256q\246\246wg\312\262\254\231\352\376\366\321\217"
 	.ascii	"\252\257{j\277\257wz\265zvf~,\215\220(_\361\232\314"
@@ -747,7 +747,7 @@
 	.ascii	"\007\322\354\356`\203U\011\233\352e%.\276BN\374\015"
 	.ascii	"L\367\033,\356\227\023\375?}\002\371\356"
 	.text
-	.section	.gnu.lto_.symtab.f6d5cbd317615578,"e",%progbits
+	.section	.gnu.lto_.symtab.36f1d7ff7ea6aa0e,"e",%progbits
 	.ascii	"sbusInit\000"
 	.ascii	"\000"
 	.ascii	"\000"

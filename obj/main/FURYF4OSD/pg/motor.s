@@ -9,15 +9,15 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"motor.c"
-	.section	.gnu.lto_.profile.bbfa9f7d55a60a5e,"e",%progbits
+	.section	.gnu.lto_.profile.2bd10b6c898ad24f,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.bbfa9f7d55a60a5e,"e",%progbits
+	.section	.gnu.lto_.icf.2bd10b6c898ad24f,"e",%progbits
 	.ascii	"x\234\343``d\220g@\000V\206\273;\276i0v/\275\363\236"
 	.ascii	"\207\351\313\204\257\207\231\231\301$\313\336\207\357"
 	.ascii	"\332Y\031\000\374\215\017\210"
 	.text
-	.section	.gnu.lto_.jmpfuncs.bbfa9f7d55a60a5e,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.2bd10b6c898ad24f,"e",%progbits
 	.ascii	"x\234\343``d\210c@\000F\006FF\306\372\371\314\014,L"
 	.ascii	"\323\231\031\227=\2358\235\257\217y>3##\013\343.Fi\006"
 	.ascii	"\306\003,\214,@\014V\012\242\201\230\235\021\244\264"
@@ -25,15 +25,15 @@
 	.ascii	"\332\347\356c\206\010\2613\356\001\352f\000\000\336"
 	.ascii	"\331\025:"
 	.text
-	.section	.gnu.lto_.inline.bbfa9f7d55a60a5e,"e",%progbits
+	.section	.gnu.lto_.inline.2bd10b6c898ad24f,"e",%progbits
 	.ascii	"x\234\343``d0a@\000F\006\006\305C\037nw1g120)\264/\272"
 	.ascii	"\325\303\224\311\300 \366\271a\317S\3464&\006&\220\032"
 	.ascii	"\026^\240*&\206\011~L\334`=\000\223Z\013\227"
 	.text
-	.section	.gnu.lto_.pureconst.bbfa9f7d55a60a5e,"e",%progbits
+	.section	.gnu.lto_.pureconst.2bd10b6c898ad24f,"e",%progbits
 	.ascii	"x\234\343``d`a`\000\222\263X\000\001\322\000\255"
 	.text
-	.section	.gnu.lto_pgResetFn_motorConfig.bbfa9f7d55a60a5e,"e",%progbits
+	.section	.gnu.lto_pgResetFn_motorConfig.2bd10b6c898ad24f,"e",%progbits
 	.ascii	"x\234\235V\357STU\030>\357=w\357\257]\226\312\251\206"
 	.ascii	"\201Q>\3048Z#\0333\315\370\321\231>\365g4V\016\037\204"
 	.ascii	"\306\372\3204\315xwA\011!\222\"\001aY\206m\325R~\013"
@@ -107,7 +107,7 @@
 	.ascii	"\354'V\336x;3\343\203\364\003\032o\277\223\361\336\373"
 	.ascii	"\237@\372\277\374h\270\323"
 	.text
-	.section	.gnu.lto_motorConfig_Registry.bbfa9f7d55a60a5e,"e",%progbits
+	.section	.gnu.lto_motorConfig_Registry.2bd10b6c898ad24f,"e",%progbits
 	.ascii	"x\234\343``d\020cd`\220`\200\200\351\314\214sW\234\371"
 	.ascii	"\317\331\302\330\324\330\321\320\360\240\373\214T\376"
 	.ascii	"|f\206\305\314\230r\013\226\035c\234\317\3148\023*\365"
@@ -123,7 +123,7 @@
 	.ascii	"\372\271\211\231y\372\005\351\372\271\371%\371Ez\311"
 	.ascii	"\014\000\261\371c\271"
 	.text
-	.section	.gnu.lto_.symbol_nodes.bbfa9f7d55a60a5e,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.2bd10b6c898ad24f,"e",%progbits
 	.ascii	"x\234\343``d\230\302\000\004L\323\031\353\031\326\264"
 	.ascii	"}\264`\234p\216\201\241\236\201a\327\002G\240\034\020"
 	.ascii	"\260NcdhUb\320+H\217/JM\317,.)\252\004\012NbdlT\002"
@@ -132,10 +132,10 @@
 	.ascii	"\014l`\273U\230\031X/\374\354;\316\314\370\204\235\001"
 	.ascii	"\000\341)/\246"
 	.text
-	.section	.gnu.lto_.refs.bbfa9f7d55a60a5e,"e",%progbits
+	.section	.gnu.lto_.refs.2bd10b6c898ad24f,"e",%progbits
 	.ascii	"x\234\343``d\340f```adbbbfb`ba\000\000\001\361\000+"
 	.text
-	.section	.gnu.lto_.decls.bbfa9f7d55a60a5e,"e",%progbits
+	.section	.gnu.lto_.decls.2bd10b6c898ad24f,"e",%progbits
 	.ascii	"x\234\245XyPTG\032\177\375z\200a`\300 \030\263\270U"
 	.ascii	"&!G\325n\202n\262\033\267j\377\330\215\251\354f\263"
 	.ascii	"\331d\215\246R\251l\250\011\363\034\246\012f\250\231"
@@ -311,7 +311,7 @@
 	.ascii	"q\356\026\375\224\206\177\272\336*\012\021\013\224M"
 	.ascii	"+A\233\323\344\354t\377\001\023\"\337\326"
 	.text
-	.section	.gnu.lto_.symtab.bbfa9f7d55a60a5e,"e",%progbits
+	.section	.gnu.lto_.symtab.2bd10b6c898ad24f,"e",%progbits
 	.ascii	"pgResetFn_motorConfig\000"
 	.ascii	"\000"
 	.ascii	"\000"

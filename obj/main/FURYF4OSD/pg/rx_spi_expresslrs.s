@@ -9,32 +9,32 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"rx_spi_expresslrs.c"
-	.section	.gnu.lto_.profile.40b07960460a112d,"e",%progbits
+	.section	.gnu.lto_.profile.3e18edf25c91f762,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.40b07960460a112d,"e",%progbits
+	.section	.gnu.lto_.icf.3e18edf25c91f762,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.jmpfuncs.40b07960460a112d,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.3e18edf25c91f762,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.inline.40b07960460a112d,"e",%progbits
+	.section	.gnu.lto_.inline.3e18edf25c91f762,"e",%progbits
 	.ascii	"x\234\343``d`b@\006\000\000\316\000\014"
 	.text
-	.section	.gnu.lto_.pureconst.40b07960460a112d,"e",%progbits
+	.section	.gnu.lto_.pureconst.3e18edf25c91f762,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.symbol_nodes.40b07960460a112d,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.3e18edf25c91f762,"e",%progbits
 	.ascii	"x\234\343``d`b\000\001\000\000n\000\014"
 	.text
-	.section	.gnu.lto_.refs.40b07960460a112d,"e",%progbits
+	.section	.gnu.lto_.refs.3e18edf25c91f762,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.decls.40b07960460a112d,"e",%progbits
+	.section	.gnu.lto_.decls.3e18edf25c91f762,"e",%progbits
 	.ascii	"x\234\343``d\000\001\020\251\002\304\377\201\000\304"
 	.ascii	"\276\310@\000\000\000\3015\004\375"
 	.text
-	.section	.gnu.lto_.symtab.40b07960460a112d,"e",%progbits
+	.section	.gnu.lto_.symtab.3e18edf25c91f762,"e",%progbits
 	.text
 	.section	.gnu.lto_.opts,"e",%progbits
 	.ascii	"'-fno-openmp' '-fno-openacc' '-fno-pie' '-mthumb' '"

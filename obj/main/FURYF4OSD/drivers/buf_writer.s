@@ -9,14 +9,14 @@
 	.eabi_attribute 34, 1
 	.eabi_attribute 18, 4
 	.file	"buf_writer.c"
-	.section	.gnu.lto_.profile.abd35b8d6002b26c,"e",%progbits
+	.section	.gnu.lto_.profile.418a7946c80e79a0,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.icf.abd35b8d6002b26c,"e",%progbits
+	.section	.gnu.lto_.icf.418a7946c80e79a0,"e",%progbits
 	.ascii	"x\234\343``d\020a@\000f\206\325'\377n\344b\234?\377"
 	.ascii	"\343L^\246\371\007\272\227\2611\000\000aw\010\273"
 	.text
-	.section	.gnu.lto_.jmpfuncs.abd35b8d6002b26c,"e",%progbits
+	.section	.gnu.lto_.jmpfuncs.418a7946c80e79a0,"e",%progbits
 	.ascii	"x\234\343``d\330\312\200\000\314\014\254\214  _?\237"
 	.ascii	"\231\001\210\031\201\230\011\210\231\201\230\205\221"
 	.ascii	"\211\221\221\031*\301\312\306\300\300x\200\205\221\001"
@@ -24,7 +24,7 @@
 	.ascii	"z\1772\3671\003\315\004\011\356b\224f\320b\000\032\012"
 	.ascii	"\262\205\201t\003\301\006X10\000\000_\202.)"
 	.text
-	.section	.gnu.lto_.inline.abd35b8d6002b26c,"e",%progbits
+	.section	.gnu.lto_.inline.418a7946c80e79a0,"e",%progbits
 	.ascii	"x\234M\217\301\011\0021\020E\377\237\354J@\301\305\213"
 	.ascii	"\210\227-%\025\330\203\262\253\336\264\002\211x_\274"
 	.ascii	"y\324\2435x\262\022[\260\005g\002\221$d\230\317\373"
@@ -36,11 +36,11 @@
 	.ascii	"l\016S\273\321|A^\265\001\323\260u%h\365e\245\242 \241"
 	.ascii	"$\241$\221%RU\260\222T\371\227U\376&~\021{A4"
 	.text
-	.section	.gnu.lto_.pureconst.abd35b8d6002b26c,"e",%progbits
+	.section	.gnu.lto_.pureconst.418a7946c80e79a0,"e",%progbits
 	.ascii	"x\234\343``d\340b```f\230\305\3028\213\205i\026\013"
 	.ascii	"\000\012\236\001\364"
 	.text
-	.section	.gnu.lto_bufWriterInit.abd35b8d6002b26c,"e",%progbits
+	.section	.gnu.lto_bufWriterInit.418a7946c80e79a0,"e",%progbits
 	.ascii	"x\234\235\223\313k\023Q\024\207\317o\356d\362j]\350"
 	.ascii	"F-B@%\324E\223\225\240\210\3707\370\017H\322F\311B\027"
 	.ascii	"IUp\323\233(F\214\324M\244\266\030S\264Q\261`\025D\254"
@@ -75,7 +75,7 @@
 	.ascii	"\201\360\361\303\207N\306\242\355\221XK+!l\266\205\332"
 	.ascii	"Cf<z*bUOE(v\344'\300qAC"
 	.text
-	.section	.gnu.lto_bufWriterAppend.abd35b8d6002b26c,"e",%progbits
+	.section	.gnu.lto_bufWriterAppend.418a7946c80e79a0,"e",%progbits
 	.ascii	"x\234\225\224\353KTA\030\306\3479s\316\331u\333\274"
 	.ascii	"\200\004\"\204P!\022\270\013\3711\242\277\240\177!\322"
 	.ascii	"\214\014\352\303\332\005\"p\\\315\245\024\373b\230\242"
@@ -120,7 +120,7 @@
 	.ascii	"\376]e\007\002\273Ce\207KC\345\201\342C{v\036\011\225"
 	.ascii	"\035,\015\025\2260\024\033%{\377\002)\\\306'"
 	.text
-	.section	.gnu.lto_bufWriterFlush.abd35b8d6002b26c,"e",%progbits
+	.section	.gnu.lto_bufWriterFlush.418a7946c80e79a0,"e",%progbits
 	.ascii	"x\234\225\222\317kSA\020\307\347\273\263/y&\321\233"
 	.ascii	"\207\332K\300B\351\245\311\301\233\"\376'bk\013\021"
 	.ascii	"\364\360\352\217c7Q\232CK\275Dj\300\364\005lP\024\254"
@@ -151,16 +151,16 @@
 	.ascii	"\213c\301Dn\344\302\370\311KA\341\374X0<J\030\371\013"
 	.ascii	"\322\353\003l"
 	.text
-	.section	.gnu.lto_.symbol_nodes.abd35b8d6002b26c,"e",%progbits
+	.section	.gnu.lto_.symbol_nodes.418a7946c80e79a0,"e",%progbits
 	.ascii	"x\234\343``d\310d\000\002\246\026\306z\206\006 `a\234"
 	.ascii	"p\216\201\241\236\201aW\203#P\022$\325\312X\317\210"
 	.ascii	"C\252\215\261\236\011\273\024\013X\013#\343T.\006\026"
 	.ascii	"\246F \223\211\361+P\002\000va\031K"
 	.text
-	.section	.gnu.lto_.refs.abd35b8d6002b26c,"e",%progbits
+	.section	.gnu.lto_.refs.418a7946c80e79a0,"e",%progbits
 	.ascii	"x\234\343``\004B \000\000\000]\000\013"
 	.text
-	.section	.gnu.lto_.decls.abd35b8d6002b26c,"e",%progbits
+	.section	.gnu.lto_.decls.418a7946c80e79a0,"e",%progbits
 	.ascii	"x\234\205UkL\\E\024\236\263\263]\366\011\004\3720\241"
 	.ascii	"\211\204\360\303\304\266+\221\304\376\360Oc|%\306\177"
 	.ascii	"\246\021\177\220u\241\260\211 Y\226\252\377.\257\026"
@@ -232,7 +232,7 @@
 	.ascii	"\347E\265\223 ?\374XJJ|r\\\240_\177\353\223\264\324"
 	.ascii	"\304\377\000wX\214|"
 	.text
-	.section	.gnu.lto_.symtab.abd35b8d6002b26c,"e",%progbits
+	.section	.gnu.lto_.symtab.418a7946c80e79a0,"e",%progbits
 	.ascii	"bufWriterInit\000"
 	.ascii	"\000"
 	.ascii	"\000"
