@@ -43,8 +43,8 @@
 #if defined(USE_BARO) && (defined(USE_BARO_BMP280) || defined(USE_BARO_SPI_BMP280))
 
 
-#define BMP280_I2C_ADDR                      (0x76)
-#define BMP280_DEFAULT_CHIP_ID               (0x58)
+#define BMP280_I2C_ADDR                      (0x77)
+#define BMP280_DEFAULT_CHIP_ID               (0x60)
 #define BME280_DEFAULT_CHIP_ID               (0x60)
 
 #define BMP280_CHIP_ID_REG                   (0xD0)  /* Chip ID Register */
